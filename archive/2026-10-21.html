@@ -229,7 +229,9 @@ h1,h2,h3{text-wrap:balance;margin:0}
 .cross .flow{font-size:14px;color:var(--ink-2)}
 .cross .flow b{color:var(--ink);font-weight:650}
 /* filter */
-.filters{display:flex;gap:6px;flex-wrap:wrap;padding:2px 0 4px;margin-top:12px}
+/* one line that scrolls sideways, like the chip rows at the top (never wraps into stacked rows) */
+.filters{display:flex;gap:6px;flex-wrap:nowrap;align-items:center;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;padding:3px 2px 5px 0;margin-top:12px}
+.filters::-webkit-scrollbar{display:none}
 .fchip{flex:none;border:1px solid var(--hair);background:var(--card);color:var(--ink-2);font:600 13.5px/1 var(--f-ui);padding:10px 13px;border-radius:999px;cursor:pointer;white-space:nowrap;-webkit-user-select:none;user-select:none}
 #l-ar:checked ~ .page .fchip{font-family:var(--f-ar);font-size:14px}
 .fchip .c{font-weight:600;font-variant-numeric:tabular-nums;opacity:.65;margin-inline-start:6px}
@@ -4370,7 +4372,9 @@ function sync(){var ar=q("l-ar")&&q("l-ar").checked;h.lang=ar?"ar":"en";h.dir=ar
 Array.prototype.forEach.call(d.querySelectorAll("input.sw"),function(i){i.addEventListener("change",function(){put(KEY[i.name],i.id.replace(/^[a-z]+-/,""));sync();});});
 sync();window.addEventListener("resize",setBar);
 var SETS=d.querySelector(".sets");
-function center(a){var r=a&&a.closest&&a.closest(".set,.rowx");if(!r||!r.scrollBy)return;var ar=a.getBoundingClientRect(),rr=r.getBoundingClientRect();r.scrollBy({left:(ar.left+ar.width/2)-(rr.left+rr.width/2),behavior:"smooth"});}
+function center(a){var r=a&&a.closest&&a.closest(".set,.rowx"),k=r&&r.querySelector(".trk");if(!r||!k||!r.scrollBy)return;var ar=a.getBoundingClientRect(),rr=r.getBoundingClientRect(),kr=k.getBoundingClientRect(),dx=(ar.left+ar.width/2)-(rr.left+rr.width/2);
+ /* never ask the row for more than it can scroll: the track's left edge may not pass the row's left edge and its right edge may not pass the row's right edge (works in both directions, without scrollLeft sign conventions). An out-of-range target left iOS rows rubber-banded, with the first chip stranded away from the start. */
+ var lo=kr.left-rr.left,hi=kr.right-rr.right;if(hi<lo)return;dx=Math.max(lo,Math.min(hi,dx));if(Math.abs(dx)<1)return;r.scrollBy({left:dx,behavior:"smooth"});}
 var T={},cur="",curCat="-";
 Array.prototype.forEach.call(d.querySelectorAll(".theaters .chip[data-sec]"),function(a){var k=a.getAttribute("data-sec");(T[k]=T[k]||[]).push(a);});
 function visSet(){if(!SETS)return null;return SETS.querySelector('.set[data-set="'+cur+'"]')||SETS.querySelector('.set[data-set="all"]');}
