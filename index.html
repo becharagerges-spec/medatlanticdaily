@@ -288,9 +288,19 @@ h1,h2,h3{text-wrap:balance;margin:0}
 .box{border-radius:14px;background:var(--card-2);padding:11px 13px}
 .box .sh{font:650 13px/1.35 var(--f-ui);color:var(--ink-2)}
 .box .st{font-size:15px;margin-top:2px}
-.kv{display:grid;grid-template-columns:minmax(96px,auto) 1fr;gap:5px 12px;margin:6px 0 0;font-size:14.5px;line-height:1.45}
-.kv dt{font-weight:650;color:var(--ink-2)}
-.kv dd{margin:0}
+/* claim and study rows. Phones and tablets: each label sits above its text as a small heading, rows parted by a hairline,
+so the text runs the full width of the box. Laptops (1100 px and up, full-width cards): label and text side by side. */
+.kv{display:grid;grid-template-columns:minmax(0,1fr);margin:9px 0 0;font-size:15px;line-height:1.5}
+.kv dt{font:700 11.5px/1.25 var(--f-ui);letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);padding-top:10px;border-top:1px solid var(--hair)}
+#l-ar:checked ~ .page .kv dt{font-family:var(--f-ar);font-size:13px;letter-spacing:0;text-transform:none}
+.kv dt:first-child{padding-top:0;border-top:0}
+.kv dd{margin:3px 0 10px;color:var(--ink)}
+.kv dd:last-child{margin-bottom:0}
+@media (min-width:1100px){
+.kv{grid-template-columns:minmax(96px,auto) 1fr;gap:5px 12px;margin-top:6px;font-size:14.5px;line-height:1.45}
+.kv dt,#l-ar:checked ~ .page .kv dt{font-family:inherit;font-size:inherit;line-height:inherit;font-weight:650;letter-spacing:0;text-transform:none;color:var(--ink-2);padding-top:0;border-top:0}
+.kv dd{margin:0;color:inherit}
+}
 .xs{display:grid;gap:6px;margin:2px 0 0;padding:0;list-style:none}
 .xs li{font-size:14.5px;line-height:1.45;background:var(--card-2);border-radius:12px;padding:9px 11px;color:var(--ink-2)}
 .xs li a{font:650 13px/1 var(--f-ui);margin-inline-end:6px;direction:ltr;unicode-bidi:isolate}
