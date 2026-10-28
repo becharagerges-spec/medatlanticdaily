@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T17:07:12Z",
+ "updated": "2026-10-28T18:08:11Z",
  "items": [
+  {
+   "id": "20261028-1805-fed-holds-two-dissents",
+   "time": "2026-10-28T18:05:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Federal Reserve leaves its key interest rate unchanged, with two policymakers dissenting and no clear signal of a December hike, Bloomberg reports.",
+   "ar": "الاحتياطي الفيدرالي الأميركي يُبقي سعر الفائدة الرئيسي دون تغيير، مع اعتراض عضوين، ومن دون إشارة واضحة إلى رفعه في كانون الأول، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-10-28/fed-rate-decision-and-warsh-briefing-live-updates"
+   }
+  },
   {
    "id": "20261028-1700-eu-gas-100",
    "time": "2026-10-28T17:00:00Z",
@@ -72,6 +84,40 @@
    }
   },
   {
+   "id": "20261028-1700-iran-gas-shortage",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran tells citizens to cut energy use and urges civil servants to work from home as natural gas runs short because of the war, per the Financial Times.",
+   "ar": "إيران تطلب من المواطنين ترشيد استهلاك الطاقة وتحثّ موظفي القطاع العام على العمل من المنزل مع نقص الغاز الطبيعي بسبب الحرب، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261028-1700-eu-rwanda-migrant-centres",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Five EU countries plan to deport failed asylum seekers to Rwanda, possibly using centres Britain built for its abandoned 2022 scheme, per the Financial Times.",
+   "ar": "خمس دول أوروبية تعتزم ترحيل طالبي لجوء مرفوضين إلى رواندا، وربما استخدام مراكز بنتها بريطانيا لخطتها الملغاة عام 2022، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261028-1700-putin-africa-summit",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Putin hosts leaders from across Africa at a summit in Moscow as Russia seeks to deepen ties with the continent, Bloomberg reports.",
+   "ar": "بوتين يستضيف قادة من مختلف أنحاء أفريقيا في قمة بموسكو، فيما تسعى روسيا إلى تعميق علاقاتها مع القارة، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/putin-courts-africa-leaders-at-moscow-summit-to-expand-influence"
+   }
+  },
+  {
    "id": "20261028-1552-spain-crash-cause",
    "time": "2026-10-28T15:52:00Z",
    "theater": "europe",
@@ -124,11 +170,11 @@
    "time": "2026-10-28T12:41:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "With about 85% of votes counted, Netanyahu's bloc has 53 seats, Eisenkot's bloc 48 and Arab parties a record 19, leaving neither bloc at the 61 needed, Central Elections Committee figures show.",
-   "ar": "بعد فرز نحو 85% من الأصوات، تحصل كتلة نتنياهو على 53 مقعداً وكتلة آيزنكوت على 48 والأحزاب العربية على 19، وهو رقم قياسي، فلا تبلغ أي كتلة الـ61 المطلوبة، بحسب لجنة الانتخابات المركزية.",
+   "en": "With almost 93% of votes counted, Netanyahu's bloc is projected at 53 seats, Eisenkot's at 48 and Arab parties at 19, leaving neither bloc at the 61 needed, Bloomberg reports.",
+   "ar": "بعد فرز نحو 93% من الأصوات، تُقدَّر حصة كتلة نتنياهو بـ53 مقعداً وكتلة آيزنكوت بـ48 والأحزاب العربية بـ19، فلا تبلغ أي كتلة الـ61 المطلوبة، بحسب «بلومبرغ».",
    "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/"
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-arab-parties-claim-kingmaker-status-in-extra-tight-vote"
    }
   },
   {
