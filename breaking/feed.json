@@ -1,0 +1,53 @@
+{
+ "updated": "2026-10-28T09:18:13Z",
+ "items": [
+  {
+   "id": "20261028-0836-eppo-von-der-leyen",
+   "time": "2026-10-28T08:36:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "EU prosecutors still have open questions for Ursula von der Leyen over her Pfizer vaccine talks, with little demonstrable progress in the probe, Politico reports.",
+   "ar": "المدعون العامون الأوروبيون ما زالت لديهم أسئلة مفتوحة لأورسولا فون دير لاين بشأن مفاوضاتها مع «فايزر» على اللقاحات، من دون تقدّم ملموس في التحقيق، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/ursula-von-der-leyen-eppo-european-public-prosectors-office-pfizergate-vaccine-coronavirus/"
+   }
+  },
+  {
+   "id": "20261028-0100-netanyahu-claims",
+   "time": "2026-10-28T01:00:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu calls for 'a strong government of the right' and rules out any government backed by Arab parties.",
+   "ar": "نتنياهو يدعو إلى «حكومة يمين قوية» ويستبعد أي حكومة تستند إلى الأحزاب العربية.",
+   "source": {
+    "name": "AFP via The Daily Star",
+    "url": "https://www.thedailystar.net/news/world/news/netanyahu-vows-form-strong-new-right-wing-government-4309456"
+   }
+  },
+  {
+   "id": "20261027-2144-israel-turnout",
+   "time": "2026-10-27T21:44:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's election turnout reaches 77.7%, the highest in 25 years, as revised exit polls show a 52–50 split between the blocs.",
+   "ar": "نسبة الاقتراع في الانتخابات الإسرائيلية تبلغ 77.7%، الأعلى منذ 25 عاماً، والاستطلاعات المعدّلة تُظهر انقساماً 52–50 بين الكتلتين.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/bknat9r3ge"
+   }
+  },
+  {
+   "id": "20261027-2000-israel-exit-polls",
+   "time": "2026-10-27T20:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel exit polls give Eisenkot's change bloc 53 seats and Netanyahu's bloc 50, leaving both short of a 61-seat majority (Kan).",
+   "ar": "استطلاعات الخروج في إسرائيل تمنح كتلة التغيير بقيادة آيزنكوت 53 مقعداً وكتلة نتنياهو 50، فلا تبلغ أي منهما أغلبية 61 مقعداً («كان»).",
+   "source": {
+    "name": "Israel Hayom",
+    "url": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+   }
+  }
+ ]
+}
