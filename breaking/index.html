@@ -51,7 +51,7 @@ body.ar .back svg{transform:scaleX(-1)}
 </head>
 <body>
 <header><div class="top">
-<a class="brand" href="/"><b>MedAtlantic Daily</b><span data-en="Breaking · newest first" data-ar="عاجل · الأحدث أولاً">Breaking · newest first</span></a>
+<a class="brand" href="/"><b>MedAtlantic Daily</b><span data-en="Breaking" data-ar="عاجل">Breaking</span></a>
 <button class="lang" id="lang" type="button">عربي</button>
 </div></header>
 <div class="wrap">
@@ -79,7 +79,7 @@ var n=document.querySelectorAll("[data-en]");for(var i=0;i<n.length;i++)n[i].tex
 function render(){statics();var list=document.getElementById("list"),meta=document.getElementById("meta");
 if(!data||!data.items){return;}
 var it=data.items.slice().sort(function(a,b){return a.time<b.time?1:-1;});
-var up=riy(data.updated);meta.textContent=(L=="ar"?"آخر تحديث ":"Last updated ")+(up?hm(up)+" · "+dayLabel(up):"");
+meta.textContent="";meta.hidden=true;
 if(!it.length){list.innerHTML='<p class="empty">'+(L=="ar"?"لا أخبار عاجلة حالياً.":"No breaking items at the moment.")+"</p>";return;}
 var h="",cur="";
 for(var i=0;i<it.length;i++){var x=it[i],r=riy(x.time);if(!r)continue;var k=dayKey(r);
