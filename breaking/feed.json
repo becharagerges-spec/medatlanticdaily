@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-28T09:18:13Z",
+ "updated": "2026-10-28T10:09:46Z",
  "items": [
+  {
+   "id": "20261028-0947-pakistan-taiwan-airspace",
+   "time": "2026-10-28T09:47:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Pakistan closes its airspace to Taiwanese carriers under the One-China policy; Defence Minister Khawaja Asif says only Chinese airlines may overfly, Bloomberg reports.",
+   "ar": "باكستان تُغلق أجواءها أمام شركات الطيران التايوانية التزاماً بسياسة «الصين الواحدة»، ووزير الدفاع خواجة آصف يقول إن العبور مسموح لشركات الطيران الصينية فقط، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg via Business Recorder",
+    "url": "https://www.brecorder.com/news/40446308/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report"
+   }
+  },
+  {
+   "id": "20261028-0850-spain-train-collision",
+   "time": "2026-10-28T08:50:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "A Renfe AVE and an Iryo high-speed train collide near Urda in Toledo province, shutting the Madrid–Andalusia line; at least 10 people are dead, CNN reports.",
+   "ar": "اصطدام قطار «AVE» التابع لـ«رينفي» بقطار «إيريو» فائق السرعة قرب أوردا في مقاطعة طليطلة، ما أدّى إلى إغلاق خط مدريد–الأندلس؛ ومقتل 10 أشخاص على الأقل بحسب «سي إن إن».",
+   "source": {
+    "name": "Reuters via RTÉ",
+    "url": "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+   }
+  },
   {
    "id": "20261028-0836-eppo-von-der-leyen",
    "time": "2026-10-28T08:36:00Z",
