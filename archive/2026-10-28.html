@@ -1251,6 +1251,7 @@ l-14-4l0-4l-8-10l0-5l-4-5l0-2l3 2l-2-4l5-1l-9 1l-9-18l2-10l-3-11l2-7l1-21l5 1l-5
 <span class="ar" lang="ar">الأربعاء 28 تشرين الأول 2026 · العدد 035</span></span></label><label class="brand l2" for="go-top-2" data-go="top" aria-hidden="true"><span class="brand-name"><span class="en">MedAtlantic Daily</span>
 <span class="ar" lang="ar">MedAtlantic Daily</span></span><span class="brand-sub"><span class="en">Wednesday, 28 October 2026 · Edition 035</span>
 <span class="ar" lang="ar">الأربعاء 28 تشرين الأول 2026 · العدد 035</span></span></label></span>
+<a class="mabk-top" href="/breaking/" aria-label="Breaking news"><span class="mabk-dot" aria-hidden="true"></span><span class="mabk-t"><span class="en">Breaking</span><span class="ar" lang="ar">عاجل</span></span></a>
 <div class="seg lang" role="group" aria-label="Language"><label for="l-ar" class="sb sb-ar" title="العربية" aria-label="العربية">AR</label><label for="l-en" class="sb sb-en" title="English" aria-label="English">EN</label></div>
 </div></div></div>
 <header class="bar" id="bar"><div class="inner">
@@ -5035,6 +5036,7 @@ l-14-4l0-4l-8-10l0-5l-4-5l0-2l3 2l-2-4l5-1l-9 1l-9-18l2-10l-3-11l2-7l1-21l5 1l-5
 <span class="ar" lang="ar">النتائج الرسمية للانتخابات الإسرائيلية</span></span></li></ul></section></div></aside>
 </main>
 <div class="dockwrap"><div class="dock" role="toolbar" aria-label="Reading controls">
+<a class="btn mabk-dock" href="/breaking/" title="Breaking news" aria-label="Breaking news"><span class="mabk-dot" aria-hidden="true"></span><span class="mabk-l"><span class="en">Breaking</span><span class="ar" lang="ar">عاجل</span></span><svg class="mabk-go" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
 <span class="nv nv-btn" style="--d:grid"><label class="btn l1" for="go-top-1" data-go="top" title="Back to top" aria-label="Back to top" role="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg><span class="bl"><span class="en">Top</span>
 <span class="ar" lang="ar">الأعلى</span></span></label><label class="btn l2" for="go-top-2" data-go="top" aria-hidden="true" title="Back to top" aria-label="Back to top" role="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg><span class="bl"><span class="en">Top</span>
 <span class="ar" lang="ar">الأعلى</span></span></label></span>
@@ -5108,4 +5110,28 @@ window.addEventListener("scroll",function(){if(!dtick){dtick=true;(window.reques
 h.classList.add("js");spy();
 }catch(e){}})();
 </script>
+<style id="ma-breaking-btn">
+@view-transition{navigation:auto}
+.mabk-top{position:absolute;right:0;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px 0 14px;font-size:14px!important;border-radius:999px;background:#C2413A;color:#fff!important;font:700 13px/1 var(--f-ui);letter-spacing:.02em;text-decoration:none!important;box-shadow:0 6px 16px -8px rgba(194,65,58,.8);-webkit-tap-highlight-color:transparent;z-index:2}
+#l-ar:checked ~ .page .mabk-top{font-family:var(--f-ar);font-size:14px;letter-spacing:0}
+.mabk-top:hover{filter:brightness(1.06)}
+.mabk-top:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.mabk-dot{position:relative;width:8px;height:8px;border-radius:50%;background:#fff;flex:none}
+.mabk-dot::after{content:"";position:absolute;inset:-4px;border-radius:50%;border:2px solid rgba(255,255,255,.75);animation:mabk-pulse 1.8s ease-out infinite}
+@keyframes mabk-pulse{0%{transform:scale(.5);opacity:1}100%{transform:scale(1.6);opacity:0}}
+.dock .mabk-dock,html.js .dockwrap.mini .dock .mabk-dock{width:auto;min-width:128px;height:48px;padding:0 14px 0 16px;margin-inline-end:4px;border-radius:999px;display:inline-flex!important;flex-direction:row;align-items:center;justify-content:center;gap:9px;background:#C2413A!important;color:#fff!important;text-decoration:none!important;box-shadow:0 8px 20px -10px rgba(194,65,58,.9)}
+html.js .dockwrap.mini .dock .mabk-dock{height:40px;min-width:118px}
+.dock .mabk-dock .mabk-l{font:800 15px/1 var(--f-ui);letter-spacing:.01em;color:#fff;white-space:nowrap}
+#l-ar:checked ~ .page .dock .mabk-dock .mabk-l{font-family:var(--f-ar);font-size:16px;letter-spacing:0}
+.dock .mabk-dock .mabk-dot{width:10px;height:10px}
+.dock .mabk-dock{cursor:pointer;background:linear-gradient(180deg,#D44B43,#B5362F)!important;border:1px solid rgba(255,255,255,.18)!important;transition:transform .15s ease,box-shadow .15s ease,filter .15s ease}
+.dock .mabk-dock:hover{transform:translateY(-1px);box-shadow:0 12px 24px -10px rgba(194,65,58,1);filter:brightness(1.05)}
+.dock .mabk-dock:active{transform:scale(.96);filter:brightness(.92)}
+.dock .mabk-dock .mabk-go{width:16px;height:16px;flex:none;color:#fff;margin-inline-start:-2px}
+#l-ar:checked ~ .page .dock .mabk-dock .mabk-go{transform:scaleX(-1)}
+.mabk-top{cursor:pointer;transition:transform .15s ease}.mabk-top:active{transform:translateY(-50%) scale(.95)}
+.dock .mabk-dock:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+@media (max-width:400px){.mabk-top{width:40px;padding:0;justify-content:center}.mabk-top .mabk-t{display:none}}
+@media (prefers-reduced-motion: reduce){.mabk-dot::after{animation:none;opacity:0}}
+</style>
 </body></html>
