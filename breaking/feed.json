@@ -1,6 +1,41 @@
 {
- "updated": "2026-10-28T12:18:48Z",
+ "updated": "2026-10-28T13:28:49Z",
  "items": [
+  {
+   "id": "20261028-1241-israel-count-54-49",
+   "time": "2026-10-28T12:41:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "With over 4 million votes counted, Netanyahu's bloc is projected at 54 seats, the opposition at 49 and Arab parties at 17, per The Jerusalem Post.",
+   "ar": "بعد فرز أكثر من 4 ملايين صوت، تُقدَّر حصة كتلة نتنياهو بـ54 مقعداً والمعارضة بـ49 والأحزاب العربية بـ17، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913053"
+   }
+  },
+  {
+   "id": "20261028-1241-golan-arab-parties",
+   "time": "2026-10-28T12:41:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli opposition figure Yair Golan urges the opposition to partner with Arab parties to reach a 65-seat majority and form a 'government of change', per The Jerusalem Post.",
+   "ar": "السياسي الإسرائيلي المعارض يائير غولان يدعو المعارضة إلى الشراكة مع الأحزاب العربية لبلوغ أغلبية 65 مقعداً وتشكيل «حكومة تغيير»، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post"
+   }
+  },
+  {
+   "id": "20261028-1226-us-hormuz-advisory",
+   "time": "2026-10-28T12:26:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "US Naval Forces Central Command urges ships that do not need to transit the Strait of Hormuz and Gulf of Oman to stay well clear, citing blockade enforcement, Bloomberg reports.",
+   "ar": "القيادة المركزية للقوات البحرية الأميركية تدعو السفن غير المضطرة إلى عبور مضيق هرمز وخليج عُمان إلى الابتعاد عنهما، بسبب عمليات تطبيق الحصار، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz"
+   }
+  },
   {
    "id": "20261028-1058-brent-116",
    "time": "2026-10-28T10:58:00Z",
