@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-28T13:28:49Z",
+ "updated": "2026-10-28T14:20:12Z",
  "items": [
+  {
+   "id": "20261028-1400-zelenskyy-patriots-hegseth",
+   "time": "2026-10-28T14:00:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelenskyy urges US Defense Secretary Pete Hegseth to sign deals authorizing third countries to transfer Patriot air-defense missiles to Ukraine before winter, per Bloomberg.",
+   "ar": "زيلينسكي يحثّ وزير الدفاع الأميركي بيت هيغسيث على توقيع صفقات تسمح لدول ثالثة بنقل صواريخ «باتريوت» للدفاع الجوي إلى أوكرانيا قبل الشتاء، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/zelenskyy-urges-pentagon-to-authorize-third-country-pac-missiles-to-ukraine"
+   }
+  },
+  {
+   "id": "20261028-1352-flavio-bolsonaro-miami",
+   "time": "2026-10-28T13:52:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Defeated Brazilian presidential candidate Flávio Bolsonaro lands in Miami after fleeing Brazil, following 48 hours in which he refused to concede to President Lula, AP and CNN report.",
+   "ar": "المرشح الرئاسي البرازيلي الخاسر فلافيو بولسونارو يصل إلى ميامي بعد فراره من البرازيل، إثر 48 ساعة رفض خلالها الإقرار بفوز الرئيس لولا، بحسب «أسوشييتد برس» و«سي إن إن».",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/brazil-election-flavio-bolsonaro-ecuador-argentina-9fc1f409ed993403736dbae07bd74bd8"
+   }
+  },
   {
    "id": "20261028-1241-israel-count-54-49",
    "time": "2026-10-28T12:41:00Z",
@@ -77,11 +101,11 @@
    "time": "2026-10-28T08:50:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province rises to at least 30, Politico and CNN report.",
-   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة ترتفع إلى 30 شخصاً على الأقل، بحسب «بوليتيكو» و«سي إن إن».",
+   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province, south of Madrid, rises to at least 64, Bloomberg and CNBC report.",
+   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة جنوب مدريد ترتفع إلى 64 شخصاً على الأقل، بحسب «بلومبرغ» و«سي إن بي سي».",
    "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash/"
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
    }
   },
   {
