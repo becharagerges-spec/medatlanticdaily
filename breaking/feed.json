@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-28T16:10:05Z",
+ "updated": "2026-10-28T17:07:12Z",
  "items": [
+  {
+   "id": "20261028-1700-eu-gas-100",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "European natural gas prices rise above €100 per megawatt-hour for the first time since the 2022 energy crisis on fears of an Iran war escalation and low storage, Bloomberg and the FT report.",
+   "ar": "أسعار الغاز الطبيعي في أوروبا تتجاوز 100 يورو للميغاواط ساعة للمرة الأولى منذ أزمة الطاقة عام 2022، وسط مخاوف من تصعيد الحرب مع إيران وتدنّي المخزونات، بحسب «بلومبرغ» و«فايننشال تايمز».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/european-gas-hits-100-for-first-time-since-2022-energy-crisis"
+   }
+  },
+  {
+   "id": "20261028-1700-trump-putin-zelenskyy-meeting",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Trump says a meeting between Putin and Zelenskyy will be set up 'very soon', though no date or venue has been set, Bloomberg reports.",
+   "ar": "ترامب يقول إن لقاءً بين بوتين وزيلينسكي سيُرتَّب «قريباً جداً»، من دون تحديد موعد أو مكان بعد، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-says-meeting-with-zelenskyy-and-putin-will-be-set-up-soon"
+   }
+  },
+  {
+   "id": "20261028-1700-zelenskyy-talks-next-week",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelenskyy says he expects three-way talks between the US, Ukraine and Russia as early as next week, Bloomberg reports.",
+   "ar": "زيلينسكي يقول إنه يتوقّع محادثات ثلاثية بين الولايات المتحدة وأوكرانيا وروسيا ابتداءً من الأسبوع المقبل، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/zelenskyy-expects-us-ukraine-russia-talks-as-early-as-next-week"
+   }
+  },
+  {
+   "id": "20261028-1700-zelenskyy-russia-guarantees",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelenskyy acknowledges Moscow could also receive security guarantees as part of a peace deal, per the Financial Times.",
+   "ar": "زيلينسكي يُقرّ بإمكان حصول موسكو أيضاً على ضمانات أمنية ضمن اتفاق سلام، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261028-1700-iran-sinokor-hormuz",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Iran threatens South Korean shipping group Sinokor, accusing it of repeated 'crossing violations' in the Strait of Hormuz, per the Financial Times.",
+   "ar": "إيران تهدّد مجموعة الشحن الكورية الجنوبية «سينوكور» وتتّهمها بـ«انتهاكات عبور» متكررة في مضيق هرمز، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261028-1700-uk-bank-surcharge",
+   "time": "2026-10-28T17:00:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "UK Chancellor John Healey raises the bank surcharge to 6% from 3% in his first budget, a smaller rise than lenders feared, Bloomberg reports.",
+   "ar": "وزير المالية البريطاني جون هيلي يرفع الضريبة الإضافية على المصارف إلى 6% من 3% في أول موازنة له، وهي زيادة أقل مما خشيته المصارف، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/uk-to-raise-bank-surcharge-to-6-from-existing-3"
+   }
+  },
   {
    "id": "20261028-1552-spain-crash-cause",
    "time": "2026-10-28T15:52:00Z",
@@ -124,12 +194,11 @@
    "id": "20261028-0850-spain-train-collision",
    "time": "2026-10-28T08:50:00Z",
    "theater": "europe",
-   "status": "confirmed",
-   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province, south of Madrid, rises to at least 64, Bloomberg and CNBC report.",
-   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة جنوب مدريد ترتفع إلى 64 شخصاً على الأقل، بحسب «بلومبرغ» و«سي إن بي سي».",
+   "status": "reported",
+   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province, south of Madrid, rises to at least 68, per the Financial Times.",
+   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة جنوب مدريد ترتفع إلى 68 شخصاً على الأقل، بحسب «فايننشال تايمز».",
    "source": {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+    "name": "Financial Times"
    }
   },
   {
