@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:17:12Z",
+ "updated": "2026-10-28T12:18:48Z",
  "items": [
   {
    "id": "20261028-1058-brent-116",
@@ -41,9 +41,9 @@
    "id": "20261028-0850-spain-train-collision",
    "time": "2026-10-28T08:50:00Z",
    "theater": "europe",
-   "status": "reported",
-   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province rises to at least 30, Politico reports.",
-   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة ترتفع إلى 30 شخصاً على الأقل، بحسب «بوليتيكو».",
+   "status": "confirmed",
+   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province rises to at least 30, Politico and CNN report.",
+   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة ترتفع إلى 30 شخصاً على الأقل، بحسب «بوليتيكو» و«سي إن إن».",
    "source": {
     "name": "Politico Europe",
     "url": "https://www.politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash/"
