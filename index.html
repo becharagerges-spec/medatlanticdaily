@@ -5110,7 +5110,7 @@ window.addEventListener("scroll",function(){if(!dtick){dtick=true;(window.reques
 h.classList.add("js");spy();
 }catch(e){}})();
 </script>
-<style id="ma-breaking-btn">
+<style id="ma-breaking-btn-v2">
 @view-transition{navigation:auto}
 .mabk-top{position:absolute;right:0;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px 0 14px;font-size:14px!important;border-radius:999px;background:#C2413A;color:#fff!important;font:700 13px/1 var(--f-ui);letter-spacing:.02em;text-decoration:none!important;box-shadow:0 6px 16px -8px rgba(194,65,58,.8);-webkit-tap-highlight-color:transparent;z-index:2}
 #l-ar:checked ~ .page .mabk-top{font-family:var(--f-ar);font-size:14px;letter-spacing:0}
@@ -5131,7 +5131,7 @@ html.js .dockwrap.mini .dock .mabk-dock{height:40px;min-width:118px}
 #l-ar:checked ~ .page .dock .mabk-dock .mabk-go{transform:scaleX(-1)}
 .mabk-top{cursor:pointer;transition:transform .15s ease}.mabk-top:active{transform:translateY(-50%) scale(.95)}
 .dock .mabk-dock:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
-@media (max-width:400px){.mabk-top{width:40px;padding:0;justify-content:center}.mabk-top .mabk-t{display:none}}
+.mabk-top{width:40px;padding:0!important;justify-content:center;gap:0}.mabk-top .mabk-t{display:none}
 @media (prefers-reduced-motion: reduce){.mabk-dot::after{animation:none;opacity:0}}
 </style>
 </body></html>
