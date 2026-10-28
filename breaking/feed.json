@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-28T18:08:11Z",
+ "updated": "2026-10-28T19:07:12Z",
  "items": [
   {
    "id": "20261028-1805-fed-holds-two-dissents",
    "time": "2026-10-28T18:05:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The US Federal Reserve leaves its key interest rate unchanged, with two policymakers dissenting and no clear signal of a December hike, Bloomberg reports.",
-   "ar": "الاحتياطي الفيدرالي الأميركي يُبقي سعر الفائدة الرئيسي دون تغيير، مع اعتراض عضوين، ومن دون إشارة واضحة إلى رفعه في كانون الأول، بحسب «بلومبرغ».",
+   "en": "The US Federal Reserve keeps its key interest rate unchanged at about 3.9% despite elevated inflation, with two policymakers dissenting and little hint of its next move, AP and Bloomberg report.",
+   "ar": "الاحتياطي الفيدرالي الأميركي يُبقي سعر الفائدة الرئيسي دون تغيير عند نحو 3.9% رغم ارتفاع التضخم، مع اعتراض عضوين ومن دون إشارة واضحة إلى خطوته المقبلة، بحسب «أسوشييتد برس» و«بلومبرغ».",
    "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-10-28/fed-rate-decision-and-warsh-briefing-live-updates"
+    "name": "AP",
+    "url": "https://apnews.com/article/inflation-warsh-interest-rates-federal-reserve-c06793b0c50641444701d5d098ccc2c8"
    }
   },
   {
