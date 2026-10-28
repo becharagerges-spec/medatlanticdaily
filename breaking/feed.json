@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-28T10:09:46Z",
+ "updated": "2026-10-28T11:17:12Z",
  "items": [
+  {
+   "id": "20261028-1058-brent-116",
+   "time": "2026-10-28T10:58:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude hits $116 a barrel as traders track Israel's vote count and a Wall Street Journal report that Washington told Gulf states to prepare for renewed war with Iran, Bloomberg reports.",
+   "ar": "خام برنت يبلغ 116 دولاراً للبرميل فيما يتابع المتداولون فرز الأصوات في إسرائيل وتقريراً لـ«وول ستريت جورنال» عن تحذير واشنطن دول الخليج من استئناف الحرب مع إيران، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28"
+   }
+  },
+  {
+   "id": "20261028-1044-netanyahu-overtakes-eisenkot",
+   "time": "2026-10-28T10:44:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu edges ahead of Eisenkot with half of Israel's votes counted, but neither bloc yet has a clear path to a governing majority, Bloomberg reports.",
+   "ar": "نتنياهو يتقدّم على آيزنكوت بعد فرز نصف الأصوات في إسرائيل، لكن أياً من الكتلتين لا تملك بعد طريقاً واضحاً إلى أغلبية حاكمة، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot"
+   }
+  },
   {
    "id": "20261028-0947-pakistan-taiwan-airspace",
    "time": "2026-10-28T09:47:00Z",
@@ -18,11 +42,11 @@
    "time": "2026-10-28T08:50:00Z",
    "theater": "europe",
    "status": "reported",
-   "en": "A Renfe AVE and an Iryo high-speed train collide near Urda in Toledo province, shutting the Madrid–Andalusia line; at least 10 people are dead, CNN reports.",
-   "ar": "اصطدام قطار «AVE» التابع لـ«رينفي» بقطار «إيريو» فائق السرعة قرب أوردا في مقاطعة طليطلة، ما أدّى إلى إغلاق خط مدريد–الأندلس؛ ومقتل 10 أشخاص على الأقل بحسب «سي إن إن».",
+   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province rises to at least 30, Politico reports.",
+   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة ترتفع إلى 30 شخصاً على الأقل، بحسب «بوليتيكو».",
    "source": {
-    "name": "Reuters via RTÉ",
-    "url": "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash/"
    }
   },
   {
