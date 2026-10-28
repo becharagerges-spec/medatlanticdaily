@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T14:20:12Z",
+ "updated": "2026-10-28T15:21:40Z",
  "items": [
+  {
+   "id": "20261028-1500-eu-canada-associate",
+   "time": "2026-10-28T15:00:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "The EU is set to drop an offer of 'associate member' status for Canada after Germany, Italy, Greece and France objected to it in a joint EU-Canada statement, Politico reports.",
+   "ar": "الاتحاد الأوروبي يتّجه إلى التخلّي عن عرض منح كندا صفة «العضو المنتسب» بعد اعتراض ألمانيا وإيطاليا واليونان وفرنسا على ذكرها في بيان مشترك أوروبي-كندي، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/"
+   }
+  },
   {
    "id": "20261028-1400-zelenskyy-patriots-hegseth",
    "time": "2026-10-28T14:00:00Z",
@@ -29,12 +41,12 @@
    "id": "20261028-1241-israel-count-54-49",
    "time": "2026-10-28T12:41:00Z",
    "theater": "israel",
-   "status": "reported",
-   "en": "With over 4 million votes counted, Netanyahu's bloc is projected at 54 seats, the opposition at 49 and Arab parties at 17, per The Jerusalem Post.",
-   "ar": "بعد فرز أكثر من 4 ملايين صوت، تُقدَّر حصة كتلة نتنياهو بـ54 مقعداً والمعارضة بـ49 والأحزاب العربية بـ17، بحسب «جيروزاليم بوست».",
+   "status": "confirmed",
+   "en": "With about 85% of votes counted, Netanyahu's bloc has 53 seats, Eisenkot's bloc 48 and Arab parties a record 19, leaving neither bloc at the 61 needed, Central Elections Committee figures show.",
+   "ar": "بعد فرز نحو 85% من الأصوات، تحصل كتلة نتنياهو على 53 مقعداً وكتلة آيزنكوت على 48 والأحزاب العربية على 19، وهو رقم قياسي، فلا تبلغ أي كتلة الـ61 المطلوبة، بحسب لجنة الانتخابات المركزية.",
    "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913053"
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/"
    }
   },
   {
