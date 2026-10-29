@@ -1,16 +1,40 @@
 {
- "updated": "2026-10-29T10:08:13Z",
+ "updated": "2026-10-29T11:20:03Z",
  "items": [
+  {
+   "id": "20261029-1046-herzog-interference-probe",
+   "time": "2026-10-29T10:46:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli President Isaac Herzog calls for a thorough investigation into alleged foreign interference in the election, while warning against tarnishing the Arab community as a whole.",
+   "ar": "الرئيس الإسرائيلي يتسحاق هرتسوغ يدعو إلى تحقيق معمّق في شبهات تدخّل أجنبي في الانتخابات، محذّراً من تشويه صورة المجتمع العربي ككل.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-urges-thorough-probe-into-alleged-election-interference-warns-against-tarnishing-arab-community/"
+   }
+  },
+  {
+   "id": "20261029-1015-irgc-tankers-mines",
+   "time": "2026-10-29T10:15:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guard says three oil tankers exploded and caught fire after hitting sea mines south of the Strait of Hormuz over the past 24 hours.",
+   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية جنوب مضيق هرمز خلال الساعات الـ24 الماضية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/3-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz-irans-revolutionary-guard-says/"
+   }
+  },
   {
    "id": "20261029-1004-lagarde-steps-down",
    "time": "2026-10-29T10:04:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "Christine Lagarde announces she will step down as European Central Bank president in February 2027, earlier than planned, Bloomberg reports.",
-   "ar": "كريستين لاغارد تعلن أنها ستتنحّى عن رئاسة البنك المركزي الأوروبي في شباط 2027، قبل الموعد المقرّر، بحسب «بلومبرغ».",
+   "en": "Christine Lagarde will step down as European Central Bank president on 7 February 2027, months before her term ends in October 2027, the ECB says.",
+   "ar": "كريستين لاغارد تتنحّى عن رئاسة البنك المركزي الأوروبي في 7 شباط 2027، قبل أشهر من انتهاء ولايتها في تشرين الأول 2027، وفق البنك.",
    "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/lagarde-will-step-down-as-ecb-president-in-february"
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/european-central-bank-chief-christine-lagarde-to-step-down-in-february/"
    }
   },
   {
