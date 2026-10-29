@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-29T14:12:32Z",
+ "updated": "2026-10-29T15:36:33Z",
  "items": [
+  {
+   "id": "20261029-1421-lagarde-skin-cancer",
+   "time": "2026-10-29T14:21:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Outgoing ECB President Christine Lagarde tells staff in a video that the bandages on her face were due to 'a little skin cancer that had to go', per Politico.",
+   "ar": "رئيسة البنك المركزي الأوروبي المنتهية ولايتها كريستين لاغارد تقول للموظفين في فيديو إن الضمادات على وجهها سببها «سرطان جلد صغير كان لا بدّ من إزالته»، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/christine-lagarde-european-central-bank-bandages-skin-cancer/"
+   }
+  },
   {
    "id": "20261029-1315-ecb-holds-rates",
    "time": "2026-10-29T13:15:00Z",
