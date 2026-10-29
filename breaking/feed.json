@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-29T12:25:16Z",
+ "updated": "2026-10-29T13:09:46Z",
  "items": [
+  {
+   "id": "20261029-1226-doordash-instacart",
+   "time": "2026-10-29T12:26:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "DoorDash agrees to buy Instacart for $17 billion and says the Instacart brand and app will remain, AP reports.",
+   "ar": "«دورداش» توافق على شراء «إنستاكارت» مقابل 17 مليار دولار، وتؤكد الإبقاء على علامة «إنستاكارت» وتطبيقها، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/doordash-instacart-delivery-d6f30f5d18c288eeba6babcb49260e06"
+   }
+  },
   {
    "id": "20261029-1046-herzog-interference-probe",
    "time": "2026-10-29T10:46:00Z",
