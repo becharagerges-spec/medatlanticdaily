@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-29T18:11:49Z",
+ "updated": "2026-10-29T20:10:33Z",
  "items": [
+  {
+   "id": "20261029-1926-doj-alaska-sullivan-probe",
+   "time": "2026-10-29T19:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Justice Department issues dozens of new grand jury subpoenas in its criminal probe into whether Alaska Democrats recruited a second 'Dan Sullivan' to siphon votes from the Republican senator.",
+   "ar": "وزارة العدل الأميركية تُصدر عشرات مذكرات الاستدعاء الجديدة أمام هيئة محلّفين كبرى في تحقيقها الجنائي بشأن تجنيد ديمقراطيي ألاسكا مرشحاً ثانياً باسم «دان سوليفان» لسحب أصوات من السيناتور الجمهوري.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/alaska-peltola-senate-dan-sullivan-democrats-dunleavy-c391cc7b546384c7adde9aebc9973620"
+   }
+  },
   {
    "id": "20261029-1421-lagarde-skin-cancer",
    "time": "2026-10-29T14:21:00Z",
@@ -66,11 +78,11 @@
    "time": "2026-10-29T10:15:00Z",
    "theater": "gulf",
    "status": "reported",
-   "en": "Iran's Revolutionary Guard says three oil tankers exploded and caught fire after hitting sea mines south of the Strait of Hormuz over the past 24 hours.",
-   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية جنوب مضيق هرمز خلال الساعات الـ24 الماضية.",
+   "en": "Iran's Revolutionary Guard says three oil tankers caught fire after hitting sea mines south of the Strait of Hormuz, and Iran's army says a fourth tanker is ablaze east of the strait.",
+   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط اشتعلت بعد اصطدامها بألغام بحرية جنوب مضيق هرمز، والجيش الإيراني يقول إن ناقلة رابعة تحترق شرق المضيق.",
    "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/3-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz-irans-revolutionary-guard-says/"
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-claims-four-tankers-hit-mines-in-hormuz-as-dhow-crew-rescued-3008795"
    }
   },
   {
