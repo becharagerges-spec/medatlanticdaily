@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-29T13:09:46Z",
+ "updated": "2026-10-29T14:12:32Z",
  "items": [
+  {
+   "id": "20261029-1315-ecb-holds-rates",
+   "time": "2026-10-29T13:15:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Central Bank keeps interest rates unchanged at its first meeting since Lagarde announced her early exit, and the euro falls 0.3% to about $1.11, Reuters reports.",
+   "ar": "البنك المركزي الأوروبي يُبقي أسعار الفائدة من دون تغيير في أول اجتماع منذ إعلان لاغارد رحيلها المبكر، واليورو يتراجع 0.3% إلى نحو 1.11 دولار، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Global Banking & Finance Review",
+    "url": "https://www.globalbankingandfinance.com/ecb-keeps-rates-unchanged-euro-slips/"
+   }
+  },
+  {
+   "id": "20261029-1230-us-gdp-q3",
+   "time": "2026-10-29T12:30:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US GDP grows at a 3.4% annual rate in the third quarter, up from 2.2% in the second, while September inflation rises to a four-month high, official data show.",
+   "ar": "الناتج المحلي الأميركي ينمو بمعدل سنوي 3.4% في الربع الثالث، ارتفاعاً من 2.2% في الربع الثاني، فيما يبلغ التضخم في أيلول أعلى مستوى له منذ أربعة أشهر، وفق البيانات الرسمية.",
+   "source": {
+    "name": "FXStreet",
+    "url": "https://www.fxstreet.com/news/united-states-economy-grows-34-in-third-quarter-vs-32-expected-202610291232"
+   }
+  },
   {
    "id": "20261029-1226-doordash-instacart",
    "time": "2026-10-29T12:26:00Z",
