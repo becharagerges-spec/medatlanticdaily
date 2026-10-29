@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-29T04:07:54Z",
+ "updated": "2026-10-29T08:08:55Z",
  "items": [
+  {
+   "id": "20261029-0712-oil-falls-iran-diplomacy",
+   "time": "2026-10-29T07:12:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Oil falls, with WTI crude down 1.3% at $101.43 a barrel, as traders weigh signs of renewed US-Iran diplomacy, including a reported Vance outreach to Iran's Mohsen Rezaei, Bloomberg reports.",
+   "ar": "النفط يتراجع، إذ ينخفض خام غرب تكساس 1.3% إلى 101.43 دولار للبرميل، فيما يقيّم المتداولون مؤشرات على استئناف الدبلوماسية بين واشنطن وطهران، بينها تواصل منسوب لفانس مع الإيراني محسن رضائي، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran"
+   }
+  },
   {
    "id": "20261029-0307-samsung-kospi-fall",
    "time": "2026-10-29T03:07:00Z",
