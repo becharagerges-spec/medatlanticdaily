@@ -1,6 +1,41 @@
 {
- "updated": "2026-10-29T09:07:36Z",
+ "updated": "2026-10-29T10:08:13Z",
  "items": [
+  {
+   "id": "20261029-1004-lagarde-steps-down",
+   "time": "2026-10-29T10:04:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Christine Lagarde announces she will step down as European Central Bank president in February 2027, earlier than planned, Bloomberg reports.",
+   "ar": "كريستين لاغارد تعلن أنها ستتنحّى عن رئاسة البنك المركزي الأوروبي في شباط 2027، قبل الموعد المقرّر، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/lagarde-will-step-down-as-ecb-president-in-february"
+   }
+  },
+  {
+   "id": "20261029-1001-dnipro-train-strike",
+   "time": "2026-10-29T10:01:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukrainian authorities say a Russian jet-powered drone hit a passenger train at Dnipro railway station, killing at least 13 people and wounding at least five.",
+   "ar": "السلطات الأوكرانية تقول إن مسيّرة روسية نفاثة أصابت قطار ركاب في محطة دنيبرو للسكك الحديدية، ما أدى إلى مقتل 13 شخصاً على الأقل وإصابة خمسة على الأقل.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/"
+   }
+  },
+  {
+   "id": "20261029-1000-nasdaq-capex-drop",
+   "time": "2026-10-29T10:00:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Nasdaq 100 futures point to a 1% lower open after Alphabet and Microsoft report lower-than-expected capital spending, per the Financial Times.",
+   "ar": "العقود الآجلة لمؤشر ناسداك 100 تشير إلى افتتاح منخفض بنسبة 1% بعدما أعلنت «ألفابت» و«مايكروسوفت» إنفاقاً رأسمالياً أدنى من المتوقع، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
   {
    "id": "20261029-0712-oil-falls-iran-diplomacy",
    "time": "2026-10-29T07:12:00Z",
