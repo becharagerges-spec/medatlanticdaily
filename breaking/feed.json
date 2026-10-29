@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:08:55Z",
+ "updated": "2026-10-29T09:07:36Z",
  "items": [
   {
    "id": "20261029-0712-oil-falls-iran-diplomacy",
@@ -157,12 +157,12 @@
    "id": "20261028-1500-eu-canada-associate",
    "time": "2026-10-28T15:00:00Z",
    "theater": "europe",
-   "status": "reported",
-   "en": "The EU is set to drop an offer of 'associate member' status for Canada after Germany, Italy, Greece and France objected to it in a joint EU-Canada statement, Politico reports.",
-   "ar": "الاتحاد الأوروبي يتّجه إلى التخلّي عن عرض منح كندا صفة «العضو المنتسب» بعد اعتراض ألمانيا وإيطاليا واليونان وفرنسا على ذكرها في بيان مشترك أوروبي-كندي، بحسب «بوليتيكو».",
+   "status": "confirmed",
+   "en": "Canada and the EU drop 'associate member' wording from their summit declaration after objections led by Germany, agreeing instead to pursue 'ever closer association'.",
+   "ar": "كندا والاتحاد الأوروبي يُسقطان عبارة «العضو المنتسب» من إعلان قمّتهما بعد اعتراضات قادتها ألمانيا، ويتّفقان بدلاً منها على السعي إلى «شراكة أوثق باستمرار».",
    "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/"
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/canada-european-union-officials-drop-associate-member-from-joint-summit-declaration/3084609/"
    }
   },
   {
@@ -264,11 +264,12 @@
    "id": "20261028-0850-spain-train-collision",
    "time": "2026-10-28T08:50:00Z",
    "theater": "europe",
-   "status": "reported",
-   "en": "The death toll from the collision of two high-speed trains near Urda in Toledo province, south of Madrid, rises to at least 68, per the Financial Times.",
-   "ar": "حصيلة قتلى اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة جنوب مدريد ترتفع إلى 68 شخصاً على الأقل، بحسب «فايننشال تايمز».",
+   "status": "confirmed",
+   "en": "Spain begins three days of national mourning after the collision of two high-speed trains near Urda in Toledo province killed at least 68 people.",
+   "ar": "إسبانيا تبدأ حداداً وطنياً لثلاثة أيام بعد اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة أودى بحياة 68 شخصاً على الأقل.",
    "source": {
-    "name": "Financial Times"
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
    }
   },
   {
