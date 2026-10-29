@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T19:07:12Z",
+ "updated": "2026-10-29T04:07:54Z",
  "items": [
+  {
+   "id": "20261029-0307-samsung-kospi-fall",
+   "time": "2026-10-29T03:07:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Seoul stocks fall nearly 3% and Samsung Electronics shares drop more than 5% after its third-quarter operating profit of 107.4 trillion won misses estimates, AFP reports.",
+   "ar": "بورصة سيول تتراجع نحو 3% وأسهم «سامسونغ للإلكترونيات» تهبط أكثر من 5% بعدما جاءت أرباحها التشغيلية للربع الثالث، البالغة 107.4 تريليونات وون، دون التوقعات، بحسب «فرانس برس».",
+   "source": {
+    "name": "AFP via The Jakarta Post",
+    "url": "https://www.thejakartapost.com/business/2026/10/29/asian-stock-markets-fluctuate-after-mixed-tech-results"
+   }
+  },
   {
    "id": "20261028-1805-fed-holds-two-dissents",
    "time": "2026-10-28T18:05:00Z",
