@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:36:33Z",
+ "updated": "2026-10-29T18:11:49Z",
  "items": [
   {
    "id": "20261029-1421-lagarde-skin-cancer",
@@ -101,11 +101,12 @@
    "id": "20261029-1000-nasdaq-capex-drop",
    "time": "2026-10-29T10:00:00Z",
    "theater": "markets",
-   "status": "reported",
-   "en": "Nasdaq 100 futures point to a 1% lower open after Alphabet and Microsoft report lower-than-expected capital spending, per the Financial Times.",
-   "ar": "العقود الآجلة لمؤشر ناسداك 100 تشير إلى افتتاح منخفض بنسبة 1% بعدما أعلنت «ألفابت» و«مايكروسوفت» إنفاقاً رأسمالياً أدنى من المتوقع، بحسب «فايننشال تايمز».",
+   "status": "confirmed",
+   "en": "Alphabet shares fall about 12% while Microsoft shares rise after both report quarterly earnings, as Nasdaq 100 futures had pointed to a lower open, CNBC reports.",
+   "ar": "أسهم «ألفابت» تتراجع نحو 12% فيما ترتفع أسهم «مايكروسوفت» بعد إعلان الشركتين نتائجهما الفصلية، وكانت العقود الآجلة لمؤشر ناسداك 100 قد أشارت إلى افتتاح منخفض، بحسب «سي إن بي سي».",
    "source": {
-    "name": "Financial Times"
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
    }
   },
   {
