@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-30T09:11:14Z",
+ "updated": "2026-10-30T10:09:06Z",
  "items": [
+  {
+   "id": "20261030-1004-intel-premarket-plunge",
+   "time": "2026-10-30T10:04:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Intel shares plunge more than 20% in premarket trading after its revenue forecast misses analysts' estimates, dragging Nasdaq futures lower, Bloomberg reports.",
+   "ar": "أسهم إنتل تهوي أكثر من 20% في تداولات ما قبل افتتاح السوق بعدما جاءت توقعات إيراداتها دون تقديرات المحللين، ما جرّ عقود ناسداك الآجلة إلى التراجع، بحسب بلومبرغ.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips"
+   }
+  },
   {
    "id": "20261030-0822-france-halloween-protests",
    "time": "2026-10-30T08:22:00Z",
