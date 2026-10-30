@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-30T12:09:22Z",
+ "updated": "2026-10-30T14:09:49Z",
  "items": [
+  {
+   "id": "20261030-1359-g20-photo-cancelled",
+   "time": "2026-10-30T13:59:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio cancels the G20 group photo after European countries objected to standing beside Russia, two US officials tell AP.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يُلغي الصورة الجماعية لقمة العشرين بعد اعتراض دول أوروبية على الوقوف إلى جانب روسيا، بحسب مسؤولَين أميركيَّين لوكالة «أسوشيتد برس».",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/g20-rubio-russia-ukraine-iran-war-ed4ab8ad9fedd628c39ac05bc5092cac"
+   }
+  },
+  {
+   "id": "20261030-1342-nasdaq-falls-3pct",
+   "time": "2026-10-30T13:42:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The Nasdaq 100 falls about 3% as Intel shares sink 27% and Amazon drops 5.5% after earnings deepen the tech selloff, Bloomberg reports.",
+   "ar": "مؤشر ناسداك 100 يتراجع نحو 3% مع هبوط سهم إنتل 27% وأمازون 5.5% بعد نتائج أعمال عمّقت موجة بيع أسهم التكنولوجيا، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"
+   }
+  },
   {
    "id": "20261030-1056-irgc-two-tankers-halted",
    "time": "2026-10-30T10:56:00Z",
