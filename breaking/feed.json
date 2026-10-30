@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-30T11:15:13Z",
+ "updated": "2026-10-30T12:09:22Z",
  "items": [
+  {
+   "id": "20261030-1056-irgc-two-tankers-halted",
+   "time": "2026-10-30T10:56:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Iran's Revolutionary Guards say they halted two oil tankers south of the Strait of Hormuz for using an unauthorized route, and claim they destroyed a US unmanned vessel.",
+   "ar": "الحرس الثوري الإيراني يقول إنه أوقف ناقلتَي نفط جنوب مضيق هرمز لسلوكهما مساراً غير مرخّص، ويزعم أنه دمّر زورقاً أميركياً مسيّراً.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-halted-after-incidents-in-hormuz-3008990"
+   }
+  },
   {
    "id": "20261030-1004-intel-premarket-plunge",
    "time": "2026-10-30T10:04:00Z",
