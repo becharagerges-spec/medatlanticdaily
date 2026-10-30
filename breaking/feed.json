@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-30T15:12:48Z",
+ "updated": "2026-10-30T16:09:18Z",
  "items": [
+  {
+   "id": "20261030-1508-lebanon-13-charged-explosives",
+   "time": "2026-10-30T15:08:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "A Lebanese military court charges 13 people over a seized shipment of about 1,100 pounds of explosives bound for Hezbollah; only two are in custody, a judicial source tells AFP.",
+   "ar": "المحكمة العسكرية في لبنان تدّعي على 13 شخصاً في قضية شحنة متفجرات تزن نحو 500 كيلوغرام كانت متجهة إلى حزب الله، والموقوفون اثنان فقط، وفق مصدر قضائي لوكالة فرانس برس.",
+   "source": {
+    "name": "AFP via CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+   }
+  },
   {
    "id": "20261030-1459-pope-leo-votes-midterms",
    "time": "2026-10-30T14:59:00Z",
