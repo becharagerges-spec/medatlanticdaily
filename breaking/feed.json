@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-30T06:07:42Z",
+ "updated": "2026-10-30T09:11:14Z",
  "items": [
+  {
+   "id": "20261030-0822-france-halloween-protests",
+   "time": "2026-10-30T08:22:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "France will deploy some 70,000 police officers ahead of nationwide protests on Saturday, as Interior Minister Laurent Nuñez warns of a 'very high' risk of violence.",
+   "ar": "فرنسا تنشر نحو 70,000 شرطي قبل احتجاجات تعمّ البلاد يوم السبت، فيما يحذّر وزير الداخلية لوران نونيز من خطر «مرتفع جداً» لوقوع أعمال عنف.",
+   "source": {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests"
+   }
+  },
+  {
+   "id": "20261030-0809-europe-stocks-tech",
+   "time": "2026-10-30T08:09:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Europe's STOXX 600 slips 0.25% to 647.49 as technology shares fall 2% after Amazon and Intel earnings renew doubts over AI spending, Reuters reports.",
+   "ar": "مؤشر ستوكس 600 الأوروبي يتراجع 0.25% إلى 647.49 نقطة مع هبوط أسهم التكنولوجيا 2% بعد نتائج أمازون وإنتل التي جدّدت الشكوك حول جدوى الإنفاق على الذكاء الاصطناعي، وفق رويترز.",
+   "source": {
+    "name": "Reuters via Global Banking & Finance Review",
+    "url": "https://www.globalbankingandfinance.com/european-shares-ease-ai-driven-tech-selloff-deepens/"
+   }
+  },
   {
    "id": "20261030-0322-binance-hack-6bn",
    "time": "2026-10-30T03:22:00Z",
