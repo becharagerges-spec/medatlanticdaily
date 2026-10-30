@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-30T19:07:43Z",
+ "updated": "2026-10-30T20:07:42Z",
  "items": [
+  {
+   "id": "20261030-1911-ninth-circuit-california-ballots",
+   "time": "2026-10-30T19:11:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A federal appeals court again rejects a Justice Department demand that California set aside ballots from about 20,000 voters the administration claims could be noncitizens.",
+   "ar": "محكمة استئناف فدرالية ترفض مجدداً طلب وزارة العدل الأميركية من كاليفورنيا تنحية بطاقات اقتراع نحو 20,000 ناخب تزعم الإدارة أنهم قد لا يحملون الجنسية.",
+   "source": {
+    "name": "AP via Local 10",
+    "url": "https://www.local10.com/news/politics/2026/10/30/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots/"
+   }
+  },
   {
    "id": "20261030-1904-nasdaq-correction",
    "time": "2026-10-30T19:04:00Z",
@@ -628,18 +640,6 @@
    "source": {
     "name": "Ynet",
     "url": "https://www.ynetnews.com/article/bknat9r3ge"
-   }
-  },
-  {
-   "id": "20261027-2000-israel-exit-polls",
-   "time": "2026-10-27T20:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel exit polls give Eisenkot's change bloc 53 seats and Netanyahu's bloc 50, leaving both short of a 61-seat majority (Kan).",
-   "ar": "استطلاعات الخروج في إسرائيل تمنح كتلة التغيير بقيادة آيزنكوت 53 مقعداً وكتلة نتنياهو 50، فلا تبلغ أي منهما أغلبية 61 مقعداً («كان»).",
-   "source": {
-    "name": "Israel Hayom",
-    "url": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
    }
   }
  ]
