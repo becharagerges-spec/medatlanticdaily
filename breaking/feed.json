@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T16:09:18Z",
+ "updated": "2026-10-30T17:09:53Z",
  "items": [
+  {
+   "id": "20261030-1553-ice-officer-charged-houston",
+   "time": "2026-10-30T15:53:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "A US immigration (ICE) officer accused of intentionally ramming his car into a Mexican construction worker in Houston is charged with aggravated assault with a deadly weapon, prosecutors say, per CNN.",
+   "ar": "توجيه تهمة الاعتداء المشدّد بسلاح قاتل إلى عنصر في وكالة الهجرة والجمارك الأميركية (ICE) متّهم بدهس عامل بناء مكسيكي عمداً بسيارته في هيوستن، بحسب ما نقلت «سي إن إن» عن الادّعاء.",
+   "source": {
+    "name": "CNN"
+   }
+  },
   {
    "id": "20261030-1508-lebanon-13-charged-explosives",
    "time": "2026-10-30T15:08:00Z",
