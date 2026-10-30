@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:09:06Z",
+ "updated": "2026-10-30T11:15:13Z",
  "items": [
   {
    "id": "20261030-1004-intel-premarket-plunge",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips"
+   }
+  },
+  {
+   "id": "20261030-1000-eurozone-gdp-q3",
+   "time": "2026-10-30T10:00:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Eurozone GDP grows 0.4% in the third quarter, down from 0.6% but above forecasts of 0.2%, while France's economy shrinks 0.1%, Eurostat data show.",
+   "ar": "اقتصاد منطقة اليورو ينمو 0.4% في الربع الثالث، متراجعاً من 0.6% لكن فوق التوقعات البالغة 0.2%، فيما ينكمش الاقتصاد الفرنسي 0.1%، بحسب بيانات «يوروستات».",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html"
    }
   },
   {
