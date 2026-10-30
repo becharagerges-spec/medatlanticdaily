@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-30T14:09:49Z",
+ "updated": "2026-10-30T15:12:48Z",
  "items": [
+  {
+   "id": "20261030-1459-pope-leo-votes-midterms",
+   "time": "2026-10-30T14:59:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Pope Leo XIV has voted by mail in the US midterm elections, becoming the first Catholic pontiff to vote in an American election, the Holy See press office says.",
+   "ar": "البابا لاوون الرابع عشر يدلي بصوته غيابياً في الانتخابات النصفية الأميركية، ليصبح أول حبر أعظم كاثوليكي يصوّت في انتخابات أميركية، بحسب المكتب الصحافي للكرسي الرسولي.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261030-1416-trump-rallies-kansas-iowa",
+   "time": "2026-10-30T14:16:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump will hold rallies in Kansas and Iowa on Sunday after the Republican National Committee had cancelled them in favour of telerallies, a source tells AP.",
+   "ar": "ترامب سيعقد مهرجانين انتخابيين في كانساس وأيوا يوم الأحد بعدما كانت اللجنة الوطنية الجمهورية قد ألغتهما لصالح مهرجانات عبر الهاتف، بحسب مصدر لوكالة أسوشيتد برس.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48"
+   }
+  },
   {
    "id": "20261030-1359-g20-photo-cancelled",
    "time": "2026-10-30T13:59:00Z",
