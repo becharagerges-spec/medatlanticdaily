@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-29T20:10:33Z",
+ "updated": "2026-10-30T03:07:52Z",
  "items": [
+  {
+   "id": "20261030-0238-oil-rises-asia",
+   "time": "2026-10-30T02:38:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Oil rises in Asian trading, with US crude up 2.8% at $104.86 a barrel and Brent up 2.5% at $117.80, AP reports.",
+   "ar": "النفط يرتفع في التداولات الآسيوية، إذ يصعد الخام الأميركي 2.8% إلى 104.86 دولارات للبرميل وبرنت 2.5% إلى 117.80 دولاراً، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via WRAL",
+    "url": "https://www.wral.com/news/ap/16c26-asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/"
+   }
+  },
+  {
+   "id": "20261030-0156-asia-tech-selloff",
+   "time": "2026-10-30T01:56:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "South Korea's Kospi falls 5.4% and Japan's Nikkei 2.6% in Friday trading as a tech selloff led by Alphabet's record 12.6% drop spreads to Asia, AP reports.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع 5.4% ونيكاي الياباني 2.6% في تداولات الجمعة، مع امتداد موجة بيع أسهم التكنولوجيا إلى آسيا بعد هبوط قياسي لسهم ألفابت بنسبة 12.6%، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via WRAL",
+    "url": "https://www.wral.com/news/ap/16c26-asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/"
+   }
+  },
   {
    "id": "20261029-1926-doj-alaska-sullivan-probe",
    "time": "2026-10-29T19:26:00Z",
