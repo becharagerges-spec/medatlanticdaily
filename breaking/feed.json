@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-30T17:09:53Z",
+ "updated": "2026-10-30T19:07:43Z",
  "items": [
+  {
+   "id": "20261030-1904-nasdaq-correction",
+   "time": "2026-10-30T19:04:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The Nasdaq 100 is set to enter a correction after falling more than 10% from its October peak in a tech selloff, Bloomberg reports.",
+   "ar": "مؤشر ناسداك 100 يتّجه إلى دخول مرحلة تصحيح بعد تراجعه أكثر من 10% عن ذروته في تشرين الأول وسط موجة بيع لأسهم التكنولوجيا، وفق «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"
+   }
+  },
+  {
+   "id": "20261030-1833-oman-rescues-tanker-crew",
+   "time": "2026-10-30T18:33:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Oman says it rescued 25 crew members from the burning Panama-flagged crude tanker RITI, targeted 196 km off Musandam in the Strait of Hormuz.",
+   "ar": "سلطنة عُمان تعلن إنقاذ 25 من أفراد طاقم ناقلة النفط «ريتي» المشتعلة التي ترفع علم بنما، بعد استهدافها على بُعد 196 كلم من مسندم في مضيق هرمز.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz"
+   }
+  },
+  {
+   "id": "20261030-1826-bessent-patel-minnesota-fraud",
+   "time": "2026-10-30T18:26:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Treasury Secretary Bessent and FBI Director Patel say federal agents executed 17 search warrants in Minneapolis this week and made 4 arrests in a fraud probe, per Just the News.",
+   "ar": "وزير الخزانة الأميركي بيسنت ومدير «إف بي آي» باتيل يقولان إن عملاء فدراليين نفّذوا 17 مذكرة تفتيش في مينيابوليس هذا الأسبوع واعتقلوا 4 أشخاص في تحقيق احتيال، بحسب «جاست ذا نيوز».",
+   "source": {
+    "name": "Just the News",
+    "url": "https://justthenews.com/politics-policy/bessent-patel-announce-fraud-related-arrests-minneapolis"
+   }
+  },
   {
    "id": "20261030-1553-ice-officer-charged-houston",
    "time": "2026-10-30T15:53:00Z",
