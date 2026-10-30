@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T04:07:09Z",
+ "updated": "2026-10-30T05:07:22Z",
  "items": [
   {
    "id": "20261030-0322-binance-hack-6bn",
    "time": "2026-10-30T03:22:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Binance says $6.3 billion of funds were affected by a hack the industry calls crypto's biggest ever, Bloomberg reports.",
-   "ar": "«باينانس» تعلن أن أموالاً بقيمة 6.3 مليارات دولار تأثرت بعملية اختراق يصفها القطاع بأنها الأكبر في تاريخ العملات المشفّرة، بحسب «بلومبرغ».",
+   "en": "Binance halts deposits and withdrawals after a hack affecting $6.3 billion, as Tether freezes about $1.57 billion and Circle over $800 million linked to the attack.",
+   "ar": "«باينانس» توقف الإيداعات والسحوبات بعد اختراق طال 6.3 مليارات دولار، فيما تجمّد «تيذر» نحو 1.57 مليار دولار و«سيركل» أكثر من 800 مليون دولار مرتبطة بالهجوم.",
    "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
+    "name": "IBTimes UK",
+    "url": "https://www.ibtimes.co.uk/binance-suspends-withdrawals-after-security-incident-1828947"
    }
   },
   {
