@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T05:07:22Z",
+ "updated": "2026-10-30T06:07:42Z",
  "items": [
   {
    "id": "20261030-0322-binance-hack-6bn",
    "time": "2026-10-30T03:22:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Binance halts deposits and withdrawals after a hack affecting $6.3 billion, as Tether freezes about $1.57 billion and Circle over $800 million linked to the attack.",
-   "ar": "«باينانس» توقف الإيداعات والسحوبات بعد اختراق طال 6.3 مليارات دولار، فيما تجمّد «تيذر» نحو 1.57 مليار دولار و«سيركل» أكثر من 800 مليون دولار مرتبطة بالهجوم.",
+   "en": "Binance says it expects to restore withdrawals within 48 hours after a hack affecting about $6.3 billion, while deposits operate normally; Tether froze about $1.57 billion linked to the attack.",
+   "ar": "«باينانس» تقول إنها تتوقع استئناف السحوبات خلال 48 ساعة بعد اختراق طال نحو 6.3 مليارات دولار، فيما تعمل الإيداعات بشكل طبيعي؛ وجمّدت «تيذر» نحو 1.57 مليار دولار مرتبطة بالهجوم.",
    "source": {
-    "name": "IBTimes UK",
-    "url": "https://www.ibtimes.co.uk/binance-suspends-withdrawals-after-security-incident-1828947"
+    "name": "U.Today",
+    "url": "https://u.today/binance-reveals-when-it-will-resume-withdrawals-after-historic-hack"
    }
   },
   {
