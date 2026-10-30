@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-30T03:07:52Z",
+ "updated": "2026-10-30T04:07:09Z",
  "items": [
+  {
+   "id": "20261030-0322-binance-hack-6bn",
+   "time": "2026-10-30T03:22:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Binance says $6.3 billion of funds were affected by a hack the industry calls crypto's biggest ever, Bloomberg reports.",
+   "ar": "«باينانس» تعلن أن أموالاً بقيمة 6.3 مليارات دولار تأثرت بعملية اختراق يصفها القطاع بأنها الأكبر في تاريخ العملات المشفّرة، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
+   }
+  },
   {
    "id": "20261030-0238-oil-rises-asia",
    "time": "2026-10-30T02:38:00Z",
@@ -30,8 +42,8 @@
    "time": "2026-10-29T19:26:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The US Justice Department issues dozens of new grand jury subpoenas in its criminal probe into whether Alaska Democrats recruited a second 'Dan Sullivan' to siphon votes from the Republican senator.",
-   "ar": "وزارة العدل الأميركية تُصدر عشرات مذكرات الاستدعاء الجديدة أمام هيئة محلّفين كبرى في تحقيقها الجنائي بشأن تجنيد ديمقراطيي ألاسكا مرشحاً ثانياً باسم «دان سوليفان» لسحب أصوات من السيناتور الجمهوري.",
+   "en": "Democratic Senate candidate Mary Peltola denies knowing of a second 'Dan Sullivan' on Alaska's ballot, as the Justice Department issues dozens of new grand jury subpoenas in its criminal probe.",
+   "ar": "المرشحة الديمقراطية لمجلس الشيوخ ماري بيلتولا تنفي علمها بوجود «دان سوليفان» ثانٍ على ورقة الاقتراع في ألاسكا، فيما تُصدر وزارة العدل عشرات مذكرات الاستدعاء الجديدة في تحقيقها الجنائي.",
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/alaska-peltola-senate-dan-sullivan-democrats-dunleavy-c391cc7b546384c7adde9aebc9973620"
