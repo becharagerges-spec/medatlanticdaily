@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-31T18:08:25Z",
+ "updated": "2026-10-31T19:09:06Z",
  "items": [
+  {
+   "id": "20261031-1854-centcom-144-ships",
+   "time": "2026-10-31T18:54:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "US Central Command says US forces have redirected 144 commercial vessels while enforcing the blockade on Iran, up from 138 two weeks earlier.",
+   "ar": "القيادة المركزية الأميركية تعلن أن القوات الأميركية حوّلت مسار 144 سفينة تجارية في إطار فرض الحصار على إيران، مقابل 138 قبل أسبوعين.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+   }
+  },
+  {
+   "id": "20261031-1842-rezaei-vance-letter-tone",
+   "time": "2026-10-31T18:42:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's top security official Mohsen Rezaei tells Iranian TV he has read Vance's letter but not replied, saying the US 'tone has completely changed', per Times of Israel.",
+   "ar": "رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول للتلفزيون الإيراني إنه قرأ رسالة فانس ولم يردّ بعد، معتبراً أن «لهجة الأميركيين تغيّرت كلياً»، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/citing-vance-letter-top-iran-security-official-says-us-tone-has-completely-changed/"
+   }
+  },
+  {
+   "id": "20261031-1834-tibi-joint-list-eisenkot",
+   "time": "2026-10-31T18:34:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Joint List No. 2 Ahmad Tibi tells Channel 12 the 11-seat Arab list will back a potential Eisenkot-led government from outside the coalition without seeking ministries.",
+   "ar": "الرجل الثاني في القائمة المشتركة أحمد الطيبي يقول للقناة 12 إن القائمة العربية (11 مقعداً) ستدعم من خارج الائتلاف حكومة محتملة برئاسة آيزنكوت من دون المطالبة بحقائب.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/veteran-mk-tibi-pledges-arab-parties-support-from-outside-for-a-potential-eisenkot-led-government-i-dont-want-a-ministry-we-want-change/"
+   }
+  },
+  {
+   "id": "20261031-1826-iran-nuclear-ban-debate",
+   "time": "2026-10-31T18:26:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's security council head Mohsen Rezaei says Tehran is debating whether to keep its ban on nuclear weapons if hostilities resume, but no decision has been taken, Reuters reports.",
+   "ar": "رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول إن طهران تناقش الإبقاء على حظرها للأسلحة النووية إذا استؤنفت الحرب، من دون اتخاذ أي قرار بعد، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iran-security-chief-says-debating-whether-to-ditch-ban-on-nuclear-weapons/"
+   }
+  },
+  {
+   "id": "20261031-1811-iran-tanker-mine-claim",
+   "time": "2026-10-31T18:11:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran claims an oil tanker hit a mine and caught fire east of the Strait of Hormuz and says nearly 10 ships have now hit mines; the claim is unverified, per CBS News.",
+   "ar": "إيران تزعم أن ناقلة نفط اصطدمت بلغم واشتعلت شرق مضيق هرمز، وتقول إن نحو 10 سفن اصطدمت بألغام حتى الآن؛ ولم يتسنَّ التحقق من الرواية، بحسب «سي بي إس نيوز».",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+   }
+  },
   {
    "id": "20261031-1724-lapid-eisenkot-meet",
    "time": "2026-10-31T17:24:00Z",
