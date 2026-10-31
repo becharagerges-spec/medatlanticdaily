@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-30T20:07:42Z",
+ "updated": "2026-10-31T10:24:09Z",
  "items": [
+  {
+   "id": "20261031-0908-israel-strikes-south-lebanon",
+   "time": "2026-10-31T09:08:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli warplanes strike the south Lebanon towns of Bar'shit, Kfar Tebnit and Hadatha, with no casualties reported so far, per Lebanese media.",
+   "ar": "الطيران الحربي الإسرائيلي يشنّ غارات على بلدات برعشيت وكفرتبنيت وحداثا في جنوب لبنان، من دون الإبلاغ عن إصابات حتى الآن، بحسب وسائل إعلام لبنانية.",
+   "source": {
+    "name": "IMLebanon",
+    "url": "https://www.imlebanon.org/2026/10/31/south-lebanon-israel-123/"
+   }
+  },
+  {
+   "id": "20261031-0658-us-iran-doha-talks",
+   "time": "2026-10-31T06:58:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Qatar's Al-Araby Al-Jadeed says a US delegation will join direct talks with Iran in Doha, while MS NOW says Washington told Gulf allies strikes could start November 4.",
+   "ar": "صحيفة «العربي الجديد» القطرية تقول إن وفداً أميركياً سينضم إلى محادثات مباشرة مع إيران في الدوحة، فيما تفيد «إم إس ناو» بأن واشنطن أبلغت حلفاءها الخليجيين أن الضربات قد تبدأ في 4 تشرين الثاني.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/s1errwmpgl"
+   }
+  },
+  {
+   "id": "20261031-0630-russia-134-drones",
+   "time": "2026-10-31T06:30:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's air force says Russia launched 134 drones overnight, 72 of them jet-powered, and that 105 were downed or suppressed, with hits recorded at 20 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 134 مسيّرة خلال الليل، بينها 72 نفاثة، وإنه أسقط أو عطّل 105 منها، مع تسجيل إصابات في 20 موقعاً.",
+   "source": {
+    "name": "112 Ukraine",
+    "url": "https://112.ua/en/rosia-zapustila-134-bezpilotniki-po-ukraini-ppo-zbila-105-z-nih-pid-cas-ataki-195044"
+   }
+  },
+  {
+   "id": "20261031-0530-kaliningrad-blackout-ufa",
+   "time": "2026-10-31T05:30:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Power outages hit Russia's Kaliningrad region overnight, which local authorities blame on an emergency shutdown at a power plant, while explosions are reported in Ufa amid drone alerts, per Kyiv Independent.",
+   "ar": "انقطاع للكهرباء يضرب منطقة كالينينغراد الروسية ليلاً تعزوه السلطات المحلية إلى توقف طارئ في محطة كهرباء، فيما تُسجَّل انفجارات في أوفا وسط إنذارات من المسيّرات، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/power-outages-hit-russias-kaliningrad-oblast-explosions-reported-in-ufa-amid-drone-alerts/"
+   }
+  },
+  {
+   "id": "20261031-0240-uae-fuel-prices-november",
+   "time": "2026-10-31T02:40:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "The UAE cuts November fuel prices, with Super 98 petrol falling to Dh4.16 a litre from Dh4.40 and diesel to Dh4.75 from Dh4.80.",
+   "ar": "الإمارات تخفّض أسعار الوقود لشهر تشرين الثاني، إذ ينخفض سعر البنزين «سوبر 98» إلى 4.16 درهم لليتر من 4.40، والديزل إلى 4.75 درهم من 4.80.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/energy/2026/10/31/uae-petrol-prices-defy-expectations-with-surprise-drop-in-november/"
+   }
+  },
+  {
+   "id": "20261030-1937-oil-october-gain",
+   "time": "2026-10-30T19:37:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent settles at $117.64 a barrel, up 2.4%, and US crude at $104.12, ending October up 13.6% and 15.2% on fears of a wider Iran war.",
+   "ar": "خام برنت يُقفل عند 117.64 دولاراً للبرميل بارتفاع 2.4%، والخام الأميركي عند 104.12 دولارات، لينهيا تشرين الأول على مكاسب بنسبة 13.6% و15.2% وسط مخاوف من اتساع الحرب مع إيران.",
+   "source": {
+    "name": "Reuters via The Korea Times",
+    "url": "https://www.koreatimes.co.kr/world/20261031/oil-jumps-2-settles-at-6-month-highs-on-fears-of-escalation-in-iran"
+   }
+  },
   {
    "id": "20261030-1911-ninth-circuit-california-ballots",
    "time": "2026-10-30T19:11:00Z",
@@ -47,6 +119,18 @@
    "source": {
     "name": "Just the News",
     "url": "https://justthenews.com/politics-policy/bessent-patel-announce-fraud-related-arrests-minneapolis"
+   }
+  },
+  {
+   "id": "20261030-1800-ukmto-lavan-projectile",
+   "time": "2026-10-30T18:00:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a vessel was struck by an unidentified projectile 40 nautical miles south of Iran's Lavan Island, starting a fire; the crew is safe.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة أُصيبت بمقذوف مجهول على بُعد 40 ميلاً بحرياً جنوب جزيرة لاوان الإيرانية ما أدى إلى اندلاع حريق، والطاقم بخير.",
+   "source": {
+    "name": "Anadolu via Middle East Monitor",
+    "url": "https://www.middleeastmonitor.com/20261031-iran-says-4th-oil-tanker-hit-mine-caught-fire-in-strait-of-hormuz"
    }
   },
   {
@@ -580,66 +664,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot"
-   }
-  },
-  {
-   "id": "20261028-0947-pakistan-taiwan-airspace",
-   "time": "2026-10-28T09:47:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Pakistan closes its airspace to Taiwanese carriers under the One-China policy; Defence Minister Khawaja Asif says only Chinese airlines may overfly, Bloomberg reports.",
-   "ar": "باكستان تُغلق أجواءها أمام شركات الطيران التايوانية التزاماً بسياسة «الصين الواحدة»، ووزير الدفاع خواجة آصف يقول إن العبور مسموح لشركات الطيران الصينية فقط، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg via Business Recorder",
-    "url": "https://www.brecorder.com/news/40446308/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report"
-   }
-  },
-  {
-   "id": "20261028-0850-spain-train-collision",
-   "time": "2026-10-28T08:50:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Spain begins three days of national mourning after the collision of two high-speed trains near Urda in Toledo province killed at least 68 people.",
-   "ar": "إسبانيا تبدأ حداداً وطنياً لثلاثة أيام بعد اصطدام قطارين فائقَي السرعة قرب أوردا في مقاطعة طليطلة أودى بحياة 68 شخصاً على الأقل.",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
-   }
-  },
-  {
-   "id": "20261028-0836-eppo-von-der-leyen",
-   "time": "2026-10-28T08:36:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "EU prosecutors still have open questions for Ursula von der Leyen over her Pfizer vaccine talks, with little demonstrable progress in the probe, Politico reports.",
-   "ar": "المدعون العامون الأوروبيون ما زالت لديهم أسئلة مفتوحة لأورسولا فون دير لاين بشأن مفاوضاتها مع «فايزر» على اللقاحات، من دون تقدّم ملموس في التحقيق، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/ursula-von-der-leyen-eppo-european-public-prosectors-office-pfizergate-vaccine-coronavirus/"
-   }
-  },
-  {
-   "id": "20261028-0100-netanyahu-claims",
-   "time": "2026-10-28T01:00:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu calls for 'a strong government of the right' and rules out any government backed by Arab parties.",
-   "ar": "نتنياهو يدعو إلى «حكومة يمين قوية» ويستبعد أي حكومة تستند إلى الأحزاب العربية.",
-   "source": {
-    "name": "AFP via The Daily Star",
-    "url": "https://www.thedailystar.net/news/world/news/netanyahu-vows-form-strong-new-right-wing-government-4309456"
-   }
-  },
-  {
-   "id": "20261027-2144-israel-turnout",
-   "time": "2026-10-27T21:44:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's election turnout reaches 77.7%, the highest in 25 years, as revised exit polls show a 52–50 split between the blocs.",
-   "ar": "نسبة الاقتراع في الانتخابات الإسرائيلية تبلغ 77.7%، الأعلى منذ 25 عاماً، والاستطلاعات المعدّلة تُظهر انقساماً 52–50 بين الكتلتين.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/bknat9r3ge"
    }
   }
  ]
