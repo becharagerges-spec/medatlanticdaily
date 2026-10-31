@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-31T10:24:09Z",
+ "updated": "2026-10-31T11:09:38Z",
  "items": [
+  {
+   "id": "20261031-1011-syria-mecca-pact",
+   "time": "2026-10-31T10:11:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Syrian Foreign Minister Assad al-Shibani says Damascus is discussing whether to join the Mecca Pact, the Saudi-led defence alliance that includes Turkey and Pakistan, AP reports.",
+   "ar": "وزير الخارجية السوري أسعد الشيباني يقول إن دمشق تبحث الانضمام إلى «ميثاق مكة»، التحالف الدفاعي بقيادة السعودية الذي يضم تركيا وباكستان، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP",
+    "url": "https://www.clickondetroit.com/news/world/2026/10/31/mideast-leaders-call-for-calm-as-fears-mount-of-a-renewed-war-in-the-region-and-other-mideast-news/"
+   }
+  },
+  {
+   "id": "20261031-1011-gulf-forum-calm",
+   "time": "2026-10-31T10:11:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "At a security forum in Bahrain, Saudi Vice Foreign Minister Waleed ElKhereiji and Egyptian Foreign Minister Badr Abdelatty urge calm, with Abdelatty warning a second round of war 'will lead to nowhere'.",
+   "ar": "في منتدى أمني في البحرين، نائب وزير الخارجية السعودي وليد الخريجي ووزير الخارجية المصري بدر عبد العاطي يدعوان إلى التهدئة، وعبد العاطي يحذّر من أن جولة حرب ثانية «لن تؤدي إلى أي مكان».",
+   "source": {
+    "name": "AP",
+    "url": "https://www.clickondetroit.com/news/world/2026/10/31/mideast-leaders-call-for-calm-as-fears-mount-of-a-renewed-war-in-the-region-and-other-mideast-news/"
+   }
+  },
+  {
+   "id": "20261031-1007-iran-army-wider-war",
+   "time": "2026-10-31T10:07:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian army spokesman Mohammad Akraminia says 'the flames of war will undoubtedly engulf a much wider geographical area' if the US takes further military action in the region.",
+   "ar": "المتحدث باسم الجيش الإيراني محمد أكرمي‌نيا يقول إن «نيران الحرب ستطال بلا شك رقعة جغرافية أوسع بكثير» إذا أقدمت الولايات المتحدة على عمل عسكري جديد في المنطقة.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
+   }
+  },
   {
    "id": "20261031-0908-israel-strikes-south-lebanon",
    "time": "2026-10-31T09:08:00Z",
@@ -11,6 +47,18 @@
    "source": {
     "name": "IMLebanon",
     "url": "https://www.imlebanon.org/2026/10/31/south-lebanon-israel-123/"
+   }
+  },
+  {
+   "id": "20261031-0831-khamenei-no-limits",
+   "time": "2026-10-31T08:31:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Supreme Leader Mojtaba Khamenei orders the armed forces to answer any enemy threat with no geographic limits and to update target lists to include US and Israeli assets.",
+   "ar": "المرشد الإيراني مجتبى خامنئي يأمر القوات المسلحة بالرد على أي تهديد معادٍ من دون حدود جغرافية، وبتحديث بنك الأهداف ليشمل المصالح الأميركية والإسرائيلية.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
    }
   },
   {
@@ -38,6 +86,18 @@
    }
   },
   {
+   "id": "20261031-0540-riyadh-drone-intercepted",
+   "time": "2026-10-31T05:40:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says its air defences intercepted and destroyed a drone over the Riyadh region on Saturday.",
+   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت ودمّرت طائرة مسيّرة فوق منطقة الرياض يوم السبت.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610312594"
+   }
+  },
+  {
    "id": "20261031-0530-kaliningrad-blackout-ufa",
    "time": "2026-10-31T05:30:00Z",
    "theater": "russia",
@@ -47,6 +107,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/power-outages-hit-russias-kaliningrad-oblast-explosions-reported-in-ufa-amid-drone-alerts/"
+   }
+  },
+  {
+   "id": "20261031-0440-treasury-iran-oil-zero",
+   "time": "2026-10-31T04:40:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "The US Treasury says Iran has loaded no oil onto vessels since 25 August and that the rial has fallen about 25% since the pressure campaign began.",
+   "ar": "وزارة الخزانة الأميركية تقول إن إيران لم تحمّل أي شحنة نفط على السفن منذ 25 آب، وإن الريال تراجع نحو 25% منذ بدء حملة الضغط.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610312594"
    }
   },
   {
@@ -640,30 +712,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz"
-   }
-  },
-  {
-   "id": "20261028-1058-brent-116",
-   "time": "2026-10-28T10:58:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude hits $116 a barrel as traders track Israel's vote count and a Wall Street Journal report that Washington told Gulf states to prepare for renewed war with Iran, Bloomberg reports.",
-   "ar": "خام برنت يبلغ 116 دولاراً للبرميل فيما يتابع المتداولون فرز الأصوات في إسرائيل وتقريراً لـ«وول ستريت جورنال» عن تحذير واشنطن دول الخليج من استئناف الحرب مع إيران، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28"
-   }
-  },
-  {
-   "id": "20261028-1044-netanyahu-overtakes-eisenkot",
-   "time": "2026-10-28T10:44:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu edges ahead of Eisenkot with half of Israel's votes counted, but neither bloc yet has a clear path to a governing majority, Bloomberg reports.",
-   "ar": "نتنياهو يتقدّم على آيزنكوت بعد فرز نصف الأصوات في إسرائيل، لكن أياً من الكتلتين لا تملك بعد طريقاً واضحاً إلى أغلبية حاكمة، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot"
    }
   }
  ]
