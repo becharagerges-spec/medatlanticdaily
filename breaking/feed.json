@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T16:09:06Z",
+ "updated": "2026-10-31T17:08:17Z",
  "items": [
+  {
+   "id": "20261031-1657-france-protests-320000",
+   "time": "2026-10-31T16:57:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "France's interior ministry says about 320,000 people protested nationwide on Saturday, including 70,000 in Paris, as police fired tear gas in Lyon and used water cannon in Toulouse.",
+   "ar": "وزارة الداخلية الفرنسية تقول إن نحو 320 ألف شخص تظاهروا في أنحاء البلاد يوم السبت، بينهم 70 ألفاً في باريس، فيما أطلقت الشرطة الغاز المسيل للدموع في ليون واستخدمت خراطيم المياه في تولوز.",
+   "source": {
+    "name": "AFP via CBS News",
+    "url": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/"
+   }
+  },
   {
    "id": "20261031-1431-araghchi-us-outreach",
    "time": "2026-10-31T14:31:00Z",
@@ -681,110 +693,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/inflation-warsh-interest-rates-federal-reserve-c06793b0c50641444701d5d098ccc2c8"
-   }
-  },
-  {
-   "id": "20261028-1700-eu-gas-100",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "European natural gas prices rise above €100 per megawatt-hour for the first time since the 2022 energy crisis on fears of an Iran war escalation and low storage, Bloomberg and the FT report.",
-   "ar": "أسعار الغاز الطبيعي في أوروبا تتجاوز 100 يورو للميغاواط ساعة للمرة الأولى منذ أزمة الطاقة عام 2022، وسط مخاوف من تصعيد الحرب مع إيران وتدنّي المخزونات، بحسب «بلومبرغ» و«فايننشال تايمز».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/european-gas-hits-100-for-first-time-since-2022-energy-crisis"
-   }
-  },
-  {
-   "id": "20261028-1700-trump-putin-zelenskyy-meeting",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Trump says a meeting between Putin and Zelenskyy will be set up 'very soon', though no date or venue has been set, Bloomberg reports.",
-   "ar": "ترامب يقول إن لقاءً بين بوتين وزيلينسكي سيُرتَّب «قريباً جداً»، من دون تحديد موعد أو مكان بعد، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-says-meeting-with-zelenskyy-and-putin-will-be-set-up-soon"
-   }
-  },
-  {
-   "id": "20261028-1700-zelenskyy-talks-next-week",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelenskyy says he expects three-way talks between the US, Ukraine and Russia as early as next week, Bloomberg reports.",
-   "ar": "زيلينسكي يقول إنه يتوقّع محادثات ثلاثية بين الولايات المتحدة وأوكرانيا وروسيا ابتداءً من الأسبوع المقبل، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/zelenskyy-expects-us-ukraine-russia-talks-as-early-as-next-week"
-   }
-  },
-  {
-   "id": "20261028-1700-zelenskyy-russia-guarantees",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelenskyy acknowledges Moscow could also receive security guarantees as part of a peace deal, per the Financial Times.",
-   "ar": "زيلينسكي يُقرّ بإمكان حصول موسكو أيضاً على ضمانات أمنية ضمن اتفاق سلام، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261028-1700-iran-sinokor-hormuz",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Iran threatens South Korean shipping group Sinokor, accusing it of repeated 'crossing violations' in the Strait of Hormuz, per the Financial Times.",
-   "ar": "إيران تهدّد مجموعة الشحن الكورية الجنوبية «سينوكور» وتتّهمها بـ«انتهاكات عبور» متكررة في مضيق هرمز، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261028-1700-uk-bank-surcharge",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "UK Chancellor John Healey raises the bank surcharge to 6% from 3% in his first budget, a smaller rise than lenders feared, Bloomberg reports.",
-   "ar": "وزير المالية البريطاني جون هيلي يرفع الضريبة الإضافية على المصارف إلى 6% من 3% في أول موازنة له، وهي زيادة أقل مما خشيته المصارف، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/uk-to-raise-bank-surcharge-to-6-from-existing-3"
-   }
-  },
-  {
-   "id": "20261028-1700-iran-gas-shortage",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran tells citizens to cut energy use and urges civil servants to work from home as natural gas runs short because of the war, per the Financial Times.",
-   "ar": "إيران تطلب من المواطنين ترشيد استهلاك الطاقة وتحثّ موظفي القطاع العام على العمل من المنزل مع نقص الغاز الطبيعي بسبب الحرب، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261028-1700-eu-rwanda-migrant-centres",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Five EU countries plan to deport failed asylum seekers to Rwanda, possibly using centres Britain built for its abandoned 2022 scheme, per the Financial Times.",
-   "ar": "خمس دول أوروبية تعتزم ترحيل طالبي لجوء مرفوضين إلى رواندا، وربما استخدام مراكز بنتها بريطانيا لخطتها الملغاة عام 2022، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261028-1700-putin-africa-summit",
-   "time": "2026-10-28T17:00:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Putin hosts leaders from across Africa at a summit in Moscow as Russia seeks to deepen ties with the continent, Bloomberg reports.",
-   "ar": "بوتين يستضيف قادة من مختلف أنحاء أفريقيا في قمة بموسكو، فيما تسعى روسيا إلى تعميق علاقاتها مع القارة، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/putin-courts-africa-leaders-at-moscow-summit-to-expand-influence"
    }
   }
  ]
