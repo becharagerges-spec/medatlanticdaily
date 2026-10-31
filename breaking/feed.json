@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T12:10:41Z",
+ "updated": "2026-10-31T13:08:52Z",
  "items": [
+  {
+   "id": "20261031-1242-zelensky-istanbul-erdogan",
+   "time": "2026-10-31T12:42:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky arrives in Istanbul for talks with Turkish President Erdogan, saying Black Sea shipping security is among the key issues.",
+   "ar": "زيلينسكي يصل إلى إسطنبول لإجراء محادثات مع الرئيس التركي أردوغان، مؤكداً أن أمن الملاحة في البحر الأسود من أبرز الملفات المطروحة.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-arrives-in-istanbul-for-important-talks-with-turkeys-erdogan/"
+   }
+  },
   {
    "id": "20261031-1128-iran-delegation-doha",
    "time": "2026-10-31T11:28:00Z",
@@ -50,6 +62,18 @@
    }
   },
   {
+   "id": "20261031-0956-saudi-eastern-region-drone",
+   "time": "2026-10-31T09:56:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Saudi-led coalition says it intercepted a drone over Saudi Arabia's oil-rich Eastern Region and another Houthi drone launched toward the Southern Region.",
+   "ar": "التحالف بقيادة السعودية يقول إنه اعترض مسيّرة فوق المنطقة الشرقية الغنية بالنفط، وأخرى أطلقها الحوثيون باتجاه المنطقة الجنوبية.",
+   "source": {
+    "name": "Daily Ittehad",
+    "url": "https://dailyittehad.com.pk/news/2026/10/31/saudi-coalition-intercepts-drone-over-oil-rich-eastern-region"
+   }
+  },
+  {
    "id": "20261031-0935-qeshm-fishing-boats",
    "time": "2026-10-31T09:35:00Z",
    "theater": "iran",
@@ -83,6 +107,18 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
+   }
+  },
+  {
+   "id": "20261031-0725-bryansk-drone-2-killed",
+   "time": "2026-10-31T07:25:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia's Bryansk regional governor says a Ukrainian drone hit a private house, killing 2 people and injuring 5.",
+   "ar": "حاكم منطقة بريانسك الروسية يقول إن مسيّرة أوكرانية أصابت منزلاً خاصاً، ما أدى إلى مقتل شخصين وإصابة 5 آخرين.",
+   "source": {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/europe/20261031/93f7c65ef4c24943b768b2fbf3398f0d/c.html"
    }
   },
   {
@@ -725,41 +761,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/brazil-election-flavio-bolsonaro-ecuador-argentina-9fc1f409ed993403736dbae07bd74bd8"
-   }
-  },
-  {
-   "id": "20261028-1241-israel-count-54-49",
-   "time": "2026-10-28T12:41:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "With almost 93% of votes counted, Netanyahu's bloc is projected at 53 seats, Eisenkot's at 48 and Arab parties at 19, leaving neither bloc at the 61 needed, Bloomberg reports.",
-   "ar": "بعد فرز نحو 93% من الأصوات، تُقدَّر حصة كتلة نتنياهو بـ53 مقعداً وكتلة آيزنكوت بـ48 والأحزاب العربية بـ19، فلا تبلغ أي كتلة الـ61 المطلوبة، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-arab-parties-claim-kingmaker-status-in-extra-tight-vote"
-   }
-  },
-  {
-   "id": "20261028-1241-golan-arab-parties",
-   "time": "2026-10-28T12:41:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli opposition figure Yair Golan urges the opposition to partner with Arab parties to reach a 65-seat majority and form a 'government of change', per The Jerusalem Post.",
-   "ar": "السياسي الإسرائيلي المعارض يائير غولان يدعو المعارضة إلى الشراكة مع الأحزاب العربية لبلوغ أغلبية 65 مقعداً وتشكيل «حكومة تغيير»، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post"
-   }
-  },
-  {
-   "id": "20261028-1226-us-hormuz-advisory",
-   "time": "2026-10-28T12:26:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "US Naval Forces Central Command urges ships that do not need to transit the Strait of Hormuz and Gulf of Oman to stay well clear, citing blockade enforcement, Bloomberg reports.",
-   "ar": "القيادة المركزية للقوات البحرية الأميركية تدعو السفن غير المضطرة إلى عبور مضيق هرمز وخليج عُمان إلى الابتعاد عنهما، بسبب عمليات تطبيق الحصار، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz"
    }
   }
  ]
