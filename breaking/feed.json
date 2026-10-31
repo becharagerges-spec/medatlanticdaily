@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-31T17:08:17Z",
+ "updated": "2026-10-31T18:08:25Z",
  "items": [
+  {
+   "id": "20261031-1724-lapid-eisenkot-meet",
+   "time": "2026-10-31T17:24:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yair Lapid says he met Yashar leader Gadi Eisenkot, their first acknowledged meeting since the election, to discuss the results and coordinate moves to 'realize the will of the voter'.",
+   "ar": "يائير لابيد يقول إنه التقى رئيس حزب «يشار» غادي آيزنكوت، في أول لقاء معلن بينهما منذ الانتخابات، لبحث النتائج وتنسيق الخطوات «لتحقيق إرادة الناخب».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lapid-and-eisenkot-meet-to-coordinate-moves-to-realize-the-will-of-the-voter/"
+   }
+  },
+  {
+   "id": "20261031-1659-rubio-no-iran-decision",
+   "time": "2026-10-31T16:59:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio says Trump has made no decision on new strikes on Iran and prefers a diplomatic solution, but the US has 'everything we need' if action is required.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن ترامب لم يتخذ قراراً بشن ضربات جديدة على إيران ويفضّل حلاً دبلوماسياً، لكن واشنطن تملك «كل ما نحتاجه» إذا لزم التحرك.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-still-hasnt-made-decision-on-fresh-iran-strikes-prefers-diplomatic-solution-rubio/"
+   }
+  },
   {
    "id": "20261031-1657-france-protests-320000",
    "time": "2026-10-31T16:57:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "AFP via CBS News",
     "url": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/"
+   }
+  },
+  {
+   "id": "20261031-1533-fsb-us-moscow-plot",
+   "time": "2026-10-31T15:33:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Russia's FSB says it received US information about a planned terrorist attack in Moscow, after the US Embassy warned of a credible mass-casualty threat at the Tsaritsyno Museum Reserve on Saturday.",
+   "ar": "جهاز الأمن الفدرالي الروسي يقول إنه تلقى معلومات أميركية عن هجوم إرهابي مخطط في موسكو، بعدما حذّرت السفارة الأميركية من تهديد جدّي بسقوط إصابات جماعية في متحف تساريتسينو السبت.",
+   "source": {
+    "name": "The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144"
    }
   },
   {
@@ -53,12 +89,12 @@
    "id": "20261031-1242-zelensky-istanbul-erdogan",
    "time": "2026-10-31T12:42:00Z",
    "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky arrives in Istanbul for talks with Turkish President Erdogan, saying Black Sea shipping security is among the key issues.",
-   "ar": "زيلينسكي يصل إلى إسطنبول لإجراء محادثات مع الرئيس التركي أردوغان، مؤكداً أن أمن الملاحة في البحر الأسود من أبرز الملفات المطروحة.",
+   "status": "reported",
+   "en": "Zelensky says he and Erdogan agreed in Istanbul to make the Black Sea grain corridor effective and discussed possible trilateral talks in Turkey; Erdogan says he will speak to Russia next.",
+   "ar": "زيلينسكي يقول إنه اتفق مع أردوغان في إسطنبول على تفعيل ممر الحبوب في البحر الأسود وبحثا إمكان عقد محادثات ثلاثية في تركيا، وأردوغان يقول إنه سيتحدث إلى الجانب الروسي.",
    "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/zelensky-arrives-in-istanbul-for-important-talks-with-turkeys-erdogan/"
+    "name": "Glavnoe",
+    "url": "https://glavnoe.in.ua/en/news-en/grain-corridor-and-new-talks-key-statements-from-zelenskyy-and-erdo%C4%9Fan"
    }
   },
   {
@@ -681,18 +717,6 @@
    "source": {
     "name": "AFP via The Jakarta Post",
     "url": "https://www.thejakartapost.com/business/2026/10/29/asian-stock-markets-fluctuate-after-mixed-tech-results"
-   }
-  },
-  {
-   "id": "20261028-1805-fed-holds-two-dissents",
-   "time": "2026-10-28T18:05:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Federal Reserve keeps its key interest rate unchanged at about 3.9% despite elevated inflation, with two policymakers dissenting and little hint of its next move, AP and Bloomberg report.",
-   "ar": "الاحتياطي الفيدرالي الأميركي يُبقي سعر الفائدة الرئيسي دون تغيير عند نحو 3.9% رغم ارتفاع التضخم، مع اعتراض عضوين ومن دون إشارة واضحة إلى خطوته المقبلة، بحسب «أسوشييتد برس» و«بلومبرغ».",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/inflation-warsh-interest-rates-federal-reserve-c06793b0c50641444701d5d098ccc2c8"
    }
   }
  ]
