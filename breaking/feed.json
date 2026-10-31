@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T13:08:52Z",
+ "updated": "2026-10-31T14:08:42Z",
  "items": [
+  {
+   "id": "20261031-1327-kfar-tebnit-detonation",
+   "time": "2026-10-31T13:27:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli army says a blast in the south Lebanon village of Kfar Tebnit, reported by Lebanese media as a strike, was a controlled detonation to demolish infrastructure.",
+   "ar": "الجيش الإسرائيلي يقول إن انفجاراً في بلدة كفرتبنيت جنوب لبنان، وصفته وسائل إعلام لبنانية بأنه غارة، كان تفجيراً متحكَّماً به لهدم بنى تحتية.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-reported-israeli-strike-in-southern-lebanon-was-controlled-detonation/"
+   }
+  },
   {
    "id": "20261031-1242-zelensky-istanbul-erdogan",
    "time": "2026-10-31T12:42:00Z",
@@ -200,6 +212,30 @@
    "status": "confirmed",
    "en": "The US Treasury says Iran has loaded no oil onto vessels since 25 August and that the rial has fallen about 25% since the pressure campaign began.",
    "ar": "وزارة الخزانة الأميركية تقول إن إيران لم تحمّل أي شحنة نفط على السفن منذ 25 آب، وإن الريال تراجع نحو 25% منذ بدء حملة الضغط.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610312594"
+   }
+  },
+  {
+   "id": "20261031-0401-poland-court-chief-suspended",
+   "time": "2026-10-31T04:01:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Poland's Constitutional Tribunal chief Bogdan Swieczkowski is suspended by a fellow judge as Tusk's government moves against him, prompting President Nawrocki to abort a Senegal trip and opposition protests.",
+   "ar": "تعليق مهام رئيس المحكمة الدستورية البولندية بوغدان شفيتشكوفسكي على يد قاضية زميلة وسط تحرّك حكومة توسك ضده، فيقطع الرئيس ناوروتسكي رحلته إلى السنغال وتندلع احتجاجات المعارضة.",
+   "source": {
+    "name": "AFP and Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/poland-suspends-chief-justice-of-constitutional-court-sparking-protests/"
+   }
+  },
+  {
+   "id": "20261031-0330-araghchi-red-lines",
+   "time": "2026-10-31T03:30:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says 'red lines are a thing of the past' and vows an 'Earth-shattering blow' against anyone who harms Iranians, while criticising German Chancellor Merz.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن «الخطوط الحمر باتت من الماضي» ويتوعّد بـ«ضربة تهزّ الأرض» لكل من يمسّ الإيرانيين، منتقداً المستشار الألماني ميرتس.",
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202610312594"
@@ -737,30 +773,6 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/canada-european-union-officials-drop-associate-member-from-joint-summit-declaration/3084609/"
-   }
-  },
-  {
-   "id": "20261028-1400-zelenskyy-patriots-hegseth",
-   "time": "2026-10-28T14:00:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelenskyy urges US Defense Secretary Pete Hegseth to sign deals authorizing third countries to transfer Patriot air-defense missiles to Ukraine before winter, per Bloomberg.",
-   "ar": "زيلينسكي يحثّ وزير الدفاع الأميركي بيت هيغسيث على توقيع صفقات تسمح لدول ثالثة بنقل صواريخ «باتريوت» للدفاع الجوي إلى أوكرانيا قبل الشتاء، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/zelenskyy-urges-pentagon-to-authorize-third-country-pac-missiles-to-ukraine"
-   }
-  },
-  {
-   "id": "20261028-1352-flavio-bolsonaro-miami",
-   "time": "2026-10-28T13:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Defeated Brazilian presidential candidate Flávio Bolsonaro lands in Miami after fleeing Brazil, following 48 hours in which he refused to concede to President Lula, AP and CNN report.",
-   "ar": "المرشح الرئاسي البرازيلي الخاسر فلافيو بولسونارو يصل إلى ميامي بعد فراره من البرازيل، إثر 48 ساعة رفض خلالها الإقرار بفوز الرئيس لولا، بحسب «أسوشييتد برس» و«سي إن إن».",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/brazil-election-flavio-bolsonaro-ecuador-argentina-9fc1f409ed993403736dbae07bd74bd8"
    }
   }
  ]
