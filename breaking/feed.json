@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T14:08:42Z",
+ "updated": "2026-10-31T15:10:04Z",
  "items": [
+  {
+   "id": "20261031-1430-ap-us-bases-damage",
+   "time": "2026-10-31T14:30:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "An AP analysis finds Iranian strikes damaged or destroyed US air defences, aircraft hangars and buildings on 26 bases and sites across the Middle East, with most attacks hitting Kuwait.",
+   "ar": "تحليل لوكالة أسوشيتد برس يُظهر أن الضربات الإيرانية ألحقت أضراراً أو دمّرت دفاعات جوية أميركية وحظائر طائرات ومبانيَ في 26 قاعدة وموقعاً في الشرق الأوسط، وأن معظم الهجمات أصابت الكويت.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/iran-war-us-base-damage-trump-26e0f05e01d6f56ff46f7c1a14384f7c"
+   }
+  },
   {
    "id": "20261031-1327-kfar-tebnit-detonation",
    "time": "2026-10-31T13:27:00Z",
@@ -138,11 +150,11 @@
    "time": "2026-10-31T06:58:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Qatar's Al-Araby Al-Jadeed says a US delegation will join direct talks with Iran in Doha, while MS NOW says Washington told Gulf allies strikes could start November 4.",
-   "ar": "صحيفة «العربي الجديد» القطرية تقول إن وفداً أميركياً سينضم إلى محادثات مباشرة مع إيران في الدوحة، فيما تفيد «إم إس ناو» بأن واشنطن أبلغت حلفاءها الخليجيين أن الضربات قد تبدأ في 4 تشرين الثاني.",
+   "en": "Al-Araby Al-Jadeed reported a US delegation joining Iran talks in Doha, but FM Araghchi says Tehran plans no meeting with US officials; MS NOW says strikes could start November 4.",
+   "ar": "«العربي الجديد» أفادت بانضمام وفد أميركي إلى محادثات مع إيران في الدوحة، لكن وزير الخارجية عباس عراقجي يقول إن طهران لا تعتزم لقاء مسؤولين أميركيين، فيما تفيد «إم إس ناو» بأن الضربات قد تبدأ في 4 تشرين الثاني.",
    "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/s1errwmpgl"
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
    }
   },
   {
@@ -761,18 +773,6 @@
    "source": {
     "name": "CNN",
     "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl"
-   }
-  },
-  {
-   "id": "20261028-1500-eu-canada-associate",
-   "time": "2026-10-28T15:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Canada and the EU drop 'associate member' wording from their summit declaration after objections led by Germany, agreeing instead to pursue 'ever closer association'.",
-   "ar": "كندا والاتحاد الأوروبي يُسقطان عبارة «العضو المنتسب» من إعلان قمّتهما بعد اعتراضات قادتها ألمانيا، ويتّفقان بدلاً منها على السعي إلى «شراكة أوثق باستمرار».",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/canada-european-union-officials-drop-associate-member-from-joint-summit-declaration/3084609/"
    }
   }
  ]
