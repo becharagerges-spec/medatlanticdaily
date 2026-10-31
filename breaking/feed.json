@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T11:09:38Z",
+ "updated": "2026-10-31T12:10:41Z",
  "items": [
+  {
+   "id": "20261031-1128-iran-delegation-doha",
+   "time": "2026-10-31T11:28:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "An Iranian delegation including a deputy to Foreign Minister Abbas Araghchi arrives in Doha to work with Qatari mediators, per Al-Araby Al-Jadeed citing an Iranian source.",
+   "ar": "وفد إيراني يضمّ مساعداً لوزير الخارجية عباس عراقجي يصل إلى الدوحة للتنسيق مع الوسيط القطري، بحسب «العربي الجديد» نقلاً عن مصدر إيراني.",
+   "source": {
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/iranian-delegation-arrives-in-qatar-for-talks-report/4107264"
+   }
+  },
   {
    "id": "20261031-1011-syria-mecca-pact",
    "time": "2026-10-31T10:11:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
+   }
+  },
+  {
+   "id": "20261031-0935-qeshm-fishing-boats",
+   "time": "2026-10-31T09:35:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian state media say the US attacked two fishing boats near Qeshm Island, leaving two fishermen missing and one wounded; state TV later says the two missing were found.",
+   "ar": "الإعلام الرسمي الإيراني يقول إن الولايات المتحدة هاجمت قاربَي صيد قرب جزيرة قشم، ما أدى إلى فقدان صيادَين وإصابة ثالث، ثم يعلن التلفزيون الرسمي العثور على المفقودَين.",
+   "source": {
+    "name": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media-ce785fd8d88ff52d"
    }
   },
   {
@@ -74,6 +98,18 @@
    }
   },
   {
+   "id": "20261031-0633-yemen-army-houthis-336",
+   "time": "2026-10-31T06:33:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's government military spokesman Majed al-Nuzaili claims about 336 Houthi fighters have been killed or neutralised in the 'Dawn of Yemen' operation, per Anadolu.",
+   "ar": "المتحدث العسكري باسم الحكومة اليمنية ماجد النزيلي يقول إن نحو 336 مقاتلاً حوثياً حُيّدوا في عملية «فجر اليمن»، بحسب الأناضول.",
+   "source": {
+    "name": "Anadolu via Dawn",
+    "url": "https://www.dawn.com/live/iran-israel-war"
+   }
+  },
+  {
    "id": "20261031-0630-russia-134-drones",
    "time": "2026-10-31T06:30:00Z",
    "theater": "ukraine",
@@ -83,6 +119,18 @@
    "source": {
     "name": "112 Ukraine",
     "url": "https://112.ua/en/rosia-zapustila-134-bezpilotniki-po-ukraini-ppo-zbila-105-z-nih-pid-cas-ataki-195044"
+   }
+  },
+  {
+   "id": "20261031-0557-lebanon-toll-4389",
+   "time": "2026-10-31T05:57:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's Health Ministry says Israeli attacks have killed 4,389 people since 2 March 2026 and 8,956 since October 2023.",
+   "ar": "وزارة الصحة اللبنانية تعلن أن الاعتداءات الإسرائيلية أدّت إلى مقتل 4389 شخصاً منذ 2 آذار 2026، و8956 منذ تشرين الأول 2023.",
+   "source": {
+    "name": "Lebanese Health Ministry via Dawn",
+    "url": "https://www.dawn.com/live/iran-israel-war"
    }
   },
   {
