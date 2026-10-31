@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T15:10:04Z",
+ "updated": "2026-10-31T16:09:06Z",
  "items": [
+  {
+   "id": "20261031-1431-araghchi-us-outreach",
+   "time": "2026-10-31T14:31:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian FM Abbas Araghchi tells Al Jazeera US outreach is 'a positive step' but sees no need to meet Americans now, as Qatar proposes a 5-day Hormuz implementation period against Iran's 2.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول للجزيرة إن الانفتاح الأميركي «خطوة إيجابية» لكنه لا يرى حاجة للقاء الأميركيين حالياً، فيما تقترح قطر مهلة 5 أيام لتنفيذ خطة هرمز مقابل يومين تطرحهما إيران.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+   }
+  },
   {
    "id": "20261031-1430-ap-us-bases-damage",
    "time": "2026-10-31T14:30:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "The Kyiv Independent",
     "url": "https://kyivindependent.com/zelensky-arrives-in-istanbul-for-important-talks-with-turkeys-erdogan/"
+   }
+  },
+  {
+   "id": "20261031-1222-iran-npt-proposals",
+   "time": "2026-10-31T12:22:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian lawmaker Ebrahim Rezaei says 10 proposals to withdraw from the Nuclear Non-Proliferation Treaty have been registered in parliament and withdrawal is under consideration, per Fars.",
+   "ar": "النائب الإيراني إبراهيم رضائي يقول إن 10 مقترحات للانسحاب من معاهدة عدم انتشار الأسلحة النووية سُجّلت في البرلمان وإن الانسحاب قيد الدرس، بحسب وكالة «فارس».",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"
    }
   },
   {
@@ -761,18 +785,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-28/putin-courts-africa-leaders-at-moscow-summit-to-expand-influence"
-   }
-  },
-  {
-   "id": "20261028-1552-spain-crash-cause",
-   "time": "2026-10-28T15:52:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Spain's transport minister Óscar Puente says an 'inexplicable' erroneous order from the rail control center, after a signaling failure, caused Wednesday's deadly high-speed train collision near Toledo.",
-   "ar": "وزير النقل الإسباني أوسكار بوينتي يقول إن أمراً خاطئاً «غير مفهوم» صدر عن مركز التحكم بالسكك الحديدية، إثر عطل في نظام الإشارات، تسبّب في اصطدام القطارين فائقَي السرعة قرب طليطلة الأربعاء.",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl"
    }
   }
  ]
