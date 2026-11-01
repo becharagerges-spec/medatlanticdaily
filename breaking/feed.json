@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-01T09:08:47Z",
+ "updated": "2026-11-01T11:09:08Z",
  "items": [
+  {
+   "id": "20261101-1031-iran-army-longer-war",
+   "time": "2026-11-01T10:31:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian army spokesman Mohammad Akraminia says any new war with the US could last longer than the last one and that Trump could not dictate when or how it ends.",
+   "ar": "المتحدث باسم الجيش الإيراني محمد أكرمي نيا يقول إن أي حرب جديدة مع الولايات المتحدة قد تدوم أطول من سابقتها، وإن ترامب لن يتمكن من فرض توقيت نهايتها أو شروطها.",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323467-iran-army-says-any-new-war-with-us-could-be-longer-than-previous-conflict"
+   }
+  },
+  {
+   "id": "20261101-1014-iran-su35-after-war",
+   "time": "2026-11-01T10:14:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian military spokesman Mohammad Akraminia tells Tabnak that Iran will 'certainly receive' Su-35 fighter jets after the war to upgrade its air fleet, per The Jerusalem Post.",
+   "ar": "المتحدث العسكري الإيراني محمد أكرمي نيا يقول لموقع «تابناك» إن إيران «ستتسلّم حتماً» مقاتلات سوخوي-35 بعد الحرب لتحديث أسطولها الجوي، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-913451"
+   }
+  },
+  {
+   "id": "20261101-0935-herzog-flexibility",
+   "time": "2026-11-01T09:35:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "President Isaac Herzog urges party leaders to accept the election results and show flexibility to avoid another election, saying he receives the official results on Wednesday, per The Jerusalem Post.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يدعو قادة الأحزاب إلى قبول نتائج الانتخابات وإبداء المرونة لتفادي انتخابات جديدة، ويقول إنه يتسلّم النتائج الرسمية الأربعاء، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913448"
+   }
+  },
+  {
+   "id": "20261101-0923-joint-list-raam-eisenkot",
+   "time": "2026-11-01T09:23:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "The Joint List and Ra'am are expected to recommend Gadi Eisenkot for prime minister in consultations with President Herzog, a senior Joint List official tells Walla.",
+   "ar": "«القائمة المشتركة» و«القائمة العربية الموحدة» تتّجهان إلى التوصية بغادي آيزنكوت لرئاسة الحكومة خلال مشاورات الرئيس هرتسوغ، بحسب مسؤول رفيع في «المشتركة» لموقع «والا».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913448"
+   }
+  },
   {
    "id": "20261101-0759-qatar-lng-al-mayeda-hit",
    "time": "2026-11-01T07:59:00Z",
@@ -35,6 +83,18 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202610312594"
+   }
+  },
+  {
+   "id": "20261101-0600-opposition-oust-ohana",
+   "time": "2026-11-01T06:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's anti-Netanyahu bloc agrees to replace Likud's Knesset Speaker Amir Ohana in the new Knesset's first vote, with Yair Lapid among possible candidates, per Maariv.",
+   "ar": "كتلة المعارضة لنتنياهو تتّفق على استبدال رئيس الكنيست الليكودي أمير أوحانا في أول تصويت للكنيست الجديد، ويائير لابيد بين المرشحين المحتملين، بحسب «معاريف».",
+   "source": {
+    "name": "Maariv via The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913430"
    }
   },
   {
@@ -896,66 +956,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/doordash-instacart-delivery-d6f30f5d18c288eeba6babcb49260e06"
-   }
-  },
-  {
-   "id": "20261029-1046-herzog-interference-probe",
-   "time": "2026-10-29T10:46:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli President Isaac Herzog calls for a thorough investigation into alleged foreign interference in the election, while warning against tarnishing the Arab community as a whole.",
-   "ar": "الرئيس الإسرائيلي يتسحاق هرتسوغ يدعو إلى تحقيق معمّق في شبهات تدخّل أجنبي في الانتخابات، محذّراً من تشويه صورة المجتمع العربي ككل.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-urges-thorough-probe-into-alleged-election-interference-warns-against-tarnishing-arab-community/"
-   }
-  },
-  {
-   "id": "20261029-1015-irgc-tankers-mines",
-   "time": "2026-10-29T10:15:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guard says three oil tankers caught fire after hitting sea mines south of the Strait of Hormuz, and Iran's army says a fourth tanker is ablaze east of the strait.",
-   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط اشتعلت بعد اصطدامها بألغام بحرية جنوب مضيق هرمز، والجيش الإيراني يقول إن ناقلة رابعة تحترق شرق المضيق.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-claims-four-tankers-hit-mines-in-hormuz-as-dhow-crew-rescued-3008795"
-   }
-  },
-  {
-   "id": "20261029-1004-lagarde-steps-down",
-   "time": "2026-10-29T10:04:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Christine Lagarde will step down as European Central Bank president on 7 February 2027, months before her term ends in October 2027, the ECB says.",
-   "ar": "كريستين لاغارد تتنحّى عن رئاسة البنك المركزي الأوروبي في 7 شباط 2027، قبل أشهر من انتهاء ولايتها في تشرين الأول 2027، وفق البنك.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/european-central-bank-chief-christine-lagarde-to-step-down-in-february/"
-   }
-  },
-  {
-   "id": "20261029-1001-dnipro-train-strike",
-   "time": "2026-10-29T10:01:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The death toll from a Russian jet-powered drone strike on Dnipro railway station rises to 14, with 13 wounded including a child, regional governor Oleksandr Hanzha says.",
-   "ar": "حصيلة الضربة الروسية بمسيّرة نفاثة على محطة دنيبرو للسكك الحديدية ترتفع إلى 14 قتيلاً و13 جريحاً بينهم طفل، وفق حاكم المنطقة أولكسندر هانزا.",
-   "source": {
-    "name": "Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1228066.html"
-   }
-  },
-  {
-   "id": "20261029-1000-nasdaq-capex-drop",
-   "time": "2026-10-29T10:00:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Alphabet shares fall about 12% while Microsoft shares rise after both report quarterly earnings, as Nasdaq 100 futures had pointed to a lower open, CNBC reports.",
-   "ar": "أسهم «ألفابت» تتراجع نحو 12% فيما ترتفع أسهم «مايكروسوفت» بعد إعلان الشركتين نتائجهما الفصلية، وكانت العقود الآجلة لمؤشر ناسداك 100 قد أشارت إلى افتتاح منخفض، بحسب «سي إن بي سي».",
-   "source": {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
    }
   }
  ]
