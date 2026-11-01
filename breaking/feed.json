@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T15:08:19Z",
+ "updated": "2026-11-01T16:09:33Z",
  "items": [
+  {
+   "id": "20261101-1323-likud-rejects-rotation",
+   "time": "2026-11-01T13:23:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud coalition whip Ofir Katz says the party opposes any prime-minister rotation deal and that others can join a government based on the existing coalition, per Army Radio.",
+   "ar": "رئيس الائتلاف من الليكود أوفير كاتس يقول إن الحزب يرفض أي اتفاق تناوب على رئاسة الحكومة، وإن من يريد يمكنه الانضمام إلى حكومة على أساس الائتلاف الحالي، بحسب إذاعة الجيش.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/likud-whip-says-party-opposes-rotation-agreement-in-a-potential-government"
+   }
+  },
+  {
+   "id": "20261101-1320-bahrain-door-open-iran",
+   "time": "2026-11-01T13:20:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Bahrain's Foreign Minister Abdullatif Al Zayani calls at the Manama Dialogue for a regional security framework open to Iran, saying the door 'leads to rules, not exceptions'.",
+   "ar": "وزير الخارجية البحريني عبد اللطيف الزياني يدعو في حوار المنامة إلى إطار أمني إقليمي مفتوح أمام إيران، قائلاً إن الباب «يقود إلى قواعد لا إلى استثناءات».",
+   "source": {
+    "name": "Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/gulf/5336276-bahrain-calls-regional-security-framework-open-iran-uae-hopes-diplomatic-breakthrough"
+   }
+  },
   {
    "id": "20261101-1228-zelensky-kamensky-plant",
    "time": "2026-11-01T12:28:00Z",
@@ -47,6 +71,18 @@
    "source": {
     "name": "AP",
     "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
+   }
+  },
+  {
+   "id": "20261101-1210-irgc-new-theaters",
+   "time": "2026-11-01T12:10:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC spokesman Hossein Mohabi says the Guards are identifying new targets and planning operations in 'new geographic theaters' in case the war with the US resumes, per Israel Hayom.",
+   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن الحرس يحدّد أهدافاً جديدة ويخطط لعمليات في «ساحات جغرافية جديدة» إذا استؤنفت الحرب مع الولايات المتحدة، بحسب «يسرائيل هيوم».",
+   "source": {
+    "name": "Israel Hayom",
+    "url": "https://www.israelhayom.com/2026/11/01/iran-threatens-to-expand-war-beyond-middle-east-as-us-weighs-new-strikes/"
    }
   },
   {
