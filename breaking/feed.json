@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:09:05Z",
+ "updated": "2026-11-01T14:10:53Z",
  "items": [
   {
    "id": "20261101-1224-iran-doha-third-day",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says"
+   }
+  },
+  {
+   "id": "20261101-1213-gaza-strikes-eight-killed",
+   "time": "2026-11-01T12:13:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli strikes in Gaza City and Khan Younis kill at least 8 Palestinians, including a 4-year-old boy and 5 police officers, medics say; Israel's army says it struck militants.",
+   "ar": "غارات إسرائيلية على مدينة غزة وخان يونس تقتل 8 فلسطينيين على الأقل، بينهم طفل في الرابعة و5 عناصر شرطة، بحسب مسعفين؛ والجيش الإسرائيلي يقول إنه استهدف مسلحين.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
+   }
+  },
+  {
+   "id": "20261101-1213-hodeidah-university-strikes",
+   "time": "2026-11-01T12:13:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi-run Al-Masirah TV says two airstrikes hit the University of Hodeidah's medical school on Sunday and blames Saudi Arabia; no casualty figures were given.",
+   "ar": "قناة المسيرة التابعة للحوثيين تقول إن غارتين جويتين أصابتا كلية الطب في جامعة الحديدة يوم الأحد، وتحمّل السعودية المسؤولية، من دون حصيلة للضحايا.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
    }
   },
   {
@@ -968,18 +992,6 @@
    "source": {
     "name": "Politico Europe",
     "url": "https://www.politico.eu/article/christine-lagarde-european-central-bank-bandages-skin-cancer/"
-   }
-  },
-  {
-   "id": "20261029-1315-ecb-holds-rates",
-   "time": "2026-10-29T13:15:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Central Bank keeps interest rates unchanged at its first meeting since Lagarde announced her early exit, and the euro falls 0.3% to about $1.11, Reuters reports.",
-   "ar": "البنك المركزي الأوروبي يُبقي أسعار الفائدة من دون تغيير في أول اجتماع منذ إعلان لاغارد رحيلها المبكر، واليورو يتراجع 0.3% إلى نحو 1.11 دولار، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Global Banking & Finance Review",
-    "url": "https://www.globalbankingandfinance.com/ecb-keeps-rates-unchanged-euro-slips/"
    }
   }
  ]
