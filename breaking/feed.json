@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-01T18:08:14Z",
+ "updated": "2026-11-01T19:09:42Z",
  "items": [
+  {
+   "id": "20261101-1817-alaska-doj-suit-dismissed",
+   "time": "2026-11-01T18:17:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A federal judge dismisses the Justice Department's lawsuit seeking to segregate ballots and block certification of Alaska's Senate race if Republican Dan Sullivan loses to Mary Peltola.",
+   "ar": "قاضٍ فدرالي يردّ دعوى وزارة العدل الأميركية التي سعت إلى فرز بطاقات اقتراع ومنع المصادقة على نتيجة سباق مجلس الشيوخ في ألاسكا إذا خسر الجمهوري دان سوليفان أمام ماري بيلتولا.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/alaska-senate-dan-sullivan-peltola-investigation-b35acffc8b55ef58679d9b8395760f98"
+   }
+  },
   {
    "id": "20261101-1744-stevens-endorses-rogers",
    "time": "2026-11-01T17:44:00Z",
@@ -165,6 +177,18 @@
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/88794"
+   }
+  },
+  {
+   "id": "20261101-1122-zelensky-october-losses",
+   "time": "2026-11-01T11:22:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky says Russia lost 54,400 troops killed or severely wounded in October, a monthly record, while Ukraine retook 96.2 square kilometres, 10.4 more than Russia seized.",
+   "ar": "زيلينسكي يقول إن روسيا خسرت 54,400 جندي بين قتيل وجريح بإصابات بالغة في تشرين الأول، وهو رقم قياسي شهري، فيما استعادت أوكرانيا 96.2 كيلومتراً مربعاً، أي 10.4 أكثر مما سيطرت عليه روسيا.",
+   "source": {
+    "name": "UNN",
+    "url": "https://unn.ua/en/amp/russia-lost-a-record-54400-troops-in-october-zelenskyy"
    }
   },
   {
