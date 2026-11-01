@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-01T07:08:32Z",
+ "updated": "2026-11-01T08:09:16Z",
  "items": [
+  {
+   "id": "20261101-0623-russia-433-drones",
+   "time": "2026-11-01T06:23:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 433 drones overnight, 371 were downed or suppressed by 07:30, and hits were recorded at 16 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 433 مسيّرة خلال الليل، أُسقط أو عُطّل 371 منها حتى الساعة 07:30، وسُجّلت إصابات في 16 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4180165-air-defense-neutralizes-371-of-433-russian-drones-launched-against-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261101-0621-nikzad-talks-window-closed",
+   "time": "2026-11-01T06:21:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's deputy parliament speaker Ali Nikzad says Tehran will not negotiate its nuclear programme and the 'window for negotiations with our adversaries is now closed', per Iran International.",
+   "ar": "نائب رئيس البرلمان الإيراني علي نيكزاد يقول إن طهران لن تفاوض على برنامجها النووي وإن «نافذة التفاوض مع خصومنا أُغلقت»، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610312594"
+   }
+  },
+  {
+   "id": "20261101-0510-iran-uk-forces-terror-list",
+   "time": "2026-11-01T05:10:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Foreign Ministry designates Britain's Royal Navy and Royal Air Force as terrorist organisations and lists MI6 as a hostile group.",
+   "ar": "وزارة الخارجية الإيرانية تصنّف البحرية الملكية وسلاح الجو الملكي البريطانيين منظمتين إرهابيتين، وتُدرج جهاز «إم آي 6» كجهة معادية.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://www.aa.com.tr/en/middle-east/iran-designates-british-navy-air-force-as-terrorist-organizations/4107764"
+   }
+  },
   {
    "id": "20261101-0325-kstovo-refinery-fire",
    "time": "2026-11-01T03:25:00Z",
@@ -896,18 +932,6 @@
    "source": {
     "name": "CNBC",
     "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
-   }
-  },
-  {
-   "id": "20261029-0712-oil-falls-iran-diplomacy",
-   "time": "2026-10-29T07:12:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Oil falls, with WTI crude down 1.3% at $101.43 a barrel, as traders weigh signs of renewed US-Iran diplomacy, including a reported Vance outreach to Iran's Mohsen Rezaei, Bloomberg reports.",
-   "ar": "النفط يتراجع، إذ ينخفض خام غرب تكساس 1.3% إلى 101.43 دولار للبرميل، فيما يقيّم المتداولون مؤشرات على استئناف الدبلوماسية بين واشنطن وطهران، بينها تواصل منسوب لفانس مع الإيراني محسن رضائي، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran"
    }
   }
  ]
