@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T16:09:33Z",
+ "updated": "2026-11-01T17:08:31Z",
  "items": [
+  {
+   "id": "20261101-1624-aita-al-jabal-strike",
+   "time": "2026-11-01T16:24:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli warplanes struck the outskirts of Aita al-Jabal in south Lebanon's Bint Jbeil district, toward Beit Yahoun, per Lebanese outlet Beirut 24; no casualties were reported.",
+   "ar": "الطيران الحربي الإسرائيلي يغير على أطراف عيتا الجبل في قضاء بنت جبيل جنوبي لبنان باتجاه بيت ياحون، وفق موقع «بيروت 24»؛ ولم تُسجَّل إصابات.",
+   "source": {
+    "name": "Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/01/%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%B9%D9%8A%D8%AA%D8%A7-%D8%A7%D9%84%D8%AC%D8%A8/"
+   }
+  },
+  {
+   "id": "20261101-1547-houthi-aramco-aviation-threat",
+   "time": "2026-11-01T15:47:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Houthi media, citing a military official, say Saudi Aramco facilities are within range and warn international airlines off Saudi airspace except over Mecca and Medina.",
+   "ar": "إعلام الحوثيين ينقل عن مسؤول عسكري أن منشآت «أرامكو» السعودية في مرمى قواتهم، ويحذّر شركات الطيران الدولية من عبور الأجواء السعودية باستثناء أجواء مكة والمدينة.",
+   "source": {
+    "name": "AFP via 24 News HD",
+    "url": "https://www.24newshd.tv/01-Nov-2026/houthi-media-renews-threats-saudi-oil-giant-aviation"
+   }
+  },
   {
    "id": "20261101-1323-likud-rejects-rotation",
    "time": "2026-11-01T13:23:00Z",
