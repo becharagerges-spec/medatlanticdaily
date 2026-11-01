@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-01T19:09:42Z",
+ "updated": "2026-11-01T20:08:57Z",
  "items": [
+  {
+   "id": "20261101-1900-hormuz-vessel-projectile",
+   "time": "2026-11-01T19:00:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a merchant vessel was struck by an unknown projectile in the Strait of Hormuz on Sunday, after another ship's master relayed a mayday call; no damage or casualty details given.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة تجارية أُصيبت بمقذوف مجهول في مضيق هرمز يوم الأحد، بعد نداء استغاثة نقله ربّان سفينة أخرى، من دون تفاصيل عن أضرار أو إصابات.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/vessel-struck-in-strait-of-hormuz-maritime-agency-3009316"
+   }
+  },
   {
    "id": "20261101-1817-alaska-doj-suit-dismissed",
    "time": "2026-11-01T18:17:00Z",
@@ -81,6 +93,18 @@
    "source": {
     "name": "AFP via 24 News HD",
     "url": "https://www.24newshd.tv/01-Nov-2026/houthi-media-renews-threats-saudi-oil-giant-aviation"
+   }
+  },
+  {
+   "id": "20261101-1343-coalition-houthi-operation",
+   "time": "2026-11-01T13:43:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it carried out a precision military operation in Yemen on Sunday morning against Houthi resources used for ballistic missiles and drones, without naming targets.",
+   "ar": "التحالف بقيادة السعودية يعلن أنه نفّذ صباح الأحد عملية عسكرية دقيقة في اليمن استهدفت موارد يستخدمها الحوثيون للصواريخ الباليستية والمسيّرات، من دون تحديد الأهداف.",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
    }
   },
   {
@@ -1122,18 +1146,6 @@
    "source": {
     "name": "AP via WRAL",
     "url": "https://www.wral.com/news/ap/16c26-asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/"
-   }
-  },
-  {
-   "id": "20261029-1926-doj-alaska-sullivan-probe",
-   "time": "2026-10-29T19:26:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democratic Senate candidate Mary Peltola denies knowing of a second 'Dan Sullivan' on Alaska's ballot, as the Justice Department issues dozens of new grand jury subpoenas in its criminal probe.",
-   "ar": "المرشحة الديمقراطية لمجلس الشيوخ ماري بيلتولا تنفي علمها بوجود «دان سوليفان» ثانٍ على ورقة الاقتراع في ألاسكا، فيما تُصدر وزارة العدل عشرات مذكرات الاستدعاء الجديدة في تحقيقها الجنائي.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/alaska-peltola-senate-dan-sullivan-democrats-dunleavy-c391cc7b546384c7adde9aebc9973620"
    }
   }
  ]
