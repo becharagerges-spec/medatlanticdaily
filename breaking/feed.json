@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-01T17:08:31Z",
+ "updated": "2026-11-01T18:08:14Z",
  "items": [
+  {
+   "id": "20261101-1744-stevens-endorses-rogers",
+   "time": "2026-11-01T17:44:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan's Senate seat, breaking with Democratic nominee Abdul El-Sayed after a feud over his criticism of Israel.",
+   "ar": "النائبة الديمقراطية هايلي ستيفنز تؤيد الجمهوري مايك روجرز لمقعد ميشيغان في مجلس الشيوخ، منشقّة عن المرشح الديمقراطي عبد السيد بعد خلاف حول انتقاده لإسرائيل.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261101-1734-sohlberg-interference",
+   "time": "2026-11-01T17:34:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's election committee chief Noam Sohlberg says, in a joint statement with the Shin Bet and Attorney General, that suspected foreign interference does not undermine the election results.",
+   "ar": "رئيس لجنة الانتخابات المركزية في إسرائيل نوعام سولبرغ يقول، في بيان مشترك مع الشاباك والمستشارة القضائية، إن الاشتباه بتدخل أجنبي لا يمسّ نزاهة نتائج الانتخابات.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913502"
+   }
+  },
+  {
+   "id": "20261101-1730-murphy-stroke",
+   "time": "2026-11-01T17:30:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democratic Senator Chris Murphy of Connecticut is hospitalized at Johns Hopkins after a stroke on Saturday, his chief of staff says, adding he is awake and responding well.",
+   "ar": "السيناتور الديمقراطي كريس مورفي من كونيتيكت في مستشفى جونز هوبكنز إثر جلطة دماغية السبت، بحسب رئيسة مكتبه التي قالت إنه واعٍ ويستجيب جيداً للعلاج.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261101-1647-wadi-hujeir-shelling",
+   "time": "2026-11-01T16:47:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli artillery heavily shelled Wadi al-Hujeir toward Tulin in south Lebanon on Sunday, amid shelling of several southern towns, per Lebanese outlet Beirut 24.",
+   "ar": "قصف مدفعي إسرائيلي عنيف استهدف وادي الحجير باتجاه تولين في جنوب لبنان الأحد، وسط قصف طال عدداً من البلدات الجنوبية، بحسب موقع «بيروت 24».",
+   "source": {
+    "name": "Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/01/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%86%D9%8A%D9%81-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84/"
+   }
+  },
   {
    "id": "20261101-1624-aita-al-jabal-strike",
    "time": "2026-11-01T16:24:00Z",
