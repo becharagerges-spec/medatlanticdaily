@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:08:41Z",
+ "updated": "2026-11-01T06:08:21Z",
  "items": [
   {
    "id": "20261101-0325-kstovo-refinery-fire",
@@ -35,6 +35,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/"
+   }
+  },
+  {
+   "id": "20261101-0022-korea-exports-record",
+   "time": "2026-11-01T00:22:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "South Korea's trade ministry says October exports hit a record $115.3 billion, up 93.7% year on year, as chip exports jump 259% to $56.4 billion.",
+   "ar": "وزارة التجارة في كوريا الجنوبية تعلن أن الصادرات بلغت في تشرين الأول رقماً قياسياً قدره 115.3 مليار دولار، بارتفاع 93.7% على أساس سنوي، مع قفزة صادرات الرقائق 259% إلى 56.4 مليار دولار.",
+   "source": {
+    "name": "The Korea Times",
+    "url": "https://www.koreatimes.co.kr/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
    }
   },
   {
