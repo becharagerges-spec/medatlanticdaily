@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-01T08:09:16Z",
+ "updated": "2026-11-01T09:08:47Z",
  "items": [
+  {
+   "id": "20261101-0759-qatar-lng-al-mayeda-hit",
+   "time": "2026-11-01T07:59:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar's Nakilat says its LNG carrier Al Mayeda was hit by unidentified objects while transiting the Gulf on Friday evening; no crew were hurt and the ship remains operational.",
+   "ar": "شركة «ناقلات» القطرية تعلن أن ناقلة الغاز المسال «الميدا» أُصيبت بأجسام مجهولة أثناء عبورها الخليج مساء الجمعة، من دون إصابات في الطاقم، والسفينة لا تزال عاملة.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/qatari-gas-tanker-struck-in-gulf-state-media-3009222"
+   }
+  },
   {
    "id": "20261101-0623-russia-433-drones",
    "time": "2026-11-01T06:23:00Z",
@@ -107,6 +119,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/"
+   }
+  },
+  {
+   "id": "20261031-2210-araghchi-hormuz-two-days",
+   "time": "2026-10-31T22:10:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian FM Abbas Araghchi says a plan worked out with Qatari mediators could fully reopen the Strait of Hormuz within two days if the US meets Tehran's conditions.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن خطة يجري إعدادها مع الوسطاء القطريين قد تعيد فتح مضيق هرمز بالكامل خلال يومين إذا استجابت واشنطن لشروط طهران.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks"
    }
   },
   {
