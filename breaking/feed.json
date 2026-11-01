@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:08:46Z",
+ "updated": "2026-11-01T05:08:41Z",
  "items": [
   {
    "id": "20261101-0325-kstovo-refinery-fire",
@@ -47,6 +47,30 @@
    "source": {
     "name": "AAP via The Daily Advertiser",
     "url": "https://www.dailyadvertiser.com.au/story/9383622/israeli-president-to-launch-coalition-talks/"
+   }
+  },
+  {
+   "id": "20261031-2328-kramatorsk-council-airstrike",
+   "time": "2026-10-31T23:28:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Kramatorsk military administration head Oleksandr Honcharenko says a Russian airstrike destroyed the city council's central building on Peace Square; no casualties from the strike are reported.",
+   "ar": "رئيس الإدارة العسكرية في كراماتورسك أولكسندر هونتشارينكو يقول إن غارة جوية روسية دمّرت المبنى المركزي لمجلس المدينة في ساحة السلام، من دون الإبلاغ عن إصابات جراء الغارة.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/"
+   }
+  },
+  {
+   "id": "20261031-2114-iran-rejects-qatar-plan",
+   "time": "2026-10-31T21:14:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "A senior Iranian official says Tehran does not find Qatar's proposed seven-day US-Iran trust-building plan satisfactory, as Iranian negotiators meet Qatari mediators in Doha, Reuters reports.",
+   "ar": "مسؤول إيراني رفيع يقول إن طهران لا تجد خطة بناء الثقة الأميركية-الإيرانية التي اقترحتها قطر لسبعة أيام مُرضية، فيما يلتقي المفاوضون الإيرانيون الوسطاء القطريين في الدوحة، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168"
    }
   },
   {
