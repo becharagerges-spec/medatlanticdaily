@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-01T12:09:55Z",
+ "updated": "2026-11-01T13:09:05Z",
  "items": [
+  {
+   "id": "20261101-1224-iran-doha-third-day",
+   "time": "2026-11-01T12:24:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian negotiators hold a third straight day of talks with Qatari mediators in Doha on a deal to end the US-Israeli war on Iran, with Washington kept informed, an official tells Reuters.",
+   "ar": "المفاوضون الإيرانيون يعقدون يوماً ثالثاً متتالياً من المحادثات مع الوسطاء القطريين في الدوحة بشأن اتفاق لإنهاء الحرب الأميركية الإسرائيلية على إيران، مع إطلاع واشنطن، بحسب مسؤول لرويترز.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says"
+   }
+  },
+  {
+   "id": "20261101-1049-blome-iran-channels-open",
+   "time": "2026-11-01T10:49:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "US Assistant Secretary of State Donald Blome tells the Manama Dialogue that diplomatic channels with Iran remain 'open and active' but the US could take 'another direction' if needed, per The National.",
+   "ar": "مساعد وزير الخارجية الأميركي دونالد بلوم يقول في حوار المنامة إن قنوات الدبلوماسية مع إيران «مفتوحة وناشطة» لكن واشنطن قد تسلك «اتجاهاً آخر» عند الحاجة، بحسب «ذا ناشونال».",
+   "source": {
+    "name": "The National",
+    "url": "https://thenationalnews.com/news/mena/2026/11/01/after-years-of-war-syria-and-lebanon-turning-corner-to-rebuild-us-envoy-says"
+   }
+  },
+  {
+   "id": "20261101-1033-gargash-braced-worst",
+   "time": "2026-11-01T10:33:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UAE presidential adviser Anwar Gargash says in Manama the UAE hopes for a US-Iran diplomatic breakthrough but is 'braced for the worst' if another round of war comes.",
+   "ar": "المستشار الدبلوماسي لرئيس الإمارات أنور قرقاش يقول في المنامة إن الإمارات تأمل باختراق دبلوماسي بين واشنطن وطهران لكنها «مستعدة للأسوأ» إذا اندلعت جولة حرب جديدة.",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323468-uae-says-hoping-for-breakthrough-yet-braced-for-the-worst-in-iran-us-war"
+   }
+  },
   {
    "id": "20261101-1031-iran-army-longer-war",
    "time": "2026-11-01T10:31:00Z",
@@ -944,30 +980,6 @@
    "source": {
     "name": "Reuters via Global Banking & Finance Review",
     "url": "https://www.globalbankingandfinance.com/ecb-keeps-rates-unchanged-euro-slips/"
-   }
-  },
-  {
-   "id": "20261029-1230-us-gdp-q3",
-   "time": "2026-10-29T12:30:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US GDP grows at a 3.4% annual rate in the third quarter, up from 2.2% in the second, while September inflation rises to a four-month high, official data show.",
-   "ar": "الناتج المحلي الأميركي ينمو بمعدل سنوي 3.4% في الربع الثالث، ارتفاعاً من 2.2% في الربع الثاني، فيما يبلغ التضخم في أيلول أعلى مستوى له منذ أربعة أشهر، وفق البيانات الرسمية.",
-   "source": {
-    "name": "FXStreet",
-    "url": "https://www.fxstreet.com/news/united-states-economy-grows-34-in-third-quarter-vs-32-expected-202610291232"
-   }
-  },
-  {
-   "id": "20261029-1226-doordash-instacart",
-   "time": "2026-10-29T12:26:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "DoorDash agrees to buy Instacart for $17 billion and says the Instacart brand and app will remain, AP reports.",
-   "ar": "«دورداش» توافق على شراء «إنستاكارت» مقابل 17 مليار دولار، وتؤكد الإبقاء على علامة «إنستاكارت» وتطبيقها، بحسب «أسوشيتد برس».",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/doordash-instacart-delivery-d6f30f5d18c288eeba6babcb49260e06"
    }
   }
  ]
