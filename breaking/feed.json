@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-01T03:09:03Z",
+ "updated": "2026-11-01T04:08:46Z",
  "items": [
+  {
+   "id": "20261101-0325-kstovo-refinery-fire",
+   "time": "2026-11-01T03:25:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Lukoil's NORSI refinery in Kstovo, Russia's fourth-largest, is ablaze after a reported overnight Ukrainian drone strike, per Russian outlet ASTRA and Ukrainian monitoring channels; unverified.",
+   "ar": "مصفاة «نورسي» التابعة لـ«لوك أويل» في كستوفو، رابع أكبر مصفاة في روسيا، تشتعل بعد ضربة مسيّرة أوكرانية ليلية، بحسب موقع «أسترا» الروسي وقنوات رصد أوكرانية؛ ولم يتسنَّ التحقق.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/"
+   }
+  },
   {
    "id": "20261101-0145-trump-pickaxe-mountain",
    "time": "2026-11-01T01:45:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/"
+   }
+  },
+  {
+   "id": "20261031-2340-herzog-coalition-consultations",
+   "time": "2026-10-31T23:40:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "President Isaac Herzog plans to open consultations with Knesset parties on Wednesday on who should form Israel's next government, with the meeting broadcast live, per AAP citing Haaretz.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يعتزم بدء مشاوراته مع أحزاب الكنيست يوم الأربعاء بشأن تكليف تشكيل الحكومة المقبلة، على أن تُبثّ الجلسة مباشرة، بحسب «أ.أ.ب» نقلاً عن «هآرتس».",
+   "source": {
+    "name": "AAP via The Daily Advertiser",
+    "url": "https://www.dailyadvertiser.com.au/story/9383622/israeli-president-to-launch-coalition-talks/"
    }
   },
   {
