@@ -1,6 +1,65 @@
 {
- "updated": "2026-10-31T20:08:59Z",
+ "updated": "2026-11-01T03:09:03Z",
  "items": [
+  {
+   "id": "20261101-0145-trump-pickaxe-mountain",
+   "time": "2026-11-01T01:45:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump says the US still has 'one or two sites' to take care of in Iran, naming suspected nuclear site Pickaxe Mountain, and says it could be done 'in 10 minutes'.",
+   "ar": "ترامب يقول إن على الولايات المتحدة بعد «التعامل مع موقع أو اثنين» في إيران، ذاكراً موقع «جبل بيكاكس» النووي المشتبه به، ويؤكد أن ذلك ممكن «في 10 دقائق».",
+   "source": {
+    "name": "AFP via The Korea Times",
+    "url": "https://www.koreatimes.co.kr/world/20261101/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran"
+   }
+  },
+  {
+   "id": "20261101-0037-trump-netanyahu-call",
+   "time": "2026-11-01T00:37:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Trump and Netanyahu spoke by phone on Saturday morning as Washington prepared plans to resume strikes on Iran, the Wall Street Journal reports.",
+   "ar": "ترامب ونتنياهو أجريا اتصالاً هاتفياً صباح السبت فيما تُعدّ واشنطن خططاً لاستئناف الضربات على إيران، بحسب «وول ستريت جورنال».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/"
+   }
+  },
+  {
+   "id": "20261031-2059-wsj-lawsuit-dismissed",
+   "time": "2026-10-31T20:59:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "A federal judge dismisses Trump's defamation lawsuit against The Wall Street Journal over its Epstein birthday-letter reporting, this time for good, per CNN.",
+   "ar": "قاضٍ فدرالي يردّ نهائياً دعوى التشهير التي رفعها ترامب على «وول ستريت جورنال» بسبب تقريرها عن رسالة عيد ميلاد إبستين، بحسب «سي إن إن».",
+   "source": {
+    "name": "CNN"
+   }
+  },
+  {
+   "id": "20261031-2009-alaska-ballots-meritless",
+   "time": "2026-10-31T20:09:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Alaska's Republican-run state government urges a federal judge to dismiss a Trump-directed lawsuit seeking to block certification of the Senate race, calling it 'meritless'.",
+   "ar": "حكومة ولاية ألاسكا الجمهورية تطلب من قاضٍ فدرالي ردّ دعوى رُفعت بتوجيه من ترامب لمنع المصادقة على نتيجة سباق مجلس الشيوخ، واصفةً إياها بأنها «بلا أساس».",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/alaska-senate-dan-sullivan-certification-5b975dc87222858f6239e9170d675698"
+   }
+  },
+  {
+   "id": "20261031-1937-un-staffer-houthi-custody",
+   "time": "2026-10-31T19:37:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "UN rights chief Volker Türk says Yemeni staff member Mohammad el Shami died in Houthi custody after detention since June 2024 and demands an independent investigation.",
+   "ar": "المفوض الأممي لحقوق الإنسان فولكر تورك يعلن وفاة الموظف اليمني محمد الشامي في احتجاز الحوثيين بعد اعتقاله منذ حزيران 2024، ويطالب بتحقيق مستقل.",
+   "source": {
+    "name": "Reuters via Yahoo",
+    "url": "https://malaysia.news.yahoo.com/un-says-yemeni-staff-member-193735670.html"
+   }
+  },
   {
    "id": "20261031-1922-ca-noncitizen-list",
    "time": "2026-10-31T19:22:00Z",
@@ -789,18 +848,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran"
-   }
-  },
-  {
-   "id": "20261029-0307-samsung-kospi-fall",
-   "time": "2026-10-29T03:07:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Seoul stocks fall nearly 3% and Samsung Electronics shares drop more than 5% after its third-quarter operating profit of 107.4 trillion won misses estimates, AFP reports.",
-   "ar": "بورصة سيول تتراجع نحو 3% وأسهم «سامسونغ للإلكترونيات» تهبط أكثر من 5% بعدما جاءت أرباحها التشغيلية للربع الثالث، البالغة 107.4 تريليونات وون، دون التوقعات، بحسب «فرانس برس».",
-   "source": {
-    "name": "AFP via The Jakarta Post",
-    "url": "https://www.thejakartapost.com/business/2026/10/29/asian-stock-markets-fluctuate-after-mixed-tech-results"
    }
   }
  ]
