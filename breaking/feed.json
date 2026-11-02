@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T06:15:37Z",
+ "updated": "2026-11-02T07:19:57Z",
  "items": [
+  {
+   "id": "20261102-0556-russia-193-drones",
+   "time": "2026-11-02T05:56:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 193 attack drones overnight, 75 of them jet-powered Shaheds; 154 were downed, with hits recorded at 26 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 193 مسيّرة هجومية خلال الليل، بينها 75 «شاهد» نفاثة؛ أُسقطت 154 منها، وسُجّلت إصابات في 26 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4180368-air-defenses-down-154-out-of-193-drones-used-by-russia-to-attack-ukraine-since-evening.html"
+   }
+  },
+  {
+   "id": "20261102-0518-samara-oil-station-strike",
+   "time": "2026-11-02T05:18:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian drones struck the Samara oil pumping and dispatch station in Russia's Samara region overnight, per Ukrainian monitoring channels cited by the Kyiv Independent; no official confirmation.",
+   "ar": "مسيّرات أوكرانية استهدفت ليلاً محطة ضخّ وتوزيع النفط في منطقة سامارا الروسية، وفق قنوات رصد أوكرانية نقلت عنها «كييف إندبندنت»؛ لا تأكيد رسمياً.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-oil-facility-in-russias-samara-oblast-in-overnight-attack/"
+   }
+  },
   {
    "id": "20261102-0432-asia-stocks-brent-eases",
    "time": "2026-11-02T04:32:00Z",
