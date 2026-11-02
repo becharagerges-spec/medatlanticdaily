@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-02T05:09:06Z",
+ "updated": "2026-11-02T06:15:37Z",
  "items": [
   {
    "id": "20261102-0432-asia-stocks-brent-eases",
    "time": "2026-11-02T04:32:00Z",
    "theater": "markets",
-   "status": "reported",
-   "en": "South Korea's Kospi rises 2.8% and China's ChiNext 3.3% by midday Monday, while Brent falls about $2 a barrel on the Doha talks, per investingLive.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يرتفع 2.8% ومؤشر تشاينكست الصيني 3.3% حتى منتصف نهار الإثنين، فيما يتراجع برنت نحو دولارين للبرميل على وقع محادثات الدوحة، بحسب investingLive.",
+   "status": "confirmed",
+   "en": "Brent falls 3.3% to $109.66 a barrel and US crude 3.3% to $100.64 as Iran holds talks in Qatar, while South Korea's Kospi rises 2.3% and Shanghai 1.2%, AP reports.",
+   "ar": "برنت يتراجع 3.3% إلى 109.66 دولارات للبرميل والخام الأميركي 3.3% إلى 100.64 دولاراً مع استمرار المحادثات الإيرانية في قطر، فيما يرتفع مؤشر كوسبي الكوري الجنوبي 2.3% وشنغهاي 1.2%، بحسب أسوشيتد برس.",
    "source": {
-    "name": "investingLive",
-    "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/"
+    "name": "AP via News4JAX",
+    "url": "https://www.news4jax.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"
    }
   },
   {
