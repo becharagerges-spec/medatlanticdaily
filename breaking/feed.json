@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-02T04:08:30Z",
+ "updated": "2026-11-02T05:09:06Z",
  "items": [
+  {
+   "id": "20261102-0432-asia-stocks-brent-eases",
+   "time": "2026-11-02T04:32:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kospi rises 2.8% and China's ChiNext 3.3% by midday Monday, while Brent falls about $2 a barrel on the Doha talks, per investingLive.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يرتفع 2.8% ومؤشر تشاينكست الصيني 3.3% حتى منتصف نهار الإثنين، فيما يتراجع برنت نحو دولارين للبرميل على وقع محادثات الدوحة، بحسب investingLive.",
+   "source": {
+    "name": "investingLive",
+    "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/"
+   }
+  },
+  {
+   "id": "20261102-0352-japan-defence-doubling",
+   "time": "2026-11-02T03:52:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Japan is weighing 70–80 trillion yen ($457–508 billion) in defence spending over five years from April 2027, nearly double the current plan, two sources tell Reuters.",
+   "ar": "اليابان تدرس إنفاقاً دفاعياً بين 70 و80 تريليون ين (457–508 مليار دولار) على خمس سنوات بدءاً من نيسان 2027، أي نحو ضعف الخطة الحالية، بحسب مصدرين لرويترز.",
+   "source": {
+    "name": "Reuters via Devdiscourse",
+    "url": "https://www.devdiscourse.com/article/international/4000431-japan-weighs-500-billion-defence-spending-plan-sources-say"
+   }
+  },
+  {
+   "id": "20261102-0346-latvia-airspace-object",
+   "time": "2026-11-02T03:46:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Latvia's armed forces say a suspicious flying object briefly entered Latvian airspace near Kraslava and Ludza, by the Russian and Belarusian borders, on Sunday before the threat left.",
+   "ar": "القوات المسلحة اللاتفية تقول إن جسماً طائراً مشبوهاً دخل لفترة وجيزة أجواء لاتفيا قرب كراسلافا ولودزا، على الحدود مع روسيا وبيلاروسيا، يوم الأحد قبل أن يغادر.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/"
+   }
+  },
   {
    "id": "20261102-0250-north-korea-nuclear-buildup",
    "time": "2026-11-02T02:50:00Z",
