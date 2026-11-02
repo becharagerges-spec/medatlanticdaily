@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T16:36:49Z",
+ "updated": "2026-11-02T17:47:05Z",
  "items": [
+  {
+   "id": "20261102-1643-scotus-california-ballots",
+   "time": "2026-11-02T16:43:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The Trump administration files an emergency appeal asking the Supreme Court to let it set aside about 20,000 California mail ballots it suspects were cast by noncitizens, after lower courts refused.",
+   "ar": "إدارة ترامب تقدّم طعناً طارئاً أمام المحكمة العليا تطلب فيه عزل نحو 20,000 بطاقة اقتراع بريدية في كاليفورنيا تشتبه بأن غير مواطنين أدلوا بها، بعدما رفضت المحاكم الأدنى طلبها.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+   }
+  },
+  {
+   "id": "20261102-1617-houthi-dammam-jizan-claim",
+   "time": "2026-11-02T16:17:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Houthis say they launched drones at Saudi Arabia's Dammam airport and hit an early-warning radar and a military transport aircraft in Jizan; there is no Saudi confirmation, Reuters reports.",
+   "ar": "الحوثيون يقولون إنهم أطلقوا مسيّرات نحو مطار الدمام في السعودية وأصابوا راداراً للإنذار المبكر وطائرة نقل عسكرية في جازان؛ ولا تأكيد سعودياً، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://timesofisrael.com/liveblog_entry/houthis-say-they-launched-drones-at-saudi-arabias-dammam-airport"
+   }
+  },
   {
    "id": "20261102-1552-fbi-officials-case-dismissed",
    "time": "2026-11-02T15:52:00Z",
@@ -107,6 +131,18 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/liberman-says-he-will-recommend-eisenkot-to-be-prime-minister-lapid-to-be-knesset-speaker/"
+   }
+  },
+  {
+   "id": "20261102-1015-wang-yi-bagheri-kani",
+   "time": "2026-11-02T10:15:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Chinese Foreign Minister Wang Yi tells Iran's security council deputy Ali Bagheri Kani in Beijing that China supports Iran in safeguarding its sovereignty and security, and urges a political solution.",
+   "ar": "وزير الخارجية الصيني وانغ يي يقول لنائب أمين مجلس الأمن القومي الإيراني علي باقري كني في بكين إن الصين تدعم إيران في صون سيادتها وأمنها، ويدعو إلى حلّ سياسي.",
+   "source": {
+    "name": "AFP via Aaj English TV",
+    "url": "https://english.aaj.tv/news/330479034/china-fm-tells-iran-official-beijing-supports-safeguarding-sovereignty"
    }
   },
   {
