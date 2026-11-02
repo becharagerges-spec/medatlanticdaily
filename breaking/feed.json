@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-02T13:18:29Z",
+ "updated": "2026-11-02T15:29:16Z",
  "items": [
+  {
+   "id": "20261102-1430-wallstreet-oil-iran",
+   "time": "2026-11-02T14:30:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stocks open higher, with the Dow up 0.78% to 52,173, as Brent crude falls about 6% to below $107 a barrel on hopes of a US-Iran deal.",
+   "ar": "الأسهم الأميركية تفتتح على ارتفاع، وداو جونز يصعد 0.78% إلى 52,173 نقطة، فيما يهبط خام برنت نحو 6% إلى ما دون 107 دولارات للبرميل على وقع آمال باتفاق أميركي-إيراني.",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://za.investing.com/news/stock-market-news/us-stocks-open-higher-as-ai-trade-steadies-oil-falls-4543397"
+   }
+  },
+  {
+   "id": "20261102-1426-pezeshkian-khamenei-authority",
+   "time": "2026-11-02T14:26:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei has given the government 'certain authorities' to negotiate with the United States and the mediators.",
+   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن المرشد الأعلى مجتبى خامنئي منح الحكومة «صلاحيات معيّنة» للتفاوض مع الولايات المتحدة والوسطاء.",
+   "source": {
+    "name": "IBTimes",
+    "url": "https://www.ibtimes.com/iran-authorizes-us-negotiations-oil-prices-fall-3809279"
+   }
+  },
+  {
+   "id": "20261102-1347-golan-backs-eisenkot",
+   "time": "2026-11-02T13:47:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yair Golan's Democrats say they will recommend Yashar leader Gadi Eisenkot to President Herzog to form Israel's next government, per The Jerusalem Post.",
+   "ar": "حزب «الديمقراطيون» بقيادة يائير غولان يعلن أنه سيوصي الرئيس هرتسوغ بتكليف زعيم «ياشار» غادي آيزنكوت تشكيل الحكومة الإسرائيلية المقبلة، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913583"
+   }
+  },
+  {
+   "id": "20261102-1343-irgc-11-tankers-claim",
+   "time": "2026-11-02T13:43:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRGC Navy says 11 oil tankers caught fire in the Strait of Hormuz in nine days since October 25, some of them sinking; the claim is unverified, per Tasnim.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن 11 ناقلة نفط اشتعلت فيها النيران في مضيق هرمز خلال تسعة أيام منذ 25 تشرين الأول، وغرق بعضها؛ والادعاء غير مؤكد، بحسب «تسنيم».",
+   "source": {
+    "name": "Tasnim",
+    "url": "https://www.tasnimnews.ir/en/news/2026/11/02/3738596/11-tankers-caught-fire-in-hormuz-in-9-days-irgc-navy/amp"
+   }
+  },
+  {
+   "id": "20261102-1321-likud-dark-cloud",
+   "time": "2026-11-02T13:21:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu reposts a Likud statement saying 'a dark cloud hangs' over Israel's election results until the foreign-funding probe ends, citing a 4,612-vote margin for one Ra'am seat.",
+   "ar": "نتنياهو يعيد نشر بيان لليكود يقول إن «غيمة سوداء تخيّم» على نتائج الانتخابات الإسرائيلية حتى انتهاء التحقيق في التمويل الأجنبي، مشيراً إلى فارق 4,612 صوتاً لمقعد واحد لـ«راعم».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-posts-likud-claim-of-a-dark-cloud-hanging-over-the-election-results/"
+   }
+  },
   {
    "id": "20261102-1241-brent-falls-europe",
    "time": "2026-11-02T12:41:00Z",
@@ -95,6 +155,18 @@
    "source": {
     "name": "VRT NWS",
     "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
+   }
+  },
+  {
+   "id": "20261102-0749-china-envoy-iran-gulf",
+   "time": "2026-11-02T07:49:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's foreign ministry says Middle East special envoy Zhai Jun will visit Iran, Oman and Saudi Arabia in early to mid-November.",
+   "ar": "الخارجية الصينية تعلن أن المبعوث الخاص إلى الشرق الأوسط تشاي جيون سيزور إيران وعُمان والسعودية بين مطلع تشرين الثاني ومنتصفه.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/china-to-send-middle-east-envoy-on-regional-trips-in-november-3009387"
    }
   },
   {
@@ -1339,65 +1411,6 @@
    "ar": "توجيه تهمة الاعتداء المشدّد بسلاح قاتل إلى عنصر في وكالة الهجرة والجمارك الأميركية (ICE) متّهم بدهس عامل بناء مكسيكي عمداً بسيارته في هيوستن، بحسب ما نقلت «سي إن إن» عن الادّعاء.",
    "source": {
     "name": "CNN"
-   }
-  },
-  {
-   "id": "20261030-1508-lebanon-13-charged-explosives",
-   "time": "2026-10-30T15:08:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "A Lebanese military court charges 13 people over a seized shipment of about 1,100 pounds of explosives bound for Hezbollah; only two are in custody, a judicial source tells AFP.",
-   "ar": "المحكمة العسكرية في لبنان تدّعي على 13 شخصاً في قضية شحنة متفجرات تزن نحو 500 كيلوغرام كانت متجهة إلى حزب الله، والموقوفون اثنان فقط، وفق مصدر قضائي لوكالة فرانس برس.",
-   "source": {
-    "name": "AFP via CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
-   }
-  },
-  {
-   "id": "20261030-1459-pope-leo-votes-midterms",
-   "time": "2026-10-30T14:59:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Pope Leo XIV has voted by mail in the US midterm elections, becoming the first Catholic pontiff to vote in an American election, the Holy See press office says.",
-   "ar": "البابا لاوون الرابع عشر يدلي بصوته غيابياً في الانتخابات النصفية الأميركية، ليصبح أول حبر أعظم كاثوليكي يصوّت في انتخابات أميركية، بحسب المكتب الصحافي للكرسي الرسولي.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261030-1416-trump-rallies-kansas-iowa",
-   "time": "2026-10-30T14:16:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump will hold rallies in Kansas and Iowa on Sunday after the Republican National Committee had cancelled them in favour of telerallies, a source tells AP.",
-   "ar": "ترامب سيعقد مهرجانين انتخابيين في كانساس وأيوا يوم الأحد بعدما كانت اللجنة الوطنية الجمهورية قد ألغتهما لصالح مهرجانات عبر الهاتف، بحسب مصدر لوكالة أسوشيتد برس.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48"
-   }
-  },
-  {
-   "id": "20261030-1359-g20-photo-cancelled",
-   "time": "2026-10-30T13:59:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio cancels the G20 group photo after European countries objected to standing beside Russia, two US officials tell AP.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يُلغي الصورة الجماعية لقمة العشرين بعد اعتراض دول أوروبية على الوقوف إلى جانب روسيا، بحسب مسؤولَين أميركيَّين لوكالة «أسوشيتد برس».",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/g20-rubio-russia-ukraine-iran-war-ed4ab8ad9fedd628c39ac05bc5092cac"
-   }
-  },
-  {
-   "id": "20261030-1342-nasdaq-falls-3pct",
-   "time": "2026-10-30T13:42:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The Nasdaq 100 falls about 3% as Intel shares sink 27% and Amazon drops 5.5% after earnings deepen the tech selloff, Bloomberg reports.",
-   "ar": "مؤشر ناسداك 100 يتراجع نحو 3% مع هبوط سهم إنتل 27% وأمازون 5.5% بعد نتائج أعمال عمّقت موجة بيع أسهم التكنولوجيا، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"
    }
   }
  ]
