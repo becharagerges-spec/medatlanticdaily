@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T19:10:15Z",
+ "updated": "2026-11-02T20:10:45Z",
  "items": [
+  {
+   "id": "20261102-1735-sohlberg-refuses-delay",
+   "time": "2026-11-02T17:35:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Election committee chair Noam Sohlberg rejects Likud's request to delay certifying the October 27 results, saying the committee has no authority to withhold certification, per Times of Israel.",
+   "ar": "رئيس لجنة الانتخابات المركزية نوعام سولبرغ يرفض طلب الليكود تأجيل المصادقة على نتائج انتخابات 27 تشرين الأول، قائلاً إن اللجنة لا تملك صلاحية حجب المصادقة، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/likud-demands-to-delay-certification-of-election-results-amid-foreign-interference-probe-sohlberg-refuses/"
+   }
+  },
+  {
+   "id": "20261102-1732-araghchi-all-scenarios",
+   "time": "2026-11-02T17:32:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian FM Abbas Araghchi tells IRNA in Ashgabat that Iran is 'prepared for all scenarios', says the next move is Washington's and warns any new attack will meet a harsher response.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول لـ«إرنا» من عشق آباد إن إيران «مستعدة لكل السيناريوهات»، وإن الخطوة التالية بيد واشنطن، محذّراً من أن أي هجوم جديد سيُقابَل بردّ أشدّ.",
+   "source": {
+    "name": "ANI",
+    "url": "https://www.aninews.in/news/world/middle-east/prepared-for-all-scenarios-iran-fm-araghchi-warns-us-against-renewed-military-aggression20261102230227/"
+   }
+  },
   {
    "id": "20261102-1703-komyshuvakha-bombs",
    "time": "2026-11-02T17:03:00Z",
@@ -1436,30 +1460,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/energy/2026/10/31/uae-petrol-prices-defy-expectations-with-surprise-drop-in-november/"
-   }
-  },
-  {
-   "id": "20261030-1937-oil-october-gain",
-   "time": "2026-10-30T19:37:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent settles at $117.64 a barrel, up 2.4%, and US crude at $104.12, ending October up 13.6% and 15.2% on fears of a wider Iran war.",
-   "ar": "خام برنت يُقفل عند 117.64 دولاراً للبرميل بارتفاع 2.4%، والخام الأميركي عند 104.12 دولارات، لينهيا تشرين الأول على مكاسب بنسبة 13.6% و15.2% وسط مخاوف من اتساع الحرب مع إيران.",
-   "source": {
-    "name": "Reuters via The Korea Times",
-    "url": "https://www.koreatimes.co.kr/world/20261031/oil-jumps-2-settles-at-6-month-highs-on-fears-of-escalation-in-iran"
-   }
-  },
-  {
-   "id": "20261030-1911-ninth-circuit-california-ballots",
-   "time": "2026-10-30T19:11:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "A federal appeals court again rejects a Justice Department demand that California set aside ballots from about 20,000 voters the administration claims could be noncitizens.",
-   "ar": "محكمة استئناف فدرالية ترفض مجدداً طلب وزارة العدل الأميركية من كاليفورنيا تنحية بطاقات اقتراع نحو 20,000 ناخب تزعم الإدارة أنهم قد لا يحملون الجنسية.",
-   "source": {
-    "name": "AP via Local 10",
-    "url": "https://www.local10.com/news/politics/2026/10/30/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots/"
    }
   }
  ]
