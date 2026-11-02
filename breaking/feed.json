@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-02T15:29:16Z",
+ "updated": "2026-11-02T16:36:49Z",
  "items": [
+  {
+   "id": "20261102-1552-fbi-officials-case-dismissed",
+   "time": "2026-11-02T15:52:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A US magistrate judge dismisses the Justice Department's complaint against 2 former FBI officials accused of lying to Congress about Hunter Biden; prosecutors may still seek a grand jury indictment.",
+   "ar": "قاضٍ فدرالي أميركي يردّ شكوى وزارة العدل ضد مسؤولَين سابقَين في مكتب التحقيقات الفدرالي متّهمَين بالكذب على الكونغرس بشأن هانتر بايدن، فيما يبقى بإمكان الادعاء السعي إلى لائحة اتهام عبر هيئة محلّفين كبرى.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/fbi-hunter-biden-laptop-justice-department-101ccd65d10b5f77998574eb0045b52"
+   }
+  },
   {
    "id": "20261102-1430-wallstreet-oil-iran",
    "time": "2026-11-02T14:30:00Z",
@@ -71,6 +83,18 @@
    "source": {
     "name": "Reuters via Euronext",
     "url": "https://live.euronext.com/en/financial-news/european-stocks-edge-down-oil-drops-midterm-caution-prevails"
+   }
+  },
+  {
+   "id": "20261102-1153-herzog-smallest-parties-first",
+   "time": "2026-11-02T11:53:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "President Herzog's office says consultations on forming Israel's next government start Wednesday at 17:00 with the smallest parties, ending Thursday evening with Eisenkot's Yashar and Netanyahu's Likud.",
+   "ar": "مكتب الرئيس الإسرائيلي هرتسوغ يعلن أن مشاورات تكليف تشكيل الحكومة تبدأ الأربعاء عند الخامسة مساءً مع الأحزاب الأصغر، وتنتهي مساء الخميس مع حزب «يَشار» بقيادة آيزنكوت و«الليكود» بقيادة نتنياهو.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/"
    }
   },
   {
@@ -263,6 +287,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-oil-facility-in-russias-samara-oblast-in-overnight-attack/"
+   }
+  },
+  {
+   "id": "20261102-0443-houthi-ras-issa-bajil-strikes",
+   "time": "2026-11-02T04:43:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Houthis say Saudi-led coalition strikes hit Yemen's Ras Issa port and an oil facility in Bajil, wounding 7 people, per Gulf News.",
+   "ar": "الحوثيون يقولون إن غارات التحالف بقيادة السعودية أصابت ميناء رأس عيسى ومنشأة نفطية في باجل باليمن، ما أدى إلى إصابة 7 أشخاص، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/americas/middle-east-conflict-trump-threatens-iran-with-military-action-as-tehran-warns-new-war-could-last-longer-1.500732180"
    }
   },
   {
@@ -1400,17 +1436,6 @@
    "source": {
     "name": "Anadolu via Middle East Monitor",
     "url": "https://www.middleeastmonitor.com/20261031-iran-says-4th-oil-tanker-hit-mine-caught-fire-in-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261030-1553-ice-officer-charged-houston",
-   "time": "2026-10-30T15:53:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "A US immigration (ICE) officer accused of intentionally ramming his car into a Mexican construction worker in Houston is charged with aggravated assault with a deadly weapon, prosecutors say, per CNN.",
-   "ar": "توجيه تهمة الاعتداء المشدّد بسلاح قاتل إلى عنصر في وكالة الهجرة والجمارك الأميركية (ICE) متّهم بدهس عامل بناء مكسيكي عمداً بسيارته في هيوستن، بحسب ما نقلت «سي إن إن» عن الادّعاء.",
-   "source": {
-    "name": "CNN"
    }
   }
  ]
