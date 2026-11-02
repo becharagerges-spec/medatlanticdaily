@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-02T11:15:47Z",
+ "updated": "2026-11-02T12:18:54Z",
  "items": [
+  {
+   "id": "20261102-1147-liberman-backs-eisenkot",
+   "time": "2026-11-02T11:47:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yisrael Beytenu leader Avigdor Liberman says his party will recommend Gadi Eisenkot to form Israel's next government and back Yair Lapid for Knesset speaker, per Times of Israel.",
+   "ar": "رئيس «يسرائيل بيتينو» أفيغدور ليبرمان يعلن أن حزبه سيوصي بتكليف غادي آيزنكوت تشكيل الحكومة الإسرائيلية المقبلة ويدعم يائير لابيد لرئاسة الكنيست، وفق «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-says-he-will-recommend-eisenkot-to-be-prime-minister-lapid-to-be-knesset-speaker/"
+   }
+  },
   {
    "id": "20261102-1014-kherson-attacks-resume",
    "time": "2026-11-02T10:14:00Z",
@@ -239,6 +251,18 @@
    "source": {
     "name": "i24NEWS",
     "url": "https://www.i24news.tv/en/news/middle-east/artc-iran-s-indiscriminate-aggression-is-clearly-evident-and-inexcusable-us-s-central-command-declares-live-blog"
+   }
+  },
+  {
+   "id": "20261102-0037-zelensky-refineries-patriots",
+   "time": "2026-11-02T00:37:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky tells Fox News Ukraine would stop striking Russian refineries if Russia stops hitting Ukraine's energy grid, and asks the US for Patriot missiles Kyiv would pay for.",
+   "ar": "زيلينسكي يقول لـ«فوكس نيوز» إن أوكرانيا ستوقف ضرب المصافي الروسية إذا أوقفت روسيا استهداف شبكة الطاقة الأوكرانية، ويطلب من واشنطن صواريخ «باتريوت» تدفع كييف ثمنها.",
+   "source": {
+    "name": "The Manila Times",
+    "url": "https://www.manilatimes.net/2026/11/02/world/americas-emea/zelensky-says-will-stop-hitting-russia-refineries-if-us-provides-missiles/2459067"
    }
   },
   {
