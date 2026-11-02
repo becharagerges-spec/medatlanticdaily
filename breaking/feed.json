@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T10:10:04Z",
+ "updated": "2026-11-02T11:15:47Z",
  "items": [
+  {
+   "id": "20261102-1014-kherson-attacks-resume",
+   "time": "2026-11-02T10:14:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukrainian officials say Russia resumed attacks on the Kherson region after the Oleshky truce ended, wounding 2 people in Kherson, and killed 1 in Izium; Kyiv says Moscow rejected an extension.",
+   "ar": "مسؤولون أوكرانيون يقولون إن روسيا استأنفت هجماتها على منطقة خيرسون بعد انتهاء هدنة أوليشكي، فأصابت شخصين في خيرسون وقتلت شخصاً في إيزيوم، وكييف تقول إن موسكو رفضت تمديدها.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says"
+   }
+  },
+  {
+   "id": "20261102-1000-kremlin-no-local-truces",
+   "time": "2026-11-02T10:00:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin spokesman Dmitry Peskov says no further local ceasefires like the Oleshky truce are planned and assumes Ukraine's army also used the pause to regroup.",
+   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إنه لا هدنات محلية أخرى على غرار هدنة أوليشكي مقرّرة حالياً، ويفترض أن الجيش الأوكراني استغلّ التوقف أيضاً لإعادة تجميع صفوفه.",
+   "source": {
+    "name": "Reuters via SRN News",
+    "url": "https://srnnews.com/kremlin-says-it-assumes-that-the-ukrainian-army-used-the-oleshky-ceasefire-to-regroup-in-line-with-normal-practice/"
+   }
+  },
   {
    "id": "20261102-0936-iran-left-doha-draft",
    "time": "2026-11-02T09:36:00Z",
@@ -53,12 +77,12 @@
    "id": "20261102-0739-iran-us-messages-continue",
    "time": "2026-11-02T07:39:00Z",
    "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Foreign Ministry says message exchanges with the US are continuing and that a deputy foreign minister's Doha visit aimed to help talks with Qatari mediators, per Iran International.",
-   "ar": "وزارة الخارجية الإيرانية تقول إن تبادل الرسائل مع الولايات المتحدة مستمر، وإن زيارة نائب وزير الخارجية إلى الدوحة هدفت إلى دعم المحادثات مع الوسيط القطري، بحسب «إيران إنترناشونال».",
+   "status": "confirmed",
+   "en": "Iran's Foreign Ministry spokesman Esmail Baghaei says 'the ball is in America's court', Hormuz stays closed until the US lifts its naval blockade, and message exchanges with Washington continue.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن «الكرة في ملعب أميركا»، وإن هرمز يبقى مغلقاً حتى ترفع واشنطن حصارها البحري، وإن تبادل الرسائل معها مستمر.",
    "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
+    "name": "ANI via The Tribune",
+    "url": "https://www.tribuneindia.com/news/world/ball-is-in-americas-court-iran-demands-end-to-us-naval-blockade-before-any-agreement-on-strait-of-hormuz"
    }
   },
   {
@@ -179,6 +203,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/"
+   }
+  },
+  {
+   "id": "20261102-0251-us-russia-gas-europe",
+   "time": "2026-11-02T02:51:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "US envoys Witkoff and Kushner have pushed a plan for Russia to resume gas sales to Europe via Ukrainian pipelines through a US intermediary, the Wall Street Journal reports.",
+   "ar": "المبعوثان الأميركيان ويتكوف وكوشنر دفعا بخطة تتيح لروسيا استئناف بيع الغاز لأوروبا عبر الأنابيب الأوكرانية وبواسطة وسيط أميركي، بحسب «وول ستريت جورنال».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-pushes-for-russia-to-resume-gas-sales-to-europe-wsj-reports"
    }
   },
   {
@@ -1326,18 +1362,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"
-   }
-  },
-  {
-   "id": "20261030-1056-irgc-two-tankers-halted",
-   "time": "2026-10-30T10:56:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Iran's Revolutionary Guards say they halted two oil tankers south of the Strait of Hormuz for using an unauthorized route, and claim they destroyed a US unmanned vessel.",
-   "ar": "الحرس الثوري الإيراني يقول إنه أوقف ناقلتَي نفط جنوب مضيق هرمز لسلوكهما مساراً غير مرخّص، ويزعم أنه دمّر زورقاً أميركياً مسيّراً.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-halted-after-incidents-in-hormuz-3008990"
    }
   }
  ]
