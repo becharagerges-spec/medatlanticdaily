@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-02T12:18:54Z",
+ "updated": "2026-11-02T13:18:29Z",
  "items": [
+  {
+   "id": "20261102-1241-brent-falls-europe",
+   "time": "2026-11-02T12:41:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude futures fall 4.5% to about $108 a barrel as Iran's negotiators leave the Doha talks and a draft deal circulates; Europe's STOXX 600 slips 0.1%.",
+   "ar": "العقود الآجلة لخام برنت تتراجع 4.5% إلى نحو 108 دولارات للبرميل مع مغادرة المفاوضين الإيرانيين محادثات الدوحة وتداول مسودة اتفاق، فيما يتراجع مؤشر ستوكس 600 الأوروبي 0.1%.",
+   "source": {
+    "name": "Reuters via Euronext",
+    "url": "https://live.euronext.com/en/financial-news/european-stocks-edge-down-oil-drops-midterm-caution-prevails"
+   }
+  },
   {
    "id": "20261102-1147-liberman-backs-eisenkot",
    "time": "2026-11-02T11:47:00Z",
