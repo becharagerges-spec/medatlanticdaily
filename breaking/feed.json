@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-01T20:08:57Z",
+ "updated": "2026-11-02T03:09:22Z",
  "items": [
+  {
+   "id": "20261101-2347-tanker-khafji-projectiles",
+   "time": "2026-11-01T23:47:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a tanker was hit on its port side by two unidentified projectiles 72 nautical miles east of Saudi Arabia's Ras al-Khafji; all crew are accounted for.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة أُصيبت في جانبها الأيسر بمقذوفين مجهولين على بُعد 72 ميلاً بحرياً شرق رأس الخفجي السعودية؛ وجميع أفراد الطاقم بخير.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/tanker-struck-by-two-projectiles-near-saudi-arabia-monitor-says/"
+   }
+  },
+  {
+   "id": "20261101-2301-trump-iran-put-away",
+   "time": "2026-11-01T23:01:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump says the US will 'put away' the Iran war 'very soon, one way or the other': 'Either they'll make a deal, or we'll just end it.'",
+   "ar": "ترامب يقول إن الولايات المتحدة ستُنهي الحرب مع إيران «قريباً جداً، بطريقة أو بأخرى»: «إما أن يعقدوا اتفاقاً، أو سننهيها نحن».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-on-iran-conflict-well-put-it-away-very-soon-either-through-deal-or-another-us-offensive/"
+   }
+  },
+  {
+   "id": "20261101-2136-ukraine-alert-app-hacked",
+   "time": "2026-11-01T21:36:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says its public air-raid alert app was hacked and briefly showed false nuclear and chemical alerts for Kyiv; it says there is no radiation threat.",
+   "ar": "سلاح الجو الأوكراني يقول إن تطبيق الإنذار من الغارات اختُرق وعرض لفترة وجيزة إنذارات نووية وكيميائية كاذبة لكييف، مؤكداً أنه لا يوجد أي تهديد إشعاعي.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/ukrainian-air-force-says-public-213604827.html"
+   }
+  },
+  {
+   "id": "20261101-2011-irgc-two-tankers-mines",
+   "time": "2026-11-01T20:11:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRGC Navy says two oil tankers, one a supertanker, exploded after hitting mines on an 'unauthorized route' in the Strait of Hormuz; the claim is unverified.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط، إحداهما عملاقة، انفجرتا بعد اصطدامهما بألغام على «مسار غير مرخّص» في مضيق هرمز؛ ولم يتسنَّ التحقق من الرواية.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-in-hormuz/"
+   }
+  },
   {
    "id": "20261101-1900-hormuz-vessel-projectile",
    "time": "2026-11-01T19:00:00Z",
@@ -387,12 +435,12 @@
    "id": "20261101-0037-trump-netanyahu-call",
    "time": "2026-11-01T00:37:00Z",
    "theater": "iran",
-   "status": "reported",
-   "en": "Trump and Netanyahu spoke by phone on Saturday morning as Washington prepared plans to resume strikes on Iran, the Wall Street Journal reports.",
-   "ar": "ترامب ونتنياهو أجريا اتصالاً هاتفياً صباح السبت فيما تُعدّ واشنطن خططاً لاستئناف الضربات على إيران، بحسب «وول ستريت جورنال».",
+   "status": "confirmed",
+   "en": "Trump confirms he spoke with Netanyahu on Saturday, calling it a 'very good talk' about Iran, after the Wall Street Journal reported Washington was preparing to resume strikes.",
+   "ar": "ترامب يؤكد أنه تحدث مع نتنياهو يوم السبت واصفاً الاتصال بأنه «حديث جيد جداً» بشأن إيران، بعدما أفادت «وول ستريت جورنال» بأن واشنطن تستعد لاستئناف الضربات.",
    "source": {
     "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/"
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-confirms-good-talk-with-netanyahu-says-they-discussed-iran/"
    }
   },
   {
@@ -1122,30 +1170,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/binance-to-resume-customer-withdrawals-in-phases-after-hack"
-   }
-  },
-  {
-   "id": "20261030-0238-oil-rises-asia",
-   "time": "2026-10-30T02:38:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Oil rises in Asian trading, with US crude up 2.8% at $104.86 a barrel and Brent up 2.5% at $117.80, AP reports.",
-   "ar": "النفط يرتفع في التداولات الآسيوية، إذ يصعد الخام الأميركي 2.8% إلى 104.86 دولارات للبرميل وبرنت 2.5% إلى 117.80 دولاراً، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via WRAL",
-    "url": "https://www.wral.com/news/ap/16c26-asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/"
-   }
-  },
-  {
-   "id": "20261030-0156-asia-tech-selloff",
-   "time": "2026-10-30T01:56:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "South Korea's Kospi falls 5.4% and Japan's Nikkei 2.6% in Friday trading as a tech selloff led by Alphabet's record 12.6% drop spreads to Asia, AP reports.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع 5.4% ونيكاي الياباني 2.6% في تداولات الجمعة، مع امتداد موجة بيع أسهم التكنولوجيا إلى آسيا بعد هبوط قياسي لسهم ألفابت بنسبة 12.6%، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via WRAL",
-    "url": "https://www.wral.com/news/ap/16c26-asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/"
    }
   }
  ]
