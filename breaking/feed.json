@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-02T03:09:22Z",
+ "updated": "2026-11-02T04:08:30Z",
  "items": [
+  {
+   "id": "20261102-0250-north-korea-nuclear-buildup",
+   "time": "2026-11-02T02:50:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "North Korean Workers' Party official Kim Jong Sik calls the US-South Korean Iron Mace exercise a nuclear war rehearsal and says Pyongyang must expand its nuclear forces faster.",
+   "ar": "المسؤول في حزب العمال الكوري الشمالي كيم جونغ سيك يصف مناورات «الصولجان الحديدي» الأميركية-الكورية الجنوبية بأنها تمرين على حرب نووية، ويقول إن على بيونغ يانغ تسريع توسيع قواتها النووية.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/north-korea-says-us-south-024852252.html"
+   }
+  },
   {
    "id": "20261101-2347-tanker-khafji-projectiles",
    "time": "2026-11-01T23:47:00Z",
@@ -1158,18 +1170,6 @@
    "source": {
     "name": "Reuters via Global Banking & Finance Review",
     "url": "https://www.globalbankingandfinance.com/european-shares-ease-ai-driven-tech-selloff-deepens/"
-   }
-  },
-  {
-   "id": "20261030-0322-binance-hack-6bn",
-   "time": "2026-10-30T03:22:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Binance says it will resume customer withdrawals in phases after the $6.3 billion hack, with the first phase beginning on Sunday, 1 November.",
-   "ar": "«باينانس» تقول إنها ستستأنف سحوبات العملاء على مراحل بعد الاختراق البالغ 6.3 مليارات دولار، على أن تبدأ المرحلة الأولى يوم الأحد 1 تشرين الثاني.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/binance-to-resume-customer-withdrawals-in-phases-after-hack"
    }
   }
  ]
