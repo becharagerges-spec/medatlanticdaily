@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T17:47:05Z",
+ "updated": "2026-11-02T18:09:44Z",
  "items": [
+  {
+   "id": "20261102-1700-brent-near-8pct-drop",
+   "time": "2026-11-02T17:00:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude falls 7.94% to $104.43 a barrel at 17:00 GMT after Iran's president says the supreme leader authorised talks with the US, per Türkiye Today.",
+   "ar": "خام برنت يتراجع 7.94% إلى 104.43 دولارات للبرميل عند الساعة 17:00 بتوقيت غرينتش، بعدما أعلن الرئيس الإيراني أن المرشد أجاز التفاوض مع الولايات المتحدة، بحسب «تركيا توداي».",
+   "source": {
+    "name": "Türkiye Today",
+    "url": "https://www.turkiyetoday.com/business/brent-crude-falls-nearly-8-below-105-as-us-iran-diplomacy-eases-supply-fears-3231573"
+   }
+  },
+  {
+   "id": "20261102-1650-houthi-109-saudi-strikes",
+   "time": "2026-11-02T16:50:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi military spokesman Yahya Saree says Saudi warplanes carried out 109 airstrikes on Yemen in the past 24 hours, 3,939 since the autumn escalation; the coalition has not commented.",
+   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن الطائرات السعودية نفّذت 109 غارات على اليمن خلال 24 ساعة، و3,939 غارة منذ تصعيد الخريف؛ ولم يعلّق التحالف.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+   }
+  },
   {
    "id": "20261102-1643-scotus-california-ballots",
    "time": "2026-11-02T16:43:00Z",
@@ -1460,18 +1484,6 @@
    "source": {
     "name": "Just the News",
     "url": "https://justthenews.com/politics-policy/bessent-patel-announce-fraud-related-arrests-minneapolis"
-   }
-  },
-  {
-   "id": "20261030-1800-ukmto-lavan-projectile",
-   "time": "2026-10-30T18:00:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a vessel was struck by an unidentified projectile 40 nautical miles south of Iran's Lavan Island, starting a fire; the crew is safe.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة أُصيبت بمقذوف مجهول على بُعد 40 ميلاً بحرياً جنوب جزيرة لاوان الإيرانية ما أدى إلى اندلاع حريق، والطاقم بخير.",
-   "source": {
-    "name": "Anadolu via Middle East Monitor",
-    "url": "https://www.middleeastmonitor.com/20261031-iran-says-4th-oil-tanker-hit-mine-caught-fire-in-strait-of-hormuz"
    }
   }
  ]
