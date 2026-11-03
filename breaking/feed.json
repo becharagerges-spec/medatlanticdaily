@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T05:08:37Z",
+ "updated": "2026-11-03T06:09:18Z",
  "items": [
+  {
+   "id": "20261103-0528-russia-energy-strikes-claim",
+   "time": "2026-11-03T05:28:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russia's Defence Ministry says it struck energy facilities in Ukraine's Vinnytsia, Dnipropetrovsk and Kharkiv regions overnight, plus port infrastructure in Odesa region, per Interfax; Reuters could not verify the claim.",
+   "ar": "وزارة الدفاع الروسية تقول إنها ضربت ليلاً منشآت طاقة في مناطق فينيتسيا ودنيبروبيتروفسك وخاركيف الأوكرانية وبنى تحتية مرفئية في منطقة أوديسا، بحسب «إنترفاكس»؛ ولم تتمكن «رويترز» من التحقق.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/russia-launches-massive-strike-on-ukrainian-energy-facilities-interfax-reports/"
+   }
+  },
+  {
+   "id": "20261103-0347-kharkiv-medical-facility",
+   "time": "2026-11-03T03:47:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "A Russian attack on a medical facility in Kharkiv's Nemyshlianskyi district injures 62 people, and Mayor Ihor Terekhov says about 200 patients will be moved to other hospitals.",
+   "ar": "هجوم روسي على منشأة طبية في حي نيميشليانسكي بخاركيف يوقع 62 جريحاً، ورئيس البلدية إيهور تيريخوف يقول إن نحو 200 مريض سيُنقلون إلى مستشفيات أخرى.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-missile-attack-hits-kharkiv-medical-facility-62-casualties-reported/"
+   }
+  },
   {
    "id": "20261103-0338-rba-hike-485",
    "time": "2026-11-03T03:38:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "ABC News (Australia)",
     "url": "https://abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050"
+   }
+  },
+  {
+   "id": "20261103-0238-yaroslavl-refinery-fires",
+   "time": "2026-11-03T02:38:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian monitoring channels report a drone strike and three fires at the Slavneft-YANOS refinery in Yaroslavl, one of Russia's largest at about 15 million tonnes a year; Russian officials have not commented.",
+   "ar": "قنوات رصد أوكرانية تفيد بضربة مسيّرات وثلاثة حرائق في مصفاة «سلافنفت-يانوس» في ياروسلافل، إحدى كبرى مصافي روسيا بطاقة نحو 15 مليون طن سنوياً؛ ولا تعليق روسياً رسمياً.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-oil-refinery-in-yaroslavl-reportedly-struck-multiple-fires-reported/"
    }
   },
   {
@@ -30,11 +66,11 @@
    "time": "2026-11-03T02:06:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Iran's IRGC Aerospace Force says it brought down and captured 2 US MQM-170 reconnaissance drones over waters south of Qeshm Island using electronic warfare.",
-   "ar": "القوة الجوفضائية في الحرس الثوري الإيراني تقول إنها أسقطت واستولت على طائرتين أميركيتين مسيّرتين للاستطلاع من طراز MQM-170 فوق المياه جنوب جزيرة قشم بواسطة الحرب الإلكترونية.",
+   "en": "Iran's IRGC says it captured 2 US MQM-170 drones south of Qeshm Island using electronic warfare and destroyed a US MQ-9, its 55th, east of the Strait of Hormuz; unverified.",
+   "ar": "الحرس الثوري الإيراني يقول إنه استولى على مسيّرتين أميركيتين من طراز MQM-170 جنوب جزيرة قشم بالحرب الإلكترونية ودمّر مسيّرة MQ-9 أميركية، الخامسة والخمسين، شرق مضيق هرمز؛ ولم يتسنَّ التحقق.",
    "source": {
     "name": "WANA",
-    "url": "https://wanaen.com/irgc-says-two-us-mqm-170-reconnaissance-drones-captured-near-qeshm-island/"
+    "url": "https://wanaen.com/irgc-announces-destruction-of-55th-us-mq-9-drone-in-eastern-strait-of-hormuz/"
    }
   },
   {
@@ -1508,42 +1544,6 @@
    "source": {
     "name": "112 Ukraine",
     "url": "https://112.ua/en/rosia-zapustila-134-bezpilotniki-po-ukraini-ppo-zbila-105-z-nih-pid-cas-ataki-195044"
-   }
-  },
-  {
-   "id": "20261031-0557-lebanon-toll-4389",
-   "time": "2026-10-31T05:57:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's Health Ministry says Israeli attacks have killed 4,389 people since 2 March 2026 and 8,956 since October 2023.",
-   "ar": "وزارة الصحة اللبنانية تعلن أن الاعتداءات الإسرائيلية أدّت إلى مقتل 4389 شخصاً منذ 2 آذار 2026، و8956 منذ تشرين الأول 2023.",
-   "source": {
-    "name": "Lebanese Health Ministry via Dawn",
-    "url": "https://www.dawn.com/live/iran-israel-war"
-   }
-  },
-  {
-   "id": "20261031-0540-riyadh-drone-intercepted",
-   "time": "2026-10-31T05:40:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences intercepted and destroyed a drone over the Riyadh region on Saturday.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت ودمّرت طائرة مسيّرة فوق منطقة الرياض يوم السبت.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
-   }
-  },
-  {
-   "id": "20261031-0530-kaliningrad-blackout-ufa",
-   "time": "2026-10-31T05:30:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Power outages hit Russia's Kaliningrad region overnight, which local authorities blame on an emergency shutdown at a power plant, while explosions are reported in Ufa amid drone alerts, per Kyiv Independent.",
-   "ar": "انقطاع للكهرباء يضرب منطقة كالينينغراد الروسية ليلاً تعزوه السلطات المحلية إلى توقف طارئ في محطة كهرباء، فيما تُسجَّل انفجارات في أوفا وسط إنذارات من المسيّرات، بحسب «كييف إندبندنت».",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/power-outages-hit-russias-kaliningrad-oblast-explosions-reported-in-ufa-amid-drone-alerts/"
    }
   }
  ]
