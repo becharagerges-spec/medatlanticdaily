@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T14:10:39Z",
+ "updated": "2026-11-03T15:09:52Z",
  "items": [
+  {
+   "id": "20261103-1503-israel-finance-aid-surprise",
+   "time": "2026-11-03T15:03:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli Finance Ministry officials say they were caught off guard by Trump's announced halt to US military aid, with a senior official putting the cost of losing 2 years of aid at $8 billion, per Times of Israel.",
+   "ar": "مسؤولون في وزارة المالية الإسرائيلية يقولون إن إعلان ترامب وقف المساعدات العسكرية الأميركية فاجأهم، ومسؤول رفيع يقدّر كلفة خسارة عامين من المساعدات بـ8 مليارات دولار، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/finance-ministry-officials-said-taken-off-guard-by-trump-announcing-imminent-halt-to-military-aid/"
+   }
+  },
   {
    "id": "20261103-1408-mladenov-blair-israel",
    "time": "2026-11-03T14:08:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-finally-get-shin-bet-protection-tomorrow-after-recent-security-incidents/"
+   }
+  },
+  {
+   "id": "20261103-1232-melania-russia-ukraine-white-house",
+   "time": "2026-11-03T12:32:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "The White House says First Lady Melania Trump will convene Russian and Ukrainian representatives at the White House and speak on the Oleshky ceasefire on Thursday, November 5.",
+   "ar": "البيت الأبيض يعلن أن السيدة الأولى ميلانيا ترامب ستجمع ممثلين عن روسيا وأوكرانيا في البيت الأبيض وتتحدث عن وقف إطلاق النار في أوليشكي يوم الخميس 5 تشرين الثاني.",
+   "source": {
+    "name": "The White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/"
    }
   },
   {
@@ -1640,30 +1664,6 @@
    "source": {
     "name": "The Moscow Times",
     "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144"
-   }
-  },
-  {
-   "id": "20261031-1431-araghchi-us-outreach",
-   "time": "2026-10-31T14:31:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian FM Abbas Araghchi tells Al Jazeera US outreach is 'a positive step' but sees no need to meet Americans now, as Qatar proposes a 5-day Hormuz implementation period against Iran's 2.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول للجزيرة إن الانفتاح الأميركي «خطوة إيجابية» لكنه لا يرى حاجة للقاء الأميركيين حالياً، فيما تقترح قطر مهلة 5 أيام لتنفيذ خطة هرمز مقابل يومين تطرحهما إيران.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
-   }
-  },
-  {
-   "id": "20261031-1430-ap-us-bases-damage",
-   "time": "2026-10-31T14:30:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "An AP analysis finds Iranian strikes damaged or destroyed US air defences, aircraft hangars and buildings on 26 bases and sites across the Middle East, with most attacks hitting Kuwait.",
-   "ar": "تحليل لوكالة أسوشيتد برس يُظهر أن الضربات الإيرانية ألحقت أضراراً أو دمّرت دفاعات جوية أميركية وحظائر طائرات ومبانيَ في 26 قاعدة وموقعاً في الشرق الأوسط، وأن معظم الهجمات أصابت الكويت.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/iran-war-us-base-damage-trump-26e0f05e01d6f56ff46f7c1a14384f7c"
    }
   }
  ]
