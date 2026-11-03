@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T04:08:53Z",
+ "updated": "2026-11-03T05:08:37Z",
  "items": [
+  {
+   "id": "20261103-0338-rba-hike-485",
+   "time": "2026-11-03T03:38:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Australia's central bank raises its cash rate by 0.25 points to 4.85%, its fifth hike this year and the highest since 2008, in a 6–3 board vote.",
+   "ar": "المصرف المركزي الأسترالي يرفع سعر الفائدة النقدي 0.25 نقطة إلى 4.85%، في خامس زيادة هذا العام والأعلى منذ 2008، بتصويت 6 مقابل 3 في مجلس إدارته.",
+   "source": {
+    "name": "ABC News (Australia)",
+    "url": "https://abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050"
+   }
+  },
   {
    "id": "20261103-0226-asia-stocks-korea-fall",
    "time": "2026-11-03T02:26:00Z",
@@ -83,6 +95,18 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saudi-defense-minister-says-he-spoke-with-hegseth-about-deescalating-regional-tensions-amid-continued-houthi-attacks/"
+   }
+  },
+  {
+   "id": "20261102-2038-agoa-south-africa-rwanda",
+   "time": "2026-11-02T20:38:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "US Trade Representative Jamieson Greer says South Africa and Rwanda will lose duty-free access under AGOA from January 1, 2027, citing trade barriers and security concerns.",
+   "ar": "الممثل التجاري الأميركي جيميسون غرير يعلن أن جنوب أفريقيا ورواندا ستفقدان الإعفاء الجمركي ضمن برنامج «أغوا» اعتباراً من 1 كانون الثاني 2027، بسبب حواجز تجارية ومخاوف أمنية.",
+   "source": {
+    "name": "Reuters via Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
    }
   },
   {
@@ -1520,18 +1544,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/power-outages-hit-russias-kaliningrad-oblast-explosions-reported-in-ufa-amid-drone-alerts/"
-   }
-  },
-  {
-   "id": "20261031-0440-treasury-iran-oil-zero",
-   "time": "2026-10-31T04:40:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "The US Treasury says Iran has loaded no oil onto vessels since 25 August and that the rial has fallen about 25% since the pressure campaign began.",
-   "ar": "وزارة الخزانة الأميركية تقول إن إيران لم تحمّل أي شحنة نفط على السفن منذ 25 آب، وإن الريال تراجع نحو 25% منذ بدء حملة الضغط.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
    }
   }
  ]
