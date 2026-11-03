@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-03T10:09:06Z",
+ "updated": "2026-11-03T11:09:42Z",
  "items": [
+  {
+   "id": "20261103-1058-golan-joint-list-meeting",
+   "time": "2026-11-03T10:58:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Democrats leader Yair Golan meets Joint List leaders Yousef Jabareen and Ahmad Tibi, their first meeting since the election, and they agree to coordinate toward a 'change government', per Times of Israel.",
+   "ar": "زعيم «الديمقراطيين» يائير غولان يلتقي قائدي القائمة المشتركة يوسف جبارين وأحمد الطيبي في أول لقاء منذ الانتخابات، ويتفقون على التنسيق نحو «حكومة تغيير»، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/golan-discusses-coalition-coordination-with-joint-list-leaders/"
+   }
+  },
+  {
+   "id": "20261103-1051-qatar-us-iran-reviewing",
+   "time": "2026-11-03T10:51:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar says the US and Iran remain committed to its mediation and are reviewing proposals to bridge their differences, with agreement to avoid escalation in the region and the Gulf.",
+   "ar": "قطر تقول إن الولايات المتحدة وإيران ما زالتا ملتزمتين بوساطتها وتدرسان مقترحات لتضييق الخلافات، مع اتفاق على تجنّب التصعيد في المنطقة والخليج.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-913691"
+   }
+  },
+  {
+   "id": "20261103-1046-mag-settler-violence",
+   "time": "2026-11-03T10:46:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's Military Advocate General Itai Ofir says troops must intervene in settler violence against Palestinians and that reservists involved will be dismissed and have their weapons confiscated.",
+   "ar": "المدعي العسكري العام الإسرائيلي إيتاي عوفير يقول إن على الجنود التدخل لوقف عنف المستوطنين ضد الفلسطينيين، وإن جنود الاحتياط المتورطين سيُسرَّحون وتُصادر أسلحتهم.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idfs-top-lawyer-troops-must-intervene-in-settler-violence-against-palestinians/"
+   }
+  },
+  {
+   "id": "20261103-1025-tehran-billboard-trump",
+   "time": "2026-11-03T10:25:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran unveils a huge billboard in Tehran's Enghelab Square reading 'We will kill Trump', amid calls to avenge Ayatollah Ali Khamenei, killed in US-Israeli strikes on February 28.",
+   "ar": "إيران تكشف لوحة إعلانية ضخمة في ساحة انقلاب بطهران كُتب عليها «سنقتل ترامب»، وسط دعوات للثأر لآية الله علي خامنئي الذي قُتل بضربات أميركية-إسرائيلية في 28 شباط.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iran-unveils-huge-billboard-with-threat-against-trumps-life/"
+   }
+  },
+  {
+   "id": "20261103-1020-trump-putin-xi-summit",
+   "time": "2026-11-03T10:20:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "US, Russian and Chinese officials are discussing a Trump-Putin-Xi summit at the APEC meeting in Shenzhen later this month, the Financial Times reports; Reuters could not verify it.",
+   "ar": "مسؤولون أميركيون وروس وصينيون يبحثون قمة ثلاثية بين ترامب وبوتين وشي على هامش قمة «أبيك» في شنتشن أواخر الشهر، بحسب «فايننشال تايمز»، ولم تتحقق «رويترز» من ذلك.",
+   "source": {
+    "name": "Financial Times via A News",
+    "url": "https://www.anews.com.tr/world/2026/11/03/us-russia-and-china-discuss-trilateral-meeting-between-trump-putin-and-xi"
+   }
+  },
+  {
+   "id": "20261103-1010-lapid-undermine-results",
+   "time": "2026-11-03T10:10:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Yair Lapid says Israel faces 'a grave and dangerous attempt to undermine the election results' and that Netanyahu must be removed, as opposition leaders meet in Herzliya.",
+   "ar": "يائير لابيد يقول إن إسرائيل تواجه «محاولة خطيرة لتقويض نتائج الانتخابات» وإنه يجب إزاحة نتنياهو، مع اجتماع قادة المعارضة في هرتسليا.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lapid-were-facing-an-attempt-to-undermine-election-results-we-need-to-remove-netanyahu/"
+   }
+  },
+  {
+   "id": "20261103-0950-mecca-drone-intercept",
+   "time": "2026-11-03T09:50:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a drone over the Mecca region, a day after downing a ballistic missile and 2 drones fired by the Houthis.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض مسيّرة وتدميرها فوق منطقة مكة المكرمة، غداة إسقاطه صاروخاً باليستياً ومسيّرتين أطلقها الحوثيون.",
+   "source": {
+    "name": "Anadolu via A News",
+    "url": "https://www.anews.com.tr/middle-east/2026/11/03/saudi-led-coalition-says-drone-intercepted-over-mecca-region-amid-escalation-with-houthis"
+   }
+  },
   {
    "id": "20261103-0943-uk-eu-food-checks-draft",
    "time": "2026-11-03T09:43:00Z",
@@ -1544,30 +1628,6 @@
    "source": {
     "name": "Anadolu",
     "url": "https://www.aa.com.tr/en/middle-east/iranian-delegation-arrives-in-qatar-for-talks-report/4107264"
-   }
-  },
-  {
-   "id": "20261031-1011-syria-mecca-pact",
-   "time": "2026-10-31T10:11:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Syrian Foreign Minister Assad al-Shibani says Damascus is discussing whether to join the Mecca Pact, the Saudi-led defence alliance that includes Turkey and Pakistan, AP reports.",
-   "ar": "وزير الخارجية السوري أسعد الشيباني يقول إن دمشق تبحث الانضمام إلى «ميثاق مكة»، التحالف الدفاعي بقيادة السعودية الذي يضم تركيا وباكستان، بحسب «أسوشيتد برس».",
-   "source": {
-    "name": "AP",
-    "url": "https://www.clickondetroit.com/news/world/2026/10/31/mideast-leaders-call-for-calm-as-fears-mount-of-a-renewed-war-in-the-region-and-other-mideast-news/"
-   }
-  },
-  {
-   "id": "20261031-1011-gulf-forum-calm",
-   "time": "2026-10-31T10:11:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "At a security forum in Bahrain, Saudi Vice Foreign Minister Waleed ElKhereiji and Egyptian Foreign Minister Badr Abdelatty urge calm, with Abdelatty warning a second round of war 'will lead to nowhere'.",
-   "ar": "في منتدى أمني في البحرين، نائب وزير الخارجية السعودي وليد الخريجي ووزير الخارجية المصري بدر عبد العاطي يدعوان إلى التهدئة، وعبد العاطي يحذّر من أن جولة حرب ثانية «لن تؤدي إلى أي مكان».",
-   "source": {
-    "name": "AP",
-    "url": "https://www.clickondetroit.com/news/world/2026/10/31/mideast-leaders-call-for-calm-as-fears-mount-of-a-renewed-war-in-the-region-and-other-mideast-news/"
    }
   }
  ]
