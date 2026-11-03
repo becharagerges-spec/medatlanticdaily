@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T03:08:42Z",
+ "updated": "2026-11-03T04:08:53Z",
  "items": [
+  {
+   "id": "20261103-0226-asia-stocks-korea-fall",
+   "time": "2026-11-03T02:26:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian stocks retreat ahead of the US midterms, with South Korean shares falling as much as 3.8% and Taiwan down 1.3%, while Brent holds near $104.72 a barrel.",
+   "ar": "الأسهم الآسيوية تتراجع قبيل الانتخابات النصفية الأميركية، إذ هبطت الأسهم الكورية الجنوبية بما يصل إلى 3.8% وتايوان 1.3%، فيما استقر برنت قرب 104.72 دولارات للبرميل.",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://ca.investing.com/news/economy-news/asian-stocks-retreat-ahead-of-us-midterms-oil-steadies-4923844"
+   }
+  },
+  {
+   "id": "20261103-0206-irgc-drones-qeshm",
+   "time": "2026-11-03T02:06:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRGC Aerospace Force says it brought down and captured 2 US MQM-170 reconnaissance drones over waters south of Qeshm Island using electronic warfare.",
+   "ar": "القوة الجوفضائية في الحرس الثوري الإيراني تقول إنها أسقطت واستولت على طائرتين أميركيتين مسيّرتين للاستطلاع من طراز MQM-170 فوق المياه جنوب جزيرة قشم بواسطة الحرب الإلكترونية.",
+   "source": {
+    "name": "WANA",
+    "url": "https://wanaen.com/irgc-says-two-us-mqm-170-reconnaissance-drones-captured-near-qeshm-island/"
+   }
+  },
   {
    "id": "20261103-0052-us-strikes-qeshm",
    "time": "2026-11-03T00:52:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "AP via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/us-official-strike-on-qeshm-targeted-iranians-using-surface-to-air-missiles-against-us-assets/"
+   }
+  },
+  {
+   "id": "20261103-0012-houthis-near-aden",
+   "time": "2026-11-03T00:12:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Houthi forces have advanced to within 80 km of Aden, the closest since 2015, after taking Al-Maqatirah district, four military sources tell Reuters.",
+   "ar": "قوات الحوثيين تتقدّم إلى مسافة 80 كيلومتراً من عدن، وهي الأقرب منذ 2015، بعد سيطرتها على مديرية المقاطرة، بحسب أربعة مصادر عسكرية لرويترز.",
+   "source": {
+    "name": "Reuters via Business Recorder",
+    "url": "https://www.brecorder.com/news/40447154/houthis-advance-to-within-80km-of-aden"
    }
   },
   {
@@ -62,6 +98,18 @@
    }
   },
   {
+   "id": "20261102-1904-netanyahu-broad-government",
+   "time": "2026-11-02T19:04:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu says he is open to a 'broad national government' under his leadership, keeping his far-right and ultra-Orthodox partners and excluding Ra'am and the Joint List.",
+   "ar": "نتنياهو يعلن انفتاحه على «حكومة وحدة وطنية واسعة» برئاسته، مع الإبقاء على شركائه من اليمين المتطرف والحريديم واستبعاد «القائمة العربية الموحدة» و«القائمة المشتركة».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-holding-talks-on-forming-broad-national-government-under-his-leadership/"
+   }
+  },
+  {
    "id": "20261102-1735-sohlberg-refuses-delay",
    "time": "2026-11-02T17:35:00Z",
    "theater": "israel",
@@ -90,11 +138,11 @@
    "time": "2026-11-02T17:03:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Russian aerial bombs that hit a school used as an aid centre and a shelter in Komyshuvakha, Zaporizhzhia region, killed at least 26 people, including rescuers and police, Zelensky says.",
-   "ar": "الرئيس زيلينسكي يقول إن القنابل الجوية الروسية التي أصابت مدرسة تُستخدم مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا قتلت 26 شخصاً على الأقل، بينهم مسعفون وعناصر شرطة.",
+   "en": "Russian bombs that hit a school used as an aid centre and a shelter in Komyshuvakha, Zaporizhzhia region, killed 26 people, with about 20 more missing, officials say.",
+   "ar": "مسؤولون أوكرانيون يقولون إن القنابل الروسية التي أصابت مدرسة تُستخدم مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا قتلت 26 شخصاً، فيما لا يزال نحو 20 آخرين في عداد المفقودين.",
    "source": {
-    "name": "Ukraine Top News",
-    "url": "https://glavnoe.in.ua/en/news-en/death-toll-in-komyshuvakha-rises-to-26-with-people-still-trapped-under-rubble/amp"
+    "name": "AP via The Korea Times",
+    "url": "https://www.koreatimes.co.kr/world/20261103/russia-bombs-aid-center-and-shelter-in-southern-ukraine-killing-26-officials-say"
    }
   },
   {
@@ -1481,30 +1529,6 @@
    "status": "confirmed",
    "en": "The US Treasury says Iran has loaded no oil onto vessels since 25 August and that the rial has fallen about 25% since the pressure campaign began.",
    "ar": "وزارة الخزانة الأميركية تقول إن إيران لم تحمّل أي شحنة نفط على السفن منذ 25 آب، وإن الريال تراجع نحو 25% منذ بدء حملة الضغط.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
-   }
-  },
-  {
-   "id": "20261031-0401-poland-court-chief-suspended",
-   "time": "2026-10-31T04:01:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Poland's Constitutional Tribunal chief Bogdan Swieczkowski is suspended by a fellow judge as Tusk's government moves against him, prompting President Nawrocki to abort a Senegal trip and opposition protests.",
-   "ar": "تعليق مهام رئيس المحكمة الدستورية البولندية بوغدان شفيتشكوفسكي على يد قاضية زميلة وسط تحرّك حكومة توسك ضده، فيقطع الرئيس ناوروتسكي رحلته إلى السنغال وتندلع احتجاجات المعارضة.",
-   "source": {
-    "name": "AFP and Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/poland-suspends-chief-justice-of-constitutional-court-sparking-protests/"
-   }
-  },
-  {
-   "id": "20261031-0330-araghchi-red-lines",
-   "time": "2026-10-31T03:30:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says 'red lines are a thing of the past' and vows an 'Earth-shattering blow' against anyone who harms Iranians, while criticising German Chancellor Merz.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن «الخطوط الحمر باتت من الماضي» ويتوعّد بـ«ضربة تهزّ الأرض» لكل من يمسّ الإيرانيين، منتقداً المستشار الألماني ميرتس.",
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202610312594"
