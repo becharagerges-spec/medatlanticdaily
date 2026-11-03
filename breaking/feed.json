@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-03T15:09:52Z",
+ "updated": "2026-11-03T16:11:10Z",
  "items": [
+  {
+   "id": "20261103-1606-gaza-city-strike",
+   "time": "2026-11-03T16:06:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Hamas-affiliated Palestinian media report a 17-year-old girl killed and others injured in an Israeli strike on a camp for displaced people in central Gaza City; the Israeli army has not commented.",
+   "ar": "وسائل إعلام فلسطينية مقرّبة من حماس تُفيد بمقتل فتاة في السابعة عشرة وإصابة آخرين بغارة إسرائيلية على مخيم للنازحين في وسط مدينة غزة، والجيش الإسرائيلي لم يُعلّق.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+   }
+  },
+  {
+   "id": "20261103-1536-rezaei-hormuz-conditions",
+   "time": "2026-11-03T15:36:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Supreme National Security Council head Mohsen Rezaei says the US reply to Tehran's truce offer is 'not convincing' and the Strait of Hormuz will reopen only if seven conditions are met.",
+   "ar": "أمين مجلس الأمن القومي الإيراني الأعلى محسن رضائي يقول إن الرد الأميركي على عرض الهدنة «غير مقنع»، وإن مضيق هرمز لن يُفتح إلا بتحقيق سبعة شروط.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+   }
+  },
+  {
+   "id": "20261103-1534-netanyahu-bloc-recommendations",
+   "time": "2026-11-03T15:34:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Shas, Religious Zionism and Otzma Yehudit say they will recommend Netanyahu for prime minister, after Shas's Council of Torah Sages backed him over guarantees on yeshiva-student draft exemptions.",
+   "ar": "أحزاب «شاس» و«الصهيونية الدينية» و«عوتسما يهوديت» تعلن أنها ستسمّي نتنياهو لرئاسة الحكومة، بعدما أيّده مجلس حكماء التوراة في «شاس» مقابل ضمانات حول إعفاء طلاب المعاهد الدينية من الخدمة.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+   }
+  },
+  {
+   "id": "20261103-1514-us-midterms-early-voting",
+   "time": "2026-11-03T15:14:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Early voting in the US midterm elections set a record with 57 million ballots cast, Bloomberg reports, as control of the House and Senate goes to the vote.",
+   "ar": "التصويت المبكر في انتخابات الكونغرس النصفية الأميركية يسجّل رقماً قياسياً بـ57 مليون صوت، بحسب «بلومبرغ»، مع توجّه الناخبين لتحديد السيطرة على مجلسي النواب والشيوخ.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/us-midterm-elections-live-updates"
+   }
+  },
   {
    "id": "20261103-1503-israel-finance-aid-surprise",
    "time": "2026-11-03T15:03:00Z",
@@ -35,6 +83,18 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/trump-says-us-will-stop-4-billion-military-aid-israel-end-2026"
+   }
+  },
+  {
+   "id": "20261103-1352-europe-flight-bomb-threats",
+   "time": "2026-11-03T13:52:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Bomb threats hit flights across Europe, diverting a Heathrow-Warsaw LOT jet carrying 181 people, forcing an emergency landing in Sofia for a plane from Israel and searches in Murcia and Rome.",
+   "ar": "تهديدات بوجود قنابل تضرب رحلات في أوروبا: تحويل طائرة «لوت» من هيثرو إلى وارسو وعلى متنها 181 شخصاً، وهبوط اضطراري في صوفيا لطائرة قادمة من إسرائيل، وتفتيش رحلات في مورسيا وروما.",
+   "source": {
+    "name": "Anadolu via A News",
+    "url": "https://www.anews.com.tr/europe/2026/11/03/bomb-threats-reported-at-several-european-airports"
    }
   },
   {
@@ -258,11 +318,11 @@
    "time": "2026-11-03T08:22:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Zelensky says Russia launched 289 drones, 17 ballistic missiles and 59 cruise missiles overnight, mainly at power generation and substations in 9 regions.",
-   "ar": "زيلينسكي يقول إن روسيا أطلقت ليلاً 289 مسيّرة و17 صاروخاً باليستياً و59 صاروخ كروز، استهدفت أساساً منشآت توليد الكهرباء ومحطات التحويل في 9 مناطق.",
+   "en": "Zelensky says Russia fired 289 drones and 76 missiles overnight at Ukraine's power grid; regional authorities report 38 killed and 158 injured across the country over the past day.",
+   "ar": "زيلينسكي يقول إن روسيا أطلقت 289 مسيّرة و76 صاروخاً ليل أمس على شبكة الكهرباء الأوكرانية، وسلطات المحافظات تُفيد بـ38 قتيلاً و158 جريحاً في أنحاء البلاد خلال يوم.",
    "source": {
-    "name": "Volodymyr Zelensky on X",
-    "url": "https://x.com/ZelenskyyUa/status/2117532744729100646"
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/"
    }
   },
   {
@@ -1652,18 +1712,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/amp/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france"
-   }
-  },
-  {
-   "id": "20261031-1533-fsb-us-moscow-plot",
-   "time": "2026-10-31T15:33:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Russia's FSB says it received US information about a planned terrorist attack in Moscow, after the US Embassy warned of a credible mass-casualty threat at the Tsaritsyno Museum Reserve on Saturday.",
-   "ar": "جهاز الأمن الفدرالي الروسي يقول إنه تلقى معلومات أميركية عن هجوم إرهابي مخطط في موسكو، بعدما حذّرت السفارة الأميركية من تهديد جدّي بسقوط إصابات جماعية في متحف تساريتسينو السبت.",
-   "source": {
-    "name": "The Moscow Times",
-    "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144"
    }
   }
  ]
