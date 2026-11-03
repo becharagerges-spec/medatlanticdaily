@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T12:11:35Z",
+ "updated": "2026-11-03T13:13:39Z",
  "items": [
+  {
+   "id": "20261103-1211-opposition-coalition-talks",
+   "time": "2026-11-03T12:11:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Leaders of Israel's four Jewish opposition parties agree to begin coalition negotiations immediately and will decide by Monday whether to back Yair Lapid to replace Amir Ohana as Knesset speaker.",
+   "ar": "قادة أحزاب المعارضة اليهودية الأربعة في إسرائيل يتفقون على بدء مفاوضات تشكيل الائتلاف فوراً، ويحسمون بحلول الاثنين دعم يائير لابيد لخلافة أمير أوحانا في رئاسة الكنيست.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/at-meeting-opposition-chiefs-agree-to-launch-coalition-talks-but-path-remains-unclear/"
+   }
+  },
   {
    "id": "20261103-1118-bennett-replace-ohana",
    "time": "2026-11-03T11:18:00Z",
@@ -194,6 +206,18 @@
    }
   },
   {
+   "id": "20261103-0804-indian-sailor-killed-oman",
+   "time": "2026-11-03T08:04:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "An Indian seafarer is killed after the India-flagged vessel Al Jusufi was hit by an unidentified aerial object off Oman; Oman's coast guard rescued the other 13 crew, India's shipping minister says.",
+   "ar": "مقتل بحّار هندي إثر إصابة السفينة «الجوسفي» التي ترفع العلم الهندي بجسم جوي مجهول قبالة سواحل عُمان، وخفر السواحل العُماني أنقذ أفراد الطاقم الـ13 الآخرين، بحسب وزير الشحن الهندي.",
+   "source": {
+    "name": "PTI via ThePrint",
+    "url": "https://theprint.in/economy/sonowal-says-one-indian-seafarer-killed-after-vessel-hit-off-oman-coast/3089064/"
+   }
+  },
+  {
    "id": "20261103-0657-iran-deal-out-of-reach",
    "time": "2026-11-03T06:57:00Z",
    "theater": "iran",
@@ -257,12 +281,12 @@
    "id": "20261103-0347-kharkiv-medical-facility",
    "time": "2026-11-03T03:47:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "A Russian attack on a medical facility in Kharkiv's Nemyshlianskyi district injures 62 people, and Mayor Ihor Terekhov says about 200 patients will be moved to other hospitals.",
-   "ar": "هجوم روسي على منشأة طبية في حي نيميشليانسكي بخاركيف يوقع 62 جريحاً، ورئيس البلدية إيهور تيريخوف يقول إن نحو 200 مريض سيُنقلون إلى مستشفيات أخرى.",
+   "status": "confirmed",
+   "en": "A Russian strike on a Kharkiv city hospital injures 73 people and damages its cardiology department, Zelensky says; Mayor Ihor Terekhov says about 200 patients will be moved to other hospitals.",
+   "ar": "ضربة روسية على مستشفى في مدينة خاركيف توقع 73 جريحاً وتلحق أضراراً بقسم أمراض القلب، بحسب زيلينسكي، فيما يقول رئيس البلدية إيهور تيريخوف إن نحو 200 مريض سينقلون إلى مستشفيات أخرى.",
    "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-missile-attack-hits-kharkiv-medical-facility-62-casualties-reported/"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants"
    }
   },
   {
@@ -1616,30 +1640,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-reported-israeli-strike-in-southern-lebanon-was-controlled-detonation/"
-   }
-  },
-  {
-   "id": "20261031-1242-zelensky-istanbul-erdogan",
-   "time": "2026-10-31T12:42:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky says he and Erdogan agreed in Istanbul to make the Black Sea grain corridor effective and discussed possible trilateral talks in Turkey; Erdogan says he will speak to Russia next.",
-   "ar": "زيلينسكي يقول إنه اتفق مع أردوغان في إسطنبول على تفعيل ممر الحبوب في البحر الأسود وبحثا إمكان عقد محادثات ثلاثية في تركيا، وأردوغان يقول إنه سيتحدث إلى الجانب الروسي.",
-   "source": {
-    "name": "Glavnoe",
-    "url": "https://glavnoe.in.ua/en/news-en/grain-corridor-and-new-talks-key-statements-from-zelenskyy-and-erdo%C4%9Fan"
-   }
-  },
-  {
-   "id": "20261031-1222-iran-npt-proposals",
-   "time": "2026-10-31T12:22:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian lawmaker Ebrahim Rezaei says 10 proposals to withdraw from the Nuclear Non-Proliferation Treaty have been registered in parliament and withdrawal is under consideration, per Fars.",
-   "ar": "النائب الإيراني إبراهيم رضائي يقول إن 10 مقترحات للانسحاب من معاهدة عدم انتشار الأسلحة النووية سُجّلت في البرلمان وإن الانسحاب قيد الدرس، بحسب وكالة «فارس».",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"
    }
   }
  ]
