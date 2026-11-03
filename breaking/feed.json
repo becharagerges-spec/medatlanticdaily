@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-03T13:13:39Z",
+ "updated": "2026-11-03T14:10:39Z",
  "items": [
+  {
+   "id": "20261103-1408-mladenov-blair-israel",
+   "time": "2026-11-03T14:08:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Board of Peace envoy Nickolay Mladenov visited Israel on Monday and Tony Blair is due this week for post-election Gaza talks, a Board official says, per Times of Israel.",
+   "ar": "مبعوث «مجلس السلام» نيكولاي ملادينوف زار إسرائيل الاثنين، ويُنتظر وصول توني بلير هذا الأسبوع لمحادثات حول غزة بعد الانتخابات، بحسب مسؤول في المجلس نقلاً عن «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/board-of-peace-envoys-mladenov-blair-visit-israel-for-gaza-talks-after-knesset-election/"
+   }
+  },
+  {
+   "id": "20261103-1401-trump-israel-aid-end",
+   "time": "2026-11-03T14:01:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells Fox News the US will stop about $4 billion a year in military aid to Israel after 2026, citing a deal with Netanyahu.",
+   "ar": "ترامب يقول لـ«فوكس نيوز» إن الولايات المتحدة ستوقف بعد عام 2026 مساعدات عسكرية لإسرائيل بنحو 4 مليارات دولار سنوياً، مستنداً إلى اتفاق مع نتنياهو.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/trump-says-us-will-stop-4-billion-military-aid-israel-end-2026"
+   }
+  },
+  {
+   "id": "20261103-1331-eisenkot-shin-bet",
+   "time": "2026-11-03T13:31:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gadi Eisenkot will get a Shin Bet security detail from Wednesday after recent incidents at his Herzliya home, Hebrew media report, per Times of Israel.",
+   "ar": "غادي آيزنكوت سيحصل على حماية من الشاباك اعتباراً من الأربعاء بعد حوادث أخيرة عند منزله في هرتسليا، بحسب الإعلام العبري ونقلاً عن «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-finally-get-shin-bet-protection-tomorrow-after-recent-security-incidents/"
+   }
+  },
   {
    "id": "20261103-1211-opposition-coalition-talks",
    "time": "2026-11-03T12:11:00Z",
@@ -1628,18 +1664,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/iran-war-us-base-damage-trump-26e0f05e01d6f56ff46f7c1a14384f7c"
-   }
-  },
-  {
-   "id": "20261031-1327-kfar-tebnit-detonation",
-   "time": "2026-10-31T13:27:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli army says a blast in the south Lebanon village of Kfar Tebnit, reported by Lebanese media as a strike, was a controlled detonation to demolish infrastructure.",
-   "ar": "الجيش الإسرائيلي يقول إن انفجاراً في بلدة كفرتبنيت جنوب لبنان، وصفته وسائل إعلام لبنانية بأنه غارة، كان تفجيراً متحكَّماً به لهدم بنى تحتية.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-reported-israeli-strike-in-southern-lebanon-was-controlled-detonation/"
    }
   }
  ]
