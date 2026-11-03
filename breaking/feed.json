@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-03T17:08:35Z",
+ "updated": "2026-11-03T18:08:50Z",
  "items": [
+  {
+   "id": "20261103-1752-high-court-ohana-comptroller",
+   "time": "2026-11-03T17:52:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's High Court criticises Knesset Speaker Amir Ohana for refusing a new state comptroller vote despite a court order, but declines to order one and imposes NIS 10,000 in costs, per Times of Israel.",
+   "ar": "المحكمة العليا الإسرائيلية تنتقد رئيس الكنيست أمير أوحانا لرفضه إجراء تصويت جديد على مراقب الدولة رغم قرار قضائي، لكنها لا تأمر به وتفرض عليه 10,000 شيكل كمصاريف، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/high-court-blasts-knesset-speaker-ohana-for-blocking-new-state-comptroller-vote-but-doesnt-intervene/"
+   }
+  },
+  {
+   "id": "20261103-1745-eisenkot-transitional-pm",
+   "time": "2026-11-03T17:45:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gadi Eisenkot says he will replace the Knesset speaker and cancel laws endangering democracy, calling Netanyahu a 'transitional prime minister' backed by only 46 MKs, per Times of Israel.",
+   "ar": "غادي آيزنكوت يعلن أنه سيستبدل رئيس الكنيست ويلغي قوانين تهدّد الديمقراطية، واصفاً نتنياهو بـ«رئيس حكومة انتقالي» لا يدعمه سوى 46 نائباً، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-lays-out-plan-to-nix-outgoing-governments-laws-implies-utj-no-longer-in-pro-netanyahu-bloc/"
+   }
+  },
+  {
+   "id": "20261103-1706-crown-iris-bomb-threat",
+   "time": "2026-11-03T17:06:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "A bomb threat against the Israeli-operated cruise ship Crown Iris holds up 940 passengers and 597 crew at Greece's Syros port; initial checks find no explosive, per Times of Israel.",
+   "ar": "تهديد بوجود قنبلة على متن سفينة الرحلات «كراون آيريس» التي تشغّلها شركة إسرائيلية يحتجز 940 راكباً و597 من الطاقم في ميناء سيروس اليوناني، والفحوص الأولية لم تعثر على متفجرات، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/over-1500-held-up-in-greece-as-bomb-threat-prompts-checks-on-israeli-operated-cruise-ship/"
+   }
+  },
   {
    "id": "20261103-1639-eisenkot-aid-netanyahu",
    "time": "2026-11-03T16:39:00Z",
@@ -1712,18 +1748,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
-   }
-  },
-  {
-   "id": "20261031-1724-lapid-eisenkot-meet",
-   "time": "2026-10-31T17:24:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yair Lapid says he met Yashar leader Gadi Eisenkot, their first acknowledged meeting since the election, to discuss the results and coordinate moves to 'realize the will of the voter'.",
-   "ar": "يائير لابيد يقول إنه التقى رئيس حزب «يشار» غادي آيزنكوت، في أول لقاء معلن بينهما منذ الانتخابات، لبحث النتائج وتنسيق الخطوات «لتحقيق إرادة الناخب».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lapid-and-eisenkot-meet-to-coordinate-moves-to-realize-the-will-of-the-voter/"
    }
   }
  ]
