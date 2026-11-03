@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:07:54Z",
+ "updated": "2026-11-03T08:09:19Z",
  "items": [
   {
    "id": "20261103-0657-iran-deal-out-of-reach",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iran-us-deal-still-out-of-reach-senior-iranian-official-says/"
+   }
+  },
+  {
+   "id": "20261103-0644-araghchi-no-hostility-gcc",
+   "time": "2026-11-03T06:44:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian FM Abbas Araghchi says Iran bears no hostility toward Gulf Cooperation Council states, values Qatar's and Oman's roles and wants regional security arrangements without foreign forces.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن إيران لا تُضمر أي عداء لدول مجلس التعاون الخليجي، ويثمّن دور قطر وعُمان، ويريد ترتيبات أمنية إقليمية من دون قوات أجنبية.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610312594"
+   }
+  },
+  {
+   "id": "20261103-0632-ghalibaf-ball-washington",
+   "time": "2026-11-03T06:32:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says Tehran sent Washington 'a strong and rational response', is at top defensive readiness, and 'the ball is now in Washington's court to prevent war'.",
+   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول إن طهران أرسلت إلى واشنطن «رداً قوياً وعقلانياً»، وإنها في أعلى جهوزية دفاعية، و«الكرة الآن في ملعب واشنطن لمنع الحرب».",
+   "source": {
+    "name": "Arab Times",
+    "url": "https://www.arabtimesonline.com/news/iran-warns-us-against-strategic-mistake-says-ball-is-in-washingtons-court-to-prevent-war/"
    }
   },
   {
@@ -1520,18 +1544,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
-   }
-  },
-  {
-   "id": "20261031-0725-bryansk-drone-2-killed",
-   "time": "2026-10-31T07:25:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Russia's Bryansk regional governor says a Ukrainian drone hit a private house, killing 2 people and injuring 5.",
-   "ar": "حاكم منطقة بريانسك الروسية يقول إن مسيّرة أوكرانية أصابت منزلاً خاصاً، ما أدى إلى مقتل شخصين وإصابة 5 آخرين.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/europe/20261031/93f7c65ef4c24943b768b2fbf3398f0d/c.html"
    }
   }
  ]
