@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T11:09:42Z",
+ "updated": "2026-11-03T12:11:35Z",
  "items": [
+  {
+   "id": "20261103-1118-bennett-replace-ohana",
+   "time": "2026-11-03T11:18:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "After a meeting of Jewish opposition leaders in Herzliya, Naftali Bennett pledges to help Gadi Eisenkot form a government and urges the bloc to swiftly replace Likud's Knesset Speaker Amir Ohana, per Times of Israel.",
+   "ar": "بعد اجتماع لقادة المعارضة اليهودية في هرتسليا، نفتالي بينيت يتعهّد بمساعدة غادي آيزنكوت على تشكيل الحكومة ويدعو الكتلة إلى استبدال رئيس الكنيست الليكودي أمير أوحانا سريعاً، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/bennett-vows-to-help-eisenkot-form-government-urges-opposition-to-act-quickly/"
+   }
+  },
   {
    "id": "20261103-1058-golan-joint-list-meeting",
    "time": "2026-11-03T10:58:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idfs-top-lawyer-troops-must-intervene-in-settler-violence-against-palestinians/"
+   }
+  },
+  {
+   "id": "20261103-1034-irgc-three-tankers-mines",
+   "time": "2026-11-03T10:34:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRGC Navy says 3 oil tankers exploded and caught fire after hitting naval mines on unauthorised routes in the Strait of Hormuz with tracking switched off; the claim is unverified.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن 3 ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية على مسارات غير مرخّصة في مضيق هرمز وأنظمة تتبّعها مطفأة؛ ولم يتسنَّ التحقق من الرواية.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-three-tankers-exploded-after-hitting-naval-mines-hormuz"
    }
   },
   {
@@ -414,11 +438,11 @@
    "time": "2026-11-02T17:03:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "The death toll from Russian bombs that hit a school used as an aid centre and a shelter in Komyshuvakha, Zaporizhzhia region, rises to 29, with 48 missing, regional governor Mykhailo Semikin says.",
-   "ar": "حصيلة القنابل الروسية التي أصابت مدرسة تُستخدم مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا ترتفع إلى 29 قتيلاً و48 مفقوداً، بحسب حاكم المنطقة.",
+   "en": "The death toll from Russian bombs that hit an aid centre and shelter in Komyshuvakha, Zaporizhzhia region, rises to 31, with nearly 50 missing; the region declares 3 days of mourning.",
+   "ar": "حصيلة القنابل الروسية التي أصابت مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا ترتفع إلى 31 قتيلاً ونحو 50 مفقوداً، والمنطقة تعلن الحداد 3 أيام.",
    "source": {
-    "name": "Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1230193.html"
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4180863-death-toll-from-komyshuvakha-airstrike-rises-to-31-nearly-50-people-missing.html"
    }
   },
   {
@@ -1616,18 +1640,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"
-   }
-  },
-  {
-   "id": "20261031-1128-iran-delegation-doha",
-   "time": "2026-10-31T11:28:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "An Iranian delegation including a deputy to Foreign Minister Abbas Araghchi arrives in Doha to work with Qatari mediators, per Al-Araby Al-Jadeed citing an Iranian source.",
-   "ar": "وفد إيراني يضمّ مساعداً لوزير الخارجية عباس عراقجي يصل إلى الدوحة للتنسيق مع الوسيط القطري، بحسب «العربي الجديد» نقلاً عن مصدر إيراني.",
-   "source": {
-    "name": "Anadolu",
-    "url": "https://www.aa.com.tr/en/middle-east/iranian-delegation-arrives-in-qatar-for-talks-report/4107264"
    }
   }
  ]
