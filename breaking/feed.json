@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T16:11:10Z",
+ "updated": "2026-11-03T17:08:35Z",
  "items": [
+  {
+   "id": "20261103-1639-eisenkot-aid-netanyahu",
+   "time": "2026-11-03T16:39:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot says Netanyahu 'can no longer be trusted and must be replaced' and must answer citizens tonight after Trump's announced halt to US military aid, worth $3.8 billion a year.",
+   "ar": "غادي آيزنكوت يقول إن نتنياهو «لم يعد أهلاً للثقة ويجب استبداله»، ويطالبه بتقديم أجوبة للمواطنين الليلة بعد إعلان ترامب وقف المساعدات العسكرية الأميركية البالغة 3.8 مليار دولار سنوياً.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-assails-netanyahu-demands-answers-after-trumps-military-aid-halt-announcement/"
+   }
+  },
+  {
+   "id": "20261103-1616-fbi-white-powder-arrest",
+   "time": "2026-11-03T16:16:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The FBI has arrested an Oklahoma City man suspected of mailing hundreds of white-powder letters to public officials and election offices in more than 100 locations, a federal source tells Fox News.",
+   "ar": "مكتب التحقيقات الفدرالي يعتقل رجلاً من أوكلاهوما سيتي يُشتبه بإرساله مئات الرسائل المحتوية على مسحوق أبيض إلى مسؤولين ومكاتب انتخابية في أكثر من 100 موقع، بحسب مصدر فدرالي لـ«فوكس نيوز».",
+   "source": {
+    "name": "Fox News",
+    "url": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials"
+   }
+  },
   {
    "id": "20261103-1606-gaza-city-strike",
    "time": "2026-11-03T16:06:00Z",
@@ -119,6 +143,18 @@
    "source": {
     "name": "The White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/"
+   }
+  },
+  {
+   "id": "20261103-1228-syria-homs-refinery-plot",
+   "time": "2026-11-03T12:28:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Syria's Internal Security Forces say they arrested 2 members of a Hezbollah-linked cell and seized explosives meant to attack the Homs oil refinery; Hezbollah denies any link.",
+   "ar": "قوى الأمن الداخلي السورية تعلن توقيف عنصرين من خلية مرتبطة بحزب الله وضبط عبوات ناسفة كانت معدّة لاستهداف مصفاة حمص، وحزب الله ينفي أي صلة.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/03/syria-foils-hezbollah-linked-plot-to-blow-up-oil-refinery/"
    }
   },
   {
@@ -1688,30 +1724,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/lapid-and-eisenkot-meet-to-coordinate-moves-to-realize-the-will-of-the-voter/"
-   }
-  },
-  {
-   "id": "20261031-1659-rubio-no-iran-decision",
-   "time": "2026-10-31T16:59:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio says Trump has made no decision on new strikes on Iran and prefers a diplomatic solution, but the US has 'everything we need' if action is required.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن ترامب لم يتخذ قراراً بشن ضربات جديدة على إيران ويفضّل حلاً دبلوماسياً، لكن واشنطن تملك «كل ما نحتاجه» إذا لزم التحرك.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-still-hasnt-made-decision-on-fresh-iran-strikes-prefers-diplomatic-solution-rubio/"
-   }
-  },
-  {
-   "id": "20261031-1657-france-protests-320000",
-   "time": "2026-10-31T16:57:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "France's interior ministry says about 320,000 people protested nationwide on Saturday, including 70,000 in Paris, and at least 290 were arrested as police fired tear gas in Paris and Lyon.",
-   "ar": "وزارة الداخلية الفرنسية تقول إن نحو 320 ألف شخص تظاهروا في أنحاء البلاد يوم السبت، بينهم 70 ألفاً في باريس، وأُوقف 290 شخصاً على الأقل فيما أطلقت الشرطة الغاز المسيل للدموع في باريس وليون.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/amp/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france"
    }
   }
  ]
