@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-03T08:09:19Z",
+ "updated": "2026-11-03T09:07:51Z",
  "items": [
+  {
+   "id": "20261103-0902-france-probe-beirut-strike",
+   "time": "2026-11-03T09:02:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "French judges open a war crimes investigation into a 2024 Israeli strike on a Beirut residential building that killed the parents of French-Lebanese artist Ali Cherri, his lawyer says.",
+   "ar": "قضاة فرنسيون يفتحون تحقيقاً بجرائم حرب في غارة إسرائيلية عام 2024 على مبنى سكني في بيروت قتلت والدَي الفنان الفرنسي-اللبناني علي شرّي، بحسب محاميته.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer/"
+   }
+  },
+  {
+   "id": "20261103-0840-liberman-no-arab-parties",
+   "time": "2026-11-03T08:40:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Yisrael Beytenu leader Avigdor Liberman says a stable government can be formed without Ra'am and the Joint List and that another election must be prevented.",
+   "ar": "زعيم «إسرائيل بيتنا» أفيغدور ليبرمان يقول إن بالإمكان تشكيل حكومة مستقرة من دون «راعم» و«القائمة المشتركة»، وإنه يجب منع انتخابات جديدة.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-government-can-be-formed-without-arab-parties-we-must-prevent-another-election/"
+   }
+  },
+  {
+   "id": "20261103-0837-jenin-rocket-cell",
+   "time": "2026-11-03T08:37:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's Shin Bet and police say they arrested 6 Palestinians from the Jenin area who built a rocket and explosive devices and carried out at least 3 launch tests.",
+   "ar": "الشاباك والشرطة الإسرائيلية يقولان إنهما اعتقلا 6 فلسطينيين من منطقة جنين صنعوا صاروخاً وعبوات ناسفة وأجروا 3 تجارب إطلاق على الأقل.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/6-west-bank-palestinians-arrested-for-trying-to-build-rockets-to-launch-at-israel/"
+   }
+  },
+  {
+   "id": "20261103-0831-iran-police-saravan",
+   "time": "2026-11-03T08:31:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "An Iranian police officer is killed in an armed attack by unidentified assailants in Saravan county, Sistan-Baluchistan province, Iranian police say.",
+   "ar": "مقتل ضابط شرطة إيراني في هجوم مسلّح نفّذه مجهولون في مقاطعة سراوان بمحافظة سيستان وبلوشستان، بحسب الشرطة الإيرانية.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-police-officer-killed-in-attack-in-restive-southeast/"
+   }
+  },
   {
    "id": "20261103-0657-iran-deal-out-of-reach",
    "time": "2026-11-03T06:57:00Z",
@@ -1532,18 +1580,6 @@
    "source": {
     "name": "IMLebanon",
     "url": "https://www.imlebanon.org/2026/10/31/south-lebanon-israel-123/"
-   }
-  },
-  {
-   "id": "20261031-0831-khamenei-no-limits",
-   "time": "2026-10-31T08:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Supreme Leader Mojtaba Khamenei orders the armed forces to answer any enemy threat with no geographic limits and to update target lists to include US and Israeli assets.",
-   "ar": "المرشد الإيراني مجتبى خامنئي يأمر القوات المسلحة بالرد على أي تهديد معادٍ من دون حدود جغرافية، وبتحديث بنك الأهداف ليشمل المصالح الأميركية والإسرائيلية.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105"
    }
   }
  ]
