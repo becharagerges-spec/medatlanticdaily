@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T19:08:45Z",
+ "updated": "2026-11-03T20:08:54Z",
  "items": [
+  {
+   "id": "20261103-1932-egypt-iran-flexibility",
+   "time": "2026-11-03T19:32:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Egyptian FM Badr Abdelatty tells Iranian FM Abbas Araghchi in a call that all parties must show flexibility and seek a political solution to spare the region military escalation.",
+   "ar": "وزير الخارجية المصري بدر عبد العاطي يؤكد لنظيره الإيراني عباس عراقجي في اتصال هاتفي ضرورة أن تُبدي جميع الأطراف مرونة وتسعى إلى حل سياسي يجنّب المنطقة التصعيد العسكري.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/egypt-urges-flexibility-restraint-in-call-with-iran-to-avert-regional-escalation/"
+   }
+  },
+  {
+   "id": "20261103-1904-eastern-province-drone",
+   "time": "2026-11-03T19:04:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a drone over Saudi Arabia's oil-rich Eastern Province, its second drone interception on Tuesday after one over the Mecca region.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرة فوق المنطقة الشرقية الغنية بالنفط، في ثاني عملية اعتراض لمسيّرة يوم الثلاثاء بعد أخرى فوق منطقة مكة المكرمة.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.pk/saudi-arabia/coalition-intercepts-and-destroys-drones-in-makkah-region-eastern-province-3005970"
+   }
+  },
   {
    "id": "20261103-1844-centcom-iran-strike-plan",
    "time": "2026-11-03T18:44:00Z",
@@ -1700,30 +1724,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/alaska-senate-dan-sullivan-certification-5b975dc87222858f6239e9170d675698"
-   }
-  },
-  {
-   "id": "20261031-1937-un-staffer-houthi-custody",
-   "time": "2026-10-31T19:37:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "UN rights chief Volker Türk says Yemeni staff member Mohammad el Shami died in Houthi custody after detention since June 2024 and demands an independent investigation.",
-   "ar": "المفوض الأممي لحقوق الإنسان فولكر تورك يعلن وفاة الموظف اليمني محمد الشامي في احتجاز الحوثيين بعد اعتقاله منذ حزيران 2024، ويطالب بتحقيق مستقل.",
-   "source": {
-    "name": "Reuters via Yahoo",
-    "url": "https://malaysia.news.yahoo.com/un-says-yemeni-staff-member-193735670.html"
-   }
-  },
-  {
-   "id": "20261031-1922-ca-noncitizen-list",
-   "time": "2026-10-31T19:22:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "More than 40% of names on a Justice Department list of alleged noncitizen voters in California are not on the state's voter rolls, an immigrant rights group's court filing finds, AP reports.",
-   "ar": "أكثر من 40% من الأسماء الواردة في لائحة وزارة العدل الأميركية لناخبين يُزعم أنهم غير مواطنين في كاليفورنيا غير مسجّلة أصلاً في لوائح الشطب في الولاية، بحسب مذكرة قضائية لمجموعة حقوقية للمهاجرين، وفق أسوشيتد برس.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/california-justice-department-noncitizen-voters-midterms-45b31d5aefb03723f0e59f6084e918d4"
    }
   }
  ]
