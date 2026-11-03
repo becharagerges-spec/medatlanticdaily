@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T06:09:18Z",
+ "updated": "2026-11-03T07:07:54Z",
  "items": [
+  {
+   "id": "20261103-0657-iran-deal-out-of-reach",
+   "time": "2026-11-03T06:57:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "A senior Iranian official tells Reuters that Iran and the US remain far from a deal to end the war and that Tehran will not accept Washington's 'excessive demands'.",
+   "ar": "مسؤول إيراني رفيع يقول لرويترز إن إيران والولايات المتحدة ما زالتا بعيدتين عن اتفاق لإنهاء الحرب، وإن طهران لن تقبل «المطالب المفرطة» لواشنطن.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iran-us-deal-still-out-of-reach-senior-iranian-official-says/"
+   }
+  },
+  {
+   "id": "20261103-0620-iran-executions-isfahan",
+   "time": "2026-11-03T06:20:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran executes 2 men convicted over the killing of 4 police officers in Isfahan during the January 8 protests, after the Supreme Court upheld their sentences, Fars reports.",
+   "ar": "إيران تعدم رجلين أُدينا بقتل 4 عناصر من الشرطة في أصفهان خلال احتجاجات 8 كانون الثاني، بعد أن صادقت المحكمة العليا على الحكمين، بحسب وكالة «فارس».",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/two-men-executed-in-iran-over-killing-of-police-officers-during-january-protests/"
+   }
+  },
   {
    "id": "20261103-0528-russia-energy-strikes-claim",
    "time": "2026-11-03T05:28:00Z",
@@ -1508,42 +1532,6 @@
    "source": {
     "name": "Xinhua",
     "url": "https://english.news.cn/europe/20261031/93f7c65ef4c24943b768b2fbf3398f0d/c.html"
-   }
-  },
-  {
-   "id": "20261031-0658-us-iran-doha-talks",
-   "time": "2026-10-31T06:58:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Al-Araby Al-Jadeed reported a US delegation joining Iran talks in Doha, but FM Araghchi says Tehran plans no meeting with US officials; MS NOW says strikes could start November 4.",
-   "ar": "«العربي الجديد» أفادت بانضمام وفد أميركي إلى محادثات مع إيران في الدوحة، لكن وزير الخارجية عباس عراقجي يقول إن طهران لا تعتزم لقاء مسؤولين أميركيين، فيما تفيد «إم إس ناو» بأن الضربات قد تبدأ في 4 تشرين الثاني.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
-   }
-  },
-  {
-   "id": "20261031-0633-yemen-army-houthis-336",
-   "time": "2026-10-31T06:33:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's government military spokesman Majed al-Nuzaili claims about 336 Houthi fighters have been killed or neutralised in the 'Dawn of Yemen' operation, per Anadolu.",
-   "ar": "المتحدث العسكري باسم الحكومة اليمنية ماجد النزيلي يقول إن نحو 336 مقاتلاً حوثياً حُيّدوا في عملية «فجر اليمن»، بحسب الأناضول.",
-   "source": {
-    "name": "Anadolu via Dawn",
-    "url": "https://www.dawn.com/live/iran-israel-war"
-   }
-  },
-  {
-   "id": "20261031-0630-russia-134-drones",
-   "time": "2026-10-31T06:30:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's air force says Russia launched 134 drones overnight, 72 of them jet-powered, and that 105 were downed or suppressed, with hits recorded at 20 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 134 مسيّرة خلال الليل، بينها 72 نفاثة، وإنه أسقط أو عطّل 105 منها، مع تسجيل إصابات في 20 موقعاً.",
-   "source": {
-    "name": "112 Ukraine",
-    "url": "https://112.ua/en/rosia-zapustila-134-bezpilotniki-po-ukraini-ppo-zbila-105-z-nih-pid-cas-ataki-195044"
    }
   }
  ]
