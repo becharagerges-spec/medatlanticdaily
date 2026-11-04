@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-04T09:09:04Z",
+ "updated": "2026-11-04T10:08:11Z",
  "items": [
+  {
+   "id": "20261104-0959-herzog-receives-results",
+   "time": "2026-11-04T09:59:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "President Isaac Herzog receives the official results of Israel's 26th Knesset election from election committee chair Noam Sohlberg, formally opening the race for the mandate to form a government, per The Jerusalem Post.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يتسلّم النتائج الرسمية لانتخابات الكنيست الـ26 من رئيس لجنة الانتخابات نوعام سولبرغ، فاتحاً رسمياً السباق على تكليف تشكيل الحكومة («جيروزاليم بوست»).",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913806"
+   }
+  },
+  {
+   "id": "20261104-0834-us-futures-recover",
+   "time": "2026-11-04T08:34:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stock futures recover from overnight losses, with Dow E-minis up 0.46% after Nasdaq-100 futures fell as much as 2.4%, as Democrats take both chambers of Congress, Reuters reports.",
+   "ar": "العقود الآجلة للأسهم الأميركية تتعافى من خسائر الليل، فترتفع عقود داو جونز 0.46% بعدما هبطت عقود ناسداك 100 حتى 2.4%، مع سيطرة الديمقراطيين على مجلسَي الكونغرس، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-index-futures-steady-083456013.html"
+   }
+  },
   {
    "id": "20261104-0829-ricketts-nebraska-senate",
    "time": "2026-11-04T08:29:00Z",
@@ -338,6 +362,18 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+   }
+  },
+  {
+   "id": "20261104-0208-iran-far-from-deal",
+   "time": "2026-11-04T02:08:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "A senior Iranian official tells Reuters Tehran and Washington remain far from a deal and nuclear talks can start only after Iran's conditions, including waived oil sanctions and an end to the naval blockade, are met.",
+   "ar": "مسؤول إيراني رفيع يقول لرويترز إن طهران وواشنطن لا تزالان بعيدتين عن اتفاق، وإن المحادثات النووية لن تبدأ إلا بعد تلبية شروط إيران، ومنها رفع العقوبات النفطية وإنهاء الحصار البحري.",
+   "source": {
+    "name": "Reuters via Internazionale",
+    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/04/iran-s-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies"
    }
   },
   {
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "AFP via 24 News HD",
     "url": "https://www.24newshd.tv/01-Nov-2026/houthi-media-renews-threats-saudi-oil-giant-aviation"
-   }
-  },
-  {
-   "id": "20261101-1343-coalition-houthi-operation",
-   "time": "2026-11-01T13:43:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it carried out a precision military operation in Yemen on Sunday morning against Houthi resources used for ballistic missiles and drones, without naming targets.",
-   "ar": "التحالف بقيادة السعودية يعلن أنه نفّذ صباح الأحد عملية عسكرية دقيقة في اليمن استهدفت موارد يستخدمها الحوثيون للصواريخ الباليستية والمسيّرات، من دون تحديد الأهداف.",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
-   }
-  },
-  {
-   "id": "20261101-1323-likud-rejects-rotation",
-   "time": "2026-11-01T13:23:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Likud coalition whip Ofir Katz says the party opposes any prime-minister rotation deal and that others can join a government based on the existing coalition, per Army Radio.",
-   "ar": "رئيس الائتلاف من الليكود أوفير كاتس يقول إن الحزب يرفض أي اتفاق تناوب على رئاسة الحكومة، وإن من يريد يمكنه الانضمام إلى حكومة على أساس الائتلاف الحالي، بحسب إذاعة الجيش.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/likud-whip-says-party-opposes-rotation-agreement-in-a-potential-government"
-   }
-  },
-  {
-   "id": "20261101-1320-bahrain-door-open-iran",
-   "time": "2026-11-01T13:20:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Bahrain's Foreign Minister Abdullatif Al Zayani calls at the Manama Dialogue for a regional security framework open to Iran, saying the door 'leads to rules, not exceptions'.",
-   "ar": "وزير الخارجية البحريني عبد اللطيف الزياني يدعو في حوار المنامة إلى إطار أمني إقليمي مفتوح أمام إيران، قائلاً إن الباب «يقود إلى قواعد لا إلى استثناءات».",
-   "source": {
-    "name": "Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/gulf/5336276-bahrain-calls-regional-security-framework-open-iran-uae-hopes-diplomatic-breakthrough"
    }
   }
  ]
