@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-04T13:11:36Z",
+ "updated": "2026-11-04T15:10:08Z",
  "items": [
+  {
+   "id": "20261104-1341-us-stocks-bonds-dollar",
+   "time": "2026-11-04T13:41:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stock futures rise after the Democratic sweep of Congress, with Dow futures up 1.9%, the 10-year Treasury yield down 5 basis points to 4.92% and gold up 2.9%, Bloomberg reports.",
+   "ar": "العقود الآجلة للأسهم الأميركية ترتفع بعد اكتساح الديمقراطيين للكونغرس، مع صعود عقود داو جونز 1.9% وتراجع عائد سندات الخزانة لعشر سنوات 5 نقاط أساس إلى 4.92% وارتفاع الذهب 2.9%، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg via Swissinfo",
+    "url": "https://swissinfo.ch/eng/stocks-and-bonds-rise,-dollar-slides-after-us-vote:-markets-wrap/92323391"
+   }
+  },
+  {
+   "id": "20261104-1312-qabrikha-drone-strike",
+   "time": "2026-11-04T13:12:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "An Israeli drone strike on a motorcycle in Qabrikha, Marjayoun district, kills 1 person and wounds another, Lebanon's Health Ministry says.",
+   "ar": "غارة بمسيّرة إسرائيلية على دراجة نارية في بلدة قبريخا - قضاء مرجعيون تؤدي إلى سقوط قتيل وجريح، بحسب وزارة الصحة اللبنانية.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1755075"
+   }
+  },
   {
    "id": "20261104-1059-khamenei-us-hostility",
    "time": "2026-11-04T10:59:00Z",
@@ -116,6 +140,18 @@
    "ar": "الجمهوري كيرت ألمي يفوز بمقعد مونتانا في مجلس الشيوخ الأميركي خلفاً للسيناتور المتقاعد ستيف داينز، بعدما تقاسم منافساه المستقل والديمقراطي الأصوات، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0756-drones-kurdish-opposition-iraq",
+   "time": "2026-11-04T07:56:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Two explosive-laden drones attack Iranian Kurdish opposition groups in Sulaymaniyah and east of Erbil in Iraq's Kurdistan region, security sources tell Reuters; no casualties reported yet.",
+   "ar": "مسيّرتان محمّلتان بالمتفجرات تهاجمان مجموعات كردية إيرانية معارضة في السليمانية وشرق أربيل في إقليم كردستان العراق، بحسب مصادر أمنية لـ«رويترز»، من دون الإعلان عن إصابات بعد.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/drones-attack-iranian-kurdish-opposition-075600526.html"
    }
   },
   {
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "Axios",
     "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war"
-   }
-  },
-  {
-   "id": "20261101-2011-irgc-two-tankers-mines",
-   "time": "2026-11-01T20:11:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's IRGC Navy says two oil tankers, one a supertanker, exploded after hitting mines on an 'unauthorized route' in the Strait of Hormuz; the claim is unverified.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط، إحداهما عملاقة، انفجرتا بعد اصطدامهما بألغام على «مسار غير مرخّص» في مضيق هرمز؛ ولم يتسنَّ التحقق من الرواية.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-in-hormuz/"
-   }
-  },
-  {
-   "id": "20261101-1900-hormuz-vessel-projectile",
-   "time": "2026-11-01T19:00:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a merchant vessel was struck by an unknown projectile in the Strait of Hormuz on Sunday, after another ship's master relayed a mayday call; no damage or casualty details given.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة تجارية أُصيبت بمقذوف مجهول في مضيق هرمز يوم الأحد، بعد نداء استغاثة نقله ربّان سفينة أخرى، من دون تفاصيل عن أضرار أو إصابات.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/vessel-struck-in-strait-of-hormuz-maritime-agency-3009316"
-   }
-  },
-  {
-   "id": "20261101-1817-alaska-doj-suit-dismissed",
-   "time": "2026-11-01T18:17:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "A federal judge dismisses the Justice Department's lawsuit seeking to segregate ballots and block certification of Alaska's Senate race if Republican Dan Sullivan loses to Mary Peltola.",
-   "ar": "قاضٍ فدرالي يردّ دعوى وزارة العدل الأميركية التي سعت إلى فرز بطاقات اقتراع ومنع المصادقة على نتيجة سباق مجلس الشيوخ في ألاسكا إذا خسر الجمهوري دان سوليفان أمام ماري بيلتولا.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/alaska-senate-dan-sullivan-peltola-investigation-b35acffc8b55ef58679d9b8395760f98"
    }
   }
  ]
