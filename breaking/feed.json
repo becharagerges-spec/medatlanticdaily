@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:10:23Z",
+ "updated": "2026-11-04T18:08:34Z",
  "items": [
   {
    "id": "20261104-1701-brent-slides-94",
@@ -1340,12 +1340,12 @@
    "id": "20261102-1703-komyshuvakha-bombs",
    "time": "2026-11-02T17:03:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "The death toll from Russian bombs that hit an aid centre and shelter in Komyshuvakha, Zaporizhzhia region, rises to at least 37, with more than 50 still missing, CNN reports.",
-   "ar": "حصيلة القنابل الروسية التي أصابت مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا ترتفع إلى 37 قتيلاً على الأقل، فيما لا يزال أكثر من 50 مفقودين، بحسب «سي إن إن».",
+   "status": "confirmed",
+   "en": "Zelensky says the death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, Zaporizhzhia region, has risen to 40, with more than 30 possibly still under rubble.",
+   "ar": "زيلينسكي يقول إن حصيلة القنابل الروسية الموجّهة التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا بمنطقة زابوريجيا ارتفعت إلى 40 قتيلاً، وقد يكون أكثر من 30 آخرين لا يزالون تحت الأنقاض.",
    "source": {
-    "name": "CNN via KQ2",
-    "url": "https://www.kq2.com/cnn/cnn-world/2026/11/04/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building/"
+    "name": "AP via The Boston Globe",
+    "url": "https://www.bostonglobe.com/2026/11/04/world/russia-ukraine-war-death-toll/"
    }
   },
   {
