@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-04T11:07:45Z",
+ "updated": "2026-11-04T12:09:39Z",
  "items": [
+  {
+   "id": "20261104-1037-irgc-adviser-gulf-hosts",
+   "time": "2026-11-04T10:37:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Hamidreza Moghadamfar, adviser to Iran's IRGC commander, warns at a Bandar Abbas rally that Gulf states such as the UAE and Bahrain face a wider response if they host US attacks on Iran.",
+   "ar": "حميد رضا مقدم‌فر، مستشار قائد الحرس الثوري الإيراني، يحذّر في تجمّع ببندر عباس من أن دول الخليج كالإمارات والبحرين ستواجه رداً أوسع إذا استضافت هجمات أميركية على إيران.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-says-it-could-expand-response-if-gulf-states-host-us-attacks-tasnim-reports-3009750"
+   }
+  },
   {
    "id": "20261104-0959-herzog-receives-results",
    "time": "2026-11-04T09:59:00Z",
@@ -315,6 +327,18 @@
    "source": {
     "name": "investingLive",
     "url": "https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/"
+   }
+  },
+  {
+   "id": "20261104-0340-eu-ukraine-cautious-roadmap",
+   "time": "2026-11-04T03:40:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "The European Commission's accession roadmap sets no entry date for Ukraine and targets provisional closure of 7 policy areas in 2027, against more than 20 for Moldova, Politico reports.",
+   "ar": "خريطة طريق الانضمام التي أعدّتها المفوضية الأوروبية لا تحدّد موعداً لدخول أوكرانيا وتستهدف إقفالاً مؤقتاً لـ7 مجالات في 2027، مقابل أكثر من 20 لمولدوفا، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico",
+    "url": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/"
    }
   },
   {
@@ -1184,12 +1208,12 @@
    "id": "20261102-1703-komyshuvakha-bombs",
    "time": "2026-11-02T17:03:00Z",
    "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The death toll from Russian bombs that hit an aid centre and shelter in Komyshuvakha, Zaporizhzhia region, rises to 31, with nearly 50 missing; the region declares 3 days of mourning.",
-   "ar": "حصيلة القنابل الروسية التي أصابت مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا ترتفع إلى 31 قتيلاً ونحو 50 مفقوداً، والمنطقة تعلن الحداد 3 أيام.",
+   "status": "reported",
+   "en": "The death toll from Russian bombs that hit an aid centre and shelter in Komyshuvakha, Zaporizhzhia region, rises to at least 37, with more than 50 still missing, CNN reports.",
+   "ar": "حصيلة القنابل الروسية التي أصابت مركزاً للمساعدات وملجأً في كوميشوفاخا بمنطقة زابوريجيا ترتفع إلى 37 قتيلاً على الأقل، فيما لا يزال أكثر من 50 مفقودين، بحسب «سي إن إن».",
    "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4180863-death-toll-from-komyshuvakha-airstrike-rises-to-31-nearly-50-people-missing.html"
+    "name": "CNN via KQ2",
+    "url": "https://www.kq2.com/cnn/cnn-world/2026/11/04/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building/"
    }
   },
   {
@@ -1764,30 +1788,6 @@
    "ar": "السيناتور الديمقراطي كريس مورفي من كونيتيكت في مستشفى جونز هوبكنز إثر جلطة دماغية السبت، بحسب رئيسة مكتبه التي قالت إنه واعٍ ويستجيب جيداً للعلاج.",
    "source": {
     "name": "Politico"
-   }
-  },
-  {
-   "id": "20261101-1647-wadi-hujeir-shelling",
-   "time": "2026-11-01T16:47:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli artillery heavily shelled Wadi al-Hujeir toward Tulin in south Lebanon on Sunday, amid shelling of several southern towns, per Lebanese outlet Beirut 24.",
-   "ar": "قصف مدفعي إسرائيلي عنيف استهدف وادي الحجير باتجاه تولين في جنوب لبنان الأحد، وسط قصف طال عدداً من البلدات الجنوبية، بحسب موقع «بيروت 24».",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/01/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%86%D9%8A%D9%81-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84/"
-   }
-  },
-  {
-   "id": "20261101-1624-aita-al-jabal-strike",
-   "time": "2026-11-01T16:24:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli warplanes struck the outskirts of Aita al-Jabal in south Lebanon's Bint Jbeil district, toward Beit Yahoun, per Lebanese outlet Beirut 24; no casualties were reported.",
-   "ar": "الطيران الحربي الإسرائيلي يغير على أطراف عيتا الجبل في قضاء بنت جبيل جنوبي لبنان باتجاه بيت ياحون، وفق موقع «بيروت 24»؛ ولم تُسجَّل إصابات.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/01/%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%B9%D9%8A%D8%AA%D8%A7-%D8%A7%D9%84%D8%AC%D8%A8/"
    }
   }
  ]
