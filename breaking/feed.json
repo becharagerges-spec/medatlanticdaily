@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-04T03:10:23Z",
+ "updated": "2026-11-04T04:08:18Z",
  "items": [
+  {
+   "id": "20261104-0400-trump-accepts-results",
+   "time": "2026-11-04T04:00:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump tells The New York Times he will accept the midterm results, blames Republican losses on not being on the ballot and says he is willing to work with Democrats.",
+   "ar": "ترامب يقول لصحيفة «نيويورك تايمز» إنه سيقبل نتائج الانتخابات النصفية، ويعزو خسائر الجمهوريين إلى غيابه عن ورقة الاقتراع، ويبدي استعداده للعمل مع الديمقراطيين.",
+   "source": {
+    "name": "The New York Times"
+   }
+  },
+  {
+   "id": "20261104-0351-acton-ohio-governor",
+   "time": "2026-11-04T03:51:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Amy Acton defeats Republican Vivek Ramaswamy in Ohio's governor race, the first Democrat to win the seat in 20 years and the state's first woman governor.",
+   "ar": "الديمقراطية آمي أكتون تهزم الجمهوري فيفيك راماسوامي في سباق حاكمية أوهايو، لتكون أول ديمقراطية تفوز بالمنصب منذ 20 عاماً وأول امرأة تتولاه في الولاية.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/ohio-governor-race-2026-election-ramaswamy-acton-ee7b1860b0b8905c55df27318755f7e3"
+   }
+  },
+  {
+   "id": "20261104-0344-irgc-four-tankers-two-detained",
+   "time": "2026-11-04T03:44:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRGC says 4 tankers were destroyed and still burning after hitting naval mines south of the Strait of Hormuz and 2 other vessels were detained; the claim is unverified.",
+   "ar": "الحرس الثوري الإيراني يقول إن 4 ناقلات دُمّرت ولا تزال تحترق بعد اصطدامها بألغام بحرية جنوب مضيق هرمز، وإنه احتجز سفينتين أخريين؛ ولم يُتحقق من الادعاء.",
+   "source": {
+    "name": "investingLive",
+    "url": "https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/"
+   }
+  },
+  {
+   "id": "20261104-0326-talarico-texas-senate",
+   "time": "2026-11-04T03:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat James Talarico defeats Republican Ken Paxton in Texas, the first Democrat elected to the US Senate from the state since 1988.",
+   "ar": "الديمقراطي جيمس تالاريكو يهزم الجمهوري كين باكستون في تكساس، ليصبح أول ديمقراطي يُنتخب لمجلس الشيوخ الأميركي عن الولاية منذ 1988.",
+   "source": {
+    "name": "Bloomberg"
+   }
+  },
+  {
+   "id": "20261104-0316-andrews-sc-senate",
+   "time": "2026-11-04T03:16:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Annie Andrews unseats Republican Sen. Darline Graham in South Carolina in an upset US Senate win.",
+   "ar": "الديمقراطية آني أندروز تُطيح بالسيناتورة الجمهورية دارلين غراهام في كارولاينا الجنوبية، في فوز مفاجئ بمقعد في مجلس الشيوخ الأميركي.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/darline-graham-annie-andrews-south-carolina-midterms-74fc0bf08f5822378fcfa2fe09377d69"
+   }
+  },
   {
    "id": "20261104-0231-asia-stocks-midterms",
    "time": "2026-11-04T02:31:00Z",
@@ -1701,18 +1759,6 @@
    "source": {
     "name": "AP via The Times of Israel",
     "url": "https://www.timesofisrael.com/fbi-blames-north-korea-for-stealing-billions-from-worlds-largest-crypto-firm/"
-   }
-  },
-  {
-   "id": "20261101-0325-kstovo-refinery-fire",
-   "time": "2026-11-01T03:25:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Lukoil's NORSI refinery in Kstovo, Russia's fourth-largest, is ablaze after a reported overnight Ukrainian drone strike, per Russian outlet ASTRA and Ukrainian monitoring channels; unverified.",
-   "ar": "مصفاة «نورسي» التابعة لـ«لوك أويل» في كستوفو، رابع أكبر مصفاة في روسيا، تشتعل بعد ضربة مسيّرة أوكرانية ليلية، بحسب موقع «أسترا» الروسي وقنوات رصد أوكرانية؛ ولم يتسنَّ التحقق.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/"
    }
   }
  ]
