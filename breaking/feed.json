@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-04T07:09:22Z",
+ "updated": "2026-11-04T08:08:13Z",
  "items": [
+  {
+   "id": "20261104-0757-alme-montana-senate",
+   "time": "2026-11-04T07:57:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Republican Kurt Alme wins Montana's US Senate race to replace retiring Sen. Steve Daines, as independent and Democratic rivals split the vote, Politico reports.",
+   "ar": "الجمهوري كيرت ألمي يفوز بمقعد مونتانا في مجلس الشيوخ الأميركي خلفاً للسيناتور المتقاعد ستيف داينز، بعدما تقاسم منافساه المستقل والديمقراطي الأصوات، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0752-israel-cec-ratifies",
+   "time": "2026-11-04T07:52:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's Central Elections Committee presidium ratifies the October 27 election results, with Likud and Shas abstaining and chair Noam Sohlberg rejecting a delay, per Times of Israel.",
+   "ar": "هيئة رئاسة لجنة الانتخابات المركزية في إسرائيل تصادق على نتائج انتخابات 27 تشرين الأول، مع امتناع الليكود وشاس، ورئيسها نوعام سولبرغ يرفض طلب التأجيل، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/election-panel-votes-to-ratify-results-likud-shas-mks-abstain"
+   }
+  },
+  {
+   "id": "20261104-0747-likud-otzma-certification",
+   "time": "2026-11-04T07:47:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud MK Amit Halevi quits Israel's election committee alleging foreign interference without evidence, and Otzma Yehudit says it will vote against certifying the results, per Times of Israel.",
+   "ar": "النائب عن الليكود عميت هليفي يستقيل من لجنة الانتخابات الإسرائيلية مدّعياً تدخلاً أجنبياً من دون دليل، و«عوتسما يهوديت» تعلن أنها ستصوّت ضد المصادقة على النتائج، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-4-2026/"
+   }
+  },
+  {
+   "id": "20261104-0739-lapid-no-unity-netanyahu",
+   "time": "2026-11-04T07:39:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli opposition leader Yair Lapid says there is no possibility of a unity government under Netanyahu after Shin Bet chief David Zini's actions and the US midterms, per Times of Israel.",
+   "ar": "زعيم المعارضة الإسرائيلية يائير لابيد يقول إن لا إمكانية لحكومة وحدة برئاسة نتنياهو بعد خطوات رئيس الشاباك دافيد زيني ونتائج الانتخابات النصفية الأميركية، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-4-2026/"
+   }
+  },
   {
    "id": "20261104-0647-benson-michigan-governor",
    "time": "2026-11-04T06:47:00Z",
@@ -58,6 +105,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/election-panel-says-probe-of-results-found-nothing-to-suggest-vote-was-compromised/"
+   }
+  },
+  {
+   "id": "20261104-0550-odesa-130-drones",
+   "time": "2026-11-04T05:50:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's air force says Russia launched 130 drones and 7 missiles overnight, hitting energy and port infrastructure in Odesa region; 92 drones were downed and no casualties reported.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 130 مسيّرة و7 صواريخ ليلاً، فأصابت منشآت طاقة ومرافئ في منطقة أوديسا؛ وأُسقطت 92 مسيّرة من دون إصابات.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89068"
    }
   },
   {
@@ -1731,66 +1790,6 @@
    "source": {
     "name": "AP",
     "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
-   }
-  },
-  {
-   "id": "20261101-1213-hodeidah-university-strikes",
-   "time": "2026-11-01T12:13:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi-run Al-Masirah TV says two airstrikes hit the University of Hodeidah's medical school on Sunday and blames Saudi Arabia; no casualty figures were given.",
-   "ar": "قناة المسيرة التابعة للحوثيين تقول إن غارتين جويتين أصابتا كلية الطب في جامعة الحديدة يوم الأحد، وتحمّل السعودية المسؤولية، من دون حصيلة للضحايا.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
-   }
-  },
-  {
-   "id": "20261101-1210-irgc-new-theaters",
-   "time": "2026-11-01T12:10:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC spokesman Hossein Mohabi says the Guards are identifying new targets and planning operations in 'new geographic theaters' in case the war with the US resumes, per Israel Hayom.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن الحرس يحدّد أهدافاً جديدة ويخطط لعمليات في «ساحات جغرافية جديدة» إذا استؤنفت الحرب مع الولايات المتحدة، بحسب «يسرائيل هيوم».",
-   "source": {
-    "name": "Israel Hayom",
-    "url": "https://www.israelhayom.com/2026/11/01/iran-threatens-to-expand-war-beyond-middle-east-as-us-weighs-new-strikes/"
-   }
-  },
-  {
-   "id": "20261101-1201-ushakov-putin-zelensky-call",
-   "time": "2026-11-01T12:01:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Kremlin aide Yuri Ushakov tells Russian state TV that Putin would answer a call from Zelensky and that Moscow is ready for exploratory talks with Ukraine and the US after 4 November.",
-   "ar": "مستشار الكرملين يوري أوشاكوف يقول للتلفزيون الروسي الرسمي إن بوتين سيردّ على اتصال من زيلينسكي، وإن موسكو مستعدة لمحادثات استكشافية مع أوكرانيا والولايات المتحدة بعد 4 تشرين الثاني.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/88794"
-   }
-  },
-  {
-   "id": "20261101-1122-zelensky-october-losses",
-   "time": "2026-11-01T11:22:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky says Russia lost 54,400 troops killed or severely wounded in October, a monthly record, while Ukraine retook 96.2 square kilometres, 10.4 more than Russia seized.",
-   "ar": "زيلينسكي يقول إن روسيا خسرت 54,400 جندي بين قتيل وجريح بإصابات بالغة في تشرين الأول، وهو رقم قياسي شهري، فيما استعادت أوكرانيا 96.2 كيلومتراً مربعاً، أي 10.4 أكثر مما سيطرت عليه روسيا.",
-   "source": {
-    "name": "UNN",
-    "url": "https://unn.ua/en/amp/russia-lost-a-record-54400-troops-in-october-zelenskyy"
-   }
-  },
-  {
-   "id": "20261101-1049-blome-iran-channels-open",
-   "time": "2026-11-01T10:49:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "US Assistant Secretary of State Donald Blome tells the Manama Dialogue that diplomatic channels with Iran remain 'open and active' but the US could take 'another direction' if needed, per The National.",
-   "ar": "مساعد وزير الخارجية الأميركي دونالد بلوم يقول في حوار المنامة إن قنوات الدبلوماسية مع إيران «مفتوحة وناشطة» لكن واشنطن قد تسلك «اتجاهاً آخر» عند الحاجة، بحسب «ذا ناشونال».",
-   "source": {
-    "name": "The National",
-    "url": "https://thenationalnews.com/news/mena/2026/11/01/after-years-of-war-syria-and-lebanon-turning-corner-to-rebuild-us-envoy-says"
    }
   }
  ]
