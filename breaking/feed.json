@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-04T19:09:21Z",
+ "updated": "2026-11-04T20:09:19Z",
  "items": [
+  {
+   "id": "20261104-1905-rezaei-strategic-defeat",
+   "time": "2026-11-04T19:05:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Supreme National Security Council head Mohsen Rezaei says Iran dealt Trump a strategic defeat on the battlefield and in Hormuz and a political defeat in Washington, per CBS News.",
+   "ar": "رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول إن إيران ألحقت بترامب هزيمة استراتيجية في الميدان وفي هرمز وهزيمة سياسية في واشنطن، بحسب «سي بي إس نيوز».",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+   }
+  },
+  {
+   "id": "20261104-1843-treasury-sanctions-india-network",
+   "time": "2026-11-04T18:43:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Treasury sanctions an India-based network run by Suniel Kumar Sharma and Jaspreet Preeti Shahid, accusing it of supplying false flags and fake certifications to Iran's shadow fleet.",
+   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على شبكة مقرّها الهند يديرها سونيل كومار شارما وجاسبريت بريتي شاهد، متهمةً إياها بتأمين أعلام مزيّفة وشهادات مزوّرة لأسطول الظل الإيراني.",
+   "source": {
+    "name": "US Treasury",
+    "url": "https://x.com/USTreasury/status/2118051503982383268"
+   }
+  },
   {
    "id": "20261104-1841-trump-war-worth-it-hegseth",
    "time": "2026-11-04T18:41:00Z",
@@ -14,6 +38,18 @@
    }
   },
   {
+   "id": "20261104-1743-schumer-war-must-end",
+   "time": "2026-11-04T17:43:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Presumed incoming Senate majority leader Chuck Schumer says the Iran war 'must end' and that Congress's power of the purse can deter a president waging war without public consent.",
+   "ar": "زعيم الغالبية المرجّح في مجلس الشيوخ تشاك شومر يقول إن حرب إيران «يجب أن تنتهي»، وإن سلطة الكونغرس على التمويل قادرة على ردع رئيس يخوض حرباً من دون موافقة الشعب.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/schumer-says-senate-can-use-power-of-the-purse-to-stop-iran-war"
+   }
+  },
+  {
    "id": "20261104-1701-brent-slides-94",
    "time": "2026-11-04T17:01:00Z",
    "theater": "markets",
@@ -23,6 +59,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
+   }
+  },
+  {
+   "id": "20261104-1609-irgc-mq1-qeshm",
+   "time": "2026-11-04T16:09:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over Qeshm Island in the Strait of Hormuz, the 15th of the type in the war; there is no US confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم في مضيق هرمز، وهي الخامسة عشرة من نوعها خلال الحرب؛ ولا تأكيد أميركياً.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
    }
   },
   {
@@ -59,6 +107,18 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
+   }
+  },
+  {
+   "id": "20261104-1436-houthis-claim-riyadh-airport",
+   "time": "2026-11-04T14:36:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi spokesman Yahya Saree claims a ballistic missile caused 'extensive damage' at Riyadh's King Khalid airport and urges airlines to avoid Saudi airspace; Saudi authorities have not commented.",
+   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم أن صاروخاً باليستياً أحدث «أضراراً واسعة» في مطار الملك خالد في الرياض، ويدعو شركات الطيران إلى تجنّب الأجواء السعودية؛ ولم تعلّق السلطات السعودية.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
    }
   },
   {
@@ -1730,66 +1790,6 @@
    "source": {
     "name": "Gulf News",
     "url": "https://gulfnews.com/world/americas/middle-east-conflict-trump-threatens-iran-with-military-action-as-tehran-warns-new-war-could-last-longer-1.500732180"
-   }
-  },
-  {
-   "id": "20261102-0432-asia-stocks-brent-eases",
-   "time": "2026-11-02T04:32:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent falls 3.3% to $109.66 a barrel and US crude 3.3% to $100.64 as Iran holds talks in Qatar, while South Korea's Kospi rises 2.3% and Shanghai 1.2%, AP reports.",
-   "ar": "برنت يتراجع 3.3% إلى 109.66 دولارات للبرميل والخام الأميركي 3.3% إلى 100.64 دولاراً مع استمرار المحادثات الإيرانية في قطر، فيما يرتفع مؤشر كوسبي الكوري الجنوبي 2.3% وشنغهاي 1.2%، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via News4JAX",
-    "url": "https://www.news4jax.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"
-   }
-  },
-  {
-   "id": "20261102-0352-japan-defence-doubling",
-   "time": "2026-11-02T03:52:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Japan is weighing 70–80 trillion yen ($457–508 billion) in defence spending over five years from April 2027, nearly double the current plan, two sources tell Reuters.",
-   "ar": "اليابان تدرس إنفاقاً دفاعياً بين 70 و80 تريليون ين (457–508 مليار دولار) على خمس سنوات بدءاً من نيسان 2027، أي نحو ضعف الخطة الحالية، بحسب مصدرين لرويترز.",
-   "source": {
-    "name": "Reuters via Devdiscourse",
-    "url": "https://www.devdiscourse.com/article/international/4000431-japan-weighs-500-billion-defence-spending-plan-sources-say"
-   }
-  },
-  {
-   "id": "20261102-0346-latvia-airspace-object",
-   "time": "2026-11-02T03:46:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Latvia's armed forces say a suspicious flying object briefly entered Latvian airspace near Kraslava and Ludza, by the Russian and Belarusian borders, on Sunday before the threat left.",
-   "ar": "القوات المسلحة اللاتفية تقول إن جسماً طائراً مشبوهاً دخل لفترة وجيزة أجواء لاتفيا قرب كراسلافا ولودزا، على الحدود مع روسيا وبيلاروسيا، يوم الأحد قبل أن يغادر.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/"
-   }
-  },
-  {
-   "id": "20261102-0251-us-russia-gas-europe",
-   "time": "2026-11-02T02:51:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "US envoys Witkoff and Kushner have pushed a plan for Russia to resume gas sales to Europe via Ukrainian pipelines through a US intermediary, the Wall Street Journal reports.",
-   "ar": "المبعوثان الأميركيان ويتكوف وكوشنر دفعا بخطة تتيح لروسيا استئناف بيع الغاز لأوروبا عبر الأنابيب الأوكرانية وبواسطة وسيط أميركي، بحسب «وول ستريت جورنال».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-pushes-for-russia-to-resume-gas-sales-to-europe-wsj-reports"
-   }
-  },
-  {
-   "id": "20261102-0250-north-korea-nuclear-buildup",
-   "time": "2026-11-02T02:50:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "North Korean Workers' Party official Kim Jong Sik calls the US-South Korean Iron Mace exercise a nuclear war rehearsal and says Pyongyang must expand its nuclear forces faster.",
-   "ar": "المسؤول في حزب العمال الكوري الشمالي كيم جونغ سيك يصف مناورات «الصولجان الحديدي» الأميركية-الكورية الجنوبية بأنها تمرين على حرب نووية، ويقول إن على بيونغ يانغ تسريع توسيع قواتها النووية.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/north-korea-says-us-south-024852252.html"
    }
   }
  ]
