@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-04T18:08:34Z",
+ "updated": "2026-11-04T19:09:21Z",
  "items": [
+  {
+   "id": "20261104-1841-trump-war-worth-it-hegseth",
+   "time": "2026-11-04T18:41:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says the Iran war hurt Republicans in the midterms by raising gasoline prices but was worth it, and says he is not considering replacing Defense Secretary Pete Hegseth.",
+   "ar": "ترامب يقرّ بأن الحرب على إيران أضرّت بالجمهوريين في الانتخابات النصفية عبر رفع أسعار الوقود لكنه يعتبرها مستحقة، ويؤكد أنه لا يفكّر في استبدال وزير الدفاع بيت هيغسيث.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
+   }
+  },
   {
    "id": "20261104-1701-brent-slides-94",
    "time": "2026-11-04T17:01:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
+   }
+  },
+  {
+   "id": "20261104-1556-kyiv-power-water-outages",
+   "time": "2026-11-04T15:56:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Russian attacks cut power and water for hours across Kyiv and surrounding regions on Wednesday before supplies were restored, Kyiv's water utility and energy firm DTEK say.",
+   "ar": "الهجمات الروسية تقطع الكهرباء والمياه لساعات في كييف والمناطق المحيطة بها الأربعاء قبل إعادتها، بحسب مرفق المياه في كييف وشركة الطاقة «دي تي إي كي».",
+   "source": {
+    "name": "AP via Arab News",
+    "url": "https://www.arabnews.com/world/russian-attacks-disrupt-power-in-kyiv-while-the-death-toll-in-a-stricken-village-rises-to-40-3009796"
    }
   },
   {
@@ -66,11 +90,11 @@
    "time": "2026-11-04T13:12:00Z",
    "theater": "lebanon",
    "status": "confirmed",
-   "en": "An Israeli drone strike on a motorcycle in Qabrikha, Marjayoun district, kills 1 person and wounds another, Lebanon's Health Ministry says.",
-   "ar": "غارة بمسيّرة إسرائيلية على دراجة نارية في بلدة قبريخا - قضاء مرجعيون تؤدي إلى سقوط قتيل وجريح، بحسب وزارة الصحة اللبنانية.",
+   "en": "An Israeli drone strike in Qabrikha kills a motorcyclist and wounds another man, the first such death in Lebanon since September; Israel's army says it hit 2 suspects observing its troops.",
+   "ar": "غارة بمسيّرة إسرائيلية في قبريخا تقتل سائق دراجة نارية وتجرح آخر، في أول حصيلة من نوعها في لبنان منذ أيلول؛ والجيش الإسرائيلي يقول إنه استهدف مشتبهَين اثنين كانا يراقبان قواته.",
    "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1755075"
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/lebanon-says-israeli-strike-kills-one-in-south-3009799"
    }
   },
   {
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/north-korea-says-us-south-024852252.html"
-   }
-  },
-  {
-   "id": "20261102-0232-centcom-mariners-killed",
-   "time": "2026-11-02T02:32:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "US Central Command says Iranian attacks at sea have killed more than 20 civilian mariners and rejects Iran's denial that it targeted civilians.",
-   "ar": "القيادة المركزية الأميركية تقول إن الهجمات الإيرانية في البحر قتلت أكثر من 20 بحّاراً مدنياً، وترفض نفي إيران استهداف المدنيين.",
-   "source": {
-    "name": "i24NEWS",
-    "url": "https://www.i24news.tv/en/news/middle-east/artc-iran-s-indiscriminate-aggression-is-clearly-evident-and-inexcusable-us-s-central-command-declares-live-blog"
-   }
-  },
-  {
-   "id": "20261102-0037-zelensky-refineries-patriots",
-   "time": "2026-11-02T00:37:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky tells Fox News Ukraine would stop striking Russian refineries if Russia stops hitting Ukraine's energy grid, and asks the US for Patriot missiles Kyiv would pay for.",
-   "ar": "زيلينسكي يقول لـ«فوكس نيوز» إن أوكرانيا ستوقف ضرب المصافي الروسية إذا أوقفت روسيا استهداف شبكة الطاقة الأوكرانية، ويطلب من واشنطن صواريخ «باتريوت» تدفع كييف ثمنها.",
-   "source": {
-    "name": "The Manila Times",
-    "url": "https://www.manilatimes.net/2026/11/02/world/americas-emea/zelensky-says-will-stop-hitting-russia-refineries-if-us-provides-missiles/2459067"
    }
   }
  ]
