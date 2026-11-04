@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-04T16:08:57Z",
+ "updated": "2026-11-04T17:10:23Z",
  "items": [
+  {
+   "id": "20261104-1701-brent-slides-94",
+   "time": "2026-11-04T17:01:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude falls 8.5% to $94.83 a barrel and WTI 7.5% to $88.88 after the Democratic midterm sweep and amid Iran uncertainty, both down over 15% this week, per The National.",
+   "ar": "خام برنت يتراجع 8.5% إلى 94.83 دولاراً للبرميل وخام غرب تكساس 7.5% إلى 88.88 دولاراً بعد اكتساح الديمقراطيين للانتخابات النصفية ووسط الغموض حول إيران، بخسارة تفوق 15% هذا الأسبوع («ذا ناشونال»).",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
+   }
+  },
   {
    "id": "20261104-1552-vance-war-midterm-loss",
    "time": "2026-11-04T15:52:00Z",
@@ -95,6 +107,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/iran-says-it-could-expand-response-if-gulf-states-host-us-attacks-tasnim-reports-3009750"
+   }
+  },
+  {
+   "id": "20261104-1003-iran-mp-europe-bases",
+   "time": "2026-11-04T10:03:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian MP Ahmad Bakhshayesh Ardestani, of parliament's National Security Committee, tells Euronews Iran will fire missiles at Europe if the US uses its bases in Italy and Germany.",
+   "ar": "النائب الإيراني أحمد بخشايش أردستاني، عضو لجنة الأمن القومي في البرلمان، يقول لـ«يورونيوز» إن إيران ستطلق صواريخها نحو أوروبا إذا استخدمت واشنطن قواعدها في إيطاليا وألمانيا.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there"
    }
   },
   {
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "The Manila Times",
     "url": "https://www.manilatimes.net/2026/11/02/world/americas-emea/zelensky-says-will-stop-hitting-russia-refineries-if-us-provides-missiles/2459067"
-   }
-  },
-  {
-   "id": "20261101-2347-tanker-khafji-projectiles",
-   "time": "2026-11-01T23:47:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a tanker was hit on its port side by two unidentified projectiles 72 nautical miles east of Saudi Arabia's Ras al-Khafji; all crew are accounted for.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة أُصيبت في جانبها الأيسر بمقذوفين مجهولين على بُعد 72 ميلاً بحرياً شرق رأس الخفجي السعودية؛ وجميع أفراد الطاقم بخير.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/tanker-struck-by-two-projectiles-near-saudi-arabia-monitor-says/"
-   }
-  },
-  {
-   "id": "20261101-2301-trump-iran-put-away",
-   "time": "2026-11-01T23:01:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump says the US will 'put away' the Iran war 'very soon, one way or the other': 'Either they'll make a deal, or we'll just end it.'",
-   "ar": "ترامب يقول إن الولايات المتحدة ستُنهي الحرب مع إيران «قريباً جداً، بطريقة أو بأخرى»: «إما أن يعقدوا اتفاقاً، أو سننهيها نحن».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-on-iran-conflict-well-put-it-away-very-soon-either-through-deal-or-another-us-offensive/"
    }
   }
  ]
