@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-03T20:08:54Z",
+ "updated": "2026-11-04T03:10:23Z",
  "items": [
+  {
+   "id": "20261104-0231-asia-stocks-midterms",
+   "time": "2026-11-04T02:31:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Japan's Nikkei falls 3% and Nasdaq futures drop 1.8% as early Democratic gains in the US midterms weigh on stocks; the dollar index slips 0.32% to 101.39.",
+   "ar": "مؤشر نيكي الياباني يتراجع 3% وعقود ناسداك الآجلة تهبط 1.8% مع تقدّم الديمقراطيين المبكر في الانتخابات النصفية الأميركية، ومؤشر الدولار ينخفض 0.32% إلى 101.39.",
+   "source": {
+    "name": "Reuters via Central Oregon Daily",
+    "url": "https://www.centraloregondaily.com/news/consumer/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election/article_7384c3e8-361d-5e2e-a43a-c69dd7384842.html"
+   }
+  },
+  {
+   "id": "20261104-0225-bottoms-georgia-governor",
+   "time": "2026-11-04T02:25:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Keisha Lance Bottoms wins Georgia's governor race, defeating Republican Rick Jackson and becoming the first Black woman elected governor in the US.",
+   "ar": "الديمقراطية كيشا لانس بوتومز تفوز بمنصب حاكم ولاية جورجيا متغلّبة على الجمهوري ريك جاكسون، لتصبح أول امرأة سوداء تُنتخب حاكمة ولاية في الولايات المتحدة.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
+   }
+  },
+  {
+   "id": "20261104-0209-democrats-win-house",
+   "time": "2026-11-04T02:09:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrats will win control of the US House of Representatives in the midterm elections, CNN projects, ending Republican control of the chamber.",
+   "ar": "الديمقراطيون سيفوزون بالسيطرة على مجلس النواب الأميركي في الانتخابات النصفية، بحسب توقعات «سي إن إن»، منهين سيطرة الجمهوريين على المجلس.",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
+   }
+  },
+  {
+   "id": "20261104-0126-cooper-nc-senate-flip",
+   "time": "2026-11-04T01:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Roy Cooper defeats Republican Michael Whatley in North Carolina, flipping a Republican-held US Senate seat in Democrats' bid for Senate control.",
+   "ar": "الديمقراطي روي كوبر يهزم الجمهوري مايكل واتلي في كارولاينا الشمالية، منتزعاً مقعداً جمهورياً في مجلس الشيوخ ضمن مسعى الديمقراطيين للسيطرة على المجلس.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/live/midterm-election-2026"
+   }
+  },
+  {
+   "id": "20261104-0123-pappas-nh-senate",
+   "time": "2026-11-04T01:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democratic Rep. Chris Pappas defeats former Republican Sen. John E. Sununu to hold New Hampshire's open US Senate seat for Democrats.",
+   "ar": "النائب الديمقراطي كريس باباس يهزم السيناتور الجمهوري السابق جون إي. سنونو، محتفظاً للديمقراطيين بمقعد نيوهامبشير الشاغر في مجلس الشيوخ.",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
+   }
+  },
+  {
+   "id": "20261104-0056-ossoff-georgia-senate",
+   "time": "2026-11-04T00:56:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democratic Sen. Jon Ossoff wins reelection in Georgia, defeating Republican Rep. Mike Collins in a key US Senate battleground.",
+   "ar": "السيناتور الديمقراطي جون أوسوف يفوز بولاية جديدة في جورجيا متغلّباً على النائب الجمهوري مايك كولينز في إحدى أبرز معارك مجلس الشيوخ.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/jewish-democratic-senator-jon-ossoff-wins-reelection-in-georgia-media-projects/"
+   }
+  },
+  {
+   "id": "20261103-2253-tanker-lima-oman-projectiles",
+   "time": "2026-11-03T22:53:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a tanker was struck by 2 unidentified projectiles that penetrated its engine room about 14 nautical miles northeast of Lima, Oman; no casualties reported.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة أُصيبت بمقذوفين مجهولين اخترقا غرفة المحرّكات على بُعد نحو 14 ميلاً بحرياً شمال شرق ليما في عُمان، من دون إصابات.",
+   "source": {
+    "name": "Trend",
+    "url": "https://www.trend.az/world/4242565.html"
+   }
+  },
+  {
+   "id": "20261103-2112-spain-puente-resigns",
+   "time": "2026-11-03T21:12:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Spain's Transport Minister Óscar Puente resigns over the Urda high-speed train crash near Toledo that killed 69 people and injured about 200.",
+   "ar": "وزير النقل الإسباني أوسكار بوينتي يستقيل على خلفية حادث قطار أوردا السريع قرب طليطلة الذي أودى بحياة 69 شخصاً وأصاب نحو 200.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
+   }
+  },
   {
    "id": "20261103-1932-egypt-iran-flexibility",
    "time": "2026-11-03T19:32:00Z",
@@ -1617,113 +1713,6 @@
    "source": {
     "name": "The Kyiv Independent",
     "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/"
-   }
-  },
-  {
-   "id": "20261101-0145-trump-pickaxe-mountain",
-   "time": "2026-11-01T01:45:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump says the US still has 'one or two sites' to take care of in Iran, naming suspected nuclear site Pickaxe Mountain, and says it could be done 'in 10 minutes'.",
-   "ar": "ترامب يقول إن على الولايات المتحدة بعد «التعامل مع موقع أو اثنين» في إيران، ذاكراً موقع «جبل بيكاكس» النووي المشتبه به، ويؤكد أن ذلك ممكن «في 10 دقائق».",
-   "source": {
-    "name": "AFP via The Korea Times",
-    "url": "https://www.koreatimes.co.kr/world/20261101/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran"
-   }
-  },
-  {
-   "id": "20261101-0037-trump-netanyahu-call",
-   "time": "2026-11-01T00:37:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump confirms he spoke with Netanyahu on Saturday, calling it a 'very good talk' about Iran, after the Wall Street Journal reported Washington was preparing to resume strikes.",
-   "ar": "ترامب يؤكد أنه تحدث مع نتنياهو يوم السبت واصفاً الاتصال بأنه «حديث جيد جداً» بشأن إيران، بعدما أفادت «وول ستريت جورنال» بأن واشنطن تستعد لاستئناف الضربات.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-confirms-good-talk-with-netanyahu-says-they-discussed-iran/"
-   }
-  },
-  {
-   "id": "20261101-0022-korea-exports-record",
-   "time": "2026-11-01T00:22:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "South Korea's trade ministry says October exports hit a record $115.3 billion, up 93.7% year on year, as chip exports jump 259% to $56.4 billion.",
-   "ar": "وزارة التجارة في كوريا الجنوبية تعلن أن الصادرات بلغت في تشرين الأول رقماً قياسياً قدره 115.3 مليار دولار، بارتفاع 93.7% على أساس سنوي، مع قفزة صادرات الرقائق 259% إلى 56.4 مليار دولار.",
-   "source": {
-    "name": "The Korea Times",
-    "url": "https://www.koreatimes.co.kr/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
-   }
-  },
-  {
-   "id": "20261031-2340-herzog-coalition-consultations",
-   "time": "2026-10-31T23:40:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "President Isaac Herzog plans to open consultations with Knesset parties on Wednesday on who should form Israel's next government, with the meeting broadcast live, per AAP citing Haaretz.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يعتزم بدء مشاوراته مع أحزاب الكنيست يوم الأربعاء بشأن تكليف تشكيل الحكومة المقبلة، على أن تُبثّ الجلسة مباشرة، بحسب «أ.أ.ب» نقلاً عن «هآرتس».",
-   "source": {
-    "name": "AAP via The Daily Advertiser",
-    "url": "https://www.dailyadvertiser.com.au/story/9383622/israeli-president-to-launch-coalition-talks/"
-   }
-  },
-  {
-   "id": "20261031-2328-kramatorsk-council-airstrike",
-   "time": "2026-10-31T23:28:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Kramatorsk military administration head Oleksandr Honcharenko says a Russian airstrike destroyed the city council's central building on Peace Square; no casualties from the strike are reported.",
-   "ar": "رئيس الإدارة العسكرية في كراماتورسك أولكسندر هونتشارينكو يقول إن غارة جوية روسية دمّرت المبنى المركزي لمجلس المدينة في ساحة السلام، من دون الإبلاغ عن إصابات جراء الغارة.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/"
-   }
-  },
-  {
-   "id": "20261031-2210-araghchi-hormuz-two-days",
-   "time": "2026-10-31T22:10:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian FM Abbas Araghchi says a plan worked out with Qatari mediators could fully reopen the Strait of Hormuz within two days if the US meets Tehran's conditions.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن خطة يجري إعدادها مع الوسطاء القطريين قد تعيد فتح مضيق هرمز بالكامل خلال يومين إذا استجابت واشنطن لشروط طهران.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks"
-   }
-  },
-  {
-   "id": "20261031-2114-iran-rejects-qatar-plan",
-   "time": "2026-10-31T21:14:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "A senior Iranian official says Tehran does not find Qatar's proposed seven-day US-Iran trust-building plan satisfactory, as Iranian negotiators meet Qatari mediators in Doha, Reuters reports.",
-   "ar": "مسؤول إيراني رفيع يقول إن طهران لا تجد خطة بناء الثقة الأميركية-الإيرانية التي اقترحتها قطر لسبعة أيام مُرضية، فيما يلتقي المفاوضون الإيرانيون الوسطاء القطريين في الدوحة، بحسب «رويترز».",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168"
-   }
-  },
-  {
-   "id": "20261031-2059-wsj-lawsuit-dismissed",
-   "time": "2026-10-31T20:59:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "A federal judge dismisses Trump's defamation lawsuit against The Wall Street Journal over its Epstein birthday-letter reporting, this time for good, per CNN.",
-   "ar": "قاضٍ فدرالي يردّ نهائياً دعوى التشهير التي رفعها ترامب على «وول ستريت جورنال» بسبب تقريرها عن رسالة عيد ميلاد إبستين، بحسب «سي إن إن».",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261031-2009-alaska-ballots-meritless",
-   "time": "2026-10-31T20:09:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Alaska's Republican-run state government urges a federal judge to dismiss a Trump-directed lawsuit seeking to block certification of the Senate race, calling it 'meritless'.",
-   "ar": "حكومة ولاية ألاسكا الجمهورية تطلب من قاضٍ فدرالي ردّ دعوى رُفعت بتوجيه من ترامب لمنع المصادقة على نتيجة سباق مجلس الشيوخ، واصفةً إياها بأنها «بلا أساس».",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/alaska-senate-dan-sullivan-certification-5b975dc87222858f6239e9170d675698"
    }
   }
  ]
