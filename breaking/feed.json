@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-04T12:09:39Z",
+ "updated": "2026-11-04T13:11:36Z",
  "items": [
+  {
+   "id": "20261104-1059-khamenei-us-hostility",
+   "time": "2026-11-04T10:59:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Supreme Leader Mojtaba Khamenei says US hostility will persist whichever party holds power and warns Iran's response to any renewed US attack will be on a much greater scale.",
+   "ar": "المرشد الإيراني مجتبى خامنئي يقول إن العداء الأميركي سيستمر أياً كان الحزب الحاكم، ويحذّر من أن ردّ إيران على أي هجوم أميركي جديد سيكون على نطاق أوسع بكثير.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/irans-khamenei-says-us-hostility-105939486.html"
+   }
+  },
+  {
+   "id": "20261104-1058-najran-second-alert",
+   "time": "2026-11-04T10:58:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia issues a second early-warning alert of potential danger in Najran province within hours, before Civil Defence announces the danger has passed.",
+   "ar": "السعودية تُطلق إنذاراً مبكراً ثانياً من خطر محتمل في منطقة نجران خلال ساعات، قبل أن يعلن الدفاع المدني زوال الخطر.",
+   "source": {
+    "name": "Anadolu via The Express Tribune",
+    "url": "https://tribune.com.pk/story/2638623/saudi-arabia-says-danger-has-passed-in-najran-after-earlier-alert"
+   }
+  },
   {
    "id": "20261104-1037-irgc-adviser-gulf-hosts",
    "time": "2026-11-04T10:37:00Z",
@@ -35,6 +59,18 @@
    "source": {
     "name": "Investing.com",
     "url": "https://www.investing.com/news/stock-market-news/european-defense-stocks-slip-as-democratic-midterm-win-raises-spending-worries-4998032"
+   }
+  },
+  {
+   "id": "20261104-0944-balad-activist-arrested",
+   "time": "2026-11-04T09:44:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Shin Bet and Israel Police arrest senior Balad activist Abd Abu Shahada in Jaffa over suspected security offences, under a three-day gag order, per The Jerusalem Post.",
+   "ar": "الشاباك والشرطة الإسرائيلية يعتقلان الناشط البارز في حزب التجمع عبد أبو شحادة في يافا بشبهة مخالفات أمنية، مع أمر بحظر النشر لثلاثة أيام، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/shin-bet-police-arrest-senior-094419774.html"
    }
   },
   {
@@ -1754,40 +1790,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/alaska-senate-dan-sullivan-peltola-investigation-b35acffc8b55ef58679d9b8395760f98"
-   }
-  },
-  {
-   "id": "20261101-1744-stevens-endorses-rogers",
-   "time": "2026-11-01T17:44:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan's Senate seat, breaking with Democratic nominee Abdul El-Sayed after a feud over his criticism of Israel.",
-   "ar": "النائبة الديمقراطية هايلي ستيفنز تؤيد الجمهوري مايك روجرز لمقعد ميشيغان في مجلس الشيوخ، منشقّة عن المرشح الديمقراطي عبد السيد بعد خلاف حول انتقاده لإسرائيل.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261101-1734-sohlberg-interference",
-   "time": "2026-11-01T17:34:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's election committee chief Noam Sohlberg says, in a joint statement with the Shin Bet and Attorney General, that suspected foreign interference does not undermine the election results.",
-   "ar": "رئيس لجنة الانتخابات المركزية في إسرائيل نوعام سولبرغ يقول، في بيان مشترك مع الشاباك والمستشارة القضائية، إن الاشتباه بتدخل أجنبي لا يمسّ نزاهة نتائج الانتخابات.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913502"
-   }
-  },
-  {
-   "id": "20261101-1730-murphy-stroke",
-   "time": "2026-11-01T17:30:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democratic Senator Chris Murphy of Connecticut is hospitalized at Johns Hopkins after a stroke on Saturday, his chief of staff says, adding he is awake and responding well.",
-   "ar": "السيناتور الديمقراطي كريس مورفي من كونيتيكت في مستشفى جونز هوبكنز إثر جلطة دماغية السبت، بحسب رئيسة مكتبه التي قالت إنه واعٍ ويستجيب جيداً للعلاج.",
-   "source": {
-    "name": "Politico"
    }
   }
  ]
