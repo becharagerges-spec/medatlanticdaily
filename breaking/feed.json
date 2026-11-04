@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T08:08:13Z",
+ "updated": "2026-11-04T09:09:04Z",
  "items": [
+  {
+   "id": "20261104-0829-ricketts-nebraska-senate",
+   "time": "2026-11-04T08:29:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Republican Sen. Pete Ricketts holds his Nebraska US Senate seat, defeating independent challenger Dan Osborn after a late boost from the Senate GOP's top super PAC, Politico reports.",
+   "ar": "السيناتور الجمهوري بيت ريكيتس يحتفظ بمقعد نبراسكا في مجلس الشيوخ الأميركي متغلّباً على المرشح المستقل دان أوزبورن، بعد دعم متأخر من أكبر لجنة عمل سياسي جمهورية، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0827-hobbs-arizona-governor",
+   "time": "2026-11-04T08:27:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Arizona Democratic Gov. Katie Hobbs wins reelection over Republican Rep. Andy Biggs, holding the battleground state's governorship for Democrats, Politico reports.",
+   "ar": "حاكمة أريزونا الديمقراطية كايتي هوبز تفوز بولاية ثانية على النائب الجمهوري آندي بيغز، فيحتفظ الديمقراطيون بحاكمية الولاية المتأرجحة، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
   {
    "id": "20261104-0757-alme-montana-senate",
    "time": "2026-11-04T07:57:00Z",
@@ -10,6 +32,18 @@
    "ar": "الجمهوري كيرت ألمي يفوز بمقعد مونتانا في مجلس الشيوخ الأميركي خلفاً للسيناتور المتقاعد ستيف داينز، بعدما تقاسم منافساه المستقل والديمقراطي الأصوات، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0753-salam-war-peace-state",
+   "time": "2026-11-04T07:53:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Lebanese PM Nawaf Salam, after meeting President Joseph Aoun at Baabda, warns against dragging Lebanon into a 'new absurd adventure' and says war-and-peace decisions belong only to the state, per IMLebanon.",
+   "ar": "رئيس الحكومة نواف سلام يحذّر بعد لقائه الرئيس جوزاف عون في بعبدا من جرّ لبنان إلى «مغامرة عبثية جديدة»، مؤكداً أن قرار الحرب والسلم للدولة وحدها، بحسب «IMLebanon».",
+   "source": {
+    "name": "IMLebanon",
+    "url": "https://www.imlebanon.org/2026/11/04/salam-aoun-baabda/"
    }
   },
   {
@@ -112,8 +146,8 @@
    "time": "2026-11-04T05:50:00Z",
    "theater": "ukraine",
    "status": "reported",
-   "en": "Ukraine's air force says Russia launched 130 drones and 7 missiles overnight, hitting energy and port infrastructure in Odesa region; 92 drones were downed and no casualties reported.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 130 مسيّرة و7 صواريخ ليلاً، فأصابت منشآت طاقة ومرافئ في منطقة أوديسا؛ وأُسقطت 92 مسيّرة من دون إصابات.",
+   "en": "Ukraine's air force says Russia launched 310 drones overnight, 272 of them downed, hitting energy sites in Zhytomyr, Kovel and Ternopil region; 2 people were injured in Dnipro.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 310 مسيّرات ليلاً أُسقطت منها 272، فأصابت منشآت طاقة في جيتومير وكوفيل ومنطقة ترنوبيل؛ وأُصيب شخصان في دنيبرو.",
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/89068"
@@ -1754,42 +1788,6 @@
    "source": {
     "name": "Asharq Al-Awsat",
     "url": "https://english.aawsat.com/gulf/5336276-bahrain-calls-regional-security-framework-open-iran-uae-hopes-diplomatic-breakthrough"
-   }
-  },
-  {
-   "id": "20261101-1228-zelensky-kamensky-plant",
-   "time": "2026-11-01T12:28:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Ukrainian forces struck the Kamensky missile-propellant plant in Russia's Rostov region and destroyed a Pantsir-S2 system and an S-400 command vehicle worth about $70 million.",
-   "ar": "زيلينسكي يقول إن القوات الأوكرانية ضربت مصنع كامينسكي لوقود الصواريخ في منطقة روستوف الروسية ودمّرت منظومة «بانتسير-إس2» ومركبة قيادة لمنظومة «إس-400» بقيمة نحو 70 مليون دولار.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/88797"
-   }
-  },
-  {
-   "id": "20261101-1224-iran-doha-third-day",
-   "time": "2026-11-01T12:24:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian negotiators hold a third straight day of talks with Qatari mediators in Doha on a deal to end the US-Israeli war on Iran, with Washington kept informed, an official tells Reuters.",
-   "ar": "المفاوضون الإيرانيون يعقدون يوماً ثالثاً متتالياً من المحادثات مع الوسطاء القطريين في الدوحة بشأن اتفاق لإنهاء الحرب الأميركية الإسرائيلية على إيران، مع إطلاع واشنطن، بحسب مسؤول لرويترز.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says"
-   }
-  },
-  {
-   "id": "20261101-1213-gaza-strikes-eight-killed",
-   "time": "2026-11-01T12:13:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli strikes in Gaza City and Khan Younis kill at least 8 Palestinians, including a 4-year-old boy and 5 police officers, medics say; Israel's army says it struck militants.",
-   "ar": "غارات إسرائيلية على مدينة غزة وخان يونس تقتل 8 فلسطينيين على الأقل، بينهم طفل في الرابعة و5 عناصر شرطة، بحسب مسعفين؛ والجيش الإسرائيلي يقول إنه استهدف مسلحين.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.usnews.com/news/business/articles/2026-11-01/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news"
    }
   }
  ]
