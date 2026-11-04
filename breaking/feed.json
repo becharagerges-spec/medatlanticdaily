@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-04T04:08:18Z",
+ "updated": "2026-11-04T05:08:53Z",
  "items": [
+  {
+   "id": "20261104-0438-democrats-win-senate",
+   "time": "2026-11-04T04:38:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrats win control of the US Senate in the midterm elections, adding it to the House and handing Trump a divided Congress for his final two years.",
+   "ar": "الديمقراطيون يفوزون بالسيطرة على مجلس الشيوخ الأميركي في الانتخابات النصفية، إلى جانب مجلس النواب، فيواجه ترامب كونغرس منقسماً في عاميه الأخيرين.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+   }
+  },
+  {
+   "id": "20261104-0436-turek-iowa-senate",
+   "time": "2026-11-04T04:36:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Democrat Josh Turek defeats Republican Rep. Ashley Hinson in Iowa's US Senate race, the state's first Democratic Senate win since 2008, Politico reports.",
+   "ar": "الديمقراطي جوش توريك يهزم النائبة الجمهورية آشلي هينسون في سباق مجلس الشيوخ في أيوا، أول فوز ديمقراطي بالولاية منذ 2008، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0425-hamilton-kansas-senate",
+   "time": "2026-11-04T04:25:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Adam Hamilton ousts Republican Sen. Roger Marshall in Kansas, the first Democrat the state has elected to the US Senate in 94 years.",
+   "ar": "الديمقراطي آدم هاميلتون يطيح بالسيناتور الجمهوري روجر مارشال في كانساس، أول ديمقراطي تنتخبه الولاية لمجلس الشيوخ منذ 94 عاماً.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0420-hinojosa-texas-governor",
+   "time": "2026-11-04T04:20:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Gina Hinojosa defeats Republican Gov. Greg Abbott to win the Texas governorship in an upset.",
+   "ar": "الديمقراطية جينا هينوخوسا تهزم الحاكم الجمهوري غريغ أبوت وتفوز بمنصب حاكم تكساس في مفاجأة انتخابية.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/live/midterm-election-2026"
+   }
+  },
+  {
+   "id": "20261104-0411-brown-ohio-senate",
+   "time": "2026-11-04T04:11:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Sherrod Brown defeats Republican Sen. Jon Husted in Ohio, flipping a Republican-held US Senate seat two years after losing his own.",
+   "ar": "الديمقراطي شيرود براون يهزم السيناتور الجمهوري جون هستد في أوهايو، منتزعاً مقعداً جمهورياً في مجلس الشيوخ بعد عامين من خسارته مقعده.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/election-2026-ohio-senate-brown-husted-9e7ae9e1715c0e8203614aea6f71666d"
+   }
+  },
   {
    "id": "20261104-0400-trump-accepts-results",
    "time": "2026-11-04T04:00:00Z",
@@ -129,6 +187,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/jewish-democratic-senator-jon-ossoff-wins-reelection-in-georgia-media-projects/"
+   }
+  },
+  {
+   "id": "20261103-2353-trump-no-immediate-iran-strike",
+   "time": "2026-11-03T23:53:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump tells the Financial Times the US has no immediate plan to strike Iran and 'seems to be getting everything we want' in talks, but is 'locked and loaded' if needed.",
+   "ar": "ترامب يقول لـ«فايننشال تايمز» إن واشنطن لا تخطط لضرب إيران فوراً وإنها «تحصل على كل ما تريده» في المفاوضات، لكنها «جاهزة تماماً» إذا لزم الأمر.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-us-has-no-immediate-plan-to-strike-iran-but-locked-and-loaded-if-needed/"
    }
   },
   {
@@ -1723,42 +1793,6 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202610312594"
-   }
-  },
-  {
-   "id": "20261101-0600-opposition-oust-ohana",
-   "time": "2026-11-01T06:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's anti-Netanyahu bloc agrees to replace Likud's Knesset Speaker Amir Ohana in the new Knesset's first vote, with Yair Lapid among possible candidates, per Maariv.",
-   "ar": "كتلة المعارضة لنتنياهو تتّفق على استبدال رئيس الكنيست الليكودي أمير أوحانا في أول تصويت للكنيست الجديد، ويائير لابيد بين المرشحين المحتملين، بحسب «معاريف».",
-   "source": {
-    "name": "Maariv via The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913430"
-   }
-  },
-  {
-   "id": "20261101-0510-iran-uk-forces-terror-list",
-   "time": "2026-11-01T05:10:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Foreign Ministry designates Britain's Royal Navy and Royal Air Force as terrorist organisations and lists MI6 as a hostile group.",
-   "ar": "وزارة الخارجية الإيرانية تصنّف البحرية الملكية وسلاح الجو الملكي البريطانيين منظمتين إرهابيتين، وتُدرج جهاز «إم آي 6» كجهة معادية.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/iran-designates-british-navy-air-force-as-terrorist-organizations/4107764"
-   }
-  },
-  {
-   "id": "20261101-0431-fbi-north-korea-binance",
-   "time": "2026-11-01T04:31:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The FBI says North Korean hackers from the TraderTraitor group stole about $6.3 billion from Binance, the largest crypto theft on record; Trump says 'we don't know if it's North Korea'.",
-   "ar": "مكتب التحقيقات الفدرالي يقول إن قراصنة كوريين شماليين من مجموعة «تريدر ترايتور» سرقوا نحو 6.3 مليارات دولار من «باينانس»، في أكبر سرقة عملات مشفّرة على الإطلاق، وترامب يقول «لا نعرف إن كانت كوريا الشمالية».",
-   "source": {
-    "name": "AP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/fbi-blames-north-korea-for-stealing-billions-from-worlds-largest-crypto-firm/"
    }
   }
  ]
