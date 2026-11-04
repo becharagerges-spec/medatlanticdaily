@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-04T05:08:53Z",
+ "updated": "2026-11-04T06:08:11Z",
  "items": [
+  {
+   "id": "20261104-0527-jackson-unseats-collins",
+   "time": "2026-11-04T05:27:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Troy Jackson defeats Republican Sen. Susan Collins in Maine, ending her five-term Senate career and adding another flip to the Democrats' new Senate majority.",
+   "ar": "الديمقراطي تروي جاكسون يهزم السيناتورة الجمهورية سوزان كولينز في ولاية مين، منهياً مسيرتها في مجلس الشيوخ بعد خمس ولايات، ومضيفاً مقعداً جديداً إلى الأغلبية الديمقراطية.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/news/maine-2026-senate-collins-jackson/"
+   }
+  },
   {
    "id": "20261104-0438-democrats-win-senate",
    "time": "2026-11-04T04:38:00Z",
@@ -20,6 +32,17 @@
    "status": "reported",
    "en": "Democrat Josh Turek defeats Republican Rep. Ashley Hinson in Iowa's US Senate race, the state's first Democratic Senate win since 2008, Politico reports.",
    "ar": "الديمقراطي جوش توريك يهزم النائبة الجمهورية آشلي هينسون في سباق مجلس الشيوخ في أيوا، أول فوز ديمقراطي بالولاية منذ 2008، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0429-crowley-wisconsin-governor",
+   "time": "2026-11-04T04:29:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Democrat David Crowley defeats Republican Tom Tiffany in Wisconsin's governor race, becoming the first Black person elected to the post, Politico reports.",
+   "ar": "الديمقراطي ديفيد كراولي يهزم الجمهوري توم تيفاني في سباق حاكم ولاية ويسكونسن، ليصبح أول أسود يُنتخب لهذا المنصب، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico"
    }
@@ -122,11 +145,11 @@
    "time": "2026-11-04T02:31:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Japan's Nikkei falls 3% and Nasdaq futures drop 1.8% as early Democratic gains in the US midterms weigh on stocks; the dollar index slips 0.32% to 101.39.",
-   "ar": "مؤشر نيكي الياباني يتراجع 3% وعقود ناسداك الآجلة تهبط 1.8% مع تقدّم الديمقراطيين المبكر في الانتخابات النصفية الأميركية، ومؤشر الدولار ينخفض 0.32% إلى 101.39.",
+   "en": "South Korea's Kospi falls 3.6% and Japan's Nikkei 3.5% as a Democratic midterm sweep looms; Nasdaq 100 futures drop 1.9% and the 10-year Treasury yield falls to 4.89%.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يهبط 3.6% ونيكي الياباني 3.5% مع اقتراب اكتساح ديمقراطي في الانتخابات النصفية، وعقود ناسداك 100 الآجلة تتراجع 1.9% وعائد سندات الخزانة لعشر سنوات ينخفض إلى 4.89%.",
    "source": {
-    "name": "Reuters via Central Oregon Daily",
-    "url": "https://www.centraloregondaily.com/news/consumer/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election/article_7384c3e8-361d-5e2e-a43a-c69dd7384842.html"
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
    }
   },
   {
@@ -1769,30 +1792,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/qatari-gas-tanker-struck-in-gulf-state-media-3009222"
-   }
-  },
-  {
-   "id": "20261101-0623-russia-433-drones",
-   "time": "2026-11-01T06:23:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russia launched 433 drones overnight and Ukraine downed 371; regional authorities report 1 killed and at least 47 injured over the past day, with hundreds of thousands without power.",
-   "ar": "روسيا أطلقت 433 مسيّرة خلال الليل وأسقطت أوكرانيا 371 منها، والسلطات الإقليمية تُفيد بمقتل شخص وإصابة 47 على الأقل خلال يوم، فيما بقي مئات الآلاف بلا كهرباء.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/"
-   }
-  },
-  {
-   "id": "20261101-0621-nikzad-talks-window-closed",
-   "time": "2026-11-01T06:21:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's deputy parliament speaker Ali Nikzad says Tehran will not negotiate its nuclear programme and the 'window for negotiations with our adversaries is now closed', per Iran International.",
-   "ar": "نائب رئيس البرلمان الإيراني علي نيكزاد يقول إن طهران لن تفاوض على برنامجها النووي وإن «نافذة التفاوض مع خصومنا أُغلقت»، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
    }
   }
  ]
