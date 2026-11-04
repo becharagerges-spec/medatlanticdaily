@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-04T06:08:11Z",
+ "updated": "2026-11-04T07:09:22Z",
  "items": [
+  {
+   "id": "20261104-0647-benson-michigan-governor",
+   "time": "2026-11-04T06:47:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Democrat Jocelyn Benson defeats Republican Rep. John James in Michigan's governor race, keeping the swing state's governorship in Democratic hands, per Politico.",
+   "ar": "الديمقراطية جوسلين بنسون تهزم النائب الجمهوري جون جيمس في سباق حاكمية ميشيغان، فتبقي منصب الحاكم في الولاية المتأرجحة بيد الديمقراطيين، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261104-0629-jeffries-speaker",
+   "time": "2026-11-04T06:29:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Hakeem Jeffries is in line to become the first Black speaker of the US House after the Democratic win, with the new majority sworn in in early January.",
+   "ar": "حكيم جيفريز مرشّح ليصبح أول رئيس أسود لمجلس النواب الأميركي بعد فوز الديمقراطيين، على أن تؤدي الأغلبية الجديدة اليمين مطلع كانون الثاني.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/"
+   }
+  },
+  {
+   "id": "20261104-0626-el-sayed-michigan-senate",
+   "time": "2026-11-04T06:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Abdul El-Sayed wins Michigan's US Senate race over Republican Mike Rogers, DDHQ projects, set to become the first Muslim member of the US Senate.",
+   "ar": "الديمقراطي عبد السيد يفوز بمقعد ميشيغان في مجلس الشيوخ الأميركي على الجمهوري مايك روجرز بحسب توقعات «DDHQ»، ليصبح أول مسلم يدخل مجلس الشيوخ الأميركي.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/us-midterm-elections-live-updates"
+   }
+  },
+  {
+   "id": "20261104-0605-ghalibaf-no-to-war",
+   "time": "2026-11-04T06:05:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's top negotiator and parliament speaker Mohammad Bagher Ghalibaf says Americans voted 'NO TO WAR' in the midterms and warns Washington that betraying that will would bring a 'Nightmare'.",
+   "ar": "كبير المفاوضين الإيرانيين ورئيس البرلمان محمد باقر قاليباف يقول إن الأميركيين صوّتوا «لا للحرب» في الانتخابات النصفية، محذّراً واشنطن من أن خيانة هذه الإرادة ستقابَل بـ«كابوس».",
+   "source": {
+    "name": "AFP via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-says-americans-voted-no-to-war/"
+   }
+  },
+  {
+   "id": "20261104-0553-israel-cec-no-irregularities",
+   "time": "2026-11-04T05:53:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's Central Elections Committee says its review of protocols from 9,069 polling stations found nothing suggesting the vote was compromised; official results will be published as scheduled.",
+   "ar": "لجنة الانتخابات المركزية في إسرائيل تقول إن مراجعة محاضر 9,069 مركز اقتراع لم تكشف ما يشير إلى المساس بنزاهة التصويت، وإن النتائج الرسمية ستُنشر في موعدها.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/election-panel-says-probe-of-results-found-nothing-to-suggest-vote-was-compromised/"
+   }
+  },
+  {
+   "id": "20261104-0531-trump-iran-war-gasoline",
+   "time": "2026-11-04T05:31:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump tells Fox News the Iran war played a role in Republican midterm losses, saying people backed his Iran policy but 'weren't willing to pay more for gasoline'.",
+   "ar": "ترامب يقول لـ«فوكس نيوز» إن الحرب على إيران أسهمت في خسائر الجمهوريين في الانتخابات النصفية، معتبراً أن الناس أيّدوا سياسته تجاه إيران لكنهم «لم يكونوا مستعدين لدفع المزيد ثمناً للوقود».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-admits-iran-war-played-role-in-republican-losses-people-werent-willing-to-pay-more-for-gasoline/"
+   }
+  },
   {
    "id": "20261104-0527-jackson-unseats-collins",
    "time": "2026-11-04T05:27:00Z",
@@ -169,11 +240,11 @@
    "time": "2026-11-04T02:09:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "Democrats will win control of the US House of Representatives in the midterm elections, CNN projects, ending Republican control of the chamber.",
-   "ar": "الديمقراطيون سيفوزون بالسيطرة على مجلس النواب الأميركي في الانتخابات النصفية، بحسب توقعات «سي إن إن»، منهين سيطرة الجمهوريين على المجلس.",
+   "en": "Democrats win control of the US House of Representatives, AP and CNN project, adding it to the Senate and taking full control of Congress from Trump's Republicans.",
+   "ar": "الديمقراطيون يفوزون بالسيطرة على مجلس النواب الأميركي بحسب توقعات «أسوشيتد برس» و«سي إن إن»، ليضيفوه إلى مجلس الشيوخ وينتزعوا السيطرة الكاملة على الكونغرس من جمهوريي ترامب.",
    "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
+    "name": "AP",
+    "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
    }
   },
   {
@@ -1720,78 +1791,6 @@
    "source": {
     "name": "The National",
     "url": "https://thenationalnews.com/news/mena/2026/11/01/after-years-of-war-syria-and-lebanon-turning-corner-to-rebuild-us-envoy-says"
-   }
-  },
-  {
-   "id": "20261101-1033-gargash-braced-worst",
-   "time": "2026-11-01T10:33:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UAE presidential adviser Anwar Gargash says in Manama the UAE hopes for a US-Iran diplomatic breakthrough but is 'braced for the worst' if another round of war comes.",
-   "ar": "المستشار الدبلوماسي لرئيس الإمارات أنور قرقاش يقول في المنامة إن الإمارات تأمل باختراق دبلوماسي بين واشنطن وطهران لكنها «مستعدة للأسوأ» إذا اندلعت جولة حرب جديدة.",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323468-uae-says-hoping-for-breakthrough-yet-braced-for-the-worst-in-iran-us-war"
-   }
-  },
-  {
-   "id": "20261101-1031-iran-army-longer-war",
-   "time": "2026-11-01T10:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian army spokesman Mohammad Akraminia says any new war with the US could last longer than the last one and that Trump could not dictate when or how it ends.",
-   "ar": "المتحدث باسم الجيش الإيراني محمد أكرمي نيا يقول إن أي حرب جديدة مع الولايات المتحدة قد تدوم أطول من سابقتها، وإن ترامب لن يتمكن من فرض توقيت نهايتها أو شروطها.",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323467-iran-army-says-any-new-war-with-us-could-be-longer-than-previous-conflict"
-   }
-  },
-  {
-   "id": "20261101-1014-iran-su35-after-war",
-   "time": "2026-11-01T10:14:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian military spokesman Mohammad Akraminia tells Tabnak that Iran will 'certainly receive' Su-35 fighter jets after the war to upgrade its air fleet, per The Jerusalem Post.",
-   "ar": "المتحدث العسكري الإيراني محمد أكرمي نيا يقول لموقع «تابناك» إن إيران «ستتسلّم حتماً» مقاتلات سوخوي-35 بعد الحرب لتحديث أسطولها الجوي، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-913451"
-   }
-  },
-  {
-   "id": "20261101-0935-herzog-flexibility",
-   "time": "2026-11-01T09:35:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "President Isaac Herzog urges party leaders to accept the election results and show flexibility to avoid another election, saying he receives the official results on Wednesday, per The Jerusalem Post.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يدعو قادة الأحزاب إلى قبول نتائج الانتخابات وإبداء المرونة لتفادي انتخابات جديدة، ويقول إنه يتسلّم النتائج الرسمية الأربعاء، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913448"
-   }
-  },
-  {
-   "id": "20261101-0923-joint-list-raam-eisenkot",
-   "time": "2026-11-01T09:23:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "The Joint List and Ra'am are expected to recommend Gadi Eisenkot for prime minister in consultations with President Herzog, a senior Joint List official tells Walla.",
-   "ar": "«القائمة المشتركة» و«القائمة العربية الموحدة» تتّجهان إلى التوصية بغادي آيزنكوت لرئاسة الحكومة خلال مشاورات الرئيس هرتسوغ، بحسب مسؤول رفيع في «المشتركة» لموقع «والا».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913448"
-   }
-  },
-  {
-   "id": "20261101-0759-qatar-lng-al-mayeda-hit",
-   "time": "2026-11-01T07:59:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's Nakilat says its LNG carrier Al Mayeda was hit by unidentified objects while transiting the Gulf on Friday evening; no crew were hurt and the ship remains operational.",
-   "ar": "شركة «ناقلات» القطرية تعلن أن ناقلة الغاز المسال «الميدا» أُصيبت بأجسام مجهولة أثناء عبورها الخليج مساء الجمعة، من دون إصابات في الطاقم، والسفينة لا تزال عاملة.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/qatari-gas-tanker-struck-in-gulf-state-media-3009222"
    }
   }
  ]
