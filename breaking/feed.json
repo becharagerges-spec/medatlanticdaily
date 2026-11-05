@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T09:10:35Z",
+ "updated": "2026-11-05T10:08:37Z",
  "items": [
+  {
+   "id": "20261105-0913-russia-claims-odesa-ship",
+   "time": "2026-11-05T09:13:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russia's Defence Ministry says it hit a dry cargo ship carrying military equipment 52 km southwest of Odesa and a Nova Poshta delivery terminal near Kharkiv; Ukraine has not confirmed.",
+   "ar": "وزارة الدفاع الروسية تقول إنها أصابت سفينة شحن جاف تنقل معدات عسكرية على بُعد 52 كلم جنوب غرب أوديسا ومحطة لشركة «نوفا بوشتا» قرب خاركيف، من دون تأكيد أوكراني.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
+   }
+  },
   {
    "id": "20261105-0838-france-strikes-70000-police",
    "time": "2026-11-05T08:38:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations"
+   }
+  },
+  {
+   "id": "20261105-0608-massie-hegseth-impeachment",
+   "time": "2026-11-05T06:08:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Republican Rep. Thomas Massie says he will reintroduce articles of impeachment against Defense Secretary Pete Hegseth unless he resigns, and plans to force a House vote next week, per CNN.",
+   "ar": "النائب الجمهوري توماس ماسي يقول إنه سيعيد طرح مواد عزل وزير الدفاع بيت هيغسيث ما لم يستقل، ويعتزم فرض تصويت في مجلس النواب الأسبوع المقبل، وفق «سي إن إن».",
+   "source": {
+    "name": "Forbes via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/gop-rep-massie-threatens-pete-060808711.html"
    }
   },
   {
@@ -167,6 +191,18 @@
    "source": {
     "name": "Axios via Gulf News",
     "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+   }
+  },
+  {
+   "id": "20261104-2320-tanker-projectiles-qatar",
+   "time": "2026-11-04T23:20:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "A tanker is struck by 2 projectiles about 50 nautical miles north of Madinat ash Shamal, Qatar, the UK military's UKMTO says; damage, crew condition and attacker are unknown.",
+   "ar": "ناقلة نفط تُصاب بمقذوفين على بُعد نحو 50 ميلاً بحرياً شمال مدينة الشمال في قطر، بحسب هيئة عمليات التجارة البحرية البريطانية؛ ولا معلومات عن الأضرار أو الطاقم أو الجهة المهاجمة.",
+   "source": {
+    "name": "AP via WDIV",
+    "url": "https://www.clickondetroit.com/news/world/2026/11/05/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/"
    }
   },
   {
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "Tasnim",
     "url": "https://www.tasnimnews.ir/en/news/2026/11/02/3738596/11-tankers-caught-fire-in-hormuz-in-9-days-irgc-navy/amp"
-   }
-  },
-  {
-   "id": "20261102-1321-likud-dark-cloud",
-   "time": "2026-11-02T13:21:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu reposts a Likud statement saying 'a dark cloud hangs' over Israel's election results until the foreign-funding probe ends, citing a 4,612-vote margin for one Ra'am seat.",
-   "ar": "نتنياهو يعيد نشر بيان لليكود يقول إن «غيمة سوداء تخيّم» على نتائج الانتخابات الإسرائيلية حتى انتهاء التحقيق في التمويل الأجنبي، مشيراً إلى فارق 4,612 صوتاً لمقعد واحد لـ«راعم».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-posts-likud-claim-of-a-dark-cloud-hanging-over-the-election-results/"
-   }
-  },
-  {
-   "id": "20261102-1241-brent-falls-europe",
-   "time": "2026-11-02T12:41:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude futures fall 4.5% to about $108 a barrel as Iran's negotiators leave the Doha talks and a draft deal circulates; Europe's STOXX 600 slips 0.1%.",
-   "ar": "العقود الآجلة لخام برنت تتراجع 4.5% إلى نحو 108 دولارات للبرميل مع مغادرة المفاوضين الإيرانيين محادثات الدوحة وتداول مسودة اتفاق، فيما يتراجع مؤشر ستوكس 600 الأوروبي 0.1%.",
-   "source": {
-    "name": "Reuters via Euronext",
-    "url": "https://live.euronext.com/en/financial-news/european-stocks-edge-down-oil-drops-midterm-caution-prevails"
-   }
-  },
-  {
-   "id": "20261102-1153-herzog-smallest-parties-first",
-   "time": "2026-11-02T11:53:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "President Herzog's office says consultations on forming Israel's next government start Wednesday at 17:00 with the smallest parties, ending Thursday evening with Eisenkot's Yashar and Netanyahu's Likud.",
-   "ar": "مكتب الرئيس الإسرائيلي هرتسوغ يعلن أن مشاورات تكليف تشكيل الحكومة تبدأ الأربعاء عند الخامسة مساءً مع الأحزاب الأصغر، وتنتهي مساء الخميس مع حزب «يَشار» بقيادة آيزنكوت و«الليكود» بقيادة نتنياهو.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/"
    }
   }
  ]
