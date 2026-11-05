@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T10:08:37Z",
+ "updated": "2026-11-05T11:07:53Z",
  "items": [
+  {
+   "id": "20261105-0950-europe-flight-bomb-threats-2",
+   "time": "2026-11-05T09:50:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Bomb threats disrupt European flights for the second time this week: an Aer Lingus Dublin–Rome jet with 151 passengers is diverted to Évreux, France, and 3 Ryanair flights make emergency landings in Sofia.",
+   "ar": "تهديدات بوجود قنابل تُربك رحلات جوية أوروبية للمرة الثانية هذا الأسبوع: تحويل طائرة لـ«إير لينغوس» من دبلن إلى روما وعلى متنها 151 راكباً إلى إيفرو في فرنسا، وهبوط اضطراري لـ3 رحلات لـ«رايان إير» في صوفيا.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/flight-diverted-france-bomb-threat-dublin-rome-6585ff565ee1ccb9f19b73074aa2fec4"
+   }
+  },
+  {
+   "id": "20261105-0943-opposition-ohana-speaker-vote",
+   "time": "2026-11-05T09:43:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's opposition leaders ask Knesset Speaker Amir Ohana to hold the vote on a new speaker as early as Tuesday's swearing-in; Ohana says it waits for a new government unless a majority of MKs demands it.",
+   "ar": "قادة المعارضة الإسرائيلية يطالبون رئيس الكنيست أمير أوحانا بإجراء التصويت على رئيس جديد للكنيست يوم الثلاثاء مع أداء اليمين؛ وأوحانا يردّ بأنه ينتظر تشكيل حكومة جديدة ما لم تطلب ذلك أغلبية النواب.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-913918"
+   }
+  },
   {
    "id": "20261105-0913-russia-claims-odesa-ship",
    "time": "2026-11-05T09:13:00Z",
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "IBTimes",
     "url": "https://www.ibtimes.com/iran-authorizes-us-negotiations-oil-prices-fall-3809279"
-   }
-  },
-  {
-   "id": "20261102-1347-golan-backs-eisenkot",
-   "time": "2026-11-02T13:47:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yair Golan's Democrats say they will recommend Yashar leader Gadi Eisenkot to President Herzog to form Israel's next government, per The Jerusalem Post.",
-   "ar": "حزب «الديمقراطيون» بقيادة يائير غولان يعلن أنه سيوصي الرئيس هرتسوغ بتكليف زعيم «ياشار» غادي آيزنكوت تشكيل الحكومة الإسرائيلية المقبلة، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913583"
-   }
-  },
-  {
-   "id": "20261102-1343-irgc-11-tankers-claim",
-   "time": "2026-11-02T13:43:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's IRGC Navy says 11 oil tankers caught fire in the Strait of Hormuz in nine days since October 25, some of them sinking; the claim is unverified, per Tasnim.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن 11 ناقلة نفط اشتعلت فيها النيران في مضيق هرمز خلال تسعة أيام منذ 25 تشرين الأول، وغرق بعضها؛ والادعاء غير مؤكد، بحسب «تسنيم».",
-   "source": {
-    "name": "Tasnim",
-    "url": "https://www.tasnimnews.ir/en/news/2026/11/02/3738596/11-tankers-caught-fire-in-hormuz-in-9-days-irgc-navy/amp"
    }
   }
  ]
