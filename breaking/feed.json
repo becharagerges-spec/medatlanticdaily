@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T16:09:17Z",
+ "updated": "2026-11-05T17:08:35Z",
  "items": [
+  {
+   "id": "20261105-1641-paraguay-pena-resigns",
+   "time": "2026-11-05T16:41:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Paraguay's President Santiago Peña resigns after the collapse of Ueno Bank and an impeachment push by members of his own Colorado Party, saying he is stepping down to preserve stability.",
+   "ar": "رئيس الباراغواي سانتياغو بينيا يستقيل إثر انهيار مصرف «أوينو» ومساعي عزله من نواب في حزبه «كولورادو»، قائلاً إنه يتنحّى حفاظاً على الاستقرار.",
+   "source": {
+    "name": "AP via ABC News",
+    "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803"
+   }
+  },
   {
    "id": "20261105-1539-araghchi-faisal-call",
    "time": "2026-11-05T15:39:00Z",
@@ -18,11 +30,11 @@
    "time": "2026-11-05T15:30:00Z",
    "theater": "russia",
    "status": "confirmed",
-   "en": "Putin envoy Kirill Dmitriev is expected at the White House as Melania Trump hosts Russian and Ukrainian representatives over the Oleshky ceasefire, two sources tell Reuters.",
-   "ar": "مبعوث بوتين كيريل دميترييف يُنتظر حضوره إلى البيت الأبيض فيما تستضيف ميلانيا ترامب ممثلين روساً وأوكرانيين بشأن وقف إطلاق النار في أوليشكي، بحسب مصدرين لرويترز.",
+   "en": "At the White House, Melania Trump hands Putin envoy Kirill Dmitriev and Ukraine's Davyd Arakhamia personal letters for Putin and Zelensky, calling the Oleshky ceasefire a possible start to wider peace.",
+   "ar": "في البيت الأبيض، ميلانيا ترامب تسلّم مبعوث بوتين كيريل دميترييف والأوكراني دافيد أراخاميا رسالتين شخصيتين إلى بوتين وزيلينسكي، وتصف وقف إطلاق النار في أوليشكي بأنه قد يكون بداية لسلام أوسع.",
    "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/melania-trump-brings-together-officials-from-ukraine-russia/3091811/"
+    "name": "KFOX14",
+    "url": "https://kfoxtv.com/news/nation-world/first-lady-melania-trump-to-bring-russian-ukrainian-envoys-together-at-white-house-after-humanitarian-ceasefire-oleshky-kremlin-puting-zelenskyy-trilateral-talks-abu-dhabi"
    }
   },
   {
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "Reuters via Al Jazeera",
     "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
-   }
-  },
-  {
-   "id": "20261102-1958-eu-ukraine-defence-1bn",
-   "time": "2026-11-02T19:58:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "A European Commission plan would let Ukraine redirect up to €1 billion of its EU support loan into joint defence production, quadrupling a €300 million instrument, per Euronews.",
-   "ar": "خطة للمفوضية الأوروبية تتيح لأوكرانيا تحويل ما يصل إلى مليار يورو من قرض الدعم الأوروبي إلى إنتاج دفاعي مشترك، ما يضاعف أربع مرات أداةً بقيمة 300 مليون يورو، بحسب «يورونيوز».",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/02/ukraine-to-channel-up-to-1bn-in-eu-loans-into-joint-defence-projects"
    }
   }
  ]
