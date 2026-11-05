@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T05:09:39Z",
+ "updated": "2026-11-05T06:08:39Z",
  "items": [
+  {
+   "id": "20261105-0458-dnipro-kyiv-drones-4-hurt",
+   "time": "2026-11-05T04:58:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Russian drone attacks overnight injure 4 people in Dnipropetrovsk and Kyiv regions and set fires at infrastructure sites in Dnipro and a warehouse in Bucha district, regional authorities say.",
+   "ar": "هجمات بمسيّرات روسية خلال الليل توقع 4 جرحى في منطقتي دنيبروبيتروفسك وكييف وتشعل حرائق في منشآت بنى تحتية في دنيبرو ومستودع في منطقة بوتشا، بحسب السلطات المحلية.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-drone-attacks-injure-4-in-dnipropetrovsk-and-kyiv-oblasts-spark-fires-at-infrastructure-facilities/"
+   }
+  },
   {
    "id": "20261105-0421-irgc-tankers-tug-fire",
    "time": "2026-11-05T04:21:00Z",
@@ -71,6 +83,30 @@
    "source": {
     "name": "AFP via Gulf News",
     "url": "https://gulfnews.com/world/asia/south-korea-to-deploy-military-mission-to-help-keep-hormuz-open-1.500736489"
+   }
+  },
+  {
+   "id": "20261105-0026-ghaani-warns-us-bab-el-mandeb",
+   "time": "2026-11-05T00:26:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC Quds Force commander Esmaeil Ghaani warns the US that a united 'Resistance' front can strike it across the region, raising possible action at the Bab el-Mandeb, per IRNA.",
+   "ar": "قائد فيلق القدس في الحرس الثوري إسماعيل قاآني يحذّر واشنطن من أن جبهة «المقاومة» الموحّدة قادرة على ضربها في أنحاء المنطقة، ملوّحاً بتحرّك في باب المندب، بحسب «إرنا».",
+   "source": {
+    "name": "IRNA via ANI",
+    "url": "https://aninews.in/news/world/middle-east/irgc-quds-force-chief-ghaani-warns-us-against-8216gambling-behaviour8217-says-resistance-front-can-inflict-heavy-blows20261105055650/"
+   }
+  },
+  {
+   "id": "20261104-2156-desantis-hegseth-floated",
+   "time": "2026-11-04T21:56:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Florida Governor Ron DeSantis is being floated to replace Defense Secretary Pete Hegseth after the midterm losses, a source tells CBS News; the White House says Trump has full confidence in Hegseth.",
+   "ar": "طرح اسم حاكم فلوريدا رون ديسانتيس لخلافة وزير الدفاع بيت هيغسيث بعد خسائر الانتخابات النصفية، وفق مصدر لشبكة «سي بي إس»، فيما يؤكد البيت الأبيض أن ترامب يثق بهيغسيث تماماً.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.clickorlando.com/news/florida/2026/11/04/trump-considers-ron-desantis-to-replace-pete-hegseth-at-pentagon-cbs-news-source-says/"
    }
   },
   {
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "Politico Europe",
     "url": "https://www.politico.eu/article/brussels-flexible-euro-schengen-uk-tried-rejoining/"
-   }
-  },
-  {
-   "id": "20261102-0821-alstom-shares-plunge",
-   "time": "2026-11-02T08:21:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Shares of French train maker Alstom plunge 27% after the company cuts its full-year guidance, its second profit warning this year, Bloomberg reports.",
-   "ar": "أسهم شركة «ألستوم» الفرنسية لصناعة القطارات تهوي 27% بعد خفضها توقعاتها للعام كاملاً، في ثاني تحذير من الأرباح هذا العام، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/alstom-cuts-guidance-plans-overhaul-in-second-warning-this-year"
-   }
-  },
-  {
-   "id": "20261102-0816-de-wever-resignation",
-   "time": "2026-11-02T08:16:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Belgian Prime Minister Bart De Wever offers his resignation to King Philippe after his five-party coalition fails to agree on next year's budget.",
-   "ar": "رئيس الوزراء البلجيكي بارت دي فيفر يقدّم استقالته إلى الملك فيليب بعد فشل ائتلافه الخماسي في التوافق على موازنة العام المقبل.",
-   "source": {
-    "name": "VRT NWS",
-    "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
-   }
-  },
-  {
-   "id": "20261102-0749-china-envoy-iran-gulf",
-   "time": "2026-11-02T07:49:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's foreign ministry says Middle East special envoy Zhai Jun will visit Iran, Oman and Saudi Arabia in early to mid-November.",
-   "ar": "الخارجية الصينية تعلن أن المبعوث الخاص إلى الشرق الأوسط تشاي جيون سيزور إيران وعُمان والسعودية بين مطلع تشرين الثاني ومنتصفه.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/china-to-send-middle-east-envoy-on-regional-trips-in-november-3009387"
    }
   }
  ]
