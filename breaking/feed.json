@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T04:09:22Z",
+ "updated": "2026-11-05T05:09:39Z",
  "items": [
+  {
+   "id": "20261105-0421-irgc-tankers-tug-fire",
+   "time": "2026-11-05T04:21:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say 2 oil tankers and a tugboat caught fire in the Strait of Hormuz, one after hitting a mine on an 'unauthorized' route; there is no independent confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط وقاطرة اشتعلت فيها النيران في مضيق هرمز، إحداها بعد اصطدامها بلغم على مسار «غير مصرّح به»؛ ولا تأكيد مستقلاً لذلك.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.pk/middle-east/irans-irgc-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz-3006143"
+   }
+  },
+  {
+   "id": "20261105-0346-saudi-syria-defence-loans",
+   "time": "2026-11-05T03:46:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia and Syria sign a defence cooperation agreement during President Ahmed al-Sharaa's Riyadh visit, as the Saudi Fund for Development agrees over $403 million in concessional loans.",
+   "ar": "السعودية وسوريا توقّعان اتفاقية تعاون دفاعي خلال زيارة الرئيس أحمد الشرع إلى الرياض، والصندوق السعودي للتنمية يقرّ قروضاً ميسّرة تتجاوز 403 ملايين دولار.",
+   "source": {
+    "name": "Al Jazeera and Reuters",
+    "url": "https://www.yahoo.com/news/world/articles/syria-saudi-arabia-sign-defence-034613526.html"
+   }
+  },
   {
    "id": "20261105-0325-joshua-wong-10-years",
    "time": "2026-11-05T03:25:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/hong-kong-joshua-wong-sentencing-national-security-f4b08dd23bab9912569e5cabd990c1ef"
+   }
+  },
+  {
+   "id": "20261105-0325-china-blocks-softbank-abb",
+   "time": "2026-11-05T03:25:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "China's National Development and Reform Commission blocks SoftBank's $5.4 billion takeover of ABB's robotics division, according to the Financial Times.",
+   "ar": "اللجنة الوطنية للتنمية والإصلاح في الصين تمنع استحواذ سوفت بنك على قسم الروبوتات في شركة ABB بقيمة 5.4 مليارات دولار، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times via investingLive",
+    "url": "https://investinglive.com/stocks/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-ft-says-in-blow-to-son-s-ai-push/"
    }
   },
   {
@@ -35,6 +71,18 @@
    "source": {
     "name": "AFP via Gulf News",
     "url": "https://gulfnews.com/world/asia/south-korea-to-deploy-military-mission-to-help-keep-hormuz-open-1.500736489"
+   }
+  },
+  {
+   "id": "20261104-2147-degel-no-recommendation",
+   "time": "2026-11-04T21:47:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Degel HaTorah, holding 4 of United Torah Judaism's 7 seats, says it will recommend no one for prime minister, denying Netanyahu its support in Herzog's consultations.",
+   "ar": "حزب «ديغل هتوراه»، الذي يشغل 4 من مقاعد «يهدوت هتوراه» السبعة، يعلن أنه لن يوصي بأي مرشح لرئاسة الحكومة، حارماً نتنياهو دعمه في مشاورات هرتسوغ.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/as-herzog-consults-party-heads-haredi-faction-says-it-wont-recommend-netanyahu-as-pm/"
    }
   },
   {
@@ -1742,54 +1790,6 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/china-to-send-middle-east-envoy-on-regional-trips-in-november-3009387"
-   }
-  },
-  {
-   "id": "20261102-0739-iran-us-messages-continue",
-   "time": "2026-11-02T07:39:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Foreign Ministry spokesman Esmail Baghaei says Iran could reopen Hormuz within 2 days if the US ends the war, lifts oil sanctions, unfreezes assets and ends its naval blockade.",
-   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن إيران قادرة على إعادة فتح هرمز خلال يومين إذا أنهت واشنطن الحرب ورفعت العقوبات النفطية وأفرجت عن الأصول وأنهت حصارها البحري.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions"
-   }
-  },
-  {
-   "id": "20261102-0739-idf-hebron-withdrawal",
-   "time": "2026-11-02T07:39:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli troops pull back from Hebron after an operation launched over the October 23 killing of two soldiers, a military official says; the municipality says over 3,000 people were displaced.",
-   "ar": "القوات الإسرائيلية تنسحب من الخليل بعد عملية أُطلقت إثر مقتل جنديين في 23 تشرين الأول، بحسب مسؤول عسكري، فيما تقول البلدية إن أكثر من 3000 شخص نزحوا.",
-   "source": {
-    "name": "AFP via Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/arab-world/5336575-israel-army-withdraws-after-hebron-operation-says-military-official"
-   }
-  },
-  {
-   "id": "20261102-0645-coalition-houthi-missile-south",
-   "time": "2026-11-02T06:45:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says Saudi air defences intercepted and destroyed a Houthi ballistic missile aimed at southern Saudi Arabia; no casualties were reported.",
-   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية السعودية اعترضت ودمّرت صاروخاً باليستياً أطلقه الحوثيون باتجاه جنوب المملكة، من دون الإبلاغ عن إصابات.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-southern-region/4108355"
-   }
-  },
-  {
-   "id": "20261102-0642-bulgaria-iotova-wins",
-   "time": "2026-11-02T06:42:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Bulgaria's acting president Iliana Iotova wins the presidential runoff with 57.58% against 39.47% for Andrey Gyurov, with 99.95% of protocols counted, Reuters reports.",
-   "ar": "الرئيسة البلغارية بالوكالة إيليانا يوتوفا تفوز بالدورة الثانية للانتخابات الرئاسية بنسبة 57.58% مقابل 39.47% لأندريه غيوروف، بعد فرز 99.95% من المحاضر، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/world/articles/bulgarias-iotova-wins-presidential-runoff-064235702.html"
    }
   }
  ]
