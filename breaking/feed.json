@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T11:07:53Z",
+ "updated": "2026-11-05T12:10:32Z",
  "items": [
+  {
+   "id": "20261105-1040-iran-navy-tanker-mine-east-hormuz",
+   "time": "2026-11-05T10:40:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says another oil tanker hit a sea mine east of the Strait of Hormuz, caught fire and was immobilized after switching off its navigation systems; no independent confirmation.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة نفط أخرى اصطدمت بلغم بحري شرق مضيق هرمز واشتعلت فيها النيران وتعطّلت بعدما أطفأت أنظمة الملاحة؛ ولا تأكيد مستقلاً.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+   }
+  },
+  {
+   "id": "20261105-1017-coalition-medina-missile",
+   "time": "2026-11-05T10:17:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a Houthi ballistic missile fired at the Medina region, after Saudi civil defence issued alerts for Yanbu and Sharurah.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه منطقة المدينة المنورة وتدميره، بعدما أطلق الدفاع المدني السعودي إنذارات في ينبع وشرورة.",
+   "source": {
+    "name": "Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/gulf/5337873-coalition-intercepts-destroys-houthi-ballistic-missile-fired-madinah"
+   }
+  },
   {
    "id": "20261105-0950-europe-flight-bomb-threats-2",
    "time": "2026-11-05T09:50:00Z",
@@ -1701,11 +1725,11 @@
    "time": "2026-11-02T17:03:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Zelensky says the death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, Zaporizhzhia region, has risen to 40, with more than 30 possibly still under rubble.",
-   "ar": "زيلينسكي يقول إن حصيلة القنابل الروسية الموجّهة التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا بمنطقة زابوريجيا ارتفعت إلى 40 قتيلاً، وقد يكون أكثر من 30 آخرين لا يزالون تحت الأنقاض.",
+   "en": "Ukrainian police say the death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, Zaporizhzhia region, has risen to 42, with more than 30 still missing.",
+   "ar": "الشرطة الأوكرانية تقول إن حصيلة القنابل الروسية الموجّهة التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا بمنطقة زابوريجيا ارتفعت إلى 42 قتيلاً، ولا يزال أكثر من 30 في عداد المفقودين.",
    "source": {
-    "name": "AP via The Boston Globe",
-    "url": "https://www.bostonglobe.com/2026/11/04/world/russia-ukraine-war-death-toll/"
+    "name": "CNN via KESQ",
+    "url": "https://kesq.com/news/national-world/cnn-world/2026/11/05/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building/"
    }
   },
   {
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/fbi-hunter-biden-laptop-justice-department-101ccd65d10b5f77998574eb0045b52"
-   }
-  },
-  {
-   "id": "20261102-1430-wallstreet-oil-iran",
-   "time": "2026-11-02T14:30:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stocks open higher, with the Dow up 0.78% to 52,173, as Brent crude falls about 6% to below $107 a barrel on hopes of a US-Iran deal.",
-   "ar": "الأسهم الأميركية تفتتح على ارتفاع، وداو جونز يصعد 0.78% إلى 52,173 نقطة، فيما يهبط خام برنت نحو 6% إلى ما دون 107 دولارات للبرميل على وقع آمال باتفاق أميركي-إيراني.",
-   "source": {
-    "name": "Reuters via Investing.com",
-    "url": "https://za.investing.com/news/stock-market-news/us-stocks-open-higher-as-ai-trade-steadies-oil-falls-4543397"
-   }
-  },
-  {
-   "id": "20261102-1426-pezeshkian-khamenei-authority",
-   "time": "2026-11-02T14:26:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei has given the government 'certain authorities' to negotiate with the United States and the mediators.",
-   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن المرشد الأعلى مجتبى خامنئي منح الحكومة «صلاحيات معيّنة» للتفاوض مع الولايات المتحدة والوسطاء.",
-   "source": {
-    "name": "IBTimes",
-    "url": "https://www.ibtimes.com/iran-authorizes-us-negotiations-oil-prices-fall-3809279"
    }
   }
  ]
