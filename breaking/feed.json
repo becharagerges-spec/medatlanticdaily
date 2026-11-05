@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-05T17:08:35Z",
+ "updated": "2026-11-05T18:08:46Z",
  "items": [
+  {
+   "id": "20261105-1802-us-iran-deportation-talks",
+   "time": "2026-11-05T18:02:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Court documents unsealed Thursday show the Trump administration held talks with Iran during the war on deporting Iranians, and as recently as mid-October planned to deport them via an unnamed third country, AP reports.",
+   "ar": "وثائق قضائية كُشف عنها الخميس تُظهر أن إدارة ترامب أجرت محادثات مع إيران خلال الحرب بشأن ترحيل إيرانيين، وكانت حتى منتصف تشرين الأول تخطط لترحيلهم عبر دولة ثالثة لم تُسمَّ، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/iran-immigration-deportation-flights-emails-1f245367d432b2683a546936014a1f90"
+   }
+  },
+  {
+   "id": "20261105-1734-sp500-falls-3-ai-chips",
+   "time": "2026-11-05T17:34:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The S&P 500 falls more than 3%, heading for its worst day since the 2025 tariff announcements, and the Nasdaq drops about 5% as AI chip stocks sell off, AP reports.",
+   "ar": "مؤشر ستاندرد آند بورز 500 يتراجع أكثر من 3% متجهاً نحو أسوأ يوم له منذ إعلانات الرسوم الجمركية عام 2025، وناسداك يهبط نحو 5% مع موجة بيع لأسهم رقائق الذكاء الاصطناعي، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via Local 10",
+    "url": "https://www.local10.com/business/2026/11/05/sp-500-tumbles-3-as-ai-chip-stocks-drag-wall-street-toward-its-worst-day-since-trumps-tariff-announcements-in-2025/"
+   }
+  },
+  {
+   "id": "20261105-1721-putin-meets-rezaei",
+   "time": "2026-11-05T17:21:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Putin meets Iran's Supreme National Security Council head Mohsen Rezaei in Moscow, who delivers a message from Supreme Leader Mojtaba Khamenei; Russia keeps its advice against travel to Iran.",
+   "ar": "بوتين يستقبل في موسكو رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي الذي نقل رسالة من المرشد مجتبى خامنئي، وروسيا تُبقي على توصيتها بعدم السفر إلى إيران.",
+   "source": {
+    "name": "Arab News Pakistan",
+    "url": "https://www.arabnews.pk/middle-east/irans-security-chief-meets-with-putin-3006209"
+   }
+  },
   {
    "id": "20261105-1641-paraguay-pena-resigns",
    "time": "2026-11-05T16:41:00Z",
@@ -11,6 +47,18 @@
    "source": {
     "name": "AP via ABC News",
     "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803"
+   }
+  },
+  {
+   "id": "20261105-1610-lebanon-health-toll-4390",
+   "time": "2026-11-05T16:10:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's health ministry says Israeli attacks have killed 4,390 people and wounded 12,429 since 2 March, bringing the toll since October 2023 to 8,957 killed.",
+   "ar": "وزارة الصحة اللبنانية تعلن أن الاعتداءات الإسرائيلية أسفرت منذ 2 آذار عن 4,390 قتيلاً و12,429 جريحاً، لترتفع الحصيلة منذ تشرين الأول 2023 إلى 8,957 قتيلاً.",
+   "source": {
+    "name": "Safir al-Chamal",
+    "url": "https://safiralchamal.com/2026/11/05/738411/"
    }
   },
   {
@@ -1742,54 +1790,6 @@
    "source": {
     "name": "Reuters via Business Recorder",
     "url": "https://www.brecorder.com/news/40447154/houthis-advance-to-within-80km-of-aden"
-   }
-  },
-  {
-   "id": "20261102-2324-israel-lebanon-hezbollah-roadblocks",
-   "time": "2026-11-02T23:24:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israel asked Lebanon, via US mediators, to deploy troops and roadblocks in Hezbollah areas to keep the group out of any renewed Iran war, warning of new fighting otherwise, per Kan.",
-   "ar": "إسرائيل طلبت من لبنان عبر الوسطاء الأميركيين نشر الجيش وإقامة حواجز في مناطق حزب الله لمنعه من دخول أي حرب متجددة مع إيران، محذّرةً من تجدّد القتال، بحسب «كان».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-reportedly-pressing-lebanon-to-prevent-hezbollah-from-joining-renewed-war-with-iran/"
-   }
-  },
-  {
-   "id": "20261102-2313-abu-dhabi-trilateral-talks",
-   "time": "2026-11-02T23:13:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "US envoy Steve Witkoff says the US will mediate working-level Ukraine-Russia talks in Abu Dhabi on November 10-11 on security arrangements, de-escalation and humanitarian steps.",
-   "ar": "المبعوث الأميركي ستيف ويتكوف يعلن أن واشنطن ستتوسط في محادثات أوكرانية-روسية على مستوى فرق العمل في أبوظبي يومي 10 و11 تشرين الثاني حول الترتيبات الأمنية وخفض التصعيد والخطوات الإنسانية.",
-   "source": {
-    "name": "AFP via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-ukraine-and-russia-to-hold-trilateral-talks-in-abu-dhabi-next-week-us-official/"
-   }
-  },
-  {
-   "id": "20261102-2228-khalid-hegseth-call",
-   "time": "2026-11-02T22:28:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Defence Minister Prince Khalid bin Salman says he discussed de-escalating regional tensions and continued Houthi attacks on the kingdom in a call with US Defense Secretary Pete Hegseth.",
-   "ar": "وزير الدفاع السعودي الأمير خالد بن سلمان يقول إنه بحث مع وزير الدفاع الأميركي بيت هيغسيث هاتفياً خفض التوترات الإقليمية واستمرار هجمات الحوثيين على المملكة.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-defense-minister-says-he-spoke-with-hegseth-about-deescalating-regional-tensions-amid-continued-houthi-attacks/"
-   }
-  },
-  {
-   "id": "20261102-2038-agoa-south-africa-rwanda",
-   "time": "2026-11-02T20:38:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "US Trade Representative Jamieson Greer says South Africa and Rwanda will lose duty-free access under AGOA from January 1, 2027, citing trade barriers and security concerns.",
-   "ar": "الممثل التجاري الأميركي جيميسون غرير يعلن أن جنوب أفريقيا ورواندا ستفقدان الإعفاء الجمركي ضمن برنامج «أغوا» اعتباراً من 1 كانون الثاني 2027، بسبب حواجز تجارية ومخاوف أمنية.",
-   "source": {
-    "name": "Reuters via Al Jazeera",
-    "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
    }
   }
  ]
