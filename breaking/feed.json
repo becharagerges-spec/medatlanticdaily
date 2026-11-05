@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T18:08:46Z",
+ "updated": "2026-11-05T19:08:29Z",
  "items": [
+  {
+   "id": "20261105-1858-democrats-250-house-seats",
+   "time": "2026-11-05T18:58:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Democrats will hold at least 250 seats in the US House from January, their largest majority since the 2008 election, CNN projects.",
+   "ar": "الديمقراطيون سيشغلون 250 مقعداً على الأقل في مجلس النواب الأميركي اعتباراً من كانون الثاني، في أكبر أغلبية لهم منذ انتخابات 2008، بحسب توقعات «سي إن إن».",
+   "source": {
+    "name": "CNN"
+   }
+  },
   {
    "id": "20261105-1802-us-iran-deportation-talks",
    "time": "2026-11-05T18:02:00Z",
@@ -11,6 +22,17 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/iran-immigration-deportation-flights-emails-1f245367d432b2683a546936014a1f90"
+   }
+  },
+  {
+   "id": "20261105-1752-dhillon-resigns-doj",
+   "time": "2026-11-05T17:52:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Harmeet Dhillon resigns as head of the Justice Department's Civil Rights Division, among the first senior Trump officials to leave after the midterms, Attorney General Todd Blanche confirms.",
+   "ar": "هارميت ديلون تستقيل من رئاسة قسم الحقوق المدنية في وزارة العدل الأميركية، لتكون من أوائل كبار مسؤولي إدارة ترامب المغادرين بعد الانتخابات النصفية، والمدعي العام تود بلانش يؤكد رحيلها.",
+   "source": {
+    "name": "Politico"
    }
   },
   {
@@ -234,11 +256,11 @@
    "time": "2026-11-05T08:38:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "French unions stage nationwide strikes and rallies over wages and living costs, as Interior Minister Laurent Nuñez deploys 70,000 police backed by armoured vehicles, drones and helicopters.",
-   "ar": "النقابات الفرنسية تنفّذ إضرابات وتظاهرات في أنحاء البلاد للمطالبة برفع الأجور ومواجهة غلاء المعيشة، ووزير الداخلية لوران نونييز ينشر 70 ألف شرطي مدعومين بمدرّعات ومسيّرات ومروحيات.",
+   "en": "France's interior ministry says about 600,000 people joined nationwide strikes and protests over wages and living costs, while a hard-left union claims close to 1.6 million; 70,000 police were deployed.",
+   "ar": "وزارة الداخلية الفرنسية تقول إن نحو 600 ألف شخص شاركوا في الإضرابات والتظاهرات في أنحاء البلاد احتجاجاً على الأجور وغلاء المعيشة، فيما تقول نقابة يسارية إن العدد قارب 1.6 مليون، مع نشر 70 ألف شرطي.",
    "source": {
-    "name": "AP via ClickOrlando",
-    "url": "https://www.clickorlando.com/business/2026/11/05/french-unions-unite-for-nationwide-strikes-piling-more-pressure-on-macrons-government/"
+    "name": "France 24",
+    "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
    }
   },
   {
@@ -1766,30 +1788,6 @@
    "source": {
     "name": "WANA",
     "url": "https://wanaen.com/irgc-announces-destruction-of-55th-us-mq-9-drone-in-eastern-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261103-0052-us-strikes-qeshm",
-   "time": "2026-11-03T00:52:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "The US strikes Iran's Qeshm Island in the Strait of Hormuz; a US official tells AP the 'defensive strikes' hit Iranians firing surface-to-air missiles at US assets, as Iranian media report explosions.",
-   "ar": "الولايات المتحدة تقصف جزيرة قشم الإيرانية في مضيق هرمز، ومسؤول أميركي يقول لأسوشيتد برس إن «الضربات الدفاعية» استهدفت إيرانيين يطلقون صواريخ أرض-جو على أصول أميركية، فيما يتحدث الإعلام الإيراني عن انفجارات.",
-   "source": {
-    "name": "AP via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-official-strike-on-qeshm-targeted-iranians-using-surface-to-air-missiles-against-us-assets/"
-   }
-  },
-  {
-   "id": "20261103-0012-houthis-near-aden",
-   "time": "2026-11-03T00:12:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Houthi forces have advanced to within 80 km of Aden, the closest since 2015, after taking Al-Maqatirah district, four military sources tell Reuters.",
-   "ar": "قوات الحوثيين تتقدّم إلى مسافة 80 كيلومتراً من عدن، وهي الأقرب منذ 2015، بعد سيطرتها على مديرية المقاطرة، بحسب أربعة مصادر عسكرية لرويترز.",
-   "source": {
-    "name": "Reuters via Business Recorder",
-    "url": "https://www.brecorder.com/news/40447154/houthis-advance-to-within-80km-of-aden"
    }
   }
  ]
