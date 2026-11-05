@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T13:14:34Z",
+ "updated": "2026-11-05T14:10:26Z",
  "items": [
+  {
+   "id": "20261105-1305-chernobyl-dome-funding",
+   "time": "2026-11-05T13:05:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The European Bank for Reconstruction and Development warns that €500 million is urgently needed to repair Chernobyl's protective dome, damaged by Russian attacks, per Politico Europe.",
+   "ar": "البنك الأوروبي لإعادة الإعمار والتنمية يحذّر من حاجة عاجلة إلى 500 مليون يورو لإصلاح القبة الواقية في تشيرنوبيل التي تضررت جراء هجمات روسية، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/damage-chernobyl-nuclear-site-urgent-funding-european-development-bank/"
+   }
+  },
   {
    "id": "20261105-1220-herzog-meets-blair",
    "time": "2026-11-05T12:20:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/herzog-meets-senior-board-of-peace-envoy-tony-blair-at-presidents-residence/"
+   }
+  },
+  {
+   "id": "20261105-1200-boe-hikes-to-4",
+   "time": "2026-11-05T12:00:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The Bank of England raises its main interest rate by 0.25 point to 4%, its first hike since the Iran war began, and warns inflation will climb toward 5%.",
+   "ar": "بنك إنكلترا يرفع سعر الفائدة الرئيسي 0.25 نقطة إلى 4%، في أول زيادة منذ اندلاع الحرب على إيران، ويحذّر من ارتفاع التضخم نحو 5%.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation"
    }
   },
   {
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "CNN via KESQ",
     "url": "https://kesq.com/news/national-world/cnn-world/2026/11/05/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building/"
-   }
-  },
-  {
-   "id": "20261102-1700-brent-near-8pct-drop",
-   "time": "2026-11-02T17:00:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Brent crude falls 7.94% to $104.43 a barrel at 17:00 GMT after Iran's president says the supreme leader authorised talks with the US, per Türkiye Today.",
-   "ar": "خام برنت يتراجع 7.94% إلى 104.43 دولارات للبرميل عند الساعة 17:00 بتوقيت غرينتش، بعدما أعلن الرئيس الإيراني أن المرشد أجاز التفاوض مع الولايات المتحدة، بحسب «تركيا توداي».",
-   "source": {
-    "name": "Türkiye Today",
-    "url": "https://www.turkiyetoday.com/business/brent-crude-falls-nearly-8-below-105-as-us-iran-diplomacy-eases-supply-fears-3231573"
-   }
-  },
-  {
-   "id": "20261102-1650-houthi-109-saudi-strikes",
-   "time": "2026-11-02T16:50:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi military spokesman Yahya Saree says Saudi warplanes carried out 109 airstrikes on Yemen in the past 24 hours, 3,939 since the autumn escalation; the coalition has not commented.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن الطائرات السعودية نفّذت 109 غارات على اليمن خلال 24 ساعة، و3,939 غارة منذ تصعيد الخريف؛ ولم يعلّق التحالف.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
    }
   }
  ]
