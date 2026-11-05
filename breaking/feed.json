@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T07:09:57Z",
+ "updated": "2026-11-05T08:08:53Z",
  "items": [
+  {
+   "id": "20261105-0729-utj-no-recommendation",
+   "time": "2026-11-05T07:29:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "United Torah Judaism's 7 MKs decline to recommend any candidate for prime minister in talks with President Herzog, tying support for any government to a yeshiva draft-exemption law, per Times of Israel.",
+   "ar": "نواب «يهدوت هتوراه» السبعة يمتنعون عن التوصية بأي مرشح لرئاسة الحكومة أمام الرئيس هرتسوغ، ويربطون دعمهم لأي حكومة بقانون يُعفي طلاب المدارس الدينية من التجنيد، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations"
+   }
+  },
   {
    "id": "20261105-0458-dnipro-kyiv-drones-4-hurt",
    "time": "2026-11-05T04:58:00Z",
@@ -66,11 +78,11 @@
    "time": "2026-11-05T02:59:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "South Korea's Kospi falls 3.5% after briefly dropping more than 4% on chipmaker selling, while Hong Kong's Hang Seng rises 2.8% and Brent edges down to $93.91 a barrel.",
-   "ar": "مؤشر «كوسبي» الكوري الجنوبي يتراجع 3.5% بعدما هبط لفترة وجيزة أكثر من 4% بفعل بيع أسهم الرقائق، فيما يرتفع «هانغ سنغ» في هونغ كونغ 2.8% ويتراجع برنت إلى 93.91 دولاراً للبرميل.",
+   "en": "South Korea's Kospi closes down 5.28% at 5,383.80, with SK Hynix falling 9.46% and Samsung Electronics 7.57% on AI concerns after the US Democratic midterm sweep.",
+   "ar": "مؤشر «كوسبي» الكوري الجنوبي يُغلق متراجعاً 5.28% عند 5,383.80 نقطة، مع هبوط «إس كيه هاينكس» 9.46% و«سامسونغ إلكترونيكس» 7.57% وسط مخاوف تتعلق بالذكاء الاصطناعي بعد اكتساح الديمقراطيين الانتخابات النصفية الأميركية.",
    "source": {
-    "name": "AP via ClickOrlando",
-    "url": "https://www.clickorlando.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"
+    "name": "The Korea Times",
+    "url": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
    }
   },
   {
@@ -107,6 +119,30 @@
    "source": {
     "name": "IRNA via ANI",
     "url": "https://aninews.in/news/world/middle-east/irgc-quds-force-chief-ghaani-warns-us-against-8216gambling-behaviour8217-says-resistance-front-can-inflict-heavy-blows20261105055650/"
+   }
+  },
+  {
+   "id": "20261105-0013-qatar-draft-direct-talks",
+   "time": "2026-11-05T00:13:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Qatari mediators are seeking US and Iranian backing for a draft deal that could restart direct talks within days, as Iran demands an end to the US naval blockade before reopening Hormuz, Gulf News reports.",
+   "ar": "الوسطاء القطريون يسعون إلى موافقة أميركية وإيرانية على مسودة اتفاق قد تُعيد إطلاق المحادثات المباشرة خلال أيام، فيما تطالب إيران بإنهاء الحصار البحري الأميركي قبل إعادة فتح هرمز، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+   }
+  },
+  {
+   "id": "20261104-2359-us-military-combat-prep",
+   "time": "2026-11-04T23:59:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "US officials tell Axios the military is finishing preparations for a possible resumption of major combat against Iran, while stressing the preparations are not an order to attack.",
+   "ar": "مسؤولون أميركيون يقولون لموقع «أكسيوس» إن الجيش يُنهي استعداداته لاستئناف محتمل للعمليات القتالية الكبرى ضد إيران، مؤكدين أن هذه الاستعدادات ليست أمراً بالهجوم.",
+   "source": {
+    "name": "Axios via Gulf News",
+    "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
    }
   },
   {
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "AFP via Aaj English TV",
     "url": "https://english.aaj.tv/news/330479034/china-fm-tells-iran-official-beijing-supports-safeguarding-sovereignty"
-   }
-  },
-  {
-   "id": "20261102-1014-kherson-attacks-resume",
-   "time": "2026-11-02T10:14:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukrainian officials say Russia resumed attacks on the Kherson region after the Oleshky truce ended, wounding 2 people in Kherson, and killed 1 in Izium; Kyiv says Moscow rejected an extension.",
-   "ar": "مسؤولون أوكرانيون يقولون إن روسيا استأنفت هجماتها على منطقة خيرسون بعد انتهاء هدنة أوليشكي، فأصابت شخصين في خيرسون وقتلت شخصاً في إيزيوم، وكييف تقول إن موسكو رفضت تمديدها.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says"
-   }
-  },
-  {
-   "id": "20261102-1000-kremlin-no-local-truces",
-   "time": "2026-11-02T10:00:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin spokesman Dmitry Peskov says no further local ceasefires like the Oleshky truce are planned and assumes Ukraine's army also used the pause to regroup.",
-   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إنه لا هدنات محلية أخرى على غرار هدنة أوليشكي مقرّرة حالياً، ويفترض أن الجيش الأوكراني استغلّ التوقف أيضاً لإعادة تجميع صفوفه.",
-   "source": {
-    "name": "Reuters via SRN News",
-    "url": "https://srnnews.com/kremlin-says-it-assumes-that-the-ukrainian-army-used-the-oleshky-ceasefire-to-regroup-in-line-with-normal-practice/"
-   }
-  },
-  {
-   "id": "20261102-0936-iran-left-doha-draft",
-   "time": "2026-11-02T09:36:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian negotiators left the Qatari-mediated Doha talks on Sunday, not over problems, and a draft proposal for a US deal is being circulated, an official tells Reuters.",
-   "ar": "المفاوضون الإيرانيون غادروا محادثات الدوحة بوساطة قطرية يوم الأحد من دون أن يكون السبب تعثّرها، ومسودة اقتراح لاتفاق مع واشنطن قيد التداول، بحسب مسؤول لرويترز.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/iranians-left-doha-talks-draft-093621013.html"
    }
   }
  ]
