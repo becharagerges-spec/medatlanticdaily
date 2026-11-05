@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-05T15:09:08Z",
+ "updated": "2026-11-05T16:09:17Z",
  "items": [
+  {
+   "id": "20261105-1539-araghchi-faisal-call",
+   "time": "2026-11-05T15:39:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian FM Abbas Araghchi and Saudi FM Prince Faisal bin Farhan discuss regional developments and diplomatic efforts toward stability in a phone call, Iranian state media say.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي ونظيره السعودي الأمير فيصل بن فرحان يبحثان في اتصال هاتفي التطورات الإقليمية والجهود الدبلوماسية لإرساء الاستقرار، بحسب الإعلام الرسمي الإيراني.",
+   "source": {
+    "name": "AFP via 24 News HD",
+    "url": "https://www.24newshd.tv/05-Nov-2026/iran-fm-holds-phone-talks-saudi-counterpart-state-media"
+   }
+  },
+  {
+   "id": "20261105-1530-dmitriev-white-house-oleshky",
+   "time": "2026-11-05T15:30:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Putin envoy Kirill Dmitriev is expected at the White House as Melania Trump hosts Russian and Ukrainian representatives over the Oleshky ceasefire, two sources tell Reuters.",
+   "ar": "مبعوث بوتين كيريل دميترييف يُنتظر حضوره إلى البيت الأبيض فيما تستضيف ميلانيا ترامب ممثلين روساً وأوكرانيين بشأن وقف إطلاق النار في أوليشكي، بحسب مصدرين لرويترز.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/melania-trump-brings-together-officials-from-ukraine-russia/3091811/"
+   }
+  },
+  {
+   "id": "20261105-1514-tesla-falls-10",
+   "time": "2026-11-05T15:14:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Tesla shares fall 10% for a second day of losses on concerns that Democratic wins in Congress will hamper Elon Musk's business expansion, Bloomberg reports.",
+   "ar": "أسهم تسلا تتراجع 10% لليوم الثاني على التوالي وسط مخاوف من أن يعرقل فوز الديمقراطيين في الكونغرس توسّع أعمال إيلون ماسك، بحسب بلومبرغ.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/tesla-shares-tumble-again-in-deepening-post-election-slump"
+   }
+  },
   {
    "id": "20261105-1358-joint-list-backs-eisenkot",
    "time": "2026-11-05T13:58:00Z",
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/02/ukraine-to-channel-up-to-1bn-in-eu-loans-into-joint-defence-projects"
-   }
-  },
-  {
-   "id": "20261102-1904-netanyahu-broad-government",
-   "time": "2026-11-02T19:04:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu says he is open to a 'broad national government' under his leadership, keeping his far-right and ultra-Orthodox partners and excluding Ra'am and the Joint List.",
-   "ar": "نتنياهو يعلن انفتاحه على «حكومة وحدة وطنية واسعة» برئاسته، مع الإبقاء على شركائه من اليمين المتطرف والحريديم واستبعاد «القائمة العربية الموحدة» و«القائمة المشتركة».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-holding-talks-on-forming-broad-national-government-under-his-leadership/"
-   }
-  },
-  {
-   "id": "20261102-1735-sohlberg-refuses-delay",
-   "time": "2026-11-02T17:35:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Election committee chair Noam Sohlberg rejects Likud's request to delay certifying the October 27 results, saying the committee has no authority to withhold certification, per Times of Israel.",
-   "ar": "رئيس لجنة الانتخابات المركزية نوعام سولبرغ يرفض طلب الليكود تأجيل المصادقة على نتائج انتخابات 27 تشرين الأول، قائلاً إن اللجنة لا تملك صلاحية حجب المصادقة، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/likud-demands-to-delay-certification-of-election-results-amid-foreign-interference-probe-sohlberg-refuses/"
-   }
-  },
-  {
-   "id": "20261102-1732-araghchi-all-scenarios",
-   "time": "2026-11-02T17:32:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian FM Abbas Araghchi tells IRNA in Ashgabat that Iran is 'prepared for all scenarios', says the next move is Washington's and warns any new attack will meet a harsher response.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول لـ«إرنا» من عشق آباد إن إيران «مستعدة لكل السيناريوهات»، وإن الخطوة التالية بيد واشنطن، محذّراً من أن أي هجوم جديد سيُقابَل بردّ أشدّ.",
-   "source": {
-    "name": "ANI",
-    "url": "https://www.aninews.in/news/world/middle-east/prepared-for-all-scenarios-iran-fm-araghchi-warns-us-against-renewed-military-aggression20261102230227/"
    }
   }
  ]
