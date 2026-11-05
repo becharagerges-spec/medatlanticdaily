@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T14:10:26Z",
+ "updated": "2026-11-05T15:09:08Z",
  "items": [
+  {
+   "id": "20261105-1358-joint-list-backs-eisenkot",
+   "time": "2026-11-05T13:58:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "The Joint List's three factions agree to recommend Gadi Eisenkot for prime minister, giving him backing from 67 incoming Knesset members, a majority, though not a pledge to join his coalition.",
+   "ar": "الفصائل الثلاثة في القائمة المشتركة تتفق على تسمية غادي آيزنكوت لرئاسة الحكومة، فيحظى بتأييد 67 نائباً في الكنيست المقبل، أي الأغلبية، من دون تعهّد بالانضمام إلى ائتلافه.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://timesofisrael.com/liveblog_entry/joint-list-says-it-will-back-eisenkot-as-pm-handing-him-majority-of-recommendations"
+   }
+  },
   {
    "id": "20261105-1305-chernobyl-dome-funding",
    "time": "2026-11-05T13:05:00Z",
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "ANI",
     "url": "https://www.aninews.in/news/world/middle-east/prepared-for-all-scenarios-iran-fm-araghchi-warns-us-against-renewed-military-aggression20261102230227/"
-   }
-  },
-  {
-   "id": "20261102-1703-komyshuvakha-bombs",
-   "time": "2026-11-02T17:03:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukrainian police say the death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, Zaporizhzhia region, has risen to 42, with more than 30 still missing.",
-   "ar": "الشرطة الأوكرانية تقول إن حصيلة القنابل الروسية الموجّهة التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا بمنطقة زابوريجيا ارتفعت إلى 42 قتيلاً، ولا يزال أكثر من 30 في عداد المفقودين.",
-   "source": {
-    "name": "CNN via KESQ",
-    "url": "https://kesq.com/news/national-world/cnn-world/2026/11/05/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building/"
    }
   }
  ]
