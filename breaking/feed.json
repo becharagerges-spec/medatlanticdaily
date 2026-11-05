@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T08:08:53Z",
+ "updated": "2026-11-05T09:10:35Z",
  "items": [
+  {
+   "id": "20261105-0838-france-strikes-70000-police",
+   "time": "2026-11-05T08:38:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "French unions stage nationwide strikes and rallies over wages and living costs, as Interior Minister Laurent Nuñez deploys 70,000 police backed by armoured vehicles, drones and helicopters.",
+   "ar": "النقابات الفرنسية تنفّذ إضرابات وتظاهرات في أنحاء البلاد للمطالبة برفع الأجور ومواجهة غلاء المعيشة، ووزير الداخلية لوران نونييز ينشر 70 ألف شرطي مدعومين بمدرّعات ومسيّرات ومروحيات.",
+   "source": {
+    "name": "AP via ClickOrlando",
+    "url": "https://www.clickorlando.com/business/2026/11/05/french-unions-unite-for-nationwide-strikes-piling-more-pressure-on-macrons-government/"
+   }
+  },
+  {
+   "id": "20261105-0807-rheinmetall-falls-14",
+   "time": "2026-11-05T08:07:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Rheinmetall shares fall 14% after the German arms maker cuts its 2026 sales forecast for the second time in three months, while Europe's STOXX 600 rises 0.5%.",
+   "ar": "سهم «راينميتال» يتراجع 14% بعدما خفّضت شركة السلاح الألمانية توقعات مبيعاتها لعام 2026 للمرة الثانية خلال ثلاثة أشهر، فيما يرتفع مؤشر «ستوكس 600» الأوروبي 0.5%.",
+   "source": {
+    "name": "Reuters via 93.3 The Drive",
+    "url": "https://www.933thedrive.com/2026/11/05/european-shares-rise-on-mining-gains-tech-lags/"
+   }
+  },
   {
    "id": "20261105-0729-utj-no-recommendation",
    "time": "2026-11-05T07:29:00Z",
@@ -1766,30 +1790,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/"
-   }
-  },
-  {
-   "id": "20261102-1147-liberman-backs-eisenkot",
-   "time": "2026-11-02T11:47:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yisrael Beytenu leader Avigdor Liberman says his party will recommend Gadi Eisenkot to form Israel's next government and back Yair Lapid for Knesset speaker, per Times of Israel.",
-   "ar": "رئيس «يسرائيل بيتينو» أفيغدور ليبرمان يعلن أن حزبه سيوصي بتكليف غادي آيزنكوت تشكيل الحكومة الإسرائيلية المقبلة ويدعم يائير لابيد لرئاسة الكنيست، وفق «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-says-he-will-recommend-eisenkot-to-be-prime-minister-lapid-to-be-knesset-speaker/"
-   }
-  },
-  {
-   "id": "20261102-1015-wang-yi-bagheri-kani",
-   "time": "2026-11-02T10:15:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Chinese Foreign Minister Wang Yi tells Iran's security council deputy Ali Bagheri Kani in Beijing that China supports Iran in safeguarding its sovereignty and security, and urges a political solution.",
-   "ar": "وزير الخارجية الصيني وانغ يي يقول لنائب أمين مجلس الأمن القومي الإيراني علي باقري كني في بكين إن الصين تدعم إيران في صون سيادتها وأمنها، ويدعو إلى حلّ سياسي.",
-   "source": {
-    "name": "AFP via Aaj English TV",
-    "url": "https://english.aaj.tv/news/330479034/china-fm-tells-iran-official-beijing-supports-safeguarding-sovereignty"
    }
   }
  ]
