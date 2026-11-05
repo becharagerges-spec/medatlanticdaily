@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-05T12:10:32Z",
+ "updated": "2026-11-05T13:14:34Z",
  "items": [
+  {
+   "id": "20261105-1220-herzog-meets-blair",
+   "time": "2026-11-05T12:20:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "President Isaac Herzog meets Board of Peace envoy Tony Blair at the President's Residence in Jerusalem, per Times of Israel.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يستقبل مبعوث «مجلس السلام» توني بلير في مقر الرئاسة في القدس، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-meets-senior-board-of-peace-envoy-tony-blair-at-presidents-residence/"
+   }
+  },
+  {
+   "id": "20261105-1127-brussels-ukraine-talks-day2",
+   "time": "2026-11-05T11:27:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's negotiator Rustem Umerov and US, UK, French, German, EU and NATO officials hold a second day of talks in Brussels on reconstruction, 2027 funding and security guarantees.",
+   "ar": "المفاوض الأوكراني رستم عمروف ومسؤولون أميركيون وبريطانيون وفرنسيون وألمان ومن الاتحاد الأوروبي والناتو يعقدون يوماً ثانياً من المحادثات في بروكسل حول إعادة الإعمار وتمويل 2027 والضمانات الأمنية.",
+   "source": {
+    "name": "AP via ABC News",
+    "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457"
+   }
+  },
+  {
+   "id": "20261105-1047-raam-recommends-eisenkot",
+   "time": "2026-11-05T10:47:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Ra'am, the Arab party with 8 Knesset seats, recommends Gadi Eisenkot for prime minister in consultations with President Herzog, leader Mansour Abbas says.",
+   "ar": "حزب «القائمة العربية الموحدة» (8 مقاعد في الكنيست) يوصي بغادي آيزنكوت لرئاسة الحكومة خلال مشاوراته مع الرئيس هرتسوغ، بحسب رئيسه منصور عباس.",
+   "source": {
+    "name": "ANSA",
+    "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/il-partito-arabo-raam-indica-eisenkot-come-premier_ff5032f7-f66e-4e70-8725-3503a36d4122.html"
+   }
+  },
   {
    "id": "20261105-1040-iran-navy-tanker-mine-east-hormuz",
    "time": "2026-11-05T10:40:00Z",
@@ -1754,42 +1790,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
-   }
-  },
-  {
-   "id": "20261102-1643-scotus-california-ballots",
-   "time": "2026-11-02T16:43:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Supreme Court rejects the Trump administration's bid to make California set aside about 20,000 mail ballots it claims were cast by noncitizens, on the eve of the midterms.",
-   "ar": "المحكمة العليا الأميركية ترفض طلب إدارة ترامب إلزام كاليفورنيا بعزل نحو 20 ألف بطاقة اقتراع بريدية تزعم أن غير مواطنين أدلوا بها، عشية الانتخابات النصفية.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
-   }
-  },
-  {
-   "id": "20261102-1617-houthi-dammam-jizan-claim",
-   "time": "2026-11-02T16:17:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "The Houthis say they launched drones at Saudi Arabia's Dammam airport and hit an early-warning radar and a military transport aircraft in Jizan; there is no Saudi confirmation, Reuters reports.",
-   "ar": "الحوثيون يقولون إنهم أطلقوا مسيّرات نحو مطار الدمام في السعودية وأصابوا راداراً للإنذار المبكر وطائرة نقل عسكرية في جازان؛ ولا تأكيد سعودياً، بحسب «رويترز».",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://timesofisrael.com/liveblog_entry/houthis-say-they-launched-drones-at-saudi-arabias-dammam-airport"
-   }
-  },
-  {
-   "id": "20261102-1552-fbi-officials-case-dismissed",
-   "time": "2026-11-02T15:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "A US magistrate judge dismisses the Justice Department's complaint against 2 former FBI officials accused of lying to Congress about Hunter Biden; prosecutors may still seek a grand jury indictment.",
-   "ar": "قاضٍ فدرالي أميركي يردّ شكوى وزارة العدل ضد مسؤولَين سابقَين في مكتب التحقيقات الفدرالي متّهمَين بالكذب على الكونغرس بشأن هانتر بايدن، فيما يبقى بإمكان الادعاء السعي إلى لائحة اتهام عبر هيئة محلّفين كبرى.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/fbi-hunter-biden-laptop-justice-department-101ccd65d10b5f77998574eb0045b52"
    }
   }
  ]
