@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:08:39Z",
+ "updated": "2026-11-05T07:09:57Z",
  "items": [
   {
    "id": "20261105-0458-dnipro-kyiv-drones-4-hurt",
@@ -18,11 +18,11 @@
    "time": "2026-11-05T04:21:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Iran's Revolutionary Guards say 2 oil tankers and a tugboat caught fire in the Strait of Hormuz, one after hitting a mine on an 'unauthorized' route; there is no independent confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط وقاطرة اشتعلت فيها النيران في مضيق هرمز، إحداها بعد اصطدامها بلغم على مسار «غير مصرّح به»؛ ولا تأكيد مستقلاً لذلك.",
+   "en": "Iran's Revolutionary Guards say 2 oil tankers and a tugboat caught fire in the Strait of Hormuz after mine strikes on an 'unauthorized' route, and that they downed and seized 2 US-made Lucas drones; no independent confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط وقاطرة اشتعلت فيها النيران في مضيق هرمز بعد اصطدامها بألغام على مسار «غير مصرّح به»، وإنه أسقط واستولى على مسيّرتين أميركيتين من طراز «لوكاس»؛ ولا تأكيد مستقلاً.",
    "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.pk/middle-east/irans-irgc-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz-3006143"
+    "name": "Trend",
+    "url": "https://www.trend.az/iran/4243094.html"
    }
   },
   {
@@ -83,6 +83,18 @@
    "source": {
     "name": "AFP via Gulf News",
     "url": "https://gulfnews.com/world/asia/south-korea-to-deploy-military-mission-to-help-keep-hormuz-open-1.500736489"
+   }
+  },
+  {
+   "id": "20261105-0205-ryazan-refinery-drones",
+   "time": "2026-11-05T02:05:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ryazan Governor Pavel Malkov says a massive drone attack caused fires at industrial sites and injured 1 person; ASTRA says Rosneft's Ryazan refinery, which supplies Moscow, is on fire.",
+   "ar": "حاكم ريازان بافيل مالكوف يقول إن هجوماً واسعاً بالمسيّرات أشعل حرائق في منشآت صناعية وأصاب شخصاً واحداً؛ وموقع «أسترا» يقول إن مصفاة ريازان التابعة لـ«روسنفت»، التي تزوّد موسكو بالوقود، تحترق.",
+   "source": {
+    "name": "Nasha Niva",
+    "url": "https://nashaniva.com/en/408552"
    }
   },
   {
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/iranians-left-doha-talks-draft-093621013.html"
-   }
-  },
-  {
-   "id": "20261102-0840-eu-uk-rejoin-flexibility",
-   "time": "2026-11-02T08:40:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "The EU is open to flexibility on adopting the euro and joining Schengen if Britain seeks to rejoin the bloc, per Politico.",
-   "ar": "الاتحاد الأوروبي منفتح على إبداء مرونة في شرطَي اعتماد اليورو والانضمام إلى منطقة شنغن إذا سعت بريطانيا إلى العودة إلى التكتل، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/brussels-flexible-euro-schengen-uk-tried-rejoining/"
    }
   }
  ]
