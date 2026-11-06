@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-05T20:07:24Z",
+ "updated": "2026-11-06T03:10:07Z",
  "items": [
+  {
+   "id": "20261106-0116-tsmc-tumbles-9-8",
+   "time": "2026-11-06T01:16:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "TSMC shares tumble 9.8% in Taipei as the AI selloff hits Asian markets after the worst US market rout since 2020, Bloomberg reports.",
+   "ar": "أسهم «تي إس إم سي» تهوي 9.8% في تايبيه مع امتداد موجة بيع أسهم الذكاء الاصطناعي إلى الأسواق الآسيوية بعد أسوأ انهيار للأسواق الأميركية منذ 2020، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-05/asian-stocks-brace-for-tech-broad-selloff-after-worst-us-market-rout-since-2020"
+   }
+  },
+  {
+   "id": "20261106-0045-brent-settles-98",
+   "time": "2026-11-06T00:45:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude settled Thursday up $3.67, or 3.9%, at $98.29 a barrel and WTI up 2.7% at $90.52 after renewed tanker attacks in the Gulf and Hormuz, per The Nation.",
+   "ar": "خام برنت أغلق الخميس مرتفعاً 3.67 دولارات، أي 3.9%، عند 98.29 دولاراً للبرميل، وخام غرب تكساس 2.7% عند 90.52 دولاراً، بعد هجمات جديدة على ناقلات في الخليج وهرمز، بحسب «ذا نيشن».",
+   "source": {
+    "name": "The Nation (Thailand)",
+    "url": "https://www.nationthailand.com/news/world/40073162"
+   }
+  },
+  {
+   "id": "20261106-0043-nikkei-kospi-tumble",
+   "time": "2026-11-06T00:43:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Japan's Nikkei 225 falls 6.2% to 57,271.19 and South Korea's Kospi 7.1% to 5,000.25 in early Friday trading after Wall Street's AI-led rout, AP reports.",
+   "ar": "مؤشر نيكاي 225 الياباني يهبط 6.2% إلى 57,271.19 نقطة، وكوسبي الكوري الجنوبي 7.1% إلى 5,000.25 نقطة في مستهل تداولات الجمعة، إثر انهيار وول ستريت بقيادة أسهم الذكاء الاصطناعي، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/business/2026/11/06/japans-nikkei-falls-more-than-6-as-asian-benchmarks-tumble-after-wall-street-drop/"
+   }
+  },
+  {
+   "id": "20261105-2325-herzog-mandate-sunday",
+   "time": "2026-11-05T23:25:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "President Isaac Herzog says he will not choose who gets the mandate to form Israel's next government until Sunday, although Gadi Eisenkot received 67 of 120 Knesset members' recommendations.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يقول إنه لن يحسم قبل الأحد لمن يمنح تكليف تشكيل الحكومة المقبلة، رغم حصول غادي آيزنكوت على توصيات 67 نائباً من أصل 120 في الكنيست.",
+   "source": {
+    "name": "Jewish Telegraphic Agency",
+    "url": "https://www.jta.org/2026/11/05/israel/eisenkot-has-backing-of-67-seats-but-not-yet-allowed-to-form-government"
+   }
+  },
+  {
+   "id": "20261105-2242-turkey-ratifies-mecca-pact",
+   "time": "2026-11-05T22:42:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Turkey's parliament ratifies the Mecca Joint Defense Agreement with Saudi Arabia and Pakistan by 279 votes to 119, under which an attack on one is treated as an attack on all three.",
+   "ar": "البرلمان التركي يصادق على «اتفاقية مكة للدفاع المشترك» مع السعودية وباكستان بأغلبية 279 صوتاً مقابل 119، وتعتبر الاتفاقية أي اعتداء على إحدى الدول الثلاث اعتداءً عليها جميعاً.",
+   "source": {
+    "name": "AP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/turkeys-parliament-ratifies-defense-pact-with-pakistan-and-saudi-arabia/"
+   }
+  },
+  {
+   "id": "20261105-2154-trump-iran-without-approval",
+   "time": "2026-11-05T21:54:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says Iran is 'not doing anything without our approval' on its nuclear programme and that he would rather not 'destroy the rest' of Iran, 'but maybe I will have to.'",
+   "ar": "ترامب يقول إن إيران «لا تفعل شيئاً من دون موافقتنا» في برنامجها النووي، وإنه يفضّل ألّا «يدمّر ما تبقّى» من البلاد «لكن ربما سأضطر إلى ذلك».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-iran-cant-do-anything-on-its-nuclear-program-without-our-approval/"
+   }
+  },
+  {
+   "id": "20261105-2032-iran-nuclear-proposal-qatar",
+   "time": "2026-11-05T20:32:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "A senior Iranian official tells Reuters that Tehran has sent the US a nuclear proposal through Qatar, to be discussed only after Washington meets Iran's 7 preliminary demands.",
+   "ar": "مسؤول إيراني رفيع يقول لـ«رويترز» إن طهران أرسلت إلى واشنطن مقترحاً نووياً عبر قطر، على ألّا يُبحث إلا بعد تلبية الولايات المتحدة مطالب إيران السبعة المسبقة.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/"
+   }
+  },
   {
    "id": "20261105-1954-newsom-commutes-548",
    "time": "2026-11-05T19:54:00Z",
@@ -18,8 +102,8 @@
    "time": "2026-11-05T19:41:00Z",
    "theater": "usa",
    "status": "reported",
-   "en": "Secretary of State Marco Rubio has spoken to White House officials about leaving the Trump administration after the midterm losses, Bloomberg reports; the State Department called earlier such reports baseless.",
-   "ar": "وزير الخارجية ماركو روبيو تحدّث إلى مسؤولين في البيت الأبيض عن مغادرة إدارة ترامب بعد خسائر الانتخابات النصفية، بحسب «بلومبرغ»؛ والخارجية وصفت تقارير مماثلة سابقة بأنها لا أساس لها.",
+   "en": "Bloomberg reports Secretary of State Marco Rubio discussed leaving the Trump administration after the midterm losses; Rubio later denied he would resign, per Reuters.",
+   "ar": "«بلومبرغ» تفيد بأن وزير الخارجية ماركو روبيو بحث مغادرة إدارة ترامب بعد خسائر الانتخابات النصفية؛ وروبيو نفى لاحقاً أنه سيستقيل، بحسب «رويترز».",
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/rubio-considers-leaving-administration-after-gop-s-midterm-loss"
@@ -64,11 +148,11 @@
    "time": "2026-11-05T17:34:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "The S&P 500 falls more than 3%, heading for its worst day since the 2025 tariff announcements, and the Nasdaq drops about 5% as AI chip stocks sell off, AP reports.",
-   "ar": "مؤشر ستاندرد آند بورز 500 يتراجع أكثر من 3% متجهاً نحو أسوأ يوم له منذ إعلانات الرسوم الجمركية عام 2025، وناسداك يهبط نحو 5% مع موجة بيع لأسهم رقائق الذكاء الاصطناعي، بحسب أسوشيتد برس.",
+   "en": "The S&P 500 closes down 4.4% at 7,353.73, its worst day since April 2025, while the Nasdaq falls 5.5% and the Dow 3.4% as AI stocks sell off, AP reports.",
+   "ar": "مؤشر ستاندرد آند بورز 500 يغلق متراجعاً 4.4% عند 7,353.73 نقطة، في أسوأ يوم له منذ نيسان 2025، فيما يهبط ناسداك 5.5% وداو جونز 3.4% مع موجة بيع لأسهم الذكاء الاصطناعي، بحسب أسوشيتد برس.",
    "source": {
-    "name": "AP via Local 10",
-    "url": "https://www.local10.com/business/2026/11/05/sp-500-tumbles-3-as-ai-chip-stocks-drag-wall-street-toward-its-worst-day-since-trumps-tariff-announcements-in-2025/"
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/business/2026/11/06/japans-nikkei-falls-more-than-6-as-asian-benchmarks-tumble-after-wall-street-drop/"
    }
   },
   {
@@ -1704,90 +1788,6 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iran-us-deal-still-out-of-reach-senior-iranian-official-says/"
-   }
-  },
-  {
-   "id": "20261103-0644-araghchi-no-hostility-gcc",
-   "time": "2026-11-03T06:44:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian FM Abbas Araghchi says Iran bears no hostility toward Gulf Cooperation Council states, values Qatar's and Oman's roles and wants regional security arrangements without foreign forces.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن إيران لا تُضمر أي عداء لدول مجلس التعاون الخليجي، ويثمّن دور قطر وعُمان، ويريد ترتيبات أمنية إقليمية من دون قوات أجنبية.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202610312594"
-   }
-  },
-  {
-   "id": "20261103-0632-ghalibaf-ball-washington",
-   "time": "2026-11-03T06:32:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says Tehran sent Washington 'a strong and rational response', is at top defensive readiness, and 'the ball is now in Washington's court to prevent war'.",
-   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول إن طهران أرسلت إلى واشنطن «رداً قوياً وعقلانياً»، وإنها في أعلى جهوزية دفاعية، و«الكرة الآن في ملعب واشنطن لمنع الحرب».",
-   "source": {
-    "name": "Arab Times",
-    "url": "https://www.arabtimesonline.com/news/iran-warns-us-against-strategic-mistake-says-ball-is-in-washingtons-court-to-prevent-war/"
-   }
-  },
-  {
-   "id": "20261103-0620-iran-executions-isfahan",
-   "time": "2026-11-03T06:20:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran executes 2 men convicted over the killing of 4 police officers in Isfahan during the January 8 protests, after the Supreme Court upheld their sentences, Fars reports.",
-   "ar": "إيران تعدم رجلين أُدينا بقتل 4 عناصر من الشرطة في أصفهان خلال احتجاجات 8 كانون الثاني، بعد أن صادقت المحكمة العليا على الحكمين، بحسب وكالة «فارس».",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/two-men-executed-in-iran-over-killing-of-police-officers-during-january-protests/"
-   }
-  },
-  {
-   "id": "20261103-0528-russia-energy-strikes-claim",
-   "time": "2026-11-03T05:28:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Russia's Defence Ministry says it struck energy facilities in Ukraine's Vinnytsia, Dnipropetrovsk and Kharkiv regions overnight, plus port infrastructure in Odesa region, per Interfax; Reuters could not verify the claim.",
-   "ar": "وزارة الدفاع الروسية تقول إنها ضربت ليلاً منشآت طاقة في مناطق فينيتسيا ودنيبروبيتروفسك وخاركيف الأوكرانية وبنى تحتية مرفئية في منطقة أوديسا، بحسب «إنترفاكس»؛ ولم تتمكن «رويترز» من التحقق.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/russia-launches-massive-strike-on-ukrainian-energy-facilities-interfax-reports/"
-   }
-  },
-  {
-   "id": "20261103-0347-kharkiv-medical-facility",
-   "time": "2026-11-03T03:47:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian strike on a Kharkiv city hospital injures 73 people and damages its cardiology department, Zelensky says; Mayor Ihor Terekhov says about 200 patients will be moved to other hospitals.",
-   "ar": "ضربة روسية على مستشفى في مدينة خاركيف توقع 73 جريحاً وتلحق أضراراً بقسم أمراض القلب، بحسب زيلينسكي، فيما يقول رئيس البلدية إيهور تيريخوف إن نحو 200 مريض سينقلون إلى مستشفيات أخرى.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants"
-   }
-  },
-  {
-   "id": "20261103-0338-rba-hike-485",
-   "time": "2026-11-03T03:38:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Australia's central bank raises its cash rate by 0.25 points to 4.85%, its fifth hike this year and the highest since 2008, in a 6–3 board vote.",
-   "ar": "المصرف المركزي الأسترالي يرفع سعر الفائدة النقدي 0.25 نقطة إلى 4.85%، في خامس زيادة هذا العام والأعلى منذ 2008، بتصويت 6 مقابل 3 في مجلس إدارته.",
-   "source": {
-    "name": "ABC News (Australia)",
-    "url": "https://abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050"
-   }
-  },
-  {
-   "id": "20261103-0238-yaroslavl-refinery-fires",
-   "time": "2026-11-03T02:38:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukrainian monitoring channels report a drone strike and three fires at the Slavneft-YANOS refinery in Yaroslavl, one of Russia's largest at about 15 million tonnes a year; Russian officials have not commented.",
-   "ar": "قنوات رصد أوكرانية تفيد بضربة مسيّرات وثلاثة حرائق في مصفاة «سلافنفت-يانوس» في ياروسلافل، إحدى كبرى مصافي روسيا بطاقة نحو 15 مليون طن سنوياً؛ ولا تعليق روسياً رسمياً.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-oil-refinery-in-yaroslavl-reportedly-struck-multiple-fires-reported/"
    }
   }
  ]
