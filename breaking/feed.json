@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-06T10:09:58Z",
+ "updated": "2026-11-06T11:08:11Z",
  "items": [
+  {
+   "id": "20261106-1047-mecca-drone-intercepted",
+   "time": "2026-11-06T10:47:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a drone in the Mecca region, without naming its source, spokesman Turki al-Malki says.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير طائرة مسيّرة في منطقة مكة المكرمة، من دون تحديد مصدرها، بحسب المتحدث تركي المالكي.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-drone-in-mecca-region-2/"
+   }
+  },
+  {
+   "id": "20261106-1039-rabello-quits-comptroller-race",
+   "time": "2026-11-06T10:39:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu's lawyer Michael Rabello tells Knesset Speaker Amir Ohana he will not run for state comptroller, months after the High Court froze his appointment, per Times of Israel.",
+   "ar": "محامي نتنياهو مايكل رابيلو يبلغ رئيس الكنيست أمير أوحانا أنه لن يترشح لمنصب مراقب الدولة، بعد أشهر من تجميد المحكمة العليا لتعيينه، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/rabello-notifies-knesset-speaker-that-he-wont-run-for-state-comptroller/"
+   }
+  },
+  {
+   "id": "20261106-1019-utj-asher-liberman",
+   "time": "2026-11-06T10:19:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "United Torah Judaism chairman Yaakov Asher welcomes Avigdor Liberman's flexibility on Haredi enlistment but says no partnership proposal has been received yet, per Times of Israel.",
+   "ar": "رئيس حزب «يهدوت هتوراه» يعقوب آشر يرحّب بمرونة أفيغدور ليبرمان في ملف تجنيد الحريديم، لكنه يقول إنه لم يتلقَّ أي عرض شراكة بعد، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/utj-chief-welcomes-libermans-flexibility-but-says-no-partnership-proposal-received-yet/"
+   }
+  },
   {
    "id": "20261106-1005-pmo-aid-partnership",
    "time": "2026-11-06T10:05:00Z",
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/bennett-vows-to-help-eisenkot-form-government-urges-opposition-to-act-quickly/"
-   }
-  },
-  {
-   "id": "20261103-1058-golan-joint-list-meeting",
-   "time": "2026-11-03T10:58:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Democrats leader Yair Golan meets Joint List leaders Yousef Jabareen and Ahmad Tibi, their first meeting since the election, and they agree to coordinate toward a 'change government', per Times of Israel.",
-   "ar": "زعيم «الديمقراطيين» يائير غولان يلتقي قائدي القائمة المشتركة يوسف جبارين وأحمد الطيبي في أول لقاء منذ الانتخابات، ويتفقون على التنسيق نحو «حكومة تغيير»، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/golan-discusses-coalition-coordination-with-joint-list-leaders/"
-   }
-  },
-  {
-   "id": "20261103-1051-qatar-us-iran-reviewing",
-   "time": "2026-11-03T10:51:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar says the US and Iran remain committed to its mediation and are reviewing proposals to bridge their differences, with agreement to avoid escalation in the region and the Gulf.",
-   "ar": "قطر تقول إن الولايات المتحدة وإيران ما زالتا ملتزمتين بوساطتها وتدرسان مقترحات لتضييق الخلافات، مع اتفاق على تجنّب التصعيد في المنطقة والخليج.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-913691"
-   }
-  },
-  {
-   "id": "20261103-1046-mag-settler-violence",
-   "time": "2026-11-03T10:46:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's Military Advocate General Itai Ofir says troops must intervene in settler violence against Palestinians and that reservists involved will be dismissed and have their weapons confiscated.",
-   "ar": "المدعي العسكري العام الإسرائيلي إيتاي عوفير يقول إن على الجنود التدخل لوقف عنف المستوطنين ضد الفلسطينيين، وإن جنود الاحتياط المتورطين سيُسرَّحون وتُصادر أسلحتهم.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idfs-top-lawyer-troops-must-intervene-in-settler-violence-against-palestinians/"
    }
   }
  ]
