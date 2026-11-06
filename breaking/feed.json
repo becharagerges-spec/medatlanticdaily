@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T09:10:08Z",
+ "updated": "2026-11-06T10:09:58Z",
  "items": [
+  {
+   "id": "20261106-1005-pmo-aid-partnership",
+   "time": "2026-11-06T10:05:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu's office, in its first response, does not deny Trump's announced end of US military aid to Israel by the end of 2026, calling it a move 'from aid to partnership'.",
+   "ar": "مكتب نتنياهو، في أول ردّ له، لا ينفي إعلان ترامب وقف المساعدات العسكرية الأميركية لإسرائيل بنهاية 2026، ويصف الخطوة بأنها انتقال «من المساعدة إلى الشراكة».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/in-1st-response-netanyahus-office-doesnt-deny-trumps-announcement-of-imminent-halt-to-military-aid/"
+   }
+  },
+  {
+   "id": "20261106-0940-liberman-open-haredim",
+   "time": "2026-11-06T09:40:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yisrael Beytenu leader Avigdor Liberman says he is open to a coalition with Haredi parties and a compromise on the draft law, but rejects any government relying on the Joint List and Ra'am.",
+   "ar": "زعيم «يسرائيل بيتينو» أفيغدور ليبرمان يقول إنه منفتح على ائتلاف مع الأحزاب الحريدية وعلى تسوية في قانون التجنيد، لكنه يرفض أي حكومة تستند إلى القائمة المشتركة و«راعم».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-confirms-hes-open-to-coalition-with-haredi-parties-compromise-on-enlistment-law/"
+   }
+  },
   {
    "id": "20261106-0805-trump-tamim-call",
    "time": "2026-11-06T08:05:00Z",
@@ -1764,30 +1788,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idfs-top-lawyer-troops-must-intervene-in-settler-violence-against-palestinians/"
-   }
-  },
-  {
-   "id": "20261103-1034-irgc-three-tankers-mines",
-   "time": "2026-11-03T10:34:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's IRGC Navy says 3 oil tankers exploded and caught fire after hitting naval mines on unauthorised routes in the Strait of Hormuz with tracking switched off; the claim is unverified.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن 3 ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية على مسارات غير مرخّصة في مضيق هرمز وأنظمة تتبّعها مطفأة؛ ولم يتسنَّ التحقق من الرواية.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-three-tankers-exploded-after-hitting-naval-mines-hormuz"
-   }
-  },
-  {
-   "id": "20261103-1025-tehran-billboard-trump",
-   "time": "2026-11-03T10:25:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran unveils a huge billboard in Tehran's Enghelab Square reading 'We will kill Trump', amid calls to avenge Ayatollah Ali Khamenei, killed in US-Israeli strikes on February 28.",
-   "ar": "إيران تكشف لوحة إعلانية ضخمة في ساحة انقلاب بطهران كُتب عليها «سنقتل ترامب»، وسط دعوات للثأر لآية الله علي خامنئي الذي قُتل بضربات أميركية-إسرائيلية في 28 شباط.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iran-unveils-huge-billboard-with-threat-against-trumps-life/"
    }
   }
  ]
