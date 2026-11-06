@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:10:07Z",
+ "updated": "2026-11-06T04:09:42Z",
  "items": [
   {
    "id": "20261106-0116-tsmc-tumbles-9-8",
@@ -30,11 +30,11 @@
    "time": "2026-11-06T00:43:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Japan's Nikkei 225 falls 6.2% to 57,271.19 and South Korea's Kospi 7.1% to 5,000.25 in early Friday trading after Wall Street's AI-led rout, AP reports.",
-   "ar": "مؤشر نيكاي 225 الياباني يهبط 6.2% إلى 57,271.19 نقطة، وكوسبي الكوري الجنوبي 7.1% إلى 5,000.25 نقطة في مستهل تداولات الجمعة، إثر انهيار وول ستريت بقيادة أسهم الذكاء الاصطناعي، بحسب أسوشيتد برس.",
+   "en": "South Korea's Kospi falls more than 8%, triggering a 20-minute trading halt, and Japan's Nikkei 225 drops 6.2% in early Friday trading after Wall Street's AI-led rout, Reuters and AP report.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يهوي بأكثر من 8% ما يفعّل آلية وقف التداول لمدة 20 دقيقة، ونيكاي 225 الياباني يهبط 6.2% في مستهل تداولات الجمعة إثر انهيار وول ستريت بقيادة أسهم الذكاء الاصطناعي، بحسب رويترز وأسوشيتد برس.",
    "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/business/2026/11/06/japans-nikkei-falls-more-than-6-as-asian-benchmarks-tumble-after-wall-street-drop/"
+    "name": "Reuters via TradingView",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N461063:0-south-korea-s-kospi-falls-more-than-8-triggers-circuit-breaker/"
    }
   },
   {
