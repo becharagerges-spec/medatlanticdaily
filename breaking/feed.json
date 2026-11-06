@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-06T06:10:10Z",
+ "updated": "2026-11-06T08:08:30Z",
  "items": [
+  {
+   "id": "20261106-0805-trump-tamim-call",
+   "time": "2026-11-06T08:05:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar's Emir Sheikh Tamim bin Hamad and President Trump discuss by phone Qatar's mediation toward a 'comprehensive agreement to end the regional crisis', a Qatari statement says.",
+   "ar": "أمير قطر الشيخ تميم بن حمد والرئيس ترامب يبحثان هاتفياً الوساطة القطرية للتوصل إلى «اتفاق شامل ينهي الأزمة الإقليمية»، بحسب بيان قطري.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/"
+   }
+  },
+  {
+   "id": "20261106-0804-najran-two-missiles",
+   "time": "2026-11-06T08:04:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says its air defences intercepted 2 Houthi ballistic missiles fired toward Najran, with debris falling and damage being assessed.",
+   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون باتجاه نجران، وسقطت شظايا ويجري تقييم الأضرار.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-downed-two-houthi-missiles-fired-toward-saudi-arabias-najran/"
+   }
+  },
+  {
+   "id": "20261106-0714-nikkei-taiex-bear-market",
+   "time": "2026-11-06T07:14:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Japan's Nikkei 225 and Taiwan's Taiex fall into technical bear markets as the AI selloff deepens; the Taiex closes 4.5% lower after an intraday drop of more than 8%.",
+   "ar": "مؤشرا نيكاي 225 الياباني وتايكس التايواني يدخلان سوقاً هابطة مع تعمّق موجة بيع أسهم الذكاء الاصطناعي، وتايكس يغلق متراجعاً 4.5% بعد هبوط تجاوز 8% خلال الجلسة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones"
+   }
+  },
+  {
+   "id": "20261106-0628-grynspan-un-poll",
+   "time": "2026-11-06T06:28:00Z",
+   "theater": "world",
+   "status": "reported",
+   "en": "Costa Rica's Rebeca Grynspan extends her lead in the Security Council's informal poll for UN secretary-general with 12 votes in favour and 3 against, sources tell Reuters; Rafael Grossi is second.",
+   "ar": "الكوستاريكية ريبيكا غرينسبان توسّع تقدّمها في الاقتراع غير الرسمي لمجلس الأمن على منصب الأمين العام للأمم المتحدة بـ12 صوتاً مؤيداً و3 معارضين، بحسب مصادر لرويترز، ورافاييل غروسي ثانياً.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/costa-ricas-grynspan-extends-lead-in-informal-un-chief-poll-sources-say/"
+   }
+  },
   {
    "id": "20261106-0526-judge-blocks-trump-arch",
    "time": "2026-11-06T05:26:00Z",
@@ -1740,54 +1788,6 @@
    "source": {
     "name": "Anadolu via A News",
     "url": "https://www.anews.com.tr/middle-east/2026/11/03/saudi-led-coalition-says-drone-intercepted-over-mecca-region-amid-escalation-with-houthis"
-   }
-  },
-  {
-   "id": "20261103-0943-uk-eu-food-checks-draft",
-   "time": "2026-11-03T09:43:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "The UK and EU have agreed a draft deal to remove post-Brexit food checks, with a 200-page veterinary agreement text circulated to EU states ahead of a Wednesday meeting, per Undercurrent News.",
-   "ar": "بريطانيا والاتحاد الأوروبي يتفقان على مسودة اتفاق لإلغاء الفحوص الغذائية بعد «بريكست»، ووُزّع نص من 200 صفحة على الدول الأعضاء قبل اجتماع الأربعاء، بحسب «أندركرنت نيوز».",
-   "source": {
-    "name": "Undercurrent News",
-    "url": "https://undercurrentnews.com/2026/11/03/uk-eu-agree-draft-deal-to-remove-post-brexit-checks-on-food"
-   }
-  },
-  {
-   "id": "20261103-0902-france-probe-beirut-strike",
-   "time": "2026-11-03T09:02:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "French judges open a war crimes investigation into a 2024 Israeli strike on a Beirut residential building that killed the parents of French-Lebanese artist Ali Cherri, his lawyer says.",
-   "ar": "قضاة فرنسيون يفتحون تحقيقاً بجرائم حرب في غارة إسرائيلية عام 2024 على مبنى سكني في بيروت قتلت والدَي الفنان الفرنسي-اللبناني علي شرّي، بحسب محاميته.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer/"
-   }
-  },
-  {
-   "id": "20261103-0849-settlers-arson-west-bank",
-   "time": "2026-11-03T08:49:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Settlers set fire to 2 vehicles and part of a building in the South Hebron Hills and burned several vehicles in Majdal Bani Fadil near Nablus, Palestinian media report.",
-   "ar": "وسائل إعلام فلسطينية تفيد بأن مستوطنين أحرقوا سيارتين وجزءاً من مبنى في تلال جنوب الخليل، وعدة سيارات في مجدل بني فاضل قرب نابلس.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/reports-settlers-set-fire-to-vehicles-and-building-in-2-locations-in-west-bank/"
-   }
-  },
-  {
-   "id": "20261103-0840-liberman-no-arab-parties",
-   "time": "2026-11-03T08:40:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Yisrael Beytenu leader Avigdor Liberman says a stable government can be formed without Ra'am and the Joint List and that another election must be prevented.",
-   "ar": "زعيم «إسرائيل بيتنا» أفيغدور ليبرمان يقول إن بالإمكان تشكيل حكومة مستقرة من دون «راعم» و«القائمة المشتركة»، وإنه يجب منع انتخابات جديدة.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-government-can-be-formed-without-arab-parties-we-must-prevent-another-election/"
    }
   }
  ]
