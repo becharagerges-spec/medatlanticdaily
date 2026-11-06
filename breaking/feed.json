@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-06T12:09:33Z",
+ "updated": "2026-11-06T13:08:49Z",
  "items": [
+  {
+   "id": "20261106-1239-trump-strikes-new-moon",
+   "time": "2026-11-06T12:39:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Senior officials tell Fox News Trump discussed renewed strikes on Iran with his national security team, citing the 9 November new moon as preferred darkness for resuming operations.",
+   "ar": "مسؤولون كبار يقولون لـ«فوكس نيوز» إن ترامب بحث مع فريقه للأمن القومي استئناف الضربات على إيران، مشيرين إلى المحاق في 9 تشرين الثاني كظلام مفضّل لاستئناف العمليات.",
+   "source": {
+    "name": "Fox News via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-discusses-new-iran-strikes-at-white-house-possibly-under-cover-of-nov-9s-new-moon-report/"
+   }
+  },
+  {
+   "id": "20261106-1219-tanker-blast-khasab",
+   "time": "2026-11-06T12:19:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "A tanker transiting the Strait of Hormuz reports an explosion at its port-side waterline 16 nautical miles east of Oman's Khasab; it continues under its own power with all crew safe, UKMTO says.",
+   "ar": "ناقلة تعبر مضيق هرمز تبلّغ عن انفجار عند خط الماء في جانبها الأيسر على بُعد 16 ميلاً بحرياً شرق خصب العُمانية، وتواصل إبحارها بقوتها الذاتية وطاقمها بأمان، بحسب هيئة UKMTO البريطانية.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/tanker-reports-explosion-near-omans-khasab-while-transiting-strait-of-hormuz-ukmto-says-3010151"
+   }
+  },
+  {
+   "id": "20261106-1218-anc-municipal-losses",
+   "time": "2026-11-06T12:18:00Z",
+   "theater": "africa",
+   "status": "reported",
+   "en": "With 71% of votes counted in South Africa's municipal elections, the ANC has 32% and the Democratic Alliance 25%, about 14 points below the ANC's 2021 result, per Times of Israel.",
+   "ar": "بعد فرز 71% من الأصوات في الانتخابات البلدية في جنوب أفريقيا، يحصل المؤتمر الوطني الأفريقي على 32% والتحالف الديمقراطي على 25%، أي نحو 14 نقطة دون نتيجة المؤتمر عام 2021، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/south-africas-anc-continues-decline-as-early-municipal-elections-results-show-big-losses/"
+   }
+  },
   {
    "id": "20261106-1157-bagheri-practical-steps",
    "time": "2026-11-06T11:57:00Z",
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/trump-says-us-will-stop-4-billion-military-aid-israel-end-2026"
-   }
-  },
-  {
-   "id": "20261103-1352-europe-flight-bomb-threats",
-   "time": "2026-11-03T13:52:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Bomb threats hit flights across Europe, diverting a Heathrow-Warsaw LOT jet carrying 181 people, forcing an emergency landing in Sofia for a plane from Israel and searches in Murcia and Rome.",
-   "ar": "تهديدات بوجود قنابل تضرب رحلات في أوروبا: تحويل طائرة «لوت» من هيثرو إلى وارسو وعلى متنها 181 شخصاً، وهبوط اضطراري في صوفيا لطائرة قادمة من إسرائيل، وتفتيش رحلات في مورسيا وروما.",
-   "source": {
-    "name": "Anadolu via A News",
-    "url": "https://www.anews.com.tr/europe/2026/11/03/bomb-threats-reported-at-several-european-airports"
-   }
-  },
-  {
-   "id": "20261103-1331-eisenkot-shin-bet",
-   "time": "2026-11-03T13:31:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Gadi Eisenkot will get a Shin Bet security detail from Wednesday after recent incidents at his Herzliya home, Hebrew media report, per Times of Israel.",
-   "ar": "غادي آيزنكوت سيحصل على حماية من الشاباك اعتباراً من الأربعاء بعد حوادث أخيرة عند منزله في هرتسليا، بحسب الإعلام العبري ونقلاً عن «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-finally-get-shin-bet-protection-tomorrow-after-recent-security-incidents/"
-   }
-  },
-  {
-   "id": "20261103-1232-melania-russia-ukraine-white-house",
-   "time": "2026-11-03T12:32:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The White House says First Lady Melania Trump will convene Russian and Ukrainian representatives at the White House and speak on the Oleshky ceasefire on Thursday, November 5.",
-   "ar": "البيت الأبيض يعلن أن السيدة الأولى ميلانيا ترامب ستجمع ممثلين عن روسيا وأوكرانيا في البيت الأبيض وتتحدث عن وقف إطلاق النار في أوليشكي يوم الخميس 5 تشرين الثاني.",
-   "source": {
-    "name": "The White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/"
    }
   }
  ]
