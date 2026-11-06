@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T15:09:17Z",
+ "updated": "2026-11-06T16:07:22Z",
  "items": [
+  {
+   "id": "20261106-1526-irgc-claims-mq1-qeshm",
+   "time": "2026-11-06T15:26:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say their air defences shot down a US MQ-1 drone over Qeshm Island in the Strait of Hormuz; there is no immediate US confirmation, Reuters reports.",
+   "ar": "الحرس الثوري الإيراني يقول إن دفاعاته الجوية أسقطت مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم في مضيق هرمز، من دون تأكيد أميركي فوري، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/iran-says-it-downed-us-mq-1-drone-over-qeshm-island-ce785fd2db88f621"
+   }
+  },
+  {
+   "id": "20261106-1508-taiz-market-strike-20",
+   "time": "2026-11-06T15:08:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Houthi officials say Saudi airstrikes on a vegetable market in Al-Waziya, in Yemen's Taiz province, killed 20 people and wounded 10; local authorities blame the Houthis, AP reports.",
+   "ar": "مسؤولون حوثيون يقولون إن غارات سعودية على سوق للخضار في مدينة الوازعية بمحافظة تعز اليمنية قتلت 20 شخصاً وجرحت 10، فيما تحمّل السلطات المحلية الحوثيين المسؤولية، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via KSL",
+    "url": "https://www.ksl.com/article/51644183/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-20-houthis-say"
+   }
+  },
   {
    "id": "20261106-1443-eisenkot-national-service",
    "time": "2026-11-06T14:43:00Z",
@@ -1764,30 +1788,6 @@
    "source": {
     "name": "Fox News",
     "url": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials"
-   }
-  },
-  {
-   "id": "20261103-1606-gaza-city-strike",
-   "time": "2026-11-03T16:06:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Hamas-affiliated Palestinian media report a 17-year-old girl killed and others injured in an Israeli strike on a camp for displaced people in central Gaza City; the Israeli army has not commented.",
-   "ar": "وسائل إعلام فلسطينية مقرّبة من حماس تُفيد بمقتل فتاة في السابعة عشرة وإصابة آخرين بغارة إسرائيلية على مخيم للنازحين في وسط مدينة غزة، والجيش الإسرائيلي لم يُعلّق.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
-   }
-  },
-  {
-   "id": "20261103-1536-rezaei-hormuz-conditions",
-   "time": "2026-11-03T15:36:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Supreme National Security Council head Mohsen Rezaei says the US reply to Tehran's truce offer is 'not convincing' and the Strait of Hormuz will reopen only if seven conditions are met.",
-   "ar": "أمين مجلس الأمن القومي الإيراني الأعلى محسن رضائي يقول إن الرد الأميركي على عرض الهدنة «غير مقنع»، وإن مضيق هرمز لن يُفتح إلا بتحقيق سبعة شروط.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
    }
   }
  ]
