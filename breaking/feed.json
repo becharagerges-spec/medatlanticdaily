@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T17:08:51Z",
+ "updated": "2026-11-06T18:09:03Z",
  "items": [
+  {
+   "id": "20261106-1800-olmert-blocked-burin",
+   "time": "2026-11-06T18:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "IDF Central Command chief Avi Bluth declares an area near Burin a closed military zone, blocking ex-PM Ehud Olmert's visit to Palestinians targeted by settlers; Olmert accuses him of aiding Jewish terrorism, per Haaretz.",
+   "ar": "قائد المنطقة الوسطى في الجيش الإسرائيلي آفي بلوت يعلن منطقة قرب بورين عسكرية مغلقة، فيمنع زيارة رئيس الوزراء الأسبق إيهود أولمرت لفلسطينيين استهدفهم المستوطنون، وأولمرت يتّهمه بمساعدة «الإرهاب اليهودي»، بحسب «هآرتس».",
+   "source": {
+    "name": "Haaretz via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-uses-closed-military-zone-order-to-block-ex-pm-from-visiting-area-where-palestinians-targeted-by-settlers/"
+   }
+  },
+  {
+   "id": "20261106-1752-bluth-jericho-settlers",
+   "time": "2026-11-06T17:52:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Haaretz reports IDF Central Command chief Avi Bluth knew in advance of settlers' plan to enter 8 homes outside Jericho and told them not to alert other commanders; the IDF calls this false.",
+   "ar": "«هآرتس» تفيد بأن قائد المنطقة الوسطى في الجيش الإسرائيلي آفي بلوت علم مسبقاً بخطة مستوطنين لدخول 8 منازل على أطراف أريحا وطلب منهم عدم إبلاغ قادة آخرين، والجيش ينفي ذلك.",
+   "source": {
+    "name": "Haaretz via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-central-command-chief-reportedly-told-settlers-not-to-tip-off-other-commanders-before-jericho-entry/"
+   }
+  },
   {
    "id": "20261106-1642-syria-aids-saudi-training",
    "time": "2026-11-06T16:42:00Z",
@@ -227,6 +251,18 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/liberman-confirms-hes-open-to-coalition-with-haredi-parties-compromise-on-enlistment-law/"
+   }
+  },
+  {
+   "id": "20261106-0817-muhoozi-to-quit-army",
+   "time": "2026-11-06T08:17:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Uganda's army chief General Muhoozi Kainerugaba, President Museveni's son, says he will hand over the post to a qualified officer within a few months, after about 2 years in office.",
+   "ar": "قائد الجيش الأوغندي الجنرال موهوزي كاينيروغابا، نجل الرئيس موسيفيني، يعلن أنه سيسلّم منصبه إلى ضابط مؤهّل خلال أشهر، بعد نحو سنتين في القيادة.",
+   "source": {
+    "name": "Citizen Digital",
+    "url": "https://citizen.digital/article/general-muhoozi-kainerugaba-announces-plan-to-step-down-as-ugandas-military-chief-n393432"
    }
   },
   {
@@ -1716,54 +1752,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/nyt-israel-tells-skeptical-us-gulf-countries-that-iran-could-use-chemical-weapons-against-adversaries/"
-   }
-  },
-  {
-   "id": "20261103-1752-high-court-ohana-comptroller",
-   "time": "2026-11-03T17:52:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's High Court criticises Knesset Speaker Amir Ohana for refusing a new state comptroller vote despite a court order, but declines to order one and imposes NIS 10,000 in costs, per Times of Israel.",
-   "ar": "المحكمة العليا الإسرائيلية تنتقد رئيس الكنيست أمير أوحانا لرفضه إجراء تصويت جديد على مراقب الدولة رغم قرار قضائي، لكنها لا تأمر به وتفرض عليه 10,000 شيكل كمصاريف، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/high-court-blasts-knesset-speaker-ohana-for-blocking-new-state-comptroller-vote-but-doesnt-intervene/"
-   }
-  },
-  {
-   "id": "20261103-1745-eisenkot-transitional-pm",
-   "time": "2026-11-03T17:45:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Gadi Eisenkot says he will replace the Knesset speaker and cancel laws endangering democracy, calling Netanyahu a 'transitional prime minister' backed by only 46 MKs, per Times of Israel.",
-   "ar": "غادي آيزنكوت يعلن أنه سيستبدل رئيس الكنيست ويلغي قوانين تهدّد الديمقراطية، واصفاً نتنياهو بـ«رئيس حكومة انتقالي» لا يدعمه سوى 46 نائباً، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-lays-out-plan-to-nix-outgoing-governments-laws-implies-utj-no-longer-in-pro-netanyahu-bloc/"
-   }
-  },
-  {
-   "id": "20261103-1738-brent-4pct-swing",
-   "time": "2026-11-03T17:38:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude slumps as much as 4% before recovering to trade near $104 a barrel as the US and Iran review mediators' proposals, Bloomberg reports.",
-   "ar": "خام برنت يتراجع بنسبة تصل إلى 4% قبل أن يعوّض جزءاً من خسائره ويتداول قرب 104 دولارات للبرميل، فيما تدرس واشنطن وطهران مقترحات الوسطاء، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3"
-   }
-  },
-  {
-   "id": "20261103-1738-eu-single-market-china",
-   "time": "2026-11-03T17:38:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission plans targeted changes to EU single-market rules, including vehicle approvals and foreign subsidies, to cut supply-chain dependence on China, Bloomberg reports.",
-   "ar": "المفوضية الأوروبية تعدّ تعديلات محددة على قواعد السوق الأوروبية الموحدة، تشمل ترخيص المركبات والدعم الأجنبي، لتقليص الاعتماد على الصين في سلاسل الإمداد، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/eu-plans-changes-to-its-single-market-to-reduce-china-dependence"
    }
   }
  ]
