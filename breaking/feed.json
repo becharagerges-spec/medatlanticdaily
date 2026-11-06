@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-06T11:08:11Z",
+ "updated": "2026-11-06T12:09:33Z",
  "items": [
+  {
+   "id": "20261106-1157-bagheri-practical-steps",
+   "time": "2026-11-06T11:57:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Ali Bagheri, deputy head of Iran's Supreme National Security Council, tells state TV Tehran wants practical US steps, not 'paper commitments', before any new diplomacy.",
+   "ar": "علي باقري، نائب أمين المجلس الأعلى للأمن القومي الإيراني، يقول للتلفزيون الرسمي إن طهران تريد خطوات أميركية عملية لا «تعهّدات على الورق» قبل أي مسار دبلوماسي جديد.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-demands-practical-us-steps-before-diplomacy-senior-security-official-says-3010144"
+   }
+  },
+  {
+   "id": "20261106-1152-kenya-mackenzie-200-years",
+   "time": "2026-11-06T11:52:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Kenya's High Court in Mombasa sentences cult leader Paul Mackenzie to 200 years in prison for murdering 191 people, 190 of them children, AP reports.",
+   "ar": "المحكمة العليا في مومباسا بكينيا تحكم على زعيم الطائفة بول ماكنزي بالسجن 200 عام بتهمة قتل 191 شخصاً، بينهم 190 طفلاً، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP via ClickOnDetroit",
+    "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/"
+   }
+  },
+  {
+   "id": "20261106-1122-europe-bomb-threats-wave-3",
+   "time": "2026-11-06T11:22:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "A third wave of bomb threats this week disrupts flights in Denmark, the Czech Republic, Portugal and France and forces evacuation of RTÉ and other Irish media offices, per Times of Israel.",
+   "ar": "موجة ثالثة هذا الأسبوع من التهديدات بوجود قنابل تربك رحلات جوية في الدنمارك وتشيكيا والبرتغال وفرنسا وتفرض إخلاء مكاتب «آر تي إي» ووسائل إعلام إيرلندية أخرى، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/fresh-wave-of-bomb-threats-targets-european-flights-irish-media-groups/"
+   }
+  },
   {
    "id": "20261106-1047-mecca-drone-intercepted",
    "time": "2026-11-06T10:47:00Z",
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "The White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/"
-   }
-  },
-  {
-   "id": "20261103-1228-syria-homs-refinery-plot",
-   "time": "2026-11-03T12:28:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Syria's Internal Security Forces say they arrested 2 members of a Hezbollah-linked cell and seized explosives meant to attack the Homs oil refinery; Hezbollah denies any link.",
-   "ar": "قوى الأمن الداخلي السورية تعلن توقيف عنصرين من خلية مرتبطة بحزب الله وضبط عبوات ناسفة كانت معدّة لاستهداف مصفاة حمص، وحزب الله ينفي أي صلة.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/03/syria-foils-hezbollah-linked-plot-to-blow-up-oil-refinery/"
-   }
-  },
-  {
-   "id": "20261103-1211-opposition-coalition-talks",
-   "time": "2026-11-03T12:11:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Leaders of Israel's four Jewish opposition parties agree to begin coalition negotiations immediately and will decide by Monday whether to back Yair Lapid to replace Amir Ohana as Knesset speaker.",
-   "ar": "قادة أحزاب المعارضة اليهودية الأربعة في إسرائيل يتفقون على بدء مفاوضات تشكيل الائتلاف فوراً، ويحسمون بحلول الاثنين دعم يائير لابيد لخلافة أمير أوحانا في رئاسة الكنيست.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/at-meeting-opposition-chiefs-agree-to-launch-coalition-talks-but-path-remains-unclear/"
-   }
-  },
-  {
-   "id": "20261103-1118-bennett-replace-ohana",
-   "time": "2026-11-03T11:18:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "After a meeting of Jewish opposition leaders in Herzliya, Naftali Bennett pledges to help Gadi Eisenkot form a government and urges the bloc to swiftly replace Likud's Knesset Speaker Amir Ohana, per Times of Israel.",
-   "ar": "بعد اجتماع لقادة المعارضة اليهودية في هرتسليا، نفتالي بينيت يتعهّد بمساعدة غادي آيزنكوت على تشكيل الحكومة ويدعو الكتلة إلى استبدال رئيس الكنيست الليكودي أمير أوحانا سريعاً، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/bennett-vows-to-help-eisenkot-form-government-urges-opposition-to-act-quickly/"
    }
   }
  ]
