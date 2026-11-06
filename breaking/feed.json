@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T19:08:15Z",
+ "updated": "2026-11-06T20:08:06Z",
  "items": [
+  {
+   "id": "20261106-1951-zelensky-warns-bridges-attack",
+   "time": "2026-11-06T19:51:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Ukrainian intelligence shows Russia is preparing a new attack on energy infrastructure, Dnipro River bridges and civilian sites, and urges partners not to delay Patriot interceptors.",
+   "ar": "زيلينسكي يقول إن الاستخبارات الأوكرانية تُظهر أن روسيا تُعدّ لهجوم جديد على منشآت الطاقة وجسور نهر دنيبرو ومواقع مدنية، ويحثّ الشركاء على عدم تأخير صواريخ باتريوت الاعتراضية.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/"
+   }
+  },
   {
    "id": "20261106-1855-miller-chief-of-staff",
    "time": "2026-11-06T18:55:00Z",
@@ -90,11 +102,11 @@
    "time": "2026-11-06T15:08:00Z",
    "theater": "mideast",
    "status": "reported",
-   "en": "Houthi officials say Saudi airstrikes on a vegetable market in Al-Waziya, in Yemen's Taiz province, killed 20 people and wounded 10; local authorities blame the Houthis, AP reports.",
-   "ar": "مسؤولون حوثيون يقولون إن غارات سعودية على سوق للخضار في مدينة الوازعية بمحافظة تعز اليمنية قتلت 20 شخصاً وجرحت 10، فيما تحمّل السلطات المحلية الحوثيين المسؤولية، بحسب أسوشيتد برس.",
+   "en": "Houthis now say at least 30 people were killed in strikes on a market in Al-Waziya, Taiz, blaming Saudi Arabia; Yemeni government forces say a Houthi missile hit it, per Al Jazeera.",
+   "ar": "الحوثيون يقولون الآن إن 30 شخصاً على الأقل قُتلوا في ضربات على سوق في الوازعية بتعز ويحمّلون السعودية المسؤولية، فيما تقول القوات الحكومية اليمنية إن صاروخاً حوثياً أصابه، بحسب الجزيرة.",
    "source": {
-    "name": "AP via KSL",
-    "url": "https://www.ksl.com/article/51644183/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-20-houthis-say"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
    }
   },
   {
@@ -1752,18 +1764,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
-   }
-  },
-  {
-   "id": "20261103-1932-egypt-iran-flexibility",
-   "time": "2026-11-03T19:32:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Egyptian FM Badr Abdelatty tells Iranian FM Abbas Araghchi in a call that all parties must show flexibility and seek a political solution to spare the region military escalation.",
-   "ar": "وزير الخارجية المصري بدر عبد العاطي يؤكد لنظيره الإيراني عباس عراقجي في اتصال هاتفي ضرورة أن تُبدي جميع الأطراف مرونة وتسعى إلى حل سياسي يجنّب المنطقة التصعيد العسكري.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/egypt-urges-flexibility-restraint-in-call-with-iran-to-avert-regional-escalation/"
    }
   }
  ]
