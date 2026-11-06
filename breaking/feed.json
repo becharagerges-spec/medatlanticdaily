@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T16:07:22Z",
+ "updated": "2026-11-06T17:08:51Z",
  "items": [
+  {
+   "id": "20261106-1642-syria-aids-saudi-training",
+   "time": "2026-11-06T16:42:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Syria is giving Saudi Arabia military advice and training amid Houthi attacks and has sent a limited number of personnel to the kingdom, two Syrian military sources and a US official tell Reuters.",
+   "ar": "سوريا تقدّم للسعودية استشارات وتدريبات عسكرية في ظل هجمات الحوثيين، وأرسلت عدداً محدوداً من العناصر إلى المملكة، بحسب مصدرين عسكريين سوريين ومسؤول أميركي لرويترز.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/syria-aids-saudi-arabia-with-military-advice-and-training-amid-houthi-attacks-sources-say/"
+   }
+  },
   {
    "id": "20261106-1526-irgc-claims-mq1-qeshm",
    "time": "2026-11-06T15:26:00Z",
@@ -29,9 +41,9 @@
    "id": "20261106-1443-eisenkot-national-service",
    "time": "2026-11-06T14:43:00Z",
    "theater": "israel",
-   "status": "reported",
-   "en": "Gadi Eisenkot repeats that mandatory national service for all Israelis is a condition for joining his coalition, after Avigdor Liberman opened the door to Haredi parties, per Times of Israel.",
-   "ar": "غادي آيزنكوت يكرّر أن الخدمة الوطنية الإلزامية لجميع الإسرائيليين شرط للانضمام إلى ائتلافه، بعدما فتح أفيغدور ليبرمان الباب أمام الأحزاب الحريدية، بحسب «تايمز أوف إسرائيل».",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot says talks on a national emergency government made 'significant progress and breakthroughs', expects the mandate early next week, and keeps national service for all as a condition.",
+   "ar": "غادي آيزنكوت يقول إن مشاورات حكومة الطوارئ الوطنية حققت «تقدّماً واختراقات كبيرة»، ويتوقع نيل التكليف مطلع الأسبوع المقبل، متمسكاً بالخدمة الوطنية للجميع شرطاً.",
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-reiterates-demand-for-mandatory-national-service-after-liberman-opens-door-to-coalition-with-haredim/"
@@ -78,8 +90,8 @@
    "time": "2026-11-06T12:30:00Z",
    "theater": "iran",
    "status": "confirmed",
-   "en": "The US and Iran are edging closer to a deal as Tehran signals willingness to discuss issues tied to its nuclear programme, including Qatari proposals, Bloomberg reports.",
-   "ar": "الولايات المتحدة وإيران تقتربان من اتفاق مع إبداء طهران استعدادها لبحث ملفات مرتبطة ببرنامجها النووي، بما فيها مقترحات قطرية، بحسب «بلومبرغ».",
+   "en": "Iran is reviewing Qatari-mediated proposals to curb its nuclear programme, including its highly enriched uranium stockpile, in exchange for significant US sanctions relief, Bloomberg and Times of Israel report.",
+   "ar": "إيران تدرس مقترحات بوساطة قطرية للحدّ من برنامجها النووي، بما فيها مخزون اليورانيوم العالي التخصيب، مقابل تخفيف واسع للعقوبات الأميركية، بحسب «بلومبرغ» و«تايمز أوف إسرائيل».",
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-and-iran-edge-closer-to-deal-with-nuclear-issue-back-in-play"
@@ -1752,42 +1764,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/eu-plans-changes-to-its-single-market-to-reduce-china-dependence"
-   }
-  },
-  {
-   "id": "20261103-1706-crown-iris-bomb-threat",
-   "time": "2026-11-03T17:06:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "A bomb threat against the Israeli-operated cruise ship Crown Iris holds up 940 passengers and 597 crew at Greece's Syros port; initial checks find no explosive, per Times of Israel.",
-   "ar": "تهديد بوجود قنبلة على متن سفينة الرحلات «كراون آيريس» التي تشغّلها شركة إسرائيلية يحتجز 940 راكباً و597 من الطاقم في ميناء سيروس اليوناني، والفحوص الأولية لم تعثر على متفجرات، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/over-1500-held-up-in-greece-as-bomb-threat-prompts-checks-on-israeli-operated-cruise-ship/"
-   }
-  },
-  {
-   "id": "20261103-1639-eisenkot-aid-netanyahu",
-   "time": "2026-11-03T16:39:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Gadi Eisenkot says Netanyahu 'can no longer be trusted and must be replaced' and must answer citizens tonight after Trump's announced halt to US military aid, worth $3.8 billion a year.",
-   "ar": "غادي آيزنكوت يقول إن نتنياهو «لم يعد أهلاً للثقة ويجب استبداله»، ويطالبه بتقديم أجوبة للمواطنين الليلة بعد إعلان ترامب وقف المساعدات العسكرية الأميركية البالغة 3.8 مليار دولار سنوياً.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-assails-netanyahu-demands-answers-after-trumps-military-aid-halt-announcement/"
-   }
-  },
-  {
-   "id": "20261103-1616-fbi-white-powder-arrest",
-   "time": "2026-11-03T16:16:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The FBI has arrested an Oklahoma City man suspected of mailing hundreds of white-powder letters to public officials and election offices in more than 100 locations, a federal source tells Fox News.",
-   "ar": "مكتب التحقيقات الفدرالي يعتقل رجلاً من أوكلاهوما سيتي يُشتبه بإرساله مئات الرسائل المحتوية على مسحوق أبيض إلى مسؤولين ومكاتب انتخابية في أكثر من 100 موقع، بحسب مصدر فدرالي لـ«فوكس نيوز».",
-   "source": {
-    "name": "Fox News",
-    "url": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials"
    }
   }
  ]
