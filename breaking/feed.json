@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T13:08:49Z",
+ "updated": "2026-11-06T14:10:26Z",
  "items": [
+  {
+   "id": "20261106-1335-us-jobs-165000",
+   "time": "2026-11-06T13:35:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US economy added 165,000 jobs in October, topping all forecasts, and the unemployment rate fell, Labor Department data show.",
+   "ar": "الاقتصاد الأميركي أضاف 165 ألف وظيفة في تشرين الأول، متجاوزاً كل التوقعات، فيما تراجع معدل البطالة، بحسب بيانات وزارة العمل.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-06/us-employment-report-for-october-live-updates"
+   }
+  },
   {
    "id": "20261106-1239-trump-strikes-new-moon",
    "time": "2026-11-06T12:39:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Fox News via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/trump-discusses-new-iran-strikes-at-white-house-possibly-under-cover-of-nov-9s-new-moon-report/"
+   }
+  },
+  {
+   "id": "20261106-1230-iran-nuclear-back-in-play",
+   "time": "2026-11-06T12:30:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "The US and Iran are edging closer to a deal as Tehran signals willingness to discuss issues tied to its nuclear programme, including Qatari proposals, Bloomberg reports.",
+   "ar": "الولايات المتحدة وإيران تقتربان من اتفاق مع إبداء طهران استعدادها لبحث ملفات مرتبطة ببرنامجها النووي، بما فيها مقترحات قطرية، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-and-iran-edge-closer-to-deal-with-nuclear-issue-back-in-play"
    }
   },
   {
@@ -65,12 +89,24 @@
    "id": "20261106-1122-europe-bomb-threats-wave-3",
    "time": "2026-11-06T11:22:00Z",
    "theater": "europe",
-   "status": "reported",
-   "en": "A third wave of bomb threats this week disrupts flights in Denmark, the Czech Republic, Portugal and France and forces evacuation of RTÉ and other Irish media offices, per Times of Israel.",
-   "ar": "موجة ثالثة هذا الأسبوع من التهديدات بوجود قنابل تربك رحلات جوية في الدنمارك وتشيكيا والبرتغال وفرنسا وتفرض إخلاء مكاتب «آر تي إي» ووسائل إعلام إيرلندية أخرى، بحسب «تايمز أوف إسرائيل».",
+   "status": "confirmed",
+   "en": "A third wave of bomb threats this week disrupts flights across Europe and forces evacuation of Irish media offices; Ireland's government says the hoaxes are likely a coordinated campaign.",
+   "ar": "موجة ثالثة من التهديدات بوجود قنابل هذا الأسبوع تعطّل رحلات في أنحاء أوروبا وتفرض إخلاء مكاتب وسائل إعلام إيرلندية، والحكومة الإيرلندية تقول إنها على الأرجح حملة منسّقة.",
    "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/fresh-wave-of-bomb-threats-targets-european-flights-irish-media-groups/"
+    "name": "AFP via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/ireland-hoax-bomb-claims-sent-to-media-outlets-european-flights-likely-part-of-coordinated-campaign/"
+   }
+  },
+  {
+   "id": "20261106-1058-komyshuvakha-toll-53",
+   "time": "2026-11-06T10:58:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "The death toll from Russian guided bombs that hit a shelter and aid distribution centre in Komyshuvakha, southeastern Ukraine, rises to 53, regional official Mykhailo Semikin says.",
+   "ar": "حصيلة القنابل الموجّهة الروسية التي أصابت ملجأً ومركزاً لتوزيع المساعدات في كوميشوفاخا جنوب شرق أوكرانيا ترتفع إلى 53 قتيلاً، بحسب المسؤول الإقليمي ميخايلو سيميكين.",
+   "source": {
+    "name": "AP via News4JAX",
+    "url": "https://www.news4jax.com/news/world/2026/11/06/ukrainian-president-zelenskyy-presses-western-allies-for-clear-postwar-security-guarantees/"
    }
   },
   {
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/us-midterm-elections-live-updates"
-   }
-  },
-  {
-   "id": "20261103-1503-israel-finance-aid-surprise",
-   "time": "2026-11-03T15:03:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli Finance Ministry officials say they were caught off guard by Trump's announced halt to US military aid, with a senior official putting the cost of losing 2 years of aid at $8 billion, per Times of Israel.",
-   "ar": "مسؤولون في وزارة المالية الإسرائيلية يقولون إن إعلان ترامب وقف المساعدات العسكرية الأميركية فاجأهم، ومسؤول رفيع يقدّر كلفة خسارة عامين من المساعدات بـ8 مليارات دولار، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/finance-ministry-officials-said-taken-off-guard-by-trump-announcing-imminent-halt-to-military-aid/"
-   }
-  },
-  {
-   "id": "20261103-1408-mladenov-blair-israel",
-   "time": "2026-11-03T14:08:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Board of Peace envoy Nickolay Mladenov visited Israel on Monday and Tony Blair is due this week for post-election Gaza talks, a Board official says, per Times of Israel.",
-   "ar": "مبعوث «مجلس السلام» نيكولاي ملادينوف زار إسرائيل الاثنين، ويُنتظر وصول توني بلير هذا الأسبوع لمحادثات حول غزة بعد الانتخابات، بحسب مسؤول في المجلس نقلاً عن «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/board-of-peace-envoys-mladenov-blair-visit-israel-for-gaza-talks-after-knesset-election/"
-   }
-  },
-  {
-   "id": "20261103-1401-trump-israel-aid-end",
-   "time": "2026-11-03T14:01:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells Fox News the US will stop about $4 billion a year in military aid to Israel after 2026, citing a deal with Netanyahu.",
-   "ar": "ترامب يقول لـ«فوكس نيوز» إن الولايات المتحدة ستوقف بعد عام 2026 مساعدات عسكرية لإسرائيل بنحو 4 مليارات دولار سنوياً، مستنداً إلى اتفاق مع نتنياهو.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/trump-says-us-will-stop-4-billion-military-aid-israel-end-2026"
    }
   }
  ]
