@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T05:08:36Z",
+ "updated": "2026-11-06T06:10:10Z",
  "items": [
+  {
+   "id": "20261106-0526-judge-blocks-trump-arch",
+   "time": "2026-11-06T05:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A federal judge bars the Trump administration from starting work on Trump's 250-foot Washington arch for 14 days, within an hour of a federal planning panel's 8-4 final approval.",
+   "ar": "قاضية فدرالية تمنع إدارة ترامب من بدء العمل على قوس ترامب بارتفاع 250 قدماً في واشنطن لمدة 14 يوماً، بعد أقل من ساعة على موافقة نهائية من لجنة تخطيط فدرالية بأغلبية 8 مقابل 4.",
+   "source": {
+    "name": "NPR via KPBS",
+    "url": "https://www.kpbs.org/news/politics/2026/11/05/a-judge-blocks-construction-of-trumps-arch-moments-after-it-won-federal-approval"
+   }
+  },
+  {
+   "id": "20261106-0441-afipsky-refinery-fire",
+   "time": "2026-11-06T04:41:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian monitoring channels say drones set the EU-sanctioned Afipsky oil refinery in Russia's Krasnodar region ablaze overnight, with explosions also reported in Adygea; local authorities have not commented, per Kyiv Independent.",
+   "ar": "قنوات رصد أوكرانية تقول إن مسيّرات أشعلت النار ليلاً في مصفاة أفيبسكي النفطية الخاضعة لعقوبات أوروبية في إقليم كراسنودار الروسي، مع تقارير عن انفجارات في أديغيا؛ ولم تعلّق السلطات المحلية، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-forces-reportedly-target-oil-refinery-as-explosions-reported-across-southern-russia/"
+   }
+  },
   {
    "id": "20261106-0439-brent-back-above-100",
    "time": "2026-11-06T04:39:00Z",
@@ -62,6 +86,18 @@
    }
   },
   {
+   "id": "20261106-0006-trump-predicts-russia-deal",
+   "time": "2026-11-06T00:06:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says he met Putin envoy Kirill Dmitriev and predicts 'a big agreement' that will 'involve more than Ukraine' and 'might involve all of Europe', declining to give details.",
+   "ar": "ترامب يقول إنه التقى مبعوث بوتين كيريل دميترييف، ويتوقّع «اتفاقاً كبيراً» سيشمل «أكثر من أوكرانيا» و«قد يشمل أوروبا كلّها»، رافضاً الكشف عن التفاصيل.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+   }
+  },
+  {
    "id": "20261105-2325-herzog-mandate-sunday",
    "time": "2026-11-05T23:25:00Z",
    "theater": "israel",
@@ -90,11 +126,11 @@
    "time": "2026-11-05T21:54:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "Trump says Iran is 'not doing anything without our approval' on its nuclear programme and that he would rather not 'destroy the rest' of Iran, 'but maybe I will have to.'",
-   "ar": "ترامب يقول إن إيران «لا تفعل شيئاً من دون موافقتنا» في برنامجها النووي، وإنه يفضّل ألّا «يدمّر ما تبقّى» من البلاد «لكن ربما سأضطر إلى ذلك».",
+   "en": "After meeting his national security team, Trump says he will decide 'soon' whether to resume the Iran war, adding he would rather not 'destroy the rest' of Iran 'but maybe I will have to.'",
+   "ar": "بعد اجتماعه بفريق الأمن القومي، ترامب يقول إنه سيقرّر «قريباً» ما إذا كان سيستأنف الحرب على إيران، مضيفاً أنه يفضّل ألّا «يدمّر ما تبقّى» منها «لكن ربما سأضطر إلى ذلك».",
    "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-iran-cant-do-anything-on-its-nuclear-program-without-our-approval/"
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
    }
   },
   {
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/liberman-government-can-be-formed-without-arab-parties-we-must-prevent-another-election/"
-   }
-  },
-  {
-   "id": "20261103-0837-jenin-rocket-cell",
-   "time": "2026-11-03T08:37:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's Shin Bet and police say they arrested 6 Palestinians from the Jenin area who built a rocket and explosive devices and carried out at least 3 launch tests.",
-   "ar": "الشاباك والشرطة الإسرائيلية يقولان إنهما اعتقلا 6 فلسطينيين من منطقة جنين صنعوا صاروخاً وعبوات ناسفة وأجروا 3 تجارب إطلاق على الأقل.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/6-west-bank-palestinians-arrested-for-trying-to-build-rockets-to-launch-at-israel/"
-   }
-  },
-  {
-   "id": "20261103-0831-iran-police-saravan",
-   "time": "2026-11-03T08:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "An Iranian police officer is killed in an armed attack by unidentified assailants in Saravan county, Sistan-Baluchistan province, Iranian police say.",
-   "ar": "مقتل ضابط شرطة إيراني في هجوم مسلّح نفّذه مجهولون في مقاطعة سراوان بمحافظة سيستان وبلوشستان، بحسب الشرطة الإيرانية.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-police-officer-killed-in-attack-in-restive-southeast/"
-   }
-  },
-  {
-   "id": "20261103-0822-zelensky-289-drones",
-   "time": "2026-11-03T08:22:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Russia fired 289 drones and 76 missiles overnight at Ukraine's power grid; regional authorities report 38 killed and 158 injured across the country over the past day.",
-   "ar": "زيلينسكي يقول إن روسيا أطلقت 289 مسيّرة و76 صاروخاً ليل أمس على شبكة الكهرباء الأوكرانية، وسلطات المحافظات تُفيد بـ38 قتيلاً و158 جريحاً في أنحاء البلاد خلال يوم.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/"
    }
   }
  ]
