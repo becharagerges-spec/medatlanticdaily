@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T14:10:26Z",
+ "updated": "2026-11-06T15:09:17Z",
  "items": [
+  {
+   "id": "20261106-1443-eisenkot-national-service",
+   "time": "2026-11-06T14:43:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gadi Eisenkot repeats that mandatory national service for all Israelis is a condition for joining his coalition, after Avigdor Liberman opened the door to Haredi parties, per Times of Israel.",
+   "ar": "غادي آيزنكوت يكرّر أن الخدمة الوطنية الإلزامية لجميع الإسرائيليين شرط للانضمام إلى ائتلافه، بعدما فتح أفيغدور ليبرمان الباب أمام الأحزاب الحريدية، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-reiterates-demand-for-mandatory-national-service-after-liberman-opens-door-to-coalition-with-haredim/"
+   }
+  },
+  {
+   "id": "20261106-1400-velos-seafarer-killed",
+   "time": "2026-11-06T14:00:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "One seafarer was killed on the unladen oil products tanker MT Velos in the Gulf on Thursday in an explosion believed to be a missile strike, its Greek manager Velos Tankers says.",
+   "ar": "مقتل بحّار على متن ناقلة المشتقات النفطية الفارغة «إم تي فيلوس» في الخليج يوم الخميس بانفجار يُرجَّح أنه ناجم عن ضربة صاروخية، بحسب شركة «فيلوس تانكرز» اليونانية المشغّلة.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/one-seafarer-killed-in-missile-attack-on-tanker-in-gulf/3092590/"
+   }
+  },
   {
    "id": "20261106-1335-us-jobs-165000",
    "time": "2026-11-06T13:35:00Z",
@@ -258,11 +282,11 @@
    "time": "2026-11-06T04:41:00Z",
    "theater": "russia",
    "status": "reported",
-   "en": "Ukrainian monitoring channels say drones set the EU-sanctioned Afipsky oil refinery in Russia's Krasnodar region ablaze overnight, with explosions also reported in Adygea; local authorities have not commented, per Kyiv Independent.",
-   "ar": "قنوات رصد أوكرانية تقول إن مسيّرات أشعلت النار ليلاً في مصفاة أفيبسكي النفطية الخاضعة لعقوبات أوروبية في إقليم كراسنودار الروسي، مع تقارير عن انفجارات في أديغيا؛ ولم تعلّق السلطات المحلية، بحسب «كييف إندبندنت».",
+   "en": "Krasnodar authorities say drone debris set fire to an industrial facility in Afipsky overnight; exiled outlet Astra identifies it as the EU-sanctioned Afipsky oil refinery, per The Moscow Times.",
+   "ar": "سلطات كراسنودار تقول إن حطام مسيّرة أشعل حريقاً في منشأة صناعية في أفيبسكي ليلاً، فيما يحدّد موقع «أسترا» المعارض المنشأة بأنها مصفاة أفيبسكي النفطية الخاضعة لعقوبات أوروبية، بحسب «موسكو تايمز».",
    "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/ukrainian-forces-reportedly-target-oil-refinery-as-explosions-reported-across-southern-russia/"
+    "name": "The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189"
    }
   },
   {
@@ -1764,30 +1788,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
-   }
-  },
-  {
-   "id": "20261103-1534-netanyahu-bloc-recommendations",
-   "time": "2026-11-03T15:34:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Shas, Religious Zionism and Otzma Yehudit say they will recommend Netanyahu for prime minister, after Shas's Council of Torah Sages backed him over guarantees on yeshiva-student draft exemptions.",
-   "ar": "أحزاب «شاس» و«الصهيونية الدينية» و«عوتسما يهوديت» تعلن أنها ستسمّي نتنياهو لرئاسة الحكومة، بعدما أيّده مجلس حكماء التوراة في «شاس» مقابل ضمانات حول إعفاء طلاب المعاهد الدينية من الخدمة.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-03-2026/"
-   }
-  },
-  {
-   "id": "20261103-1514-us-midterms-early-voting",
-   "time": "2026-11-03T15:14:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Early voting in the US midterm elections set a record with 57 million ballots cast, Bloomberg reports, as control of the House and Senate goes to the vote.",
-   "ar": "التصويت المبكر في انتخابات الكونغرس النصفية الأميركية يسجّل رقماً قياسياً بـ57 مليون صوت، بحسب «بلومبرغ»، مع توجّه الناخبين لتحديد السيطرة على مجلسي النواب والشيوخ.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/us-midterm-elections-live-updates"
    }
   }
  ]
