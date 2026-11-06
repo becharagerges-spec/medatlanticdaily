@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:08:30Z",
+ "updated": "2026-11-06T09:10:08Z",
  "items": [
   {
    "id": "20261106-0805-trump-tamim-call",
@@ -23,6 +23,30 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-downed-two-houthi-missiles-fired-toward-saudi-arabias-najran/"
+   }
+  },
+  {
+   "id": "20261106-0735-irgc-hormuz-closed-two-tankers",
+   "time": "2026-11-06T07:35:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say 2 more oil tankers hit mines and caught fire in and east of the Strait of Hormuz, and declare the strait closed until Iran's 7 conditions are met; unverified.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط إضافيتين اصطدمتا بألغام واشتعلت فيهما النيران داخل مضيق هرمز وشرقه، ويعلن إغلاق المضيق إلى أن تُلبّى شروط إيران السبعة؛ ولم يُتحقق من ذلك.",
+   "source": {
+    "name": "Trend",
+    "url": "https://www.trend.az/iran/4243686.html"
+   }
+  },
+  {
+   "id": "20261106-0734-ukraine-227-drones-overnight",
+   "time": "2026-11-06T07:34:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 227 attack drones overnight, of which 196 were downed or suppressed, with hits recorded at 14 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 227 مسيّرة هجومية خلال الليل، أُسقطت أو عُطّلت 196 منها، فيما سُجّلت إصابات في 14 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4181994-adf-neutralizes-196-russian-drones-used-to-attack-ukraine-overnight.html"
    }
   },
   {
@@ -167,6 +191,18 @@
    "source": {
     "name": "AP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/turkeys-parliament-ratifies-defense-pact-with-pakistan-and-saudi-arabia/"
+   }
+  },
+  {
+   "id": "20261105-2221-spain-ukraine-air-defence-aid",
+   "time": "2026-11-05T22:21:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Spain will provide €437 million (about $490 million) in military aid for Ukraine's air defences after he met Prime Minister Pedro Sánchez in Madrid.",
+   "ar": "زيلينسكي يقول إن إسبانيا ستقدّم مساعدات عسكرية بقيمة 437 مليون يورو (نحو 490 مليون دولار) لتعزيز الدفاعات الجوية الأوكرانية، بعد لقائه رئيس الوزراء بيدرو سانشيز في مدريد.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/spain-to-provide-ukraine-490-million-in-military-aid-zelensky-says/"
    }
   },
   {
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iran-unveils-huge-billboard-with-threat-against-trumps-life/"
-   }
-  },
-  {
-   "id": "20261103-1020-trump-putin-xi-summit",
-   "time": "2026-11-03T10:20:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "US, Russian and Chinese officials are discussing a Trump-Putin-Xi summit at the APEC meeting in Shenzhen later this month, the Financial Times reports; Reuters could not verify it.",
-   "ar": "مسؤولون أميركيون وروس وصينيون يبحثون قمة ثلاثية بين ترامب وبوتين وشي على هامش قمة «أبيك» في شنتشن أواخر الشهر، بحسب «فايننشال تايمز»، ولم تتحقق «رويترز» من ذلك.",
-   "source": {
-    "name": "Financial Times via A News",
-    "url": "https://www.anews.com.tr/world/2026/11/03/us-russia-and-china-discuss-trilateral-meeting-between-trump-putin-and-xi"
-   }
-  },
-  {
-   "id": "20261103-1010-lapid-undermine-results",
-   "time": "2026-11-03T10:10:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Yair Lapid says Israel faces 'a grave and dangerous attempt to undermine the election results' and that Netanyahu must be removed, as opposition leaders meet in Herzliya.",
-   "ar": "يائير لابيد يقول إن إسرائيل تواجه «محاولة خطيرة لتقويض نتائج الانتخابات» وإنه يجب إزاحة نتنياهو، مع اجتماع قادة المعارضة في هرتسليا.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lapid-were-facing-an-attempt-to-undermine-election-results-we-need-to-remove-netanyahu/"
-   }
-  },
-  {
-   "id": "20261103-0950-mecca-drone-intercept",
-   "time": "2026-11-03T09:50:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a drone over the Mecca region, a day after downing a ballistic missile and 2 drones fired by the Houthis.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض مسيّرة وتدميرها فوق منطقة مكة المكرمة، غداة إسقاطه صاروخاً باليستياً ومسيّرتين أطلقها الحوثيون.",
-   "source": {
-    "name": "Anadolu via A News",
-    "url": "https://www.anews.com.tr/middle-east/2026/11/03/saudi-led-coalition-says-drone-intercepted-over-mecca-region-amid-escalation-with-houthis"
    }
   }
  ]
