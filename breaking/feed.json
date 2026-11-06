@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T04:09:42Z",
+ "updated": "2026-11-06T05:08:36Z",
  "items": [
+  {
+   "id": "20261106-0439-brent-back-above-100",
+   "time": "2026-11-06T04:39:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude rises 2% to $100.3 a barrel and WTI 1.5% to $91.8 in Friday trading, though both remain on track for a weekly loss of about 12%, per HDFC Sky.",
+   "ar": "خام برنت يرتفع 2% إلى 100.3 دولار للبرميل وخام غرب تكساس 1.5% إلى 91.8 دولاراً في تداولات الجمعة، لكنهما يتّجهان نحو خسارة أسبوعية بنحو 12%، بحسب HDFC Sky.",
+   "source": {
+    "name": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-6-2026-brent-reclaims-100-wti-nears-92-both-benchmarks-head-for-12percent-weekly-decline"
+   }
+  },
+  {
+   "id": "20261106-0344-uae-araghchi-call",
+   "time": "2026-11-06T03:44:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UAE Foreign Minister Sheikh Abdullah bin Zayed urges de-escalation in a call from Iranian FM Abbas Araghchi, who also spoke with his Turkish and Kuwaiti counterparts, WAM reports.",
+   "ar": "وزير الخارجية الإماراتي الشيخ عبدالله بن زايد يدعو إلى خفض التصعيد في اتصال تلقّاه من نظيره الإيراني عباس عراقجي، الذي تواصل أيضاً مع نظيريه التركي والكويتي، بحسب وكالة «وام».",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/uae/2026/11/06/sheikh-abdullah-urges-de-escalation-in-call-with-iranian-foreign-minister/"
+   }
+  },
   {
    "id": "20261106-0116-tsmc-tumbles-9-8",
    "time": "2026-11-06T01:16:00Z",
@@ -1764,30 +1788,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/"
-   }
-  },
-  {
-   "id": "20261103-0804-indian-sailor-killed-oman",
-   "time": "2026-11-03T08:04:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "An Indian seafarer is killed after the India-flagged vessel Al Jusufi was hit by an unidentified aerial object off Oman; Oman's coast guard rescued the other 13 crew, India's shipping minister says.",
-   "ar": "مقتل بحّار هندي إثر إصابة السفينة «الجوسفي» التي ترفع العلم الهندي بجسم جوي مجهول قبالة سواحل عُمان، وخفر السواحل العُماني أنقذ أفراد الطاقم الـ13 الآخرين، بحسب وزير الشحن الهندي.",
-   "source": {
-    "name": "PTI via ThePrint",
-    "url": "https://theprint.in/economy/sonowal-says-one-indian-seafarer-killed-after-vessel-hit-off-oman-coast/3089064/"
-   }
-  },
-  {
-   "id": "20261103-0657-iran-deal-out-of-reach",
-   "time": "2026-11-03T06:57:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "A senior Iranian official tells Reuters that Iran and the US remain far from a deal to end the war and that Tehran will not accept Washington's 'excessive demands'.",
-   "ar": "مسؤول إيراني رفيع يقول لرويترز إن إيران والولايات المتحدة ما زالتا بعيدتين عن اتفاق لإنهاء الحرب، وإن طهران لن تقبل «المطالب المفرطة» لواشنطن.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iran-us-deal-still-out-of-reach-senior-iranian-official-says/"
    }
   }
  ]
