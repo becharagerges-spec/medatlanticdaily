@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T07:08:18Z",
+ "updated": "2026-11-07T08:08:34Z",
  "items": [
+  {
+   "id": "20261107-0726-pboc-gold-24-months",
+   "time": "2026-11-07T07:26:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's central bank added 830,000 ounces of gold in October, its 24th straight monthly purchase, lifting reserves to 78.3 million ounces, official data show.",
+   "ar": "المصرف المركزي الصيني أضاف 830 ألف أونصة من الذهب في تشرين الأول، في شرائه الشهري الرابع والعشرين على التوالي، لترتفع احتياطاته إلى 78.3 مليون أونصة، وفق بيانات رسمية.",
+   "source": {
+    "name": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/international/2026/11/07/chinas-central-bank-extends-gold-buying-streak-to-24-months"
+   }
+  },
   {
    "id": "20261107-0646-irgc-mohebbi-capabilities",
    "time": "2026-11-07T06:46:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
+   }
+  },
+  {
+   "id": "20261107-0458-iran-army-stronger-immediate",
+   "time": "2026-11-07T04:58:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian army spokesman Brig. Gen. Mohammad Akraminia says Iran's forces are stronger than at the war's start and will respond to any attack immediately, without geographical limits.",
+   "ar": "المتحدث باسم الجيش الإيراني العميد محمد أكرمي‌نيا يقول إن القوات الإيرانية أقوى مما كانت عليه في بداية الحرب، وسترد على أي هجوم فوراً ومن دون حدود جغرافية.",
+   "source": {
+    "name": "AFP via Malay Mail",
+    "url": "https://www.malaymail.com/news/world/2026/11/07/iran-says-its-military-is-stronger-now-than-when-the-war-against-us-israel-began-in-february/242319"
    }
   },
   {
@@ -1555,77 +1579,6 @@
    "ar": "حاكمة أريزونا الديمقراطية كايتي هوبز تفوز بولاية ثانية على النائب الجمهوري آندي بيغز، فيحتفظ الديمقراطيون بحاكمية الولاية المتأرجحة، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0757-alme-montana-senate",
-   "time": "2026-11-04T07:57:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Republican Kurt Alme wins Montana's US Senate race to replace retiring Sen. Steve Daines, as independent and Democratic rivals split the vote, Politico reports.",
-   "ar": "الجمهوري كيرت ألمي يفوز بمقعد مونتانا في مجلس الشيوخ الأميركي خلفاً للسيناتور المتقاعد ستيف داينز، بعدما تقاسم منافساه المستقل والديمقراطي الأصوات، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0756-drones-kurdish-opposition-iraq",
-   "time": "2026-11-04T07:56:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Two explosive-laden drones attack Iranian Kurdish opposition groups in Sulaymaniyah and east of Erbil in Iraq's Kurdistan region, security sources tell Reuters; no casualties reported yet.",
-   "ar": "مسيّرتان محمّلتان بالمتفجرات تهاجمان مجموعات كردية إيرانية معارضة في السليمانية وشرق أربيل في إقليم كردستان العراق، بحسب مصادر أمنية لـ«رويترز»، من دون الإعلان عن إصابات بعد.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/drones-attack-iranian-kurdish-opposition-075600526.html"
-   }
-  },
-  {
-   "id": "20261104-0753-salam-war-peace-state",
-   "time": "2026-11-04T07:53:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Lebanese PM Nawaf Salam, after meeting President Joseph Aoun at Baabda, warns against dragging Lebanon into a 'new absurd adventure' and says war-and-peace decisions belong only to the state, per IMLebanon.",
-   "ar": "رئيس الحكومة نواف سلام يحذّر بعد لقائه الرئيس جوزاف عون في بعبدا من جرّ لبنان إلى «مغامرة عبثية جديدة»، مؤكداً أن قرار الحرب والسلم للدولة وحدها، بحسب «IMLebanon».",
-   "source": {
-    "name": "IMLebanon",
-    "url": "https://www.imlebanon.org/2026/11/04/salam-aoun-baabda/"
-   }
-  },
-  {
-   "id": "20261104-0752-israel-cec-ratifies",
-   "time": "2026-11-04T07:52:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's Central Elections Committee presidium ratifies the October 27 election results, with Likud and Shas abstaining and chair Noam Sohlberg rejecting a delay, per Times of Israel.",
-   "ar": "هيئة رئاسة لجنة الانتخابات المركزية في إسرائيل تصادق على نتائج انتخابات 27 تشرين الأول، مع امتناع الليكود وشاس، ورئيسها نوعام سولبرغ يرفض طلب التأجيل، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/election-panel-votes-to-ratify-results-likud-shas-mks-abstain"
-   }
-  },
-  {
-   "id": "20261104-0747-likud-otzma-certification",
-   "time": "2026-11-04T07:47:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Likud MK Amit Halevi quits Israel's election committee alleging foreign interference without evidence, and Otzma Yehudit says it will vote against certifying the results, per Times of Israel.",
-   "ar": "النائب عن الليكود عميت هليفي يستقيل من لجنة الانتخابات الإسرائيلية مدّعياً تدخلاً أجنبياً من دون دليل، و«عوتسما يهوديت» تعلن أنها ستصوّت ضد المصادقة على النتائج، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-4-2026/"
-   }
-  },
-  {
-   "id": "20261104-0739-lapid-no-unity-netanyahu",
-   "time": "2026-11-04T07:39:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli opposition leader Yair Lapid says there is no possibility of a unity government under Netanyahu after Shin Bet chief David Zini's actions and the US midterms, per Times of Israel.",
-   "ar": "زعيم المعارضة الإسرائيلية يائير لابيد يقول إن لا إمكانية لحكومة وحدة برئاسة نتنياهو بعد خطوات رئيس الشاباك دافيد زيني ونتائج الانتخابات النصفية الأميركية، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-4-2026/"
    }
   }
  ]
