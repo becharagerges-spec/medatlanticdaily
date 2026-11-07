@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:07:53Z",
+ "updated": "2026-11-07T11:07:17Z",
  "items": [
   {
    "id": "20261107-0901-da-wins-nelson-mandela-bay",
@@ -546,11 +546,11 @@
    "time": "2026-11-06T10:58:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "The death toll from Russian guided bombs that hit a shelter and aid distribution centre in Komyshuvakha, southeastern Ukraine, rises to 53, regional official Mykhailo Semikin says.",
-   "ar": "حصيلة القنابل الموجّهة الروسية التي أصابت ملجأً ومركزاً لتوزيع المساعدات في كوميشوفاخا جنوب شرق أوكرانيا ترتفع إلى 53 قتيلاً، بحسب المسؤول الإقليمي ميخايلو سيميكين.",
+   "en": "The death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, southeastern Ukraine, rises to 55 after 2 more bodies were recovered Saturday; dozens remain missing.",
+   "ar": "حصيلة القنابل الموجّهة الروسية التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا جنوب شرق أوكرانيا ترتفع إلى 55 قتيلاً بعد انتشال جثتين إضافيتين السبت، فيما لا يزال العشرات في عداد المفقودين.",
    "source": {
-    "name": "AP via News4JAX",
-    "url": "https://www.news4jax.com/news/world/2026/11/06/ukrainian-president-zelenskyy-presses-western-allies-for-clear-postwar-security-guarantees/"
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
    }
   },
   {
@@ -1521,42 +1521,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/lebanon-says-israeli-strike-kills-one-in-south-3009799"
-   }
-  },
-  {
-   "id": "20261104-1059-khamenei-us-hostility",
-   "time": "2026-11-04T10:59:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Supreme Leader Mojtaba Khamenei says US hostility will persist whichever party holds power and warns Iran's response to any renewed US attack will be on a much greater scale.",
-   "ar": "المرشد الإيراني مجتبى خامنئي يقول إن العداء الأميركي سيستمر أياً كان الحزب الحاكم، ويحذّر من أن ردّ إيران على أي هجوم أميركي جديد سيكون على نطاق أوسع بكثير.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/irans-khamenei-says-us-hostility-105939486.html"
-   }
-  },
-  {
-   "id": "20261104-1058-najran-second-alert",
-   "time": "2026-11-04T10:58:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia issues a second early-warning alert of potential danger in Najran province within hours, before Civil Defence announces the danger has passed.",
-   "ar": "السعودية تُطلق إنذاراً مبكراً ثانياً من خطر محتمل في منطقة نجران خلال ساعات، قبل أن يعلن الدفاع المدني زوال الخطر.",
-   "source": {
-    "name": "Anadolu via The Express Tribune",
-    "url": "https://tribune.com.pk/story/2638623/saudi-arabia-says-danger-has-passed-in-najran-after-earlier-alert"
-   }
-  },
-  {
-   "id": "20261104-1037-irgc-adviser-gulf-hosts",
-   "time": "2026-11-04T10:37:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Hamidreza Moghadamfar, adviser to Iran's IRGC commander, warns at a Bandar Abbas rally that Gulf states such as the UAE and Bahrain face a wider response if they host US attacks on Iran.",
-   "ar": "حميد رضا مقدم‌فر، مستشار قائد الحرس الثوري الإيراني، يحذّر في تجمّع ببندر عباس من أن دول الخليج كالإمارات والبحرين ستواجه رداً أوسع إذا استضافت هجمات أميركية على إيران.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-says-it-could-expand-response-if-gulf-states-host-us-attacks-tasnim-reports-3009750"
    }
   }
  ]
