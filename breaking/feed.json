@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-07T08:08:34Z",
+ "updated": "2026-11-07T10:07:53Z",
  "items": [
+  {
+   "id": "20261107-0901-da-wins-nelson-mandela-bay",
+   "time": "2026-11-07T09:01:00Z",
+   "theater": "africa",
+   "status": "reported",
+   "en": "South Africa's Democratic Alliance wins 53 of 120 seats in the Nelson Mandela Bay metro, ahead of the ANC with 32 and the EFF with 7, per provisional results reported by SABC.",
+   "ar": "التحالف الديمقراطي في جنوب أفريقيا يفوز بـ53 من 120 مقعداً في بلدية خليج نيلسون مانديلا، متقدماً على المؤتمر الوطني الأفريقي (32) و«مناضلون من أجل الحرية الاقتصادية» (7)، وفق نتائج أولية نقلتها SABC.",
+   "source": {
+    "name": "SABC News",
+    "url": "https://x.com/SABCNews/status/2118992194816106620"
+   }
+  },
+  {
+   "id": "20261107-0802-iran-mp-threatens-saudi-infra",
+   "time": "2026-11-07T08:02:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian MP Ghasem Ravanbakhsh warns Saudi oil facilities, power stations and desalination plants could be targeted if war resumes, and says over 40 MPs signed a motion to impeach Foreign Minister Araghchi, per Iran International.",
+   "ar": "النائب الإيراني قاسم روانبخش يحذّر من استهداف منشآت النفط ومحطات الكهرباء والتحلية السعودية إذا استؤنفت الحرب، ويقول إن أكثر من 40 نائباً وقّعوا طلباً لاستجواب وزير الخارجية عراقجي، بحسب «إيران إنترناشيونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
+  {
+   "id": "20261107-0755-ukraine-172-drones-149-downed",
+   "time": "2026-11-07T07:55:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 172 attack drones and ballistic missiles overnight; 4 missiles and 149 drones were downed, with hits recorded at 24 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت ليلاً 172 مسيّرة هجومية وصواريخ بالستية؛ أُسقط 4 صواريخ و149 مسيّرة، وسُجّلت إصابات في 24 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4182349-air-defense-downs-four-missiles-149-drones-used-by-russia-to-attack-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261107-0743-irgc-nuclear-doctrine-readiness",
+   "time": "2026-11-07T07:43:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC spokesman Hossein Mohebbi tells Fars the Guards would prepare for any leadership decision to change Iran's nuclear doctrine and says work to extend missile range is ongoing.",
+   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول لوكالة «فارس» إن الحرس سيستعدّ لأي قرار من القيادة بتغيير العقيدة النووية الإيرانية، وإن العمل على زيادة مدى الصواريخ مستمر.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
   {
    "id": "20261107-0726-pboc-gold-24-months",
    "time": "2026-11-07T07:26:00Z",
@@ -23,6 +71,18 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
+  {
+   "id": "20261107-0520-europe-hoaxes-russia-probe",
+   "time": "2026-11-07T05:20:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "European security agencies are investigating whether this week's wave of bomb hoaxes that disrupted flights and newsrooms originated in Russia, the Financial Times reports.",
+   "ar": "أجهزة أمن أوروبية تحقق في ما إذا كانت موجة التهديدات الكاذبة بالقنابل التي عطّلت الرحلات وغرف الأخبار هذا الأسبوع قد انطلقت من روسيا، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times",
+    "url": "https://x.com/FT/status/2118936637128274252"
    }
   },
   {
@@ -1497,88 +1557,6 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/iran-says-it-could-expand-response-if-gulf-states-host-us-attacks-tasnim-reports-3009750"
-   }
-  },
-  {
-   "id": "20261104-1003-iran-mp-europe-bases",
-   "time": "2026-11-04T10:03:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian MP Ahmad Bakhshayesh Ardestani, of parliament's National Security Committee, tells Euronews Iran will fire missiles at Europe if the US uses its bases in Italy and Germany.",
-   "ar": "النائب الإيراني أحمد بخشايش أردستاني، عضو لجنة الأمن القومي في البرلمان، يقول لـ«يورونيوز» إن إيران ستطلق صواريخها نحو أوروبا إذا استخدمت واشنطن قواعدها في إيطاليا وألمانيا.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there"
-   }
-  },
-  {
-   "id": "20261104-0959-herzog-receives-results",
-   "time": "2026-11-04T09:59:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "President Isaac Herzog receives the official results of Israel's 26th Knesset election from election committee chair Noam Sohlberg, formally opening the race for the mandate to form a government, per The Jerusalem Post.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يتسلّم النتائج الرسمية لانتخابات الكنيست الـ26 من رئيس لجنة الانتخابات نوعام سولبرغ، فاتحاً رسمياً السباق على تكليف تشكيل الحكومة («جيروزاليم بوست»).",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913806"
-   }
-  },
-  {
-   "id": "20261104-0957-europe-defence-stocks-slip",
-   "time": "2026-11-04T09:57:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "European defence stocks fall after the Democratic midterm sweep, with BAE Systems down about 4%, while Orsted jumps over 7% and the STOXX 600 gains 0.9%, Investing.com reports.",
-   "ar": "أسهم الدفاع الأوروبية تتراجع بعد اكتساح الديمقراطيين للانتخابات النصفية، إذ هبط سهم «بي إيه إي سيستمز» نحو 4%، فيما قفز «أورستد» أكثر من 7% وارتفع مؤشر «ستوكس 600» بنسبة 0.9%، بحسب «إنفستنغ دوت كوم».",
-   "source": {
-    "name": "Investing.com",
-    "url": "https://www.investing.com/news/stock-market-news/european-defense-stocks-slip-as-democratic-midterm-win-raises-spending-worries-4998032"
-   }
-  },
-  {
-   "id": "20261104-0944-balad-activist-arrested",
-   "time": "2026-11-04T09:44:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Shin Bet and Israel Police arrest senior Balad activist Abd Abu Shahada in Jaffa over suspected security offences, under a three-day gag order, per The Jerusalem Post.",
-   "ar": "الشاباك والشرطة الإسرائيلية يعتقلان الناشط البارز في حزب التجمع عبد أبو شحادة في يافا بشبهة مخالفات أمنية، مع أمر بحظر النشر لثلاثة أيام، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/shin-bet-police-arrest-senior-094419774.html"
-   }
-  },
-  {
-   "id": "20261104-0834-us-futures-recover",
-   "time": "2026-11-04T08:34:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stock futures recover from overnight losses, with Dow E-minis up 0.46% after Nasdaq-100 futures fell as much as 2.4%, as Democrats take both chambers of Congress, Reuters reports.",
-   "ar": "العقود الآجلة للأسهم الأميركية تتعافى من خسائر الليل، فترتفع عقود داو جونز 0.46% بعدما هبطت عقود ناسداك 100 حتى 2.4%، مع سيطرة الديمقراطيين على مجلسَي الكونغرس، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-index-futures-steady-083456013.html"
-   }
-  },
-  {
-   "id": "20261104-0829-ricketts-nebraska-senate",
-   "time": "2026-11-04T08:29:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Republican Sen. Pete Ricketts holds his Nebraska US Senate seat, defeating independent challenger Dan Osborn after a late boost from the Senate GOP's top super PAC, Politico reports.",
-   "ar": "السيناتور الجمهوري بيت ريكيتس يحتفظ بمقعد نبراسكا في مجلس الشيوخ الأميركي متغلّباً على المرشح المستقل دان أوزبورن، بعد دعم متأخر من أكبر لجنة عمل سياسي جمهورية، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0827-hobbs-arizona-governor",
-   "time": "2026-11-04T08:27:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Arizona Democratic Gov. Katie Hobbs wins reelection over Republican Rep. Andy Biggs, holding the battleground state's governorship for Democrats, Politico reports.",
-   "ar": "حاكمة أريزونا الديمقراطية كايتي هوبز تفوز بولاية ثانية على النائب الجمهوري آندي بيغز، فيحتفظ الديمقراطيون بحاكمية الولاية المتأرجحة، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico"
    }
   }
  ]
