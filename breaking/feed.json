@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-07T12:09:26Z",
+ "updated": "2026-11-07T14:09:27Z",
  "items": [
+  {
+   "id": "20261107-1325-gaza-rain-70000-tents",
+   "time": "2026-11-07T13:25:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Gaza's Hamas-run media office says heavy rain flooded at least 70,000 tents of displaced people in 12 hours, as civil defence received 1,500 distress calls.",
+   "ar": "المكتب الإعلامي الحكومي التابع لحماس في غزة يقول إن الأمطار الغزيرة أغرقت 70 ألف خيمة للنازحين على الأقل خلال 12 ساعة، فيما تلقّى الدفاع المدني 1500 نداء استغاثة.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327"
+   }
+  },
+  {
+   "id": "20261107-1321-syria-troops-yemen-saudi",
+   "time": "2026-11-07T13:21:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Hundreds of Syrian troops have deployed on both sides of the Saudi-Yemeni border and thousands more are set to follow to fight the Houthis, Yemeni military and government sources tell AFP.",
+   "ar": "مئات الجنود السوريين انتشروا على جانبي الحدود السعودية اليمنية وآلاف آخرون سيلحقون بهم لقتال الحوثيين، بحسب مصادر عسكرية وحكومية يمنية لوكالة فرانس برس.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/syria-to-send-thousands-of-troops-to-yemen-and-saudi-arabia-to-help-fight-houthis-sources-say"
+   }
+  },
+  {
+   "id": "20261107-1225-iraq-oil-5m-bpd",
+   "time": "2026-11-07T12:25:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraq's Oil Minister Basim Mohammed tells state news agency INA that the country's oil output now exceeds 5 million barrels per day.",
+   "ar": "وزير النفط العراقي باسم محمد يقول لوكالة الأنباء العراقية إن إنتاج البلاد من النفط تجاوز 5 ملايين برميل يومياً.",
+   "source": {
+    "name": "Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/business/5338615-iraq-oil-output-exceeds-5-million-bpd"
+   }
+  },
+  {
+   "id": "20261107-1149-sanaa-shariya-strikes-22",
+   "time": "2026-11-07T11:49:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Houthi-run health ministry says strikes it blames on Saudi Arabia killed 22 people and wounded 30 in al-Shariya near Sanaa; Riyadh has not commented.",
+   "ar": "وزارة الصحة التابعة للحوثيين تقول إن غارات تنسبها إلى السعودية قتلت 22 شخصاً وجرحت 30 في الشريّة قرب صنعاء، ولم تعلّق الرياض.",
+   "source": {
+    "name": "AP",
+    "url": "https://krmg.com/2026/11/07/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/"
+   }
+  },
   {
    "id": "20261107-1118-araghchi-12-ministers",
    "time": "2026-11-07T11:18:00Z",
@@ -11,6 +59,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/mena/2026/11/07/irans-araghchi-holds-talks-with-12-foreign-ministers-to-defuse-tensions/"
+   }
+  },
+  {
+   "id": "20261107-1040-iran-navy-tanker-mine-hormuz",
+   "time": "2026-11-07T10:40:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says an oil tanker caught fire after hitting a naval mine in the eastern Strait of Hormuz, and warns ships entering prohibited areas will meet the same fate.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة نفط اشتعلت فيها النيران بعد اصطدامها بلغم بحري في شرق مضيق هرمز، وتحذّر من أن السفن التي تدخل المناطق المحظورة ستلقى المصير نفسه.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/oil-tanker-said-to-catch-fire-after-hitting-naval-mine-in-strait-of-hormuz"
    }
   },
   {
@@ -1509,30 +1569,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-election-2026/article-913837"
-   }
-  },
-  {
-   "id": "20261104-1341-us-stocks-bonds-dollar",
-   "time": "2026-11-04T13:41:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stock futures rise after the Democratic sweep of Congress, with Dow futures up 1.9%, the 10-year Treasury yield down 5 basis points to 4.92% and gold up 2.9%, Bloomberg reports.",
-   "ar": "العقود الآجلة للأسهم الأميركية ترتفع بعد اكتساح الديمقراطيين للكونغرس، مع صعود عقود داو جونز 1.9% وتراجع عائد سندات الخزانة لعشر سنوات 5 نقاط أساس إلى 4.92% وارتفاع الذهب 2.9%، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg via Swissinfo",
-    "url": "https://swissinfo.ch/eng/stocks-and-bonds-rise,-dollar-slides-after-us-vote:-markets-wrap/92323391"
-   }
-  },
-  {
-   "id": "20261104-1312-qabrikha-drone-strike",
-   "time": "2026-11-04T13:12:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "An Israeli drone strike in Qabrikha kills a motorcyclist and wounds another man, the first such death in Lebanon since September; Israel's army says it hit 2 suspects observing its troops.",
-   "ar": "غارة بمسيّرة إسرائيلية في قبريخا تقتل سائق دراجة نارية وتجرح آخر، في أول حصيلة من نوعها في لبنان منذ أيلول؛ والجيش الإسرائيلي يقول إنه استهدف مشتبهَين اثنين كانا يراقبان قواته.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/lebanon-says-israeli-strike-kills-one-in-south-3009799"
    }
   }
  ]
