@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T03:08:46Z",
+ "updated": "2026-11-07T04:08:43Z",
  "items": [
+  {
+   "id": "20261107-0044-trump-cabinet-changes",
+   "time": "2026-11-07T00:44:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump tells CBS's 60 Minutes he plans 'a few changes' to his Cabinet after Republicans lost both chambers of Congress, per Anadolu.",
+   "ar": "ترامب يقول لبرنامج «60 دقيقة» على شبكة «سي بي إس» إنه يعتزم إجراء «بعض التغييرات» في حكومته بعد خسارة الجمهوريين مجلسَي الكونغرس، بحسب «الأناضول».",
+   "source": {
+    "name": "Anadolu via US Muslims",
+    "url": "https://www.usmuslims.com/trump-says-he-plans-a-few-changes-to-cabinet-after-midterm-losses-380361h.htm"
+   }
+  },
   {
    "id": "20261107-0001-centcom-20m-reward-iran-nuclear",
    "time": "2026-11-07T00:01:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "AFP via Breitbart",
     "url": "https://www.breitbart.com/news/us-offers-20-mn-reward-for-info-on-irans-nuclear-program-centcom/"
+   }
+  },
+  {
+   "id": "20261106-2347-iran-army-claims-mq9",
+   "time": "2026-11-06T23:47:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army says its air defences shot down a US MQ-9 drone over Qeshm Island after the US strikes there; Washington has not commented, per Anadolu.",
+   "ar": "الجيش الإيراني يقول إن دفاعاته الجوية أسقطت مسيّرة أميركية من طراز MQ-9 فوق جزيرة قشم بعد الضربات الأميركية عليها، ولا تعليق من واشنطن، بحسب «الأناضول».",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://aa.com.tr/en/middle-east/iran-says-air-defense-downed-us-mq-9-drone-above-qeshm-island/4114837"
+   }
+  },
+  {
+   "id": "20261106-2253-us-alert-iran-threat",
+   "time": "2026-11-06T22:53:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "The US State Department warns Americans in the Middle East of an increased threat of Houthi attacks and Iranian efforts to target US officials, and tells US citizens in Iran to leave now.",
+   "ar": "الخارجية الأميركية تحذّر الأميركيين في الشرق الأوسط من تزايد خطر هجمات الحوثيين ومساعٍ إيرانية لاستهداف مسؤولين أميركيين، وتدعو المواطنين الأميركيين في إيران إلى المغادرة فوراً.",
+   "source": {
+    "name": "U.S. Virtual Embassy Tehran",
+    "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026"
    }
   },
   {
@@ -1622,76 +1658,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/election-2026-ohio-senate-brown-husted-9e7ae9e1715c0e8203614aea6f71666d"
-   }
-  },
-  {
-   "id": "20261104-0400-trump-accepts-results",
-   "time": "2026-11-04T04:00:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump tells The New York Times he will accept the midterm results, blames Republican losses on not being on the ballot and says he is willing to work with Democrats.",
-   "ar": "ترامب يقول لصحيفة «نيويورك تايمز» إنه سيقبل نتائج الانتخابات النصفية، ويعزو خسائر الجمهوريين إلى غيابه عن ورقة الاقتراع، ويبدي استعداده للعمل مع الديمقراطيين.",
-   "source": {
-    "name": "The New York Times"
-   }
-  },
-  {
-   "id": "20261104-0351-acton-ohio-governor",
-   "time": "2026-11-04T03:51:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Amy Acton defeats Republican Vivek Ramaswamy in Ohio's governor race, the first Democrat to win the seat in 20 years and the state's first woman governor.",
-   "ar": "الديمقراطية آمي أكتون تهزم الجمهوري فيفيك راماسوامي في سباق حاكمية أوهايو، لتكون أول ديمقراطية تفوز بالمنصب منذ 20 عاماً وأول امرأة تتولاه في الولاية.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/ohio-governor-race-2026-election-ramaswamy-acton-ee7b1860b0b8905c55df27318755f7e3"
-   }
-  },
-  {
-   "id": "20261104-0344-irgc-four-tankers-two-detained",
-   "time": "2026-11-04T03:44:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's IRGC says 4 tankers were destroyed and still burning after hitting naval mines south of the Strait of Hormuz and 2 other vessels were detained; the claim is unverified.",
-   "ar": "الحرس الثوري الإيراني يقول إن 4 ناقلات دُمّرت ولا تزال تحترق بعد اصطدامها بألغام بحرية جنوب مضيق هرمز، وإنه احتجز سفينتين أخريين؛ ولم يُتحقق من الادعاء.",
-   "source": {
-    "name": "investingLive",
-    "url": "https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/"
-   }
-  },
-  {
-   "id": "20261104-0340-eu-ukraine-cautious-roadmap",
-   "time": "2026-11-04T03:40:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "The European Commission's accession roadmap sets no entry date for Ukraine and targets provisional closure of 7 policy areas in 2027, against more than 20 for Moldova, Politico reports.",
-   "ar": "خريطة طريق الانضمام التي أعدّتها المفوضية الأوروبية لا تحدّد موعداً لدخول أوكرانيا وتستهدف إقفالاً مؤقتاً لـ7 مجالات في 2027، مقابل أكثر من 20 لمولدوفا، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico",
-    "url": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/"
-   }
-  },
-  {
-   "id": "20261104-0326-talarico-texas-senate",
-   "time": "2026-11-04T03:26:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat James Talarico defeats Republican Ken Paxton in Texas, the first Democrat elected to the US Senate from the state since 1988.",
-   "ar": "الديمقراطي جيمس تالاريكو يهزم الجمهوري كين باكستون في تكساس، ليصبح أول ديمقراطي يُنتخب لمجلس الشيوخ الأميركي عن الولاية منذ 1988.",
-   "source": {
-    "name": "Bloomberg"
-   }
-  },
-  {
-   "id": "20261104-0316-andrews-sc-senate",
-   "time": "2026-11-04T03:16:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Annie Andrews unseats Republican Sen. Darline Graham in South Carolina in an upset US Senate win.",
-   "ar": "الديمقراطية آني أندروز تُطيح بالسيناتورة الجمهورية دارلين غراهام في كارولاينا الجنوبية، في فوز مفاجئ بمقعد في مجلس الشيوخ الأميركي.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/darline-graham-annie-andrews-south-carolina-midterms-74fc0bf08f5822378fcfa2fe09377d69"
    }
   }
  ]
