@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-07T19:08:43Z",
+ "updated": "2026-11-07T20:07:35Z",
  "items": [
+  {
+   "id": "20261107-1949-herzog-taps-eisenkot",
+   "time": "2026-11-07T19:49:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "President Isaac Herzog says he will task Gadi Eisenkot on Sunday with forming Israel's next government, after Eisenkot won 67 recommendations to Netanyahu's 46; he will have 28 days.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يعلن أنه سيكلّف غادي آيزنكوت الأحد بتشكيل الحكومة المقبلة، بعد حصوله على 67 توصية مقابل 46 لنتنياهو، وأمامه 28 يوماً.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
+   }
+  },
+  {
+   "id": "20261107-1914-yashar-invites-likud",
+   "time": "2026-11-07T19:14:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's Yashar party calls Netanyahu's unity appeal hypocritical and invites Likud to join an Eisenkot-led government if it drops far-right and Haredi partners, per The Times of Israel.",
+   "ar": "حزب «يشار» بزعامة آيزنكوت يصف دعوة نتنياهو إلى الوحدة بالنفاق ويدعو الليكود إلى الانضمام لحكومة برئاسة آيزنكوت إذا تخلّى عن شركائه من اليمين المتطرف والحريديم، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-accuses-netanyahu-of-hypocrisy-for-urging-unity-government-invites-him-to-join-coalition-led-by-eisenkot-without-extremists/"
+   }
+  },
+  {
+   "id": "20261107-1907-trump-dana-white-press",
+   "time": "2026-11-07T19:07:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says he has asked UFC chief executive Dana White to become White House press secretary, as he reshuffles his team after the midterm losses.",
+   "ar": "ترامب يقول إنه طلب من الرئيس التنفيذي لـUFC دانا وايت تولّي منصب المتحدث الصحافي باسم البيت الأبيض، في إطار إعادة ترتيب فريقه بعد خسائر الانتخابات النصفية.",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+   }
+  },
   {
    "id": "20261107-1827-shas-eisenkot-utj",
    "time": "2026-11-07T18:27:00Z",
