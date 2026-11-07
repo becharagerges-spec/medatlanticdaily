@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T05:08:11Z",
+ "updated": "2026-11-07T06:08:30Z",
  "items": [
+  {
+   "id": "20261107-0517-riyadh-cruise-missile",
+   "time": "2026-11-07T05:17:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says its air defences intercepted and destroyed a Houthi cruise missile fired toward the Riyadh region on Saturday.",
+   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت ودمّرت صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض يوم السبت.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
+   }
+  },
   {
    "id": "20261107-0440-us-china-busan-call",
    "time": "2026-11-07T04:40:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "AsiaOne",
     "url": "https://www.asiaone.com/world/us-urges-china-meet-rare-earths-agriculture-commitments-ahead-trump-xi-meetings"
+   }
+  },
+  {
+   "id": "20261107-0303-nvidia-huang-spy-report",
+   "time": "2026-11-07T03:03:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "US officials believe Nvidia chief Jensen Huang had a romantic relationship with Megaspeed executive Alice Huang, whom US intelligence says works for China's Ministry of State Security, per the FT; Nvidia says the ties were business.",
+   "ar": "مسؤولون أميركيون يعتقدون أن رئيس «إنفيديا» جنسن هوانغ أقام علاقة عاطفية مع أليس هوانغ، المديرة في «ميغاسبيد»، التي تقول الاستخبارات الأميركية إنها تعمل لوزارة أمن الدولة الصينية، وفق «فايننشال تايمز»؛ و«إنفيديا» تقول إن العلاقة كانت تجارية.",
+   "source": {
+    "name": "Financial Times via The Edge Malaysia",
+    "url": "https://theedgemalaysia.com/node/824948"
    }
   },
   {
@@ -71,6 +95,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.pk/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-reports-3006344"
+   }
+  },
+  {
+   "id": "20261106-2204-kyiv-ballistic-north-bridge",
+   "time": "2026-11-06T22:04:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Russian ballistic missiles hit Kyiv overnight, damaging and closing the Northern Bridge, injuring 5 people including a child and disrupting power, heating and water, Mayor Vitali Klitschko says.",
+   "ar": "صواريخ باليستية روسية تضرب كييف ليلاً فتُلحق أضراراً بالجسر الشمالي وتُغلقه، وتُصيب 5 أشخاص بينهم طفل، وتعطّل الكهرباء والتدفئة والمياه، بحسب رئيس البلدية فيتالي كليتشكو.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
    }
   },
   {
@@ -1553,66 +1589,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/us-midterm-elections-live-updates"
-   }
-  },
-  {
-   "id": "20261104-0605-ghalibaf-no-to-war",
-   "time": "2026-11-04T06:05:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's top negotiator and parliament speaker Mohammad Bagher Ghalibaf says Americans voted 'NO TO WAR' in the midterms and warns Washington that betraying that will would bring a 'Nightmare'.",
-   "ar": "كبير المفاوضين الإيرانيين ورئيس البرلمان محمد باقر قاليباف يقول إن الأميركيين صوّتوا «لا للحرب» في الانتخابات النصفية، محذّراً واشنطن من أن خيانة هذه الإرادة ستقابَل بـ«كابوس».",
-   "source": {
-    "name": "AFP via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-says-americans-voted-no-to-war/"
-   }
-  },
-  {
-   "id": "20261104-0553-israel-cec-no-irregularities",
-   "time": "2026-11-04T05:53:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's Central Elections Committee says its review of protocols from 9,069 polling stations found nothing suggesting the vote was compromised; official results will be published as scheduled.",
-   "ar": "لجنة الانتخابات المركزية في إسرائيل تقول إن مراجعة محاضر 9,069 مركز اقتراع لم تكشف ما يشير إلى المساس بنزاهة التصويت، وإن النتائج الرسمية ستُنشر في موعدها.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/election-panel-says-probe-of-results-found-nothing-to-suggest-vote-was-compromised/"
-   }
-  },
-  {
-   "id": "20261104-0550-odesa-130-drones",
-   "time": "2026-11-04T05:50:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's air force says Russia launched 310 drones overnight, 272 of them downed, hitting energy sites in Zhytomyr, Kovel and Ternopil region; 2 people were injured in Dnipro.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 310 مسيّرات ليلاً أُسقطت منها 272، فأصابت منشآت طاقة في جيتومير وكوفيل ومنطقة ترنوبيل؛ وأُصيب شخصان في دنيبرو.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89068"
-   }
-  },
-  {
-   "id": "20261104-0531-trump-iran-war-gasoline",
-   "time": "2026-11-04T05:31:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump tells Fox News the Iran war played a role in Republican midterm losses, saying people backed his Iran policy but 'weren't willing to pay more for gasoline'.",
-   "ar": "ترامب يقول لـ«فوكس نيوز» إن الحرب على إيران أسهمت في خسائر الجمهوريين في الانتخابات النصفية، معتبراً أن الناس أيّدوا سياسته تجاه إيران لكنهم «لم يكونوا مستعدين لدفع المزيد ثمناً للوقود».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-admits-iran-war-played-role-in-republican-losses-people-werent-willing-to-pay-more-for-gasoline/"
-   }
-  },
-  {
-   "id": "20261104-0527-jackson-unseats-collins",
-   "time": "2026-11-04T05:27:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Troy Jackson defeats Republican Sen. Susan Collins in Maine, ending her five-term Senate career and adding another flip to the Democrats' new Senate majority.",
-   "ar": "الديمقراطي تروي جاكسون يهزم السيناتورة الجمهورية سوزان كولينز في ولاية مين، منهياً مسيرتها في مجلس الشيوخ بعد خمس ولايات، ومضيفاً مقعداً جديداً إلى الأغلبية الديمقراطية.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/news/maine-2026-senate-collins-jackson/"
    }
   }
  ]
