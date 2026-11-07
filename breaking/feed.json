@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-07T17:07:56Z",
+ "updated": "2026-11-07T18:08:26Z",
  "items": [
   {
    "id": "20261107-1537-krakow-shooting-5-dead",
    "time": "2026-11-07T15:37:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "A gunman firing from a passing car killed at least 5 people and wounded more than 12 in Krakow's Main Square before police shot and wounded him, Polish police say.",
-   "ar": "مسلّح أطلق النار من سيارة عابرة فقتل 5 أشخاص على الأقل وجرح أكثر من 12 في الساحة الرئيسية بكراكوف، قبل أن تطلق الشرطة النار عليه وتصيبه، وفق الشرطة البولندية.",
+   "en": "Krakow police raise the toll from a gunman's shooting spree in the Main Square to 6 dead and 15 wounded, and say the shooter, a 24-year-old Pole, acted alone.",
+   "ar": "شرطة كراكوف ترفع حصيلة إطلاق النار العشوائي في الساحة الرئيسية إلى 6 قتلى و15 جريحاً، وتقول إن المسلّح، وهو بولندي في الرابعة والعشرين، تصرّف بمفرده.",
    "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+    "name": "AP via WPXI",
+    "url": "https://www.wpxi.com/news/world/deaths-injuries/ZEY6TNS3L462POVEMBLA2I32GE/"
    }
   },
   {
@@ -90,11 +90,11 @@
    "time": "2026-11-07T11:49:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "The Houthi-run health ministry says strikes it blames on Saudi Arabia killed 22 people and wounded 30 in al-Shariya near Sanaa; Riyadh has not commented.",
-   "ar": "وزارة الصحة التابعة للحوثيين تقول إن غارات تنسبها إلى السعودية قتلت 22 شخصاً وجرحت 30 في الشريّة قرب صنعاء، ولم تعلّق الرياض.",
+   "en": "A Houthi official now says strikes near Sanaa that the Houthis blame on Saudi Arabia killed 25 people, up from 22, per AP.",
+   "ar": "مسؤول حوثي يقول الآن إن الغارات قرب صنعاء التي يحمّل الحوثيون السعودية مسؤوليتها أسفرت عن مقتل 25 شخصاً، بعدما كانت الحصيلة 22، بحسب «أسوشيتد برس».",
    "source": {
-    "name": "AP",
-    "url": "https://krmg.com/2026/11/07/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/"
+    "name": "AP via The Washington Post",
+    "url": "https://www.washingtonpost.com/world/2026/11/07/yemen-houthi-saudi-attacks/8f061d8c-daa2-11f1-930a-e08f8086f5ac_story.html"
    }
   },
   {
@@ -1521,18 +1521,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
-   }
-  },
-  {
-   "id": "20261104-1743-schumer-war-must-end",
-   "time": "2026-11-04T17:43:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Presumed incoming Senate majority leader Chuck Schumer says the Iran war 'must end' and that Congress's power of the purse can deter a president waging war without public consent.",
-   "ar": "زعيم الغالبية المرجّح في مجلس الشيوخ تشاك شومر يقول إن حرب إيران «يجب أن تنتهي»، وإن سلطة الكونغرس على التمويل قادرة على ردع رئيس يخوض حرباً من دون موافقة الشعب.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/schumer-says-senate-can-use-power-of-the-purse-to-stop-iran-war"
    }
   }
  ]
