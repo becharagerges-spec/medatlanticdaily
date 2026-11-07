@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-06T20:08:06Z",
+ "updated": "2026-11-07T03:08:46Z",
  "items": [
+  {
+   "id": "20261107-0001-centcom-20m-reward-iran-nuclear",
+   "time": "2026-11-07T00:01:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "US Central Command says the Rewards for Justice programme offers up to $20 million and possible relocation for information on Iran's nuclear programme, its facilities, equipment and scientists.",
+   "ar": "القيادة المركزية الأميركية تعلن أن برنامج «مكافآت من أجل العدالة» يعرض ما يصل إلى 20 مليون دولار وإمكان إعادة التوطين مقابل معلومات عن البرنامج النووي الإيراني ومنشآته ومعدّاته وعلمائه.",
+   "source": {
+    "name": "AFP via Breitbart",
+    "url": "https://www.breitbart.com/news/us-offers-20-mn-reward-for-info-on-irans-nuclear-program-centcom/"
+   }
+  },
+  {
+   "id": "20261106-2225-qatar-denies-talks-failed",
+   "time": "2026-11-06T22:25:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar's International Media Office calls reports that US-Iran talks have failed 'false and misleading', saying both sides are still working toward an agreement under Qatari mediation.",
+   "ar": "المكتب الإعلامي الدولي في قطر يصف التقارير عن فشل المفاوضات الأميركية الإيرانية بأنها «كاذبة ومضلِّلة»، مؤكداً أن الطرفين يواصلان العمل نحو اتفاق بوساطة قطرية.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.pk/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-reports-3006344"
+   }
+  },
+  {
+   "id": "20261106-2201-qeshm-strikes-trump-minor",
+   "time": "2026-11-06T22:01:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump says US forces carried out 'minor' strikes that knocked out an Iranian anti-aircraft device, after Iranian media reported 2 missiles hit the Suza area of Qeshm Island.",
+   "ar": "ترامب يقول إن القوات الأميركية نفّذت ضربات «محدودة» دمّرت منظومة إيرانية مضادة للطائرات، بعدما أفاد الإعلام الإيراني بسقوط صاروخين على منطقة سوزا في جزيرة قشم.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals-3010264"
+   }
+  },
   {
    "id": "20261106-1951-zelensky-warns-bridges-attack",
    "time": "2026-11-06T19:51:00Z",
@@ -11,6 +47,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/"
+   }
+  },
+  {
+   "id": "20261106-1945-paraguay-pena-removed",
+   "time": "2026-11-06T19:45:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Paraguay's Senate unanimously removes President Santiago Peña over the Ueno Bank collapse; Vice President Pedro Alliana is sworn in and prosecutors order Peña held under house arrest, AP reports.",
+   "ar": "مجلس الشيوخ في الباراغواي يعزل الرئيس سانتياغو بينيا بالإجماع على خلفية انهيار مصرف «أوينو»، ونائبه بيدرو أليانا يؤدي اليمين، والنيابة تأمر بوضع بينيا قيد الإقامة الجبرية، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via WHEC",
+    "url": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
    }
   },
   {
@@ -1644,126 +1692,6 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/darline-graham-annie-andrews-south-carolina-midterms-74fc0bf08f5822378fcfa2fe09377d69"
-   }
-  },
-  {
-   "id": "20261104-0231-asia-stocks-midterms",
-   "time": "2026-11-04T02:31:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "South Korea's Kospi falls 3.6% and Japan's Nikkei 3.5% as a Democratic midterm sweep looms; Nasdaq 100 futures drop 1.9% and the 10-year Treasury yield falls to 4.89%.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يهبط 3.6% ونيكي الياباني 3.5% مع اقتراب اكتساح ديمقراطي في الانتخابات النصفية، وعقود ناسداك 100 الآجلة تتراجع 1.9% وعائد سندات الخزانة لعشر سنوات ينخفض إلى 4.89%.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
-   }
-  },
-  {
-   "id": "20261104-0225-bottoms-georgia-governor",
-   "time": "2026-11-04T02:25:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Keisha Lance Bottoms wins Georgia's governor race, defeating Republican Rick Jackson and becoming the first Black woman elected governor in the US.",
-   "ar": "الديمقراطية كيشا لانس بوتومز تفوز بمنصب حاكم ولاية جورجيا متغلّبة على الجمهوري ريك جاكسون، لتصبح أول امرأة سوداء تُنتخب حاكمة ولاية في الولايات المتحدة.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
-   }
-  },
-  {
-   "id": "20261104-0209-democrats-win-house",
-   "time": "2026-11-04T02:09:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrats win control of the US House of Representatives, AP and CNN project, adding it to the Senate and taking full control of Congress from Trump's Republicans.",
-   "ar": "الديمقراطيون يفوزون بالسيطرة على مجلس النواب الأميركي بحسب توقعات «أسوشيتد برس» و«سي إن إن»، ليضيفوه إلى مجلس الشيوخ وينتزعوا السيطرة الكاملة على الكونغرس من جمهوريي ترامب.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
-   }
-  },
-  {
-   "id": "20261104-0208-iran-far-from-deal",
-   "time": "2026-11-04T02:08:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "A senior Iranian official tells Reuters Tehran and Washington remain far from a deal and nuclear talks can start only after Iran's conditions, including waived oil sanctions and an end to the naval blockade, are met.",
-   "ar": "مسؤول إيراني رفيع يقول لرويترز إن طهران وواشنطن لا تزالان بعيدتين عن اتفاق، وإن المحادثات النووية لن تبدأ إلا بعد تلبية شروط إيران، ومنها رفع العقوبات النفطية وإنهاء الحصار البحري.",
-   "source": {
-    "name": "Reuters via Internazionale",
-    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/04/iran-s-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies"
-   }
-  },
-  {
-   "id": "20261104-0126-cooper-nc-senate-flip",
-   "time": "2026-11-04T01:26:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Roy Cooper defeats Republican Michael Whatley in North Carolina, flipping a Republican-held US Senate seat in Democrats' bid for Senate control.",
-   "ar": "الديمقراطي روي كوبر يهزم الجمهوري مايكل واتلي في كارولاينا الشمالية، منتزعاً مقعداً جمهورياً في مجلس الشيوخ ضمن مسعى الديمقراطيين للسيطرة على المجلس.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/live/midterm-election-2026"
-   }
-  },
-  {
-   "id": "20261104-0123-pappas-nh-senate",
-   "time": "2026-11-04T01:23:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democratic Rep. Chris Pappas defeats former Republican Sen. John E. Sununu to hold New Hampshire's open US Senate seat for Democrats.",
-   "ar": "النائب الديمقراطي كريس باباس يهزم السيناتور الجمهوري السابق جون إي. سنونو، محتفظاً للديمقراطيين بمقعد نيوهامبشير الشاغر في مجلس الشيوخ.",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
-   }
-  },
-  {
-   "id": "20261104-0056-ossoff-georgia-senate",
-   "time": "2026-11-04T00:56:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democratic Sen. Jon Ossoff wins reelection in Georgia, defeating Republican Rep. Mike Collins in a key US Senate battleground.",
-   "ar": "السيناتور الديمقراطي جون أوسوف يفوز بولاية جديدة في جورجيا متغلّباً على النائب الجمهوري مايك كولينز في إحدى أبرز معارك مجلس الشيوخ.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/jewish-democratic-senator-jon-ossoff-wins-reelection-in-georgia-media-projects/"
-   }
-  },
-  {
-   "id": "20261103-2353-trump-no-immediate-iran-strike",
-   "time": "2026-11-03T23:53:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump tells the Financial Times the US has no immediate plan to strike Iran and 'seems to be getting everything we want' in talks, but is 'locked and loaded' if needed.",
-   "ar": "ترامب يقول لـ«فايننشال تايمز» إن واشنطن لا تخطط لضرب إيران فوراً وإنها «تحصل على كل ما تريده» في المفاوضات، لكنها «جاهزة تماماً» إذا لزم الأمر.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-us-has-no-immediate-plan-to-strike-iran-but-locked-and-loaded-if-needed/"
-   }
-  },
-  {
-   "id": "20261103-2253-tanker-lima-oman-projectiles",
-   "time": "2026-11-03T22:53:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a tanker was struck by 2 unidentified projectiles that penetrated its engine room about 14 nautical miles northeast of Lima, Oman; no casualties reported.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة أُصيبت بمقذوفين مجهولين اخترقا غرفة المحرّكات على بُعد نحو 14 ميلاً بحرياً شمال شرق ليما في عُمان، من دون إصابات.",
-   "source": {
-    "name": "Trend",
-    "url": "https://www.trend.az/world/4242565.html"
-   }
-  },
-  {
-   "id": "20261103-2112-spain-puente-resigns",
-   "time": "2026-11-03T21:12:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Spain's Transport Minister Óscar Puente resigns over the Urda high-speed train crash near Toledo that killed 69 people and injured about 200.",
-   "ar": "وزير النقل الإسباني أوسكار بوينتي يستقيل على خلفية حادث قطار أوردا السريع قرب طليطلة الذي أودى بحياة 69 شخصاً وأصاب نحو 200.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
    }
   }
  ]
