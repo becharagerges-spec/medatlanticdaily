@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:07:42Z",
+ "updated": "2026-11-07T17:07:56Z",
  "items": [
   {
    "id": "20261107-1537-krakow-shooting-5-dead",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+   }
+  },
+  {
+   "id": "20261107-1449-zelensky-abu-dhabi-talks",
+   "time": "2026-11-07T14:49:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Russia fired 36 ballistic missiles and 172 drones overnight to pressure Kyiv before US-Russia-Ukraine talks in Abu Dhabi next Tuesday and Wednesday, and urges faster Patriot deliveries.",
+   "ar": "زيلينسكي يقول إن روسيا أطلقت 36 صاروخاً باليستياً و172 مسيّرة ليلاً للضغط على كييف قبل المحادثات الأميركية-الروسية-الأوكرانية في أبوظبي الثلاثاء والأربعاء المقبلين، ويطالب بتسريع تسليم صواريخ باتريوت.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/world/zelensky-says-russia-ramping-up-strikes-to-pressure-ukraine-at-talks-3010331"
+   }
+  },
+  {
+   "id": "20261107-1424-iraq-fm-border-crossings",
+   "time": "2026-11-07T14:24:00Z",
+   "theater": "iraq",
+   "status": "reported",
+   "en": "Iraqi Foreign Minister Fuad Hussein tells Al Jazeera that Washington formally asked Iraq to close all but 2 border crossings with Iran, and that the Hormuz shutdown cost Iraq about $60 billion.",
+   "ar": "وزير الخارجية العراقي فؤاد حسين يقول لـ«الجزيرة» إن واشنطن طلبت رسمياً من العراق إغلاق كل المعابر الحدودية مع إيران باستثناء معبرين، وإن إغلاق هرمز كلّف العراق نحو 60 مليار دولار.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours"
    }
   },
   {
@@ -1509,30 +1533,6 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/schumer-says-senate-can-use-power-of-the-purse-to-stop-iran-war"
-   }
-  },
-  {
-   "id": "20261104-1701-brent-slides-94",
-   "time": "2026-11-04T17:01:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Brent crude falls 8.5% to $94.83 a barrel and WTI 7.5% to $88.88 after the Democratic midterm sweep and amid Iran uncertainty, both down over 15% this week, per The National.",
-   "ar": "خام برنت يتراجع 8.5% إلى 94.83 دولاراً للبرميل وخام غرب تكساس 7.5% إلى 88.88 دولاراً بعد اكتساح الديمقراطيين للانتخابات النصفية ووسط الغموض حول إيران، بخسارة تفوق 15% هذا الأسبوع («ذا ناشونال»).",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
-   }
-  },
-  {
-   "id": "20261104-1609-irgc-mq1-qeshm",
-   "time": "2026-11-04T16:09:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over Qeshm Island in the Strait of Hormuz, the 15th of the type in the war; there is no US confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم في مضيق هرمز، وهي الخامسة عشرة من نوعها خلال الحرب؛ ولا تأكيد أميركياً.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
    }
   }
  ]
