@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T15:08:19Z",
+ "updated": "2026-11-07T16:07:42Z",
  "items": [
+  {
+   "id": "20261107-1537-krakow-shooting-5-dead",
+   "time": "2026-11-07T15:37:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "A gunman firing from a passing car killed at least 5 people and wounded more than 12 in Krakow's Main Square before police shot and wounded him, Polish police say.",
+   "ar": "مسلّح أطلق النار من سيارة عابرة فقتل 5 أشخاص على الأقل وجرح أكثر من 12 في الساحة الرئيسية بكراكوف، قبل أن تطلق الشرطة النار عليه وتصيبه، وفق الشرطة البولندية.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+   }
+  },
   {
    "id": "20261107-1330-centcom-task-force-iron-gate",
    "time": "2026-11-07T13:30:00Z",
@@ -1521,30 +1533,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261104-1556-kyiv-power-water-outages",
-   "time": "2026-11-04T15:56:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russian attacks cut power and water for hours across Kyiv and surrounding regions on Wednesday before supplies were restored, Kyiv's water utility and energy firm DTEK say.",
-   "ar": "الهجمات الروسية تقطع الكهرباء والمياه لساعات في كييف والمناطق المحيطة بها الأربعاء قبل إعادتها، بحسب مرفق المياه في كييف وشركة الطاقة «دي تي إي كي».",
-   "source": {
-    "name": "AP via Arab News",
-    "url": "https://www.arabnews.com/world/russian-attacks-disrupt-power-in-kyiv-while-the-death-toll-in-a-stricken-village-rises-to-40-3009796"
-   }
-  },
-  {
-   "id": "20261104-1552-vance-war-midterm-loss",
-   "time": "2026-11-04T15:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Vice President JD Vance says on X that 'the reason we lost is the war,' blaming the Iran war for the Republican midterm defeat and urging a rethink of ties with Israel.",
-   "ar": "نائب الرئيس الأميركي جي دي فانس يقول على منصة إكس إن «سبب خسارتنا هو الحرب»، محمّلاً حرب إيران مسؤولية هزيمة الجمهوريين في الانتخابات النصفية، وداعياً إلى مراجعة العلاقة مع إسرائيل.",
-   "source": {
-    "name": "AFP via Insider Paper",
-    "url": "https://insiderpaper.com/us-vp-vance-says-iran-war-is-the-reason-we-lost-midterms/"
    }
   }
  ]
