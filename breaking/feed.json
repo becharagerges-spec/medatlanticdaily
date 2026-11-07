@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T11:07:17Z",
+ "updated": "2026-11-07T12:09:26Z",
  "items": [
+  {
+   "id": "20261107-1118-araghchi-12-ministers",
+   "time": "2026-11-07T11:18:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says he held talks with 12 foreign ministers over 48 hours, including Saudi Arabia, Qatar and Turkey, and calls for regional security without outside powers.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إنه أجرى محادثات مع 12 وزير خارجية خلال 48 ساعة، بينهم السعودية وقطر وتركيا، ويدعو إلى ترتيبات أمن إقليمي من دون قوى من خارج المنطقة.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/07/irans-araghchi-holds-talks-with-12-foreign-ministers-to-defuse-tensions/"
+   }
+  },
   {
    "id": "20261107-0901-da-wins-nelson-mandela-bay",
    "time": "2026-11-07T09:01:00Z",
