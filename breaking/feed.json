@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T14:09:27Z",
+ "updated": "2026-11-07T15:08:19Z",
  "items": [
+  {
+   "id": "20261107-1330-centcom-task-force-iron-gate",
+   "time": "2026-11-07T13:30:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "US Central Command says it has set up Task Force Iron Gate to disrupt weapons, sanctioned goods and illicit revenue moving across Iran's land borders and the Caspian Sea.",
+   "ar": "القيادة المركزية الأميركية تعلن إنشاء «قوة المهام البوابة الحديدية» لتعطيل نقل الأسلحة والمواد الخاضعة للعقوبات والعائدات غير المشروعة عبر حدود إيران البرية وبحر قزوين.",
+   "source": {
+    "name": "US Central Command",
+    "url": "https://x.com/CENTCOM/status/2119059918120526182"
+   }
+  },
   {
    "id": "20261107-1325-gaza-rain-70000-tents",
    "time": "2026-11-07T13:25:00Z",
@@ -1533,42 +1545,6 @@
    "source": {
     "name": "AFP via Insider Paper",
     "url": "https://insiderpaper.com/us-vp-vance-says-iran-war-is-the-reason-we-lost-midterms/"
-   }
-  },
-  {
-   "id": "20261104-1507-johnson-quits-gop-leadership",
-   "time": "2026-11-04T15:07:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "House Speaker Mike Johnson will not seek reelection as House Republican leader after the party's midterm defeat and will remain a rank-and-file member from Louisiana.",
-   "ar": "رئيس مجلس النواب الأميركي مايك جونسون لن يترشّح مجدداً لزعامة الجمهوريين في المجلس بعد هزيمة حزبه في الانتخابات النصفية، وسيبقى نائباً عادياً عن لويزيانا.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
-   }
-  },
-  {
-   "id": "20261104-1436-houthis-claim-riyadh-airport",
-   "time": "2026-11-04T14:36:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi spokesman Yahya Saree claims a ballistic missile caused 'extensive damage' at Riyadh's King Khalid airport and urges airlines to avoid Saudi airspace; Saudi authorities have not commented.",
-   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم أن صاروخاً باليستياً أحدث «أضراراً واسعة» في مطار الملك خالد في الرياض، ويدعو شركات الطيران إلى تجنّب الأجواء السعودية؛ ولم تعلّق السلطات السعودية.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261104-1435-odeh-shin-bet-funds",
-   "time": "2026-11-04T14:35:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "A Joint List spokesperson confirms former leader Ayman Odeh is suspected in a Shin Bet election-interference probe of receiving foreign funds; Odeh calls it 'political persecution.'",
-   "ar": "متحدث باسم القائمة المشتركة يؤكد أن رئيسها السابق أيمن عودة مشتبه به في تحقيق للشاباك حول التدخل في الانتخابات بتلقي أموال من الخارج، وعودة يصف ذلك بـ«الملاحقة السياسية».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913837"
    }
   }
  ]
