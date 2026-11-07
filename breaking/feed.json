@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-07T18:08:26Z",
+ "updated": "2026-11-07T19:08:43Z",
  "items": [
+  {
+   "id": "20261107-1827-shas-eisenkot-utj",
+   "time": "2026-11-07T18:27:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "A Shas source tells Channel 12 the party will not oppose an Eisenkot-led government that includes United Torah Judaism if UTJ's spiritual leader approves; Shas calls the report 'fake news'.",
+   "ar": "مصدر في «شاس» يقول للقناة 12 إن الحزب لن يعارض حكومة برئاسة آيزنكوت تضمّ «يهدوت هتوراه» إذا وافق مرجعها الروحي، فيما تصف «شاس» التقرير بأنه «أخبار كاذبة».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/shas-reportedly-wont-seek-to-thwart-utj-from-joining-eisenkot-led-government/"
+   }
+  },
+  {
+   "id": "20261107-1812-france-protests-250000",
+   "time": "2026-11-07T18:12:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "French student unions say about 250,000 people joined Saturday's nationwide protests against the rising cost of living and in support of the youth movement.",
+   "ar": "اتحادات طلابية فرنسية تقول إن نحو 250 ألف شخص شاركوا في احتجاجات السبت على مستوى البلاد ضد غلاء المعيشة ودعماً للحراك الشبابي.",
+   "source": {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience"
+   }
+  },
+  {
+   "id": "20261107-1808-netanyahu-unity-demand",
+   "time": "2026-11-07T18:08:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu demands a 'national unity' government that includes Religious Zionism, Otzma Yehudit and the ultra-Orthodox parties alongside Likud, and claims Arab parties 'want to eliminate Israel'.",
+   "ar": "نتنياهو يطالب بحكومة «وحدة وطنية» تضمّ «الصهيونية الدينية» و«عوتسما يهوديت» والأحزاب الحريدية إلى جانب الليكود، ويزعم أن الأحزاب العربية «تريد القضاء على إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-demands-national-unity-government-as-he-claims-arab-parties-want-to-eliminate-israel/"
+   }
+  },
+  {
+   "id": "20261107-1614-houthis-claim-aramco-riyadh",
+   "time": "2026-11-07T16:14:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi military spokesman Yahya Saree claims 6 missile and drone operations against Aramco oil facilities, Riyadh airport and Saudi troops; Saudi Arabia has not confirmed any hits.",
+   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يعلن تنفيذ 6 عمليات بالصواريخ والمسيّرات استهدفت منشآت نفطية لأرامكو ومطار الرياض وقوات سعودية، من دون تأكيد سعودي لأي إصابات.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-attacked-riyadh-airport-aramco-oil-sites-and-saudi-troops/"
+   }
+  },
+  {
+   "id": "20261107-1602-paris-probe-bomb-threats",
+   "time": "2026-11-07T16:02:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Paris prosecutors open an investigation into false bomb threats against dozens of commercial flights in Europe over the past week, including any links to foreign powers.",
+   "ar": "النيابة العامة في باريس تفتح تحقيقاً في تهديدات كاذبة بالقنابل استهدفت عشرات الرحلات التجارية في أوروبا خلال الأسبوع الماضي، بما في ذلك أي صلة بقوى أجنبية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/france-investigating-if-airline-bomb-threats-linked-to-foreign-powers/"
+   }
+  },
   {
    "id": "20261107-1537-krakow-shooting-5-dead",
    "time": "2026-11-07T15:37:00Z",
@@ -66,11 +126,11 @@
    "time": "2026-11-07T13:21:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Hundreds of Syrian troops have deployed on both sides of the Saudi-Yemeni border and thousands more are set to follow to fight the Houthis, Yemeni military and government sources tell AFP.",
-   "ar": "مئات الجنود السوريين انتشروا على جانبي الحدود السعودية اليمنية وآلاف آخرون سيلحقون بهم لقتال الحوثيين، بحسب مصادر عسكرية وحكومية يمنية لوكالة فرانس برس.",
+   "en": "Yemeni military and government sources tell AFP hundreds of Syrian troops have deployed on the Saudi-Yemeni border to fight the Houthis; a Syrian diplomatic source tells SANA Syria has no plans to send troops to Yemen.",
+   "ar": "مصادر عسكرية وحكومية يمنية تقول لفرانس برس إن مئات الجنود السوريين انتشروا على الحدود السعودية اليمنية لقتال الحوثيين، فيما ينفي مصدر دبلوماسي سوري لـ«سانا» وجود أي خطط لإرسال قوات إلى اليمن.",
    "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/syria-to-send-thousands-of-troops-to-yemen-and-saudi-arabia-to-help-fight-houthis-sources-say"
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-914141"
    }
   },
   {
@@ -1485,42 +1545,6 @@
    "source": {
     "name": "ABC News",
     "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
-   }
-  },
-  {
-   "id": "20261104-1905-rezaei-strategic-defeat",
-   "time": "2026-11-04T19:05:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Supreme National Security Council head Mohsen Rezaei says Iran dealt Trump a strategic defeat on the battlefield and in Hormuz and a political defeat in Washington, per CBS News.",
-   "ar": "رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول إن إيران ألحقت بترامب هزيمة استراتيجية في الميدان وفي هرمز وهزيمة سياسية في واشنطن، بحسب «سي بي إس نيوز».",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261104-1843-treasury-sanctions-india-network",
-   "time": "2026-11-04T18:43:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Treasury sanctions an India-based network run by Suniel Kumar Sharma and Jaspreet Preeti Shahid, accusing it of supplying false flags and fake certifications to Iran's shadow fleet.",
-   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على شبكة مقرّها الهند يديرها سونيل كومار شارما وجاسبريت بريتي شاهد، متهمةً إياها بتأمين أعلام مزيّفة وشهادات مزوّرة لأسطول الظل الإيراني.",
-   "source": {
-    "name": "US Treasury",
-    "url": "https://x.com/USTreasury/status/2118051503982383268"
-   }
-  },
-  {
-   "id": "20261104-1841-trump-war-worth-it-hegseth",
-   "time": "2026-11-04T18:41:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says the Iran war hurt Republicans in the midterms by raising gasoline prices but was worth it, and says he is not considering replacing Defense Secretary Pete Hegseth.",
-   "ar": "ترامب يقرّ بأن الحرب على إيران أضرّت بالجمهوريين في الانتخابات النصفية عبر رفع أسعار الوقود لكنه يعتبرها مستحقة، ويؤكد أنه لا يفكّر في استبدال وزير الدفاع بيت هيغسيث.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
    }
   }
  ]
