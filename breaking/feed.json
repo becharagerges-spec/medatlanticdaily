@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T04:08:43Z",
+ "updated": "2026-11-07T05:08:11Z",
  "items": [
+  {
+   "id": "20261107-0440-us-china-busan-call",
+   "time": "2026-11-07T04:40:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "US Treasury Secretary Scott Bessent and trade envoy Jamieson Greer press Chinese Vice Premier He Lifeng in a call to implement the Busan deal on rare earths and farm purchases 'immediately'.",
+   "ar": "وزير الخزانة الأميركي سكوت بيسنت والممثل التجاري جيميسون غرير يضغطان في اتصال على نائب رئيس الوزراء الصيني هي ليفنغ لتنفيذ اتفاق بوسان بشأن المعادن النادرة والمشتريات الزراعية «فوراً».",
+   "source": {
+    "name": "AsiaOne",
+    "url": "https://www.asiaone.com/world/us-urges-china-meet-rare-earths-agriculture-commitments-ahead-trump-xi-meetings"
+   }
+  },
   {
    "id": "20261107-0044-trump-cabinet-changes",
    "time": "2026-11-07T00:44:00Z",
@@ -71,6 +83,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals-3010264"
+   }
+  },
+  {
+   "id": "20261106-2130-riyadh-drone-intercepted",
+   "time": "2026-11-06T21:30:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says air defences intercepted and destroyed a drone in the Riyadh region late on Friday, hours after downing a drone over Mecca and 2 missiles aimed at Najran.",
+   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية اعترضت ودمّرت مسيّرة في منطقة الرياض مساء الجمعة، بعد ساعات من إسقاط مسيّرة فوق مكة وصاروخين باتجاه نجران.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-drone-in-riyadh-region-3010236"
    }
   },
   {
@@ -1589,75 +1613,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/news/maine-2026-senate-collins-jackson/"
-   }
-  },
-  {
-   "id": "20261104-0438-democrats-win-senate",
-   "time": "2026-11-04T04:38:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrats win control of the US Senate in the midterm elections, adding it to the House and handing Trump a divided Congress for his final two years.",
-   "ar": "الديمقراطيون يفوزون بالسيطرة على مجلس الشيوخ الأميركي في الانتخابات النصفية، إلى جانب مجلس النواب، فيواجه ترامب كونغرس منقسماً في عاميه الأخيرين.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
-   }
-  },
-  {
-   "id": "20261104-0436-turek-iowa-senate",
-   "time": "2026-11-04T04:36:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Democrat Josh Turek defeats Republican Rep. Ashley Hinson in Iowa's US Senate race, the state's first Democratic Senate win since 2008, Politico reports.",
-   "ar": "الديمقراطي جوش توريك يهزم النائبة الجمهورية آشلي هينسون في سباق مجلس الشيوخ في أيوا، أول فوز ديمقراطي بالولاية منذ 2008، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0429-crowley-wisconsin-governor",
-   "time": "2026-11-04T04:29:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Democrat David Crowley defeats Republican Tom Tiffany in Wisconsin's governor race, becoming the first Black person elected to the post, Politico reports.",
-   "ar": "الديمقراطي ديفيد كراولي يهزم الجمهوري توم تيفاني في سباق حاكم ولاية ويسكونسن، ليصبح أول أسود يُنتخب لهذا المنصب، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0425-hamilton-kansas-senate",
-   "time": "2026-11-04T04:25:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Adam Hamilton ousts Republican Sen. Roger Marshall in Kansas, the first Democrat the state has elected to the US Senate in 94 years.",
-   "ar": "الديمقراطي آدم هاميلتون يطيح بالسيناتور الجمهوري روجر مارشال في كانساس، أول ديمقراطي تنتخبه الولاية لمجلس الشيوخ منذ 94 عاماً.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261104-0420-hinojosa-texas-governor",
-   "time": "2026-11-04T04:20:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Gina Hinojosa defeats Republican Gov. Greg Abbott to win the Texas governorship in an upset.",
-   "ar": "الديمقراطية جينا هينوخوسا تهزم الحاكم الجمهوري غريغ أبوت وتفوز بمنصب حاكم تكساس في مفاجأة انتخابية.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/live/midterm-election-2026"
-   }
-  },
-  {
-   "id": "20261104-0411-brown-ohio-senate",
-   "time": "2026-11-04T04:11:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Sherrod Brown defeats Republican Sen. Jon Husted in Ohio, flipping a Republican-held US Senate seat two years after losing his own.",
-   "ar": "الديمقراطي شيرود براون يهزم السيناتور الجمهوري جون هستد في أوهايو، منتزعاً مقعداً جمهورياً في مجلس الشيوخ بعد عامين من خسارته مقعده.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/election-2026-ohio-senate-brown-husted-9e7ae9e1715c0e8203614aea6f71666d"
    }
   }
  ]
