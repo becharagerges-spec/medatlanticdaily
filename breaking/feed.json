@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-08T17:07:53Z",
+ "updated": "2026-11-08T18:08:42Z",
  "items": [
+  {
+   "id": "20261108-1800-trump-cnn-iran-unlikely",
+   "time": "2026-11-08T18:00:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells CNN new US strikes on Iran are 'highly unlikely' if talks progress toward a 'very strong agreement', but says 38 Iranian bridges could be hit within an hour.",
+   "ar": "ترامب يقول لـCNN إن ضربات أميركية جديدة على إيران «مستبعدة جداً» إذا تقدّمت المحادثات نحو «اتفاق قوي جداً»، لكنه يؤكد أن 38 جسراً إيرانياً يمكن ضربها خلال ساعة.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/trump-says-he-is-unlikely-to-order-iran-attack-if-talks-progress-cnn-reports/3093772/"
+   }
+  },
+  {
+   "id": "20261108-1705-araghchi-two-day-proposal",
+   "time": "2026-11-08T17:05:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says Iran's '2-day proposal' stands: the US must meet its requirements, including an end to war on all fronts, or 'choose war'.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن «مقترح اليومين» لا يزال قائماً: على واشنطن تلبية الشروط، ومنها إنهاء الحرب على كل الجبهات، أو «اختيار الحرب».",
+   "source": {
+    "name": "Abbas Araghchi on X",
+    "url": "https://x.com/araghchi/status/2119476334250373250"
+   }
+  },
+  {
+   "id": "20261108-1541-pezeshkian-fuel-conservation",
+   "time": "2026-11-08T15:41:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian President Masoud Pezeshkian urges Iranians to cut electricity and gas use to protect industry, blaming US-Israeli attacks for problems in gas production.",
+   "ar": "الرئيس الإيراني مسعود بزشكيان يدعو الإيرانيين إلى خفض استهلاك الكهرباء والغاز لحماية الصناعة، محمّلاً الهجمات الأميركية الإسرائيلية مسؤولية مشكلات إنتاج الغاز.",
+   "source": {
+    "name": "WebIndia123",
+    "url": "https://news.webindia123.com/news/Articles/World/20261108/4517439.html"
+   }
+  },
   {
    "id": "20261108-1532-egypt-giza-train-collision",
    "time": "2026-11-08T15:32:00Z",
@@ -10,6 +46,18 @@
    "ar": "ارتفاع حصيلة اصطدام قطارين في محافظة الجيزة المصرية إلى 7 قتلى على الأقل وأكثر من 100 جريح، بعدما اصطدم قطار متجه إلى الفيوم بمؤخرة قطار متجه إلى أسوان.",
    "source": {
     "name": "AP"
+   }
+  },
+  {
+   "id": "20261108-1524-deri-quits-knesset-slate",
+   "time": "2026-11-08T15:24:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Shas leader Aryeh Deri and MKs Dror Amos and Moshe Abutbul withdraw from the party's Knesset slate; Deri stays party chairman but will not sit in the 26th Knesset.",
+   "ar": "زعيم «شاس» أرييه درعي والنائبان درور عاموس وموشيه أبوطبول ينسحبون من لائحة الحزب للكنيست؛ درعي يبقى رئيساً للحزب لكنه لن يكون عضواً في الكنيست الـ26.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/lk3um4o2r"
    }
   },
   {
@@ -34,6 +82,18 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+   }
+  },
+  {
+   "id": "20261108-1246-zelensky-week-115-missiles",
+   "time": "2026-11-08T12:46:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Russia fired 115 missiles, nearly 1,900 guided bombs and over 3,000 strike drones at Ukraine this week, and urges a strong 22nd EU sanctions package.",
+   "ar": "زيلينسكي يقول إن روسيا أطلقت هذا الأسبوع 115 صاروخاً ونحو 1900 قنبلة موجّهة وأكثر من 3000 مسيّرة هجومية على أوكرانيا، ويطالب بحزمة عقوبات أوروبية 22 قوية.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89479"
    }
   },
   {
@@ -1377,53 +1437,6 @@
    "ar": "الديمقراطيون سيشغلون 250 مقعداً على الأقل في مجلس النواب الأميركي اعتباراً من كانون الثاني، في أكبر أغلبية لهم منذ انتخابات 2008، بحسب توقعات «سي إن إن».",
    "source": {
     "name": "CNN"
-   }
-  },
-  {
-   "id": "20261105-1802-us-iran-deportation-talks",
-   "time": "2026-11-05T18:02:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Court documents unsealed Thursday show the Trump administration held talks with Iran during the war on deporting Iranians, and as recently as mid-October planned to deport them via an unnamed third country, AP reports.",
-   "ar": "وثائق قضائية كُشف عنها الخميس تُظهر أن إدارة ترامب أجرت محادثات مع إيران خلال الحرب بشأن ترحيل إيرانيين، وكانت حتى منتصف تشرين الأول تخطط لترحيلهم عبر دولة ثالثة لم تُسمَّ، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/iran-immigration-deportation-flights-emails-1f245367d432b2683a546936014a1f90"
-   }
-  },
-  {
-   "id": "20261105-1752-dhillon-resigns-doj",
-   "time": "2026-11-05T17:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Harmeet Dhillon resigns as head of the Justice Department's Civil Rights Division, among the first senior Trump officials to leave after the midterms, Attorney General Todd Blanche confirms.",
-   "ar": "هارميت ديلون تستقيل من رئاسة قسم الحقوق المدنية في وزارة العدل الأميركية، لتكون من أوائل كبار مسؤولي إدارة ترامب المغادرين بعد الانتخابات النصفية، والمدعي العام تود بلانش يؤكد رحيلها.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261105-1734-sp500-falls-3-ai-chips",
-   "time": "2026-11-05T17:34:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The S&P 500 closes down 4.4% at 7,353.73, its worst day since April 2025, while the Nasdaq falls 5.5% and the Dow 3.4% as AI stocks sell off, AP reports.",
-   "ar": "مؤشر ستاندرد آند بورز 500 يغلق متراجعاً 4.4% عند 7,353.73 نقطة، في أسوأ يوم له منذ نيسان 2025، فيما يهبط ناسداك 5.5% وداو جونز 3.4% مع موجة بيع لأسهم الذكاء الاصطناعي، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/business/2026/11/06/japans-nikkei-falls-more-than-6-as-asian-benchmarks-tumble-after-wall-street-drop/"
-   }
-  },
-  {
-   "id": "20261105-1721-putin-meets-rezaei",
-   "time": "2026-11-05T17:21:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Putin meets Iran's security council head Mohsen Rezaei in Moscow, who delivers a message from Mojtaba Khamenei; Rezaei says they discussed gas pipelines from Russia to Iran.",
-   "ar": "بوتين يستقبل في موسكو رئيس المجلس الأعلى للأمن القومي الإيراني محسن رضائي الذي نقل رسالة من مجتبى خامنئي، ورضائي يقول إنهما بحثا مدّ أنابيب غاز من روسيا إلى إيران.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
    }
   }
  ]
