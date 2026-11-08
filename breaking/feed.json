@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T07:08:29Z",
+ "updated": "2026-11-08T08:07:44Z",
  "items": [
+  {
+   "id": "20261108-0752-iran-executes-three-protesters",
+   "time": "2026-11-08T07:52:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran executes 3 men the judiciary says carried out operations for Israel and the United States during January's anti-government protests in Karaj.",
+   "ar": "إيران تُعدم 3 رجال تقول السلطة القضائية إنهم نفّذوا عمليات لصالح إسرائيل والولايات المتحدة خلال احتجاجات كانون الثاني المناهضة للحكومة في كرج.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.pk/middle-east/iran-executes-three-men-linked-to-anti-government-protests-3006432"
+   }
+  },
   {
    "id": "20261108-0631-us-expels-lebanon-consul-detroit",
    "time": "2026-11-08T06:31:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4182552-adf-neutralises-137-of-164-russian-drones-overnight.html"
+   }
+  },
+  {
+   "id": "20261108-0615-riyadh-two-ballistic-missiles",
+   "time": "2026-11-08T06:15:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted 2 Houthi ballistic missiles fired at Riyadh after loud booms in the capital, and later 2 cruise missiles over Riyadh and the south.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخين باليستيين أطلقهما الحوثيون نحو الرياض بعد دويّ انفجارات في العاصمة، ثم صاروخَي كروز فوق الرياض والجنوب.",
+   "source": {
+    "name": "Reuters via Internazionale",
+    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/08/loud-booms-heard-in-saudi-capital-riyadh-after-early-warning-alert-issued"
    }
   },
   {
@@ -1485,30 +1509,6 @@
    "source": {
     "name": "France 24",
     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
-   }
-  },
-  {
-   "id": "20261105-0807-rheinmetall-falls-14",
-   "time": "2026-11-05T08:07:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Rheinmetall shares fall 14% after the German arms maker cuts its 2026 sales forecast for the second time in three months, while Europe's STOXX 600 rises 0.5%.",
-   "ar": "سهم «راينميتال» يتراجع 14% بعدما خفّضت شركة السلاح الألمانية توقعات مبيعاتها لعام 2026 للمرة الثانية خلال ثلاثة أشهر، فيما يرتفع مؤشر «ستوكس 600» الأوروبي 0.5%.",
-   "source": {
-    "name": "Reuters via 93.3 The Drive",
-    "url": "https://www.933thedrive.com/2026/11/05/european-shares-rise-on-mining-gains-tech-lags/"
-   }
-  },
-  {
-   "id": "20261105-0729-utj-no-recommendation",
-   "time": "2026-11-05T07:29:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "United Torah Judaism's 7 MKs decline to recommend any candidate for prime minister in talks with President Herzog, tying support for any government to a yeshiva draft-exemption law, per Times of Israel.",
-   "ar": "نواب «يهدوت هتوراه» السبعة يمتنعون عن التوصية بأي مرشح لرئاسة الحكومة أمام الرئيس هرتسوغ، ويربطون دعمهم لأي حكومة بقانون يُعفي طلاب المدارس الدينية من التجنيد، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations"
    }
   }
  ]
