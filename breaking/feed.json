@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:08:47Z",
+ "updated": "2026-11-08T10:08:00Z",
  "items": [
   {
    "id": "20261108-0859-ukraine-5-killed-day",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+   }
+  },
+  {
+   "id": "20261108-0838-south-lebanon-shelling-zawtar",
+   "time": "2026-11-08T08:38:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli artillery shells areas between Mayfadoun, Upper Nabatieh and East Zawtar in south Lebanon, after overnight shelling and demolition blasts near Zawtar and al-Qantara, per IMLebanon.",
+   "ar": "المدفعية الإسرائيلية تقصف المناطق الواقعة بين ميفدون والنبطية الفوقا وزوطر الشرقية في جنوب لبنان، بعد قصف وتفجيرات ليلية قرب زوطر والقنطرة، وفق «IMLebanon».",
+   "source": {
+    "name": "IMLebanon",
+    "url": "https://www.imlebanon.org/2026/11/08/south45-106/"
    }
   },
   {
@@ -1473,42 +1485,6 @@
    "source": {
     "name": "Asharq Al-Awsat",
     "url": "https://english.aawsat.com/gulf/5337873-coalition-intercepts-destroys-houthi-ballistic-missile-fired-madinah"
-   }
-  },
-  {
-   "id": "20261105-0950-europe-flight-bomb-threats-2",
-   "time": "2026-11-05T09:50:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Bomb threats disrupt European flights for the second time this week: an Aer Lingus Dublin–Rome jet with 151 passengers is diverted to Évreux, France, and 3 Ryanair flights make emergency landings in Sofia.",
-   "ar": "تهديدات بوجود قنابل تُربك رحلات جوية أوروبية للمرة الثانية هذا الأسبوع: تحويل طائرة لـ«إير لينغوس» من دبلن إلى روما وعلى متنها 151 راكباً إلى إيفرو في فرنسا، وهبوط اضطراري لـ3 رحلات لـ«رايان إير» في صوفيا.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/flight-diverted-france-bomb-threat-dublin-rome-6585ff565ee1ccb9f19b73074aa2fec4"
-   }
-  },
-  {
-   "id": "20261105-0943-opposition-ohana-speaker-vote",
-   "time": "2026-11-05T09:43:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's opposition leaders ask Knesset Speaker Amir Ohana to hold the vote on a new speaker as early as Tuesday's swearing-in; Ohana says it waits for a new government unless a majority of MKs demands it.",
-   "ar": "قادة المعارضة الإسرائيلية يطالبون رئيس الكنيست أمير أوحانا بإجراء التصويت على رئيس جديد للكنيست يوم الثلاثاء مع أداء اليمين؛ وأوحانا يردّ بأنه ينتظر تشكيل حكومة جديدة ما لم تطلب ذلك أغلبية النواب.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-913918"
-   }
-  },
-  {
-   "id": "20261105-0913-russia-claims-odesa-ship",
-   "time": "2026-11-05T09:13:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Russia's Defence Ministry says it hit a dry cargo ship carrying military equipment 52 km southwest of Odesa and a Nova Poshta delivery terminal near Kharkiv; Ukraine has not confirmed.",
-   "ar": "وزارة الدفاع الروسية تقول إنها أصابت سفينة شحن جاف تنقل معدات عسكرية على بُعد 52 كلم جنوب غرب أوديسا ومحطة لشركة «نوفا بوشتا» قرب خاركيف، من دون تأكيد أوكراني.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
    }
   }
  ]
