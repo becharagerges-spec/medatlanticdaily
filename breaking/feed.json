@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-08T06:07:37Z",
+ "updated": "2026-11-08T07:08:29Z",
  "items": [
+  {
+   "id": "20261108-0631-us-expels-lebanon-consul-detroit",
+   "time": "2026-11-08T06:31:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "The US declares Lebanon's consul in Detroit, Ibrahim Charara, persona non grata and gives him 48 hours to leave over old posts praising the 1983 Marine barracks bombing, per Asharq Al-Awsat.",
+   "ar": "واشنطن تعلن القنصل اللبناني في ديترويت إبراهيم شرارة شخصاً غير مرغوب فيه وتمهله 48 ساعة للمغادرة بسبب منشورات قديمة تمجّد تفجير مقر المارينز عام 1983، بحسب «الشرق الأوسط».",
+   "source": {
+    "name": "Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/arab-world/5338808-us-state-department-expels-lebanon%E2%80%99s-consul-detroit"
+   }
+  },
+  {
+   "id": "20261108-0617-ukraine-164-drones-137-downed",
+   "time": "2026-11-08T06:17:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 164 drones and 3 Kh-59/69 missiles overnight; 137 drones were downed or suppressed, with hits recorded at 23 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت ليلاً 164 مسيّرة و3 صواريخ Kh-59/69، أُسقطت أو عُطّلت منها 137 مسيّرة، مع تسجيل إصابات في 23 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4182552-adf-neutralises-137-of-164-russian-drones-overnight.html"
+   }
+  },
+  {
+   "id": "20261108-0601-raam-backs-eisenkot-no-deal",
+   "time": "2026-11-08T06:01:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Ra'am will vote for an Eisenkot-led government even without a coalition deal, while the Joint List will not vote for it but will not topple it, Haaretz reports.",
+   "ar": "«القائمة العربية الموحّدة» ستصوّت لحكومة برئاسة آيزنكوت حتى من دون اتفاق ائتلافي، فيما لن تصوّت «القائمة المشتركة» لها لكنها لن تعمل على إسقاطها، بحسب «هآرتس».",
+   "source": {
+    "name": "Haaretz via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-raam-will-vote-for-new-eisenkot-led-government-even-without-coalition-deal/"
+   }
+  },
   {
    "id": "20261108-0258-houthi-missile-eastern-province",
    "time": "2026-11-08T02:58:00Z",
@@ -1473,18 +1509,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations"
-   }
-  },
-  {
-   "id": "20261105-0608-massie-hegseth-impeachment",
-   "time": "2026-11-05T06:08:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Republican Rep. Thomas Massie says he will reintroduce articles of impeachment against Defense Secretary Pete Hegseth unless he resigns, and plans to force a House vote next week, per CNN.",
-   "ar": "النائب الجمهوري توماس ماسي يقول إنه سيعيد طرح مواد عزل وزير الدفاع بيت هيغسيث ما لم يستقل، ويعتزم فرض تصويت في مجلس النواب الأسبوع المقبل، وفق «سي إن إن».",
-   "source": {
-    "name": "Forbes via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/gop-rep-massie-threatens-pete-060808711.html"
    }
   }
  ]
