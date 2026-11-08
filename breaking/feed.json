@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T13:11:01Z",
+ "updated": "2026-11-08T15:09:12Z",
  "items": [
+  {
+   "id": "20261108-1448-ukraine-power-outages-850k",
+   "time": "2026-11-08T14:48:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "DTEK says over 600,000 residents lost power in Dnipropetrovsk region and Kharkiv officials say about 250,000 customers did after overnight Russian strikes, per Euronews.",
+   "ar": "شركة «دي تي إي كي» تقول إن أكثر من 600 ألف من سكان منطقة دنيبروبيتروفسك انقطعت عنهم الكهرباء، ومسؤولو خاركيف يقولون إن نحو 250 ألف مشترك تأثروا، بعد ضربات روسية ليلية على منشآت الطاقة («يورونيوز»).",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+   }
+  },
   {
    "id": "20261108-1223-irgc-three-tankers-fire",
    "time": "2026-11-08T12:23:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-3-tankers-caught-fire-in-hormuz"
+   }
+  },
+  {
+   "id": "20261108-1038-katz-iran-mission-not-complete",
+   "time": "2026-11-08T10:38:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli Defence Minister Israel Katz says the mission against Iran is 'not complete' and troops will not withdraw from areas held in Gaza, Lebanon and Syria.",
+   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن المهمة ضد إيران «لم تكتمل» وإن القوات لن تنسحب من المناطق التي تسيطر عليها في غزة ولبنان وسوريا.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323625-israel-defense-minister-says-mission-not-complete-on-iran"
    }
   },
   {
@@ -1437,18 +1461,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/tesla-shares-tumble-again-in-deepening-post-election-slump"
-   }
-  },
-  {
-   "id": "20261105-1358-joint-list-backs-eisenkot",
-   "time": "2026-11-05T13:58:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "The Joint List's three factions agree to recommend Gadi Eisenkot for prime minister, giving him backing from 67 incoming Knesset members, a majority, though not a pledge to join his coalition.",
-   "ar": "الفصائل الثلاثة في القائمة المشتركة تتفق على تسمية غادي آيزنكوت لرئاسة الحكومة، فيحظى بتأييد 67 نائباً في الكنيست المقبل، أي الأغلبية، من دون تعهّد بالانضمام إلى ائتلافه.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://timesofisrael.com/liveblog_entry/joint-list-says-it-will-back-eisenkot-as-pm-handing-him-majority-of-recommendations"
    }
   }
  ]
