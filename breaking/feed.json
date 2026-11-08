@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T15:09:12Z",
+ "updated": "2026-11-08T16:08:41Z",
  "items": [
+  {
+   "id": "20261108-1532-egypt-giza-train-collision",
+   "time": "2026-11-08T15:32:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Two trains collide in Egypt's Giza province, killing at least 4 people and injuring 88, Egypt's health ministry says.",
+   "ar": "اصطدام قطارين في محافظة الجيزة المصرية يودي بحياة 4 أشخاص على الأقل ويصيب 88 آخرين، بحسب وزارة الصحة المصرية.",
+   "source": {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl"
+   }
+  },
+  {
+   "id": "20261108-1519-eisenkot-receives-mandate",
+   "time": "2026-11-08T15:19:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "President Isaac Herzog formally gives Gadi Eisenkot the mandate to form Israel's next government; Eisenkot pledges a 'national emergency government' that will require 'creative and extraordinary political moves'.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يكلّف رسمياً غادي آيزنكوت بتشكيل الحكومة المقبلة، وآيزنكوت يتعهّد بـ«حكومة طوارئ وطنية» تتطلّب «خطوات سياسية خلّاقة واستثنائية».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/receiving-mandate-to-form-government-eisenkot-acknowledges-task-requires-creative-and-extraordinary-political-moves"
+   }
+  },
   {
    "id": "20261108-1448-ukraine-power-outages-850k",
    "time": "2026-11-08T14:48:00Z",
@@ -1425,42 +1449,6 @@
    "source": {
     "name": "Safir al-Chamal",
     "url": "https://safiralchamal.com/2026/11/05/738411/"
-   }
-  },
-  {
-   "id": "20261105-1539-araghchi-faisal-call",
-   "time": "2026-11-05T15:39:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian FM Abbas Araghchi and Saudi FM Prince Faisal bin Farhan discuss regional developments and diplomatic efforts toward stability in a phone call, Iranian state media say.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي ونظيره السعودي الأمير فيصل بن فرحان يبحثان في اتصال هاتفي التطورات الإقليمية والجهود الدبلوماسية لإرساء الاستقرار، بحسب الإعلام الرسمي الإيراني.",
-   "source": {
-    "name": "AFP via 24 News HD",
-    "url": "https://www.24newshd.tv/05-Nov-2026/iran-fm-holds-phone-talks-saudi-counterpart-state-media"
-   }
-  },
-  {
-   "id": "20261105-1530-dmitriev-white-house-oleshky",
-   "time": "2026-11-05T15:30:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "At the White House, Melania Trump hands Putin envoy Kirill Dmitriev and Ukraine's Davyd Arakhamia personal letters for Putin and Zelensky, calling the Oleshky ceasefire a possible start to wider peace.",
-   "ar": "في البيت الأبيض، ميلانيا ترامب تسلّم مبعوث بوتين كيريل دميترييف والأوكراني دافيد أراخاميا رسالتين شخصيتين إلى بوتين وزيلينسكي، وتصف وقف إطلاق النار في أوليشكي بأنه قد يكون بداية لسلام أوسع.",
-   "source": {
-    "name": "KFOX14",
-    "url": "https://kfoxtv.com/news/nation-world/first-lady-melania-trump-to-bring-russian-ukrainian-envoys-together-at-white-house-after-humanitarian-ceasefire-oleshky-kremlin-puting-zelenskyy-trilateral-talks-abu-dhabi"
-   }
-  },
-  {
-   "id": "20261105-1514-tesla-falls-10",
-   "time": "2026-11-05T15:14:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Tesla shares fall 10% for a second day of losses on concerns that Democratic wins in Congress will hamper Elon Musk's business expansion, Bloomberg reports.",
-   "ar": "أسهم تسلا تتراجع 10% لليوم الثاني على التوالي وسط مخاوف من أن يعرقل فوز الديمقراطيين في الكونغرس توسّع أعمال إيلون ماسك، بحسب بلومبرغ.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/tesla-shares-tumble-again-in-deepening-post-election-slump"
    }
   }
  ]
