@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:08:25Z",
+ "updated": "2026-11-08T12:08:16Z",
  "items": [
   {
    "id": "20261108-1020-komyshuvakha-drone-rescuers",
@@ -11,6 +11,18 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/world/2026/11/08/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine/"
+   }
+  },
+  {
+   "id": "20261108-0921-ukmto-tanker-fire-khasab",
+   "time": "2026-11-08T09:21:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a tanker caught fire about 8 nautical miles northwest of Oman's Khasab, near the Strait of Hormuz, and its crew was evacuated; the cause and vessel are not identified.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن أن ناقلة اشتعلت فيها النيران على بُعد نحو 8 أميال بحرية شمال غرب خصب العُمانية قرب مضيق هرمز، وأُجلي طاقمها، من دون تحديد السبب أو هوية السفينة.",
+   "source": {
+    "name": "Arab Times",
+    "url": "https://www.arabtimesonline.com/news/tanker-catches-fire-off-omans-khasab-crew-evacuated/"
    }
   },
   {
@@ -1449,30 +1461,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/herzog-meets-senior-board-of-peace-envoy-tony-blair-at-presidents-residence/"
-   }
-  },
-  {
-   "id": "20261105-1200-boe-hikes-to-4",
-   "time": "2026-11-05T12:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The Bank of England raises its main interest rate by 0.25 point to 4%, its first hike since the Iran war began, and warns inflation will climb toward 5%.",
-   "ar": "بنك إنكلترا يرفع سعر الفائدة الرئيسي 0.25 نقطة إلى 4%، في أول زيادة منذ اندلاع الحرب على إيران، ويحذّر من ارتفاع التضخم نحو 5%.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation"
-   }
-  },
-  {
-   "id": "20261105-1127-brussels-ukraine-talks-day2",
-   "time": "2026-11-05T11:27:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's negotiator Rustem Umerov and US, UK, French, German, EU and NATO officials hold a second day of talks in Brussels on reconstruction, 2027 funding and security guarantees.",
-   "ar": "المفاوض الأوكراني رستم عمروف ومسؤولون أميركيون وبريطانيون وفرنسيون وألمان ومن الاتحاد الأوروبي والناتو يعقدون يوماً ثانياً من المحادثات في بروكسل حول إعادة الإعمار وتمويل 2027 والضمانات الأمنية.",
-   "source": {
-    "name": "AP via ABC News",
-    "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457"
    }
   }
  ]
