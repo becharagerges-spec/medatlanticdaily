@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T10:08:00Z",
+ "updated": "2026-11-08T11:08:25Z",
  "items": [
+  {
+   "id": "20261108-1020-komyshuvakha-drone-rescuers",
+   "time": "2026-11-08T10:20:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian drone strikes emergency crews at the Komyshuvakha site where guided bombs killed at least 55 people; Ukraine's emergency service says no one was hurt but rescue equipment was damaged.",
+   "ar": "مسيّرة روسية تستهدف فرق الطوارئ في موقع كوميشوفاخا حيث قتلت القنابل الموجّهة 55 شخصاً على الأقل، وخدمة الطوارئ الأوكرانية تقول إن أحداً لم يُصب لكن معدات الإنقاذ تضرّرت.",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/world/2026/11/08/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine/"
+   }
+  },
+  {
+   "id": "20261108-0917-irgc-iron-gate-wordplay",
+   "time": "2026-11-08T09:17:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "IRGC spokesman Hossein Mohebbi tells Fars the US Task Force Iron Gate plan to block Iran's land and Caspian trade routes is 'merely a wordplay' that cannot collapse Iran's economy.",
+   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول لـ«فارس» إن خطة قوة «البوابة الحديدية» الأميركية لإغلاق طرق تجارة إيران البرية وعبر بحر قزوين «مجرد تلاعب بالألفاظ» ولن تُسقط الاقتصاد الإيراني.",
+   "source": {
+    "name": "Reuters via Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-914180"
+   }
+  },
   {
    "id": "20261108-0859-ukraine-5-killed-day",
    "time": "2026-11-08T08:59:00Z",
@@ -66,11 +90,11 @@
    "time": "2026-11-08T06:15:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted 2 Houthi ballistic missiles fired at Riyadh; witnesses tell AFP a glass tower in the King Abdullah Financial District was damaged.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخين باليستيين أطلقهما الحوثيون نحو الرياض، وشهود يقولون لوكالة فرانس برس إن برجاً زجاجياً في مركز الملك عبدالله المالي تضرّر.",
+   "en": "Saudi Arabia's Energy Ministry says falling shrapnel caused minor damage to an Aramco administrative building in Riyadh during an attempted attack, with no casualties, after the coalition intercepted Houthi missiles.",
+   "ar": "وزارة الطاقة السعودية تعلن أن شظايا متساقطة ألحقت أضراراً طفيفة بمبنى إداري لأرامكو في الرياض خلال محاولة هجوم، من دون إصابات، بعد اعتراض التحالف صواريخ حوثية.",
    "source": {
-    "name": "AFP via Kurdistan24",
-    "url": "https://www.kurdistan24.net/en/story/951520/houthi-missile-attack-targets-king-abdullah-financial-district"
+    "name": "Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/gulf/5338801-energy-ministry-minor-damage-attempted-attack-saudi-aramco-building-riyadh"
    }
   },
   {
@@ -1449,42 +1473,6 @@
    "source": {
     "name": "AP via ABC News",
     "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457"
-   }
-  },
-  {
-   "id": "20261105-1047-raam-recommends-eisenkot",
-   "time": "2026-11-05T10:47:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Ra'am, the Arab party with 8 Knesset seats, recommends Gadi Eisenkot for prime minister in consultations with President Herzog, leader Mansour Abbas says.",
-   "ar": "حزب «القائمة العربية الموحدة» (8 مقاعد في الكنيست) يوصي بغادي آيزنكوت لرئاسة الحكومة خلال مشاوراته مع الرئيس هرتسوغ، بحسب رئيسه منصور عباس.",
-   "source": {
-    "name": "ANSA",
-    "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/il-partito-arabo-raam-indica-eisenkot-come-premier_ff5032f7-f66e-4e70-8725-3503a36d4122.html"
-   }
-  },
-  {
-   "id": "20261105-1040-iran-navy-tanker-mine-east-hormuz",
-   "time": "2026-11-05T10:40:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says another oil tanker hit a sea mine east of the Strait of Hormuz, caught fire and was immobilized after switching off its navigation systems; no independent confirmation.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة نفط أخرى اصطدمت بلغم بحري شرق مضيق هرمز واشتعلت فيها النيران وتعطّلت بعدما أطفأت أنظمة الملاحة؛ ولا تأكيد مستقلاً.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261105-1017-coalition-medina-missile",
-   "time": "2026-11-05T10:17:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a Houthi ballistic missile fired at the Medina region, after Saudi civil defence issued alerts for Yanbu and Sharurah.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه منطقة المدينة المنورة وتدميره، بعدما أطلق الدفاع المدني السعودي إنذارات في ينبع وشرورة.",
-   "source": {
-    "name": "Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/gulf/5337873-coalition-intercepts-destroys-houthi-ballistic-missile-fired-madinah"
    }
   }
  ]
