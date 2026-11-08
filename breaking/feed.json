@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:08:31Z",
+ "updated": "2026-11-08T06:07:37Z",
  "items": [
   {
    "id": "20261108-0258-houthi-missile-eastern-province",
@@ -26,6 +26,18 @@
    }
   },
   {
+   "id": "20261107-2158-kremlin-abu-dhabi-delegation",
+   "time": "2026-11-07T21:58:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "The Kremlin says aide Vladimir Medinsky will lead Russia's delegation to the 10–11 November Abu Dhabi talks with the US and Ukraine, joined by deputy foreign minister Sergei Ryabkov and military intelligence chief Igor Kostyukov.",
+   "ar": "الكرملين يعلن أن المستشار فلاديمير ميدينسكي سيرأس وفد روسيا إلى محادثات أبوظبي مع الولايات المتحدة وأوكرانيا في 10 و11 تشرين الثاني، ويضمّ نائب وزير الخارجية سيرغي ريابكوف ورئيس الاستخبارات العسكرية إيغور كوستيوكوف.",
+   "source": {
+    "name": "Reuters via Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
+   }
+  },
+  {
    "id": "20261107-2150-irgc-two-tankers-mines",
    "time": "2026-11-07T21:50:00Z",
    "theater": "iran",
@@ -47,6 +59,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-3010407"
+   }
+  },
+  {
+   "id": "20261107-2129-iran-explosions-southern-counties",
+   "time": "2026-11-07T21:29:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian state TV reports explosions in Qeshm, Sirik, Jask and Bandar Abbas near the Strait of Hormuz, saying the cause is unclear; no damage is confirmed, per Xinhua.",
+   "ar": "التلفزيون الإيراني الرسمي يفيد بدويّ انفجارات في قشم وسيريك وجاسك وبندر عباس قرب مضيق هرمز، ويقول إن سببها غير واضح، من دون تأكيد أي أضرار، بحسب «شينخوا».",
+   "source": {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20261108/f39c2d4022aa443bbbfe219090babf62/c.html"
    }
   },
   {
