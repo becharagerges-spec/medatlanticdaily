@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:07:50Z",
+ "updated": "2026-11-08T05:08:31Z",
  "items": [
   {
    "id": "20261108-0258-houthi-missile-eastern-province",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-houthi-missile-destroyed-over-eastern"
+   }
+  },
+  {
+   "id": "20261108-0120-uae-rescues-22-gulf-of-oman",
+   "time": "2026-11-08T01:20:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "The UAE National Guard says its coast guard evacuated all 22 crew, all Arab nationals, from a cargo ship that caught fire in the Gulf of Oman; the cause was not given.",
+   "ar": "الحرس الوطني الإماراتي يعلن أن خفر السواحل أجلى أفراد الطاقم الـ22، وجميعهم من جنسيات عربية، من سفينة شحن اندلع فيها حريق في خليج عُمان، من دون الإعلان عن سبب الحريق.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/uae/2026/11/08/uae-rescues-22-after-fire-breaks-out-on-cargo-ship-in-gulf-of-oman/"
    }
   },
   {
@@ -1449,30 +1461,6 @@
    "source": {
     "name": "Forbes via Yahoo News",
     "url": "https://www.yahoo.com/news/politics/articles/gop-rep-massie-threatens-pete-060808711.html"
-   }
-  },
-  {
-   "id": "20261105-0458-dnipro-kyiv-drones-4-hurt",
-   "time": "2026-11-05T04:58:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russian drone attacks overnight injure 4 people in Dnipropetrovsk and Kyiv regions and set fires at infrastructure sites in Dnipro and a warehouse in Bucha district, regional authorities say.",
-   "ar": "هجمات بمسيّرات روسية خلال الليل توقع 4 جرحى في منطقتي دنيبروبيتروفسك وكييف وتشعل حرائق في منشآت بنى تحتية في دنيبرو ومستودع في منطقة بوتشا، بحسب السلطات المحلية.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-drone-attacks-injure-4-in-dnipropetrovsk-and-kyiv-oblasts-spark-fires-at-infrastructure-facilities/"
-   }
-  },
-  {
-   "id": "20261105-0421-irgc-tankers-tug-fire",
-   "time": "2026-11-05T04:21:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 2 oil tankers and a tugboat caught fire in the Strait of Hormuz after mine strikes on an 'unauthorized' route, and that they downed and seized 2 US-made Lucas drones; no independent confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط وقاطرة اشتعلت فيها النيران في مضيق هرمز بعد اصطدامها بألغام على مسار «غير مصرّح به»، وإنه أسقط واستولى على مسيّرتين أميركيتين من طراز «لوكاس»؛ ولا تأكيد مستقلاً.",
-   "source": {
-    "name": "Trend",
-    "url": "https://www.trend.az/iran/4243094.html"
    }
   }
  ]
