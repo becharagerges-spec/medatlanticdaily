@@ -1,16 +1,15 @@
 {
- "updated": "2026-11-08T16:08:41Z",
+ "updated": "2026-11-08T17:07:53Z",
  "items": [
   {
    "id": "20261108-1532-egypt-giza-train-collision",
    "time": "2026-11-08T15:32:00Z",
    "theater": "africa",
    "status": "confirmed",
-   "en": "Two trains collide in Egypt's Giza province, killing at least 4 people and injuring 88, Egypt's health ministry says.",
-   "ar": "اصطدام قطارين في محافظة الجيزة المصرية يودي بحياة 4 أشخاص على الأقل ويصيب 88 آخرين، بحسب وزارة الصحة المصرية.",
+   "en": "The toll from a collision between 2 trains in Egypt's Giza province rises to at least 7 dead and more than 100 injured; a Fayoum-bound train hit the rear of an Aswan-bound train.",
+   "ar": "ارتفاع حصيلة اصطدام قطارين في محافظة الجيزة المصرية إلى 7 قتلى على الأقل وأكثر من 100 جريح، بعدما اصطدم قطار متجه إلى الفيوم بمؤخرة قطار متجه إلى أسوان.",
    "source": {
-    "name": "CNN",
-    "url": "https://edition.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl"
+    "name": "AP"
    }
   },
   {
@@ -1425,30 +1424,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261105-1641-paraguay-pena-resigns",
-   "time": "2026-11-05T16:41:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Paraguay's President Santiago Peña resigns after the collapse of Ueno Bank and an impeachment push by members of his own Colorado Party, saying he is stepping down to preserve stability.",
-   "ar": "رئيس الباراغواي سانتياغو بينيا يستقيل إثر انهيار مصرف «أوينو» ومساعي عزله من نواب في حزبه «كولورادو»، قائلاً إنه يتنحّى حفاظاً على الاستقرار.",
-   "source": {
-    "name": "AP via ABC News",
-    "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803"
-   }
-  },
-  {
-   "id": "20261105-1610-lebanon-health-toll-4390",
-   "time": "2026-11-05T16:10:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's health ministry says Israeli attacks have killed 4,390 people and wounded 12,429 since 2 March, bringing the toll since October 2023 to 8,957 killed.",
-   "ar": "وزارة الصحة اللبنانية تعلن أن الاعتداءات الإسرائيلية أسفرت منذ 2 آذار عن 4,390 قتيلاً و12,429 جريحاً، لترتفع الحصيلة منذ تشرين الأول 2023 إلى 8,957 قتيلاً.",
-   "source": {
-    "name": "Safir al-Chamal",
-    "url": "https://safiralchamal.com/2026/11/05/738411/"
    }
   }
  ]
