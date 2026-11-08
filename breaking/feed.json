@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T12:08:16Z",
+ "updated": "2026-11-08T13:11:01Z",
  "items": [
+  {
+   "id": "20261108-1223-irgc-three-tankers-fire",
+   "time": "2026-11-08T12:23:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say 3 'non-compliant' oil tankers exploded and caught fire in the Strait of Hormuz on Sunday, without naming them; there is no independent confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إن 3 ناقلات نفط «غير ملتزمة» انفجرت واشتعلت فيها النيران في مضيق هرمز يوم الأحد، من دون أن يسمّيها، ولا تأكيد مستقلاً لذلك.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-3-tankers-caught-fire-in-hormuz"
+   }
+  },
   {
    "id": "20261108-1020-komyshuvakha-drone-rescuers",
    "time": "2026-11-08T10:20:00Z",
@@ -1437,30 +1449,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://timesofisrael.com/liveblog_entry/joint-list-says-it-will-back-eisenkot-as-pm-handing-him-majority-of-recommendations"
-   }
-  },
-  {
-   "id": "20261105-1305-chernobyl-dome-funding",
-   "time": "2026-11-05T13:05:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "The European Bank for Reconstruction and Development warns that €500 million is urgently needed to repair Chernobyl's protective dome, damaged by Russian attacks, per Politico Europe.",
-   "ar": "البنك الأوروبي لإعادة الإعمار والتنمية يحذّر من حاجة عاجلة إلى 500 مليون يورو لإصلاح القبة الواقية في تشيرنوبيل التي تضررت جراء هجمات روسية، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/damage-chernobyl-nuclear-site-urgent-funding-european-development-bank/"
-   }
-  },
-  {
-   "id": "20261105-1220-herzog-meets-blair",
-   "time": "2026-11-05T12:20:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "President Isaac Herzog meets Board of Peace envoy Tony Blair at the President's Residence in Jerusalem, per Times of Israel.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يستقبل مبعوث «مجلس السلام» توني بلير في مقر الرئاسة في القدس، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-meets-senior-board-of-peace-envoy-tony-blair-at-presidents-residence/"
    }
   }
  ]
