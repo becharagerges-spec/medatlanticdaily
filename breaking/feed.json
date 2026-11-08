@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T08:07:44Z",
+ "updated": "2026-11-08T09:08:47Z",
  "items": [
+  {
+   "id": "20261108-0859-ukraine-5-killed-day",
+   "time": "2026-11-08T08:59:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukrainian regional officials say Russian attacks killed 5 people, all in Donetsk Oblast, and injured 10 over the past day, with 725 strikes on Zaporizhzhia Oblast.",
+   "ar": "مسؤولون إقليميون أوكرانيون يقولون إن الهجمات الروسية قتلت 5 أشخاص، جميعهم في دونيتسك، وأصابت 10 خلال اليوم الماضي، مع 725 ضربة على مقاطعة زابوريجيا.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+   }
+  },
   {
    "id": "20261108-0752-iran-executes-three-protesters",
    "time": "2026-11-08T07:52:00Z",
@@ -42,11 +54,11 @@
    "time": "2026-11-08T06:15:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted 2 Houthi ballistic missiles fired at Riyadh after loud booms in the capital, and later 2 cruise missiles over Riyadh and the south.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخين باليستيين أطلقهما الحوثيون نحو الرياض بعد دويّ انفجارات في العاصمة، ثم صاروخَي كروز فوق الرياض والجنوب.",
+   "en": "The Saudi-led coalition says it intercepted 2 Houthi ballistic missiles fired at Riyadh; witnesses tell AFP a glass tower in the King Abdullah Financial District was damaged.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخين باليستيين أطلقهما الحوثيون نحو الرياض، وشهود يقولون لوكالة فرانس برس إن برجاً زجاجياً في مركز الملك عبدالله المالي تضرّر.",
    "source": {
-    "name": "Reuters via Internazionale",
-    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/08/loud-booms-heard-in-saudi-capital-riyadh-after-early-warning-alert-issued"
+    "name": "AFP via Kurdistan24",
+    "url": "https://www.kurdistan24.net/en/story/951520/houthi-missile-attack-targets-king-abdullah-financial-district"
    }
   },
   {
@@ -258,11 +270,11 @@
    "time": "2026-11-07T15:37:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "Krakow police raise the toll from a gunman's shooting spree in the Main Square to 6 dead and 15 wounded, and say the shooter, a 24-year-old Pole, acted alone.",
-   "ar": "شرطة كراكوف ترفع حصيلة إطلاق النار العشوائي في الساحة الرئيسية إلى 6 قتلى و15 جريحاً، وتقول إن المسلّح، وهو بولندي في الرابعة والعشرين، تصرّف بمفرده.",
+   "en": "The toll from the Krakow shooting rises to 9 dead and 15 wounded after 3 people were found dead at the gunman's home, Polish Prime Minister Donald Tusk says.",
+   "ar": "حصيلة إطلاق النار في كراكوف ترتفع إلى 9 قتلى و15 جريحاً بعد العثور على 3 أشخاص قتلى في منزل المسلّح، بحسب رئيس الوزراء البولندي دونالد توسك.",
    "source": {
-    "name": "AP via WPXI",
-    "url": "https://www.wpxi.com/news/world/deaths-injuries/ZEY6TNS3L462POVEMBLA2I32GE/"
+    "name": "TVP World",
+    "url": "https://tvpworld.com/96363195/tusk-three-found-dead-at-krakow-shooters-home"
    }
   },
   {
@@ -1497,18 +1509,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
-   }
-  },
-  {
-   "id": "20261105-0838-france-strikes-70000-police",
-   "time": "2026-11-05T08:38:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "France's interior ministry says about 600,000 people joined nationwide strikes and protests over wages and living costs, while a hard-left union claims close to 1.6 million; 70,000 police were deployed.",
-   "ar": "وزارة الداخلية الفرنسية تقول إن نحو 600 ألف شخص شاركوا في الإضرابات والتظاهرات في أنحاء البلاد احتجاجاً على الأجور وغلاء المعيشة، فيما تقول نقابة يسارية إن العدد قارب 1.6 مليون، مع نشر 70 ألف شرطي.",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
    }
   }
  ]
