@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T17:09:10Z",
+ "updated": "2026-11-09T18:08:56Z",
  "items": [
+  {
+   "id": "20261109-1752-hegseth-impeachment-presser",
+   "time": "2026-11-09T17:52:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Defense Secretary Pete Hegseth says he will hold a press conference on Tuesday, his first in over 180 days, on an expected impeachment resolution in Congress over Iran and Venezuela policy.",
+   "ar": "وزير الدفاع الأميركي بيت هيغسيث يعلن أنه سيعقد مؤتمراً صحافياً الثلاثاء، الأول منذ أكثر من 180 يوماً، بشأن قرار عزل متوقَّع في الكونغرس على خلفية سياستَي إيران وفنزويلا.",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/politics/2026/11/09/hegseth-announces-rare-press-conference-to-discuss-expected-impeachment-resolution-in-congress/"
+   }
+  },
+  {
+   "id": "20261109-1714-saudi-east-west-pipeline-hit",
+   "time": "2026-11-09T17:14:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia's energy ministry says the East-West oil pipeline, its main export route bypassing Hormuz, was targeted in the Medina region, causing a limited fire; operations are unaffected and no one was hurt.",
+   "ar": "وزارة الطاقة السعودية تعلن استهداف خط الأنابيب شرق-غرب، طريق التصدير الرئيسي الذي يتجاوز هرمز، في منطقة المدينة المنورة، ما أدى إلى حريق محدود؛ العمليات لم تتأثر ولا إصابات.",
+   "source": {
+    "name": "AFP via Gulf News",
+    "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-says-east-west-pipeline-targeted-operations-unaffected-1.500741614"
+   }
+  },
   {
    "id": "20261109-1643-france-blames-iran-fridge-hacks",
    "time": "2026-11-09T16:43:00Z",
@@ -14,6 +38,18 @@
    }
   },
   {
+   "id": "20261109-1555-white-house-car-crash-lockdown",
+   "time": "2026-11-09T15:55:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A driver crashes a sedan into a security barrier in Lafayette Park by the White House and fights officers before arrest, the Secret Service says; a second person who jumped a barricade is also arrested.",
+   "ar": "سائق يصدم بسيارته حاجزاً أمنياً في حديقة لافاييت قرب البيت الأبيض ويشتبك مع العناصر قبل توقيفه، بحسب جهاز الخدمة السرية؛ وتوقيف شخص ثانٍ قفز فوق حاجز.",
+   "source": {
+    "name": "NBC Chicago",
+    "url": "https://www.nbcchicago.com/news/national-international/white-house-press-area-locked-down-after-driver-hits-security-barrier/4014138/"
+   }
+  },
+  {
    "id": "20261109-1544-wall-street-rally-nasdaq",
    "time": "2026-11-09T15:44:00Z",
    "theater": "markets",
@@ -23,6 +59,18 @@
    "source": {
     "name": "Yahoo Finance",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+   }
+  },
+  {
+   "id": "20261109-1518-israel-approves-250-isf-gaza",
+   "time": "2026-11-09T15:18:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel has approved deploying an initial 250 foreign soldiers of the International Stabilisation Force into Gaza, Walla reports, citing security officials; Israel rejects Turkish participation.",
+   "ar": "إسرائيل وافقت على نشر دفعة أولى من 250 جندياً أجنبياً من قوة الاستقرار الدولية في غزة، بحسب موقع «والا» نقلاً عن مسؤولين أمنيين؛ وإسرائيل ترفض مشاركة تركيا.",
+   "source": {
+    "name": "The Jewish Chronicle",
+    "url": "https://www.thejc.com/news/israel/israel-approves-foreign-troops-gaza-peace-plan-ufnb7gzz"
    }
   },
   {
@@ -1518,30 +1566,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/report-pm-mossad-chief-planned-operation-inside-iran-on-eve-of-israeli-election-which-was-thwarted-after-us-accidentally-tipped-off/"
-   }
-  },
-  {
-   "id": "20261106-1800-olmert-blocked-burin",
-   "time": "2026-11-06T18:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "IDF Central Command chief Avi Bluth declares an area near Burin a closed military zone, blocking ex-PM Ehud Olmert's visit to Palestinians targeted by settlers; Olmert accuses him of aiding Jewish terrorism, per Haaretz.",
-   "ar": "قائد المنطقة الوسطى في الجيش الإسرائيلي آفي بلوت يعلن منطقة قرب بورين عسكرية مغلقة، فيمنع زيارة رئيس الوزراء الأسبق إيهود أولمرت لفلسطينيين استهدفهم المستوطنون، وأولمرت يتّهمه بمساعدة «الإرهاب اليهودي»، بحسب «هآرتس».",
-   "source": {
-    "name": "Haaretz via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idf-uses-closed-military-zone-order-to-block-ex-pm-from-visiting-area-where-palestinians-targeted-by-settlers/"
-   }
-  },
-  {
-   "id": "20261106-1752-bluth-jericho-settlers",
-   "time": "2026-11-06T17:52:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Haaretz reports IDF Central Command chief Avi Bluth knew in advance of settlers' plan to enter 8 homes outside Jericho and told them not to alert other commanders; the IDF calls this false.",
-   "ar": "«هآرتس» تفيد بأن قائد المنطقة الوسطى في الجيش الإسرائيلي آفي بلوت علم مسبقاً بخطة مستوطنين لدخول 8 منازل على أطراف أريحا وطلب منهم عدم إبلاغ قادة آخرين، والجيش ينفي ذلك.",
-   "source": {
-    "name": "Haaretz via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idf-central-command-chief-reportedly-told-settlers-not-to-tip-off-other-commanders-before-jericho-entry/"
    }
   }
  ]
