@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:07:54Z",
+ "updated": "2026-11-09T06:13:06Z",
  "items": [
   {
    "id": "20261109-0434-hormuz-nav-aids-no-transit",
@@ -11,6 +11,54 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/iran-says-no-unauthorized-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroyed-3010655"
+   }
+  },
+  {
+   "id": "20261109-0414-nikkei-rebound-34pct",
+   "time": "2026-11-09T04:14:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Tokyo's Nikkei 225 rises 3.4% to 59,411 and Seoul's Kospi 1.5% in Monday trade as AI stocks recover; Brent crude slips 0.2% to $98.10 a barrel.",
+   "ar": "مؤشر نيكي 225 في طوكيو يرتفع 3.4% إلى 59,411 نقطة وكوسبي في سيول 1.5% في تداولات الاثنين مع تعافي أسهم الذكاء الاصطناعي؛ وخام برنت يتراجع 0.2% إلى 98.10 دولاراً للبرميل.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.wsls.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+   }
+  },
+  {
+   "id": "20261109-0405-kirishi-refinery-drones",
+   "time": "2026-11-09T04:05:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian drones reportedly hit the Kirishi refinery, Russia's second-largest, in Leningrad Oblast overnight, per Ukrainian monitoring channels; Governor Aleksandr Drozdenko says 113 drones were shot down over the region.",
+   "ar": "مسيّرات أوكرانية تصيب على ما يُروى مصفاة كيريشي، ثاني أكبر مصفاة في روسيا، في مقاطعة لينينغراد ليلاً بحسب قنوات رصد أوكرانية؛ والحاكم ألكسندر دروزدينكو يقول إن 113 مسيّرة أُسقطت فوق المنطقة.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
+   }
+  },
+  {
+   "id": "20261109-0256-trump-ukraine-different-shape",
+   "time": "2026-11-09T02:56:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Trump tells CBS's 60 Minutes that Ukraine will likely 'end up with a little bit different shape' after the war and says he expects the war to end soon.",
+   "ar": "ترامب يقول لبرنامج «60 دقيقة» على «سي بي إس» إن أوكرانيا ستنتهي على الأرجح «بشكل مختلف قليلاً» بعد الحرب، ويتوقع أن تنتهي الحرب قريباً.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
+   }
+  },
+  {
+   "id": "20261109-0145-china-ppi-57pct",
+   "time": "2026-11-09T01:45:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's producer prices rise 5.7% year on year in October, the fastest in over 4 years and above the 5.3% forecast, while consumer inflation slows to 0.7%.",
+   "ar": "أسعار المنتجين في الصين ترتفع 5.7% على أساس سنوي في تشرين الأول، الأسرع منذ أكثر من 4 سنوات وفوق توقعات 5.3%، فيما يتباطأ تضخم المستهلكين إلى 0.7%.",
+   "source": {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405"
    }
   },
   {
@@ -1426,18 +1474,6 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/costa-ricas-grynspan-extends-lead-in-informal-un-chief-poll-sources-say/"
-   }
-  },
-  {
-   "id": "20261106-0526-judge-blocks-trump-arch",
-   "time": "2026-11-06T05:26:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "A federal judge bars the Trump administration from starting work on Trump's 250-foot Washington arch for 14 days, within an hour of a federal planning panel's 8-4 final approval.",
-   "ar": "قاضية فدرالية تمنع إدارة ترامب من بدء العمل على قوس ترامب بارتفاع 250 قدماً في واشنطن لمدة 14 يوماً، بعد أقل من ساعة على موافقة نهائية من لجنة تخطيط فدرالية بأغلبية 8 مقابل 4.",
-   "source": {
-    "name": "NPR via KPBS",
-    "url": "https://www.kpbs.org/news/politics/2026/11/05/a-judge-blocks-construction-of-trumps-arch-moments-after-it-won-federal-approval"
    }
   }
  ]
