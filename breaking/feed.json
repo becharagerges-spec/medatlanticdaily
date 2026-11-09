@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T11:12:06Z",
+ "updated": "2026-11-09T12:11:37Z",
  "items": [
+  {
+   "id": "20261109-1207-riner-presidential-bid",
+   "time": "2026-11-09T12:07:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Five-time Olympic judo champion Teddy Riner announces he will run in France's 2027 presidential election, saying he wants to show the country can be turned around.",
+   "ar": "بطل الجودو الأولمبي خمس مرات تيدي رينر يعلن ترشّحه للانتخابات الرئاسية الفرنسية عام 2027، قائلاً إنه يريد أن يُثبت أن فرنسا قادرة على النهوض من جديد.",
+   "source": {
+    "name": "AFP via France 24",
+    "url": "https://www.france24.com/en/live-news/20261109-olympic-judo-champion-riner-joins-fight-for-french-presidency"
+   }
+  },
+  {
+   "id": "20261109-1100-estonia-russia-state-terrorism",
+   "time": "2026-11-09T11:00:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Estonian Interior Minister Igor Taro tells the Financial Times that Russia's sabotage and attacks in Europe should be called state terrorism, not hybrid incidents, and urges an end to Russian tourist visas.",
+   "ar": "وزير الداخلية الإستوني إيغور تارو يقول لـ«فايننشال تايمز» إن أعمال التخريب والهجمات الروسية في أوروبا يجب أن تُسمّى إرهاب دولة لا حوادث هجينة، ويدعو إلى وقف التأشيرات السياحية للروس.",
+   "source": {
+    "name": "Financial Times via European Pravda",
+    "url": "https://www.eurointegration.com.ua/eng/news/2026/11/9/7249560/"
+   }
+  },
   {
    "id": "20261109-1009-kremlin-abu-dhabi-trilateral",
    "time": "2026-11-09T10:09:00Z",
@@ -34,6 +58,18 @@
    "ar": "رئيس الوزراء النروجي يوناس غار ستوره، الذي تحدّث إلى بوتين الشهر الماضي، يقول لـ«بوليتيكو» إن بوتين قد لا يريد السلام ولا يتوقّع اختراقاً كبيراً في محادثات أبوظبي.",
    "source": {
     "name": "Politico Europe"
+   }
+  },
+  {
+   "id": "20261109-0917-eu-joint-team-abu-dhabi",
+   "time": "2026-11-09T09:17:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "The European Commission and Council will send a joint team led by Bjoern Seibert and Anna-Maria Boura to the 10–11 November Abu Dhabi talks; von der Leyen backs an energy-infrastructure ceasefire.",
+   "ar": "المفوضية والمجلس الأوروبيان يرسلان فريقاً مشتركاً بقيادة بيورن زايبرت وآنا-ماريا بورا إلى محادثات أبوظبي في 10 و11 تشرين الثاني، وفون دير لاين تؤيّد وقفاً لإطلاق النار يشمل منشآت الطاقة.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
    }
   },
   {
@@ -1425,42 +1461,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/south-africas-anc-continues-decline-as-early-municipal-elections-results-show-big-losses/"
-   }
-  },
-  {
-   "id": "20261106-1157-bagheri-practical-steps",
-   "time": "2026-11-06T11:57:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Ali Bagheri, deputy head of Iran's Supreme National Security Council, tells state TV Tehran wants practical US steps, not 'paper commitments', before any new diplomacy.",
-   "ar": "علي باقري، نائب أمين المجلس الأعلى للأمن القومي الإيراني، يقول للتلفزيون الرسمي إن طهران تريد خطوات أميركية عملية لا «تعهّدات على الورق» قبل أي مسار دبلوماسي جديد.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-demands-practical-us-steps-before-diplomacy-senior-security-official-says-3010144"
-   }
-  },
-  {
-   "id": "20261106-1152-kenya-mackenzie-200-years",
-   "time": "2026-11-06T11:52:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Kenya's High Court in Mombasa sentences cult leader Paul Mackenzie to 200 years in prison for murdering 191 people, 190 of them children, AP reports.",
-   "ar": "المحكمة العليا في مومباسا بكينيا تحكم على زعيم الطائفة بول ماكنزي بالسجن 200 عام بتهمة قتل 191 شخصاً، بينهم 190 طفلاً، بحسب «أسوشيتد برس».",
-   "source": {
-    "name": "AP via ClickOnDetroit",
-    "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/"
-   }
-  },
-  {
-   "id": "20261106-1122-europe-bomb-threats-wave-3",
-   "time": "2026-11-06T11:22:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "A third wave of bomb threats this week disrupts flights across Europe and forces evacuation of Irish media offices; Ireland's government says the hoaxes are likely a coordinated campaign.",
-   "ar": "موجة ثالثة من التهديدات بوجود قنابل هذا الأسبوع تعطّل رحلات في أنحاء أوروبا وتفرض إخلاء مكاتب وسائل إعلام إيرلندية، والحكومة الإيرلندية تقول إنها على الأرجح حملة منسّقة.",
-   "source": {
-    "name": "AFP via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/ireland-hoax-bomb-claims-sent-to-media-outlets-european-flights-likely-part-of-coordinated-campaign/"
    }
   }
  ]
