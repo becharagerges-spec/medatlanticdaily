@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-08T20:08:56Z",
+ "updated": "2026-11-09T03:09:03Z",
  "items": [
+  {
+   "id": "20261109-0022-trump-eisenkot-netanyahu-similar",
+   "time": "2026-11-09T00:22:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Trump says Gadi Eisenkot and Benjamin Netanyahu are 'very similar in terms of their policy' and calls the government-formation race 'a contest between him and Bibi Netanyahu'.",
+   "ar": "ترامب يقول إن غادي آيزنكوت وبنيامين نتنياهو «متشابهان جداً في سياستهما»، ويصف سباق تشكيل الحكومة بأنه «منافسة بينه وبين بيبي نتنياهو».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-eisenkot-and-netanyahu-are-very-similar-in-terms-of-their-policy/"
+   }
+  },
+  {
+   "id": "20261108-2314-rubio-iran-no-breakthrough",
+   "time": "2026-11-08T23:14:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio says the US and Iran are not 'on the verge of a breakthrough', calling some of Tehran's demands unrealistic, before leaving for G7 talks in France.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن واشنطن وطهران ليستا «على وشك تحقيق اختراق»، ويصف بعض مطالب إيران بغير الواقعية، قبيل توجّهه إلى اجتماعات مجموعة السبع في فرنسا.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
+   }
+  },
+  {
+   "id": "20261108-2159-trump-iron-gate-full-force",
+   "time": "2026-11-08T21:59:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says the new Task Force Iron Gate to disrupt land routes into Iran is 'in full force and effect', extending the US naval blockade to Iran's land borders.",
+   "ar": "ترامب يعلن أن «قوة المهام البوابة الحديدية» الجديدة لتعطيل الطرق البرية إلى إيران باتت «سارية بكامل قوتها»، بما يمدّ الحصار البحري الأميركي إلى حدود إيران البرية.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
+   }
+  },
+  {
+   "id": "20261108-2027-khor-mor-drone-gas-halted",
+   "time": "2026-11-08T20:27:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "A drone hits an LPG tank at Iraqi Kurdistan's Khor Mor gas field, halting production and cutting about 2.8 gigawatts of power generation; Iraq's prime minister says no casualties.",
+   "ar": "مسيّرة تصيب خزان غاز مسال في حقل خور مور بإقليم كردستان العراق، فيتوقف الإنتاج ويُفقد نحو 2.8 غيغاواط من توليد الكهرباء؛ ورئيس الوزراء العراقي يقول إن لا إصابات.",
+   "source": {
+    "name": "Reuters via Internazionale",
+    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/08/production-suspended-at-iraq-s-khor-mor-gas-field-after-drone-attack-sources-say"
+   }
+  },
+  {
+   "id": "20261108-1947-qeshm-four-explosions",
+   "time": "2026-11-08T19:47:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's IRNA says 4 explosions were heard on Qeshm Island near the Strait of Hormuz on Sunday night and sites there appear to have been targeted; the cause is unconfirmed, per Xinhua.",
+   "ar": "وكالة «إرنا» الإيرانية تقول إن 4 انفجارات سُمعت في جزيرة قشم قرب مضيق هرمز ليل الأحد وإن مواقع فيها يبدو أنها استُهدفت؛ والسبب غير مؤكد، وفق «شينخوا».",
+   "source": {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20261109/123b3ea2f9274281a2c32d3197ea5deb/c.html"
+   }
+  },
+  {
+   "id": "20261108-1947-araghchi-mediators-halted",
+   "time": "2026-11-08T19:47:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi tells state TV that mediators have not travelled since the US midterm elections, blaming 'the shock' of the results.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول للتلفزيون الرسمي إن الوسطاء توقفوا عن التنقل منذ الانتخابات النصفية الأميركية، ويعزو ذلك إلى «صدمة» نتائجها.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
+   }
+  },
   {
    "id": "20261108-1926-south-lebanon-strikes-mansouri",
    "time": "2026-11-08T19:26:00Z",
@@ -14,15 +86,27 @@
    }
   },
   {
+   "id": "20261108-1912-trump-presses-netanyahu-gaza",
+   "time": "2026-11-08T19:12:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Trump pressed Netanyahu in a Thursday call to advance the Gaza peace plan after Israel's election, Axios reports; neither office commented.",
+   "ar": "ترامب ضغط على نتنياهو في اتصال يوم الخميس للمضي في خطة السلام في غزة بعد الانتخابات الإسرائيلية، وفق موقع «أكسيوس»؛ ولم يعلّق أي من المكتبين.",
+   "source": {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan"
+   }
+  },
+  {
    "id": "20261108-1853-coalition-sanaa-launch-platform",
    "time": "2026-11-08T18:53:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says it destroyed a Houthi ballistic missile launch platform in Sanaa that it says was used in Sunday's attempted attack on Saudi Arabia's Eastern Province.",
-   "ar": "التحالف بقيادة السعودية يعلن تدمير منصة إطلاق صواريخ باليستية حوثية في صنعاء، يقول إنها استُخدمت في محاولة استهداف المنطقة الشرقية في السعودية يوم الأحد.",
+   "en": "The Saudi-led coalition says it intercepted 5 Houthi missiles and a drone on Sunday, 3 aimed at Riyadh and the Eastern Province, and destroyed 3 launchers in Saada and Sanaa.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض 5 صواريخ حوثية ومسيّرة يوم الأحد، استهدف بعضها الرياض والمنطقة الشرقية، وتدمير 3 منصات إطلاق في صعدة وصنعاء.",
    "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914259"
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20261109/5642476cc7a4410ba6a9939cefa7e48e/c.html"
    }
   },
   {
@@ -1330,114 +1414,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/uae/2026/11/06/sheikh-abdullah-urges-de-escalation-in-call-with-iranian-foreign-minister/"
-   }
-  },
-  {
-   "id": "20261106-0116-tsmc-tumbles-9-8",
-   "time": "2026-11-06T01:16:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "TSMC shares tumble 9.8% in Taipei as the AI selloff hits Asian markets after the worst US market rout since 2020, Bloomberg reports.",
-   "ar": "أسهم «تي إس إم سي» تهوي 9.8% في تايبيه مع امتداد موجة بيع أسهم الذكاء الاصطناعي إلى الأسواق الآسيوية بعد أسوأ انهيار للأسواق الأميركية منذ 2020، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-05/asian-stocks-brace-for-tech-broad-selloff-after-worst-us-market-rout-since-2020"
-   }
-  },
-  {
-   "id": "20261106-0045-brent-settles-98",
-   "time": "2026-11-06T00:45:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Brent crude settled Thursday up $3.67, or 3.9%, at $98.29 a barrel and WTI up 2.7% at $90.52 after renewed tanker attacks in the Gulf and Hormuz, per The Nation.",
-   "ar": "خام برنت أغلق الخميس مرتفعاً 3.67 دولارات، أي 3.9%، عند 98.29 دولاراً للبرميل، وخام غرب تكساس 2.7% عند 90.52 دولاراً، بعد هجمات جديدة على ناقلات في الخليج وهرمز، بحسب «ذا نيشن».",
-   "source": {
-    "name": "The Nation (Thailand)",
-    "url": "https://www.nationthailand.com/news/world/40073162"
-   }
-  },
-  {
-   "id": "20261106-0043-nikkei-kospi-tumble",
-   "time": "2026-11-06T00:43:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "South Korea's Kospi falls more than 8%, triggering a 20-minute trading halt, and Japan's Nikkei 225 drops 6.2% in early Friday trading after Wall Street's AI-led rout, Reuters and AP report.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يهوي بأكثر من 8% ما يفعّل آلية وقف التداول لمدة 20 دقيقة، ونيكاي 225 الياباني يهبط 6.2% في مستهل تداولات الجمعة إثر انهيار وول ستريت بقيادة أسهم الذكاء الاصطناعي، بحسب رويترز وأسوشيتد برس.",
-   "source": {
-    "name": "Reuters via TradingView",
-    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N461063:0-south-korea-s-kospi-falls-more-than-8-triggers-circuit-breaker/"
-   }
-  },
-  {
-   "id": "20261106-0006-trump-predicts-russia-deal",
-   "time": "2026-11-06T00:06:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says he met Putin envoy Kirill Dmitriev and predicts 'a big agreement' that will 'involve more than Ukraine' and 'might involve all of Europe', declining to give details.",
-   "ar": "ترامب يقول إنه التقى مبعوث بوتين كيريل دميترييف، ويتوقّع «اتفاقاً كبيراً» سيشمل «أكثر من أوكرانيا» و«قد يشمل أوروبا كلّها»، رافضاً الكشف عن التفاصيل.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
-   }
-  },
-  {
-   "id": "20261105-2325-herzog-mandate-sunday",
-   "time": "2026-11-05T23:25:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "President Isaac Herzog says he will not choose who gets the mandate to form Israel's next government until Sunday, although Gadi Eisenkot received 67 of 120 Knesset members' recommendations.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يقول إنه لن يحسم قبل الأحد لمن يمنح تكليف تشكيل الحكومة المقبلة، رغم حصول غادي آيزنكوت على توصيات 67 نائباً من أصل 120 في الكنيست.",
-   "source": {
-    "name": "Jewish Telegraphic Agency",
-    "url": "https://www.jta.org/2026/11/05/israel/eisenkot-has-backing-of-67-seats-but-not-yet-allowed-to-form-government"
-   }
-  },
-  {
-   "id": "20261105-2242-turkey-ratifies-mecca-pact",
-   "time": "2026-11-05T22:42:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Turkey's parliament ratifies the Mecca Joint Defense Agreement with Saudi Arabia and Pakistan by 279 votes to 119, under which an attack on one is treated as an attack on all three.",
-   "ar": "البرلمان التركي يصادق على «اتفاقية مكة للدفاع المشترك» مع السعودية وباكستان بأغلبية 279 صوتاً مقابل 119، وتعتبر الاتفاقية أي اعتداء على إحدى الدول الثلاث اعتداءً عليها جميعاً.",
-   "source": {
-    "name": "AP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/turkeys-parliament-ratifies-defense-pact-with-pakistan-and-saudi-arabia/"
-   }
-  },
-  {
-   "id": "20261105-2221-spain-ukraine-air-defence-aid",
-   "time": "2026-11-05T22:21:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Spain will provide €437 million (about $490 million) in military aid for Ukraine's air defences after he met Prime Minister Pedro Sánchez in Madrid.",
-   "ar": "زيلينسكي يقول إن إسبانيا ستقدّم مساعدات عسكرية بقيمة 437 مليون يورو (نحو 490 مليون دولار) لتعزيز الدفاعات الجوية الأوكرانية، بعد لقائه رئيس الوزراء بيدرو سانشيز في مدريد.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/spain-to-provide-ukraine-490-million-in-military-aid-zelensky-says/"
-   }
-  },
-  {
-   "id": "20261105-2154-trump-iran-without-approval",
-   "time": "2026-11-05T21:54:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "After meeting his national security team, Trump says he will decide 'soon' whether to resume the Iran war, adding he would rather not 'destroy the rest' of Iran 'but maybe I will have to.'",
-   "ar": "بعد اجتماعه بفريق الأمن القومي، ترامب يقول إنه سيقرّر «قريباً» ما إذا كان سيستأنف الحرب على إيران، مضيفاً أنه يفضّل ألّا «يدمّر ما تبقّى» منها «لكن ربما سأضطر إلى ذلك».",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
-   }
-  },
-  {
-   "id": "20261105-2032-iran-nuclear-proposal-qatar",
-   "time": "2026-11-05T20:32:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "A senior Iranian official tells Reuters that Tehran has sent the US a nuclear proposal through Qatar, to be discussed only after Washington meets Iran's 7 preliminary demands.",
-   "ar": "مسؤول إيراني رفيع يقول لـ«رويترز» إن طهران أرسلت إلى واشنطن مقترحاً نووياً عبر قطر، على ألّا يُبحث إلا بعد تلبية الولايات المتحدة مطالب إيران السبعة المسبقة.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/"
    }
   }
  ]
