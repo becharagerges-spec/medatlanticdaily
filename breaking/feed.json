@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T04:08:42Z",
+ "updated": "2026-11-09T05:07:54Z",
  "items": [
+  {
+   "id": "20261109-0434-hormuz-nav-aids-no-transit",
+   "time": "2026-11-09T04:34:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "An Iranian Revolutionary Guards Navy official tells state media no unauthorised vessels crossed the Strait of Hormuz overnight after navigation aids in its southern part were destroyed, Reuters reports.",
+   "ar": "مسؤول في بحرية الحرس الثوري الإيراني يقول للإعلام الرسمي إن أي سفينة غير مرخّص لها لم تعبر مضيق هرمز ليلاً بعد تدمير أنظمة المساعدة الملاحية في جزئه الجنوبي، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-says-no-unauthorized-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroyed-3010655"
+   }
+  },
   {
    "id": "20261109-0135-taiex-rebound-rescue",
    "time": "2026-11-09T01:35:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout"
+   }
+  },
+  {
+   "id": "20261109-0109-trump-qatar-pm-white-house",
+   "time": "2026-11-09T01:09:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The White House says Trump will meet Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani, a key mediator in US-Iran talks, in the Oval Office on Monday.",
+   "ar": "البيت الأبيض يعلن أن ترامب سيستقبل رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني، الوسيط الأساسي في المحادثات الأميركية الإيرانية، في المكتب البيضاوي الاثنين.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-to-meet-tomorrow-at-white-house-with-qatari-leader/"
+   }
+  },
+  {
+   "id": "20261109-0051-trump-midterms-dislike-israel",
+   "time": "2026-11-09T00:51:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells CBS's 60 Minutes Republicans fared poorly in the midterms partly because of 'a great dislike' for Israel, alongside the Iran war and higher gasoline prices.",
+   "ar": "ترامب يقول لبرنامج «60 دقيقة» على «سي بي إس» إن أداء الجمهوريين الضعيف في الانتخابات النصفية يعود جزئياً إلى «نفور كبير» من إسرائيل، إلى جانب الحرب على إيران وارتفاع أسعار البنزين.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-republicans-did-poorly-in-midterms-because-of-a-great-dislike-for-israel/"
    }
   },
   {
@@ -78,11 +114,11 @@
    "time": "2026-11-08T19:47:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Iran's IRNA says 4 explosions were heard on Qeshm Island near the Strait of Hormuz on Sunday night and sites there appear to have been targeted; the cause is unconfirmed, per Xinhua.",
-   "ar": "وكالة «إرنا» الإيرانية تقول إن 4 انفجارات سُمعت في جزيرة قشم قرب مضيق هرمز ليل الأحد وإن مواقع فيها يبدو أنها استُهدفت؛ والسبب غير مؤكد، وفق «شينخوا».",
+   "en": "An Iranian provincial official tells Fars a US attack hit sites on Qeshm Island overnight, away from residential areas, with no vital infrastructure damaged, per Reuters.",
+   "ar": "مسؤول إقليمي إيراني يقول لوكالة «فارس» إن هجوماً أميركياً أصاب مواقع في جزيرة قشم ليلاً بعيداً عن المناطق السكنية، من دون أضرار في البنى الحيوية، بعد الإبلاغ عن 4 انفجارات، بحسب رويترز.",
    "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261109/123b3ea2f9274281a2c32d3197ea5deb/c.html"
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-says-us-attacked-qeshm-island-no-major-infrastructure-damaged/"
    }
   },
   {
@@ -1402,30 +1438,6 @@
    "source": {
     "name": "NPR via KPBS",
     "url": "https://www.kpbs.org/news/politics/2026/11/05/a-judge-blocks-construction-of-trumps-arch-moments-after-it-won-federal-approval"
-   }
-  },
-  {
-   "id": "20261106-0441-afipsky-refinery-fire",
-   "time": "2026-11-06T04:41:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Krasnodar authorities say drone debris set fire to an industrial facility in Afipsky overnight; exiled outlet Astra identifies it as the EU-sanctioned Afipsky oil refinery, per The Moscow Times.",
-   "ar": "سلطات كراسنودار تقول إن حطام مسيّرة أشعل حريقاً في منشأة صناعية في أفيبسكي ليلاً، فيما يحدّد موقع «أسترا» المعارض المنشأة بأنها مصفاة أفيبسكي النفطية الخاضعة لعقوبات أوروبية، بحسب «موسكو تايمز».",
-   "source": {
-    "name": "The Moscow Times",
-    "url": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189"
-   }
-  },
-  {
-   "id": "20261106-0439-brent-back-above-100",
-   "time": "2026-11-06T04:39:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Brent crude rises 2% to $100.3 a barrel and WTI 1.5% to $91.8 in Friday trading, though both remain on track for a weekly loss of about 12%, per HDFC Sky.",
-   "ar": "خام برنت يرتفع 2% إلى 100.3 دولار للبرميل وخام غرب تكساس 1.5% إلى 91.8 دولاراً في تداولات الجمعة، لكنهما يتّجهان نحو خسارة أسبوعية بنحو 12%، بحسب HDFC Sky.",
-   "source": {
-    "name": "HDFC Sky",
-    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-6-2026-brent-reclaims-100-wti-nears-92-both-benchmarks-head-for-12percent-weekly-decline"
    }
   }
  ]
