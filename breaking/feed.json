@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:08:56Z",
+ "updated": "2026-11-09T19:08:45Z",
  "items": [
   {
    "id": "20261109-1752-hegseth-impeachment-presser",
@@ -11,6 +11,18 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/politics/2026/11/09/hegseth-announces-rare-press-conference-to-discuss-expected-impeachment-resolution-in-congress/"
+   }
+  },
+  {
+   "id": "20261109-1742-eisenkot-liberman-speaker",
+   "time": "2026-11-09T17:42:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot and Avigdor Liberman agree on a Yashar candidate to replace Knesset Speaker Amir Ohana, who says he will hold a vote within a week if 61 MKs sign, per Ynet.",
+   "ar": "آيزنكوت وأفيغدور ليبرمان يتفقان على مرشح من «ياشار» لخلافة رئيس الكنيست أمير أوحانا، الذي يقول إنه سيجري التصويت خلال أسبوع إذا وقّع 61 نائباً، بحسب «واي نت».",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/bkbp4kkrmg"
    }
   },
   {
@@ -1201,11 +1213,11 @@
    "time": "2026-11-07T11:49:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Houthi health ministry spokesman Anees Alasbahi says strikes on Al-Shariya, east of Sanaa, that the Houthis blame on Saudi Arabia killed 33 people, including 13 children, and wounded 39.",
-   "ar": "المتحدث باسم وزارة الصحة الحوثية أنيس الأصبحي يقول إن الغارات على قرية الشرية شرق صنعاء، التي يحمّل الحوثيون السعودية مسؤوليتها، أسفرت عن مقتل 33 شخصاً بينهم 13 طفلاً وجرح 39.",
+   "en": "Houthi health ministry spokesman Anees al-Asbahi says the toll from strikes on Al-Shariya, east of Sanaa, which the Houthis blame on Saudi Arabia, has risen to 44 dead, including 21 children.",
+   "ar": "المتحدث باسم وزارة الصحة الحوثية أنيس الأصبحي يقول إن حصيلة الغارات على قرية الشرية شرق صنعاء، التي يحمّل الحوثيون السعودية مسؤوليتها، ارتفعت إلى 44 قتيلاً بينهم 21 طفلاً.",
    "source": {
-    "name": "AFP/Reuters via RTÉ",
-    "url": "https://www.rte.ie/news/world/2026/1108/1598395-33-dead-yemen/"
+    "name": "AP via CP24",
+    "url": "https://www.cp24.com/news/world/2026/11/09/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital-and-other-mideast-news/"
    }
   },
   {
@@ -1542,30 +1554,6 @@
    "source": {
     "name": "AP via WHEC",
     "url": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
-   }
-  },
-  {
-   "id": "20261106-1855-miller-chief-of-staff",
-   "time": "2026-11-06T18:55:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump announces that White House chief of staff Susie Wiles is leaving and will be replaced by her deputy Stephen Miller, with Wiles moving to his political operation.",
-   "ar": "ترامب يعلن مغادرة كبيرة موظفي البيت الأبيض سوزي وايلز وتعيين نائبها ستيفن ميلر خلفاً لها، على أن تنتقل وايلز إلى فريقه السياسي.",
-   "source": {
-    "name": "ABC News",
-    "url": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244"
-   }
-  },
-  {
-   "id": "20261106-1811-mossad-iran-op-report",
-   "time": "2026-11-06T18:11:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's Channel 12 reports, without sourcing, that Netanyahu and Mossad chief Roman Gofman planned an operation inside Iran before the 27 October election, which the US quashed after it was tipped off.",
-   "ar": "القناة 12 الإسرائيلية تفيد، من دون ذكر مصادر، بأن نتنياهو ورئيس الموساد رومان غوفمان خطّطا لعملية داخل إيران قبيل انتخابات 27 تشرين الأول، وأن واشنطن أحبطتها بعدما علمت بها.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-pm-mossad-chief-planned-operation-inside-iran-on-eve-of-israeli-election-which-was-thwarted-after-us-accidentally-tipped-off/"
    }
   }
  ]
