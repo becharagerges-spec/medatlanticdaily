@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T16:09:36Z",
+ "updated": "2026-11-09T17:09:10Z",
  "items": [
+  {
+   "id": "20261109-1643-france-blames-iran-fridge-hacks",
+   "time": "2026-11-09T16:43:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "French Foreign Minister Jean-Noël Barrot blames an IRGC-linked group for cyberattacks on supermarket fridges at 700 food sites, summons Iran's ambassador and says France will seek EU sanctions.",
+   "ar": "وزير الخارجية الفرنسي جان نويل بارو يحمّل مجموعة مرتبطة بالحرس الثوري مسؤولية هجمات سيبرانية على برادات متاجر طالت 700 موقع غذائي، ويستدعي السفير الإيراني ويعلن السعي إلى عقوبات أوروبية.",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack"
+   }
+  },
   {
    "id": "20261109-1544-wall-street-rally-nasdaq",
    "time": "2026-11-09T15:44:00Z",
@@ -26,15 +38,26 @@
    }
   },
   {
+   "id": "20261109-1429-orban-brother-detained",
+   "time": "2026-11-09T14:29:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Hungarian police detain Aron Orban, brother of former Prime Minister Viktor Orban, in a human-trafficking probe; Viktor Orban calls it a 'dirty game' targeting him.",
+   "ar": "الشرطة المجرية توقف آرون أوربان، شقيق رئيس الوزراء السابق فيكتور أوربان، في تحقيق بالاتجار بالبشر، وأوربان يصف الأمر بـ«لعبة قذرة» تستهدفه شخصياً.",
+   "source": {
+    "name": "CP24",
+    "url": "https://www.cp24.com/news/world/2026/11/09/police-detain-former-hungarian-pm-orbans-brother-report/"
+   }
+  },
+  {
    "id": "20261109-1326-brent-falls-36pct-hormuz",
    "time": "2026-11-09T13:26:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Brent crude falls 3.6% to $94.76 a barrel and US crude 3.1% to $88.05 as Iran reviews Qatari proposals and Trump meets Qatar's prime minister, AP reports.",
-   "ar": "خام برنت يتراجع 3.6% إلى 94.76 دولاراً للبرميل والخام الأميركي 3.1% إلى 88.05 دولاراً، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري، بحسب «أسوشيتد برس».",
+   "en": "Brent crude falls as much as 4.8% to below $94 a barrel, a 10-week low, as Iran reviews Qatari proposals and Trump meets Qatar's prime minister.",
+   "ar": "خام برنت يتراجع حتى 4.8% إلى ما دون 94 دولاراً للبرميل، أدنى مستوى في 10 أسابيع، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري.",
    "source": {
-    "name": "AP via Transport Topics",
-    "url": "https://www.ttnews.com/articles/oil-prices-trump-qatar-talks"
+    "name": "Bloomberg"
    }
   },
   {
@@ -73,6 +96,30 @@
    }
   },
   {
+   "id": "20261109-1231-iran-iaea-no-full-monitoring",
+   "time": "2026-11-09T12:31:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran tells the IAEA in a 10-page document that it is not obliged to accept full nuclear monitoring while under threat of US attack, Bloomberg reports.",
+   "ar": "إيران تبلغ الوكالة الدولية للطاقة الذرية في وثيقة من 10 صفحات أنها غير ملزمة بقبول رقابة نووية كاملة ما دامت مهددة بهجوم أميركي، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/iran-hardens-line-against-nuclear-monitoring-as-deal-hopes-fade"
+   }
+  },
+  {
+   "id": "20261109-1223-salam-avoid-new-war",
+   "time": "2026-11-09T12:23:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Prime Minister Nawaf Salam tells the cabinet Lebanon's priority is to protect its security and avoid being dragged into any new war, as Israeli strikes hit Kfar Tebnit and al-Qantara.",
+   "ar": "رئيس الحكومة نواف سلام يقول أمام مجلس الوزراء إن الأولوية حماية لبنان وأمنه وتجنّب جرّه إلى أي حرب جديدة، فيما تستهدف غارات إسرائيلية كفرتبنيت والقنطرة.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.net/news/2026/11/9/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%84%D8%A7%D9%85"
+   }
+  },
+  {
    "id": "20261109-1207-riner-presidential-bid",
    "time": "2026-11-09T12:07:00Z",
    "theater": "europe",
@@ -94,6 +141,18 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/"
+   }
+  },
+  {
+   "id": "20261109-1154-rosneft-petrol-limits",
+   "time": "2026-11-09T11:54:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Rosneft limits petrol sales to 30 litres per customer in cities and 50 on highways in several Russian regions after Ukrainian refinery strikes, per Kommersant and Current Time.",
+   "ar": "«روسنفت» تحدّ مبيعات البنزين بـ30 ليتراً للزبون في المدن و50 على الطرق السريعة في عدة مناطق روسية بعد ضربات أوكرانية على المصافي، بحسب «كوميرسانت» و«التلفزيون الحالي».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-imposes-gasoline-sales-restrictions-amid-ukrainian-oil-refinery-attacks-russian-media-report/"
    }
   },
   {
@@ -1483,18 +1542,6 @@
    "source": {
     "name": "Haaretz via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idf-central-command-chief-reportedly-told-settlers-not-to-tip-off-other-commanders-before-jericho-entry/"
-   }
-  },
-  {
-   "id": "20261106-1642-syria-aids-saudi-training",
-   "time": "2026-11-06T16:42:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Syria is giving Saudi Arabia military advice and training amid Houthi attacks and has sent a limited number of personnel to the kingdom, two Syrian military sources and a US official tell Reuters.",
-   "ar": "سوريا تقدّم للسعودية استشارات وتدريبات عسكرية في ظل هجمات الحوثيين، وأرسلت عدداً محدوداً من العناصر إلى المملكة، بحسب مصدرين عسكريين سوريين ومسؤول أميركي لرويترز.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/syria-aids-saudi-arabia-with-military-advice-and-training-amid-houthi-attacks-sources-say/"
    }
   }
  ]
