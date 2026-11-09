@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T15:11:02Z",
+ "updated": "2026-11-09T16:09:36Z",
  "items": [
+  {
+   "id": "20261109-1544-wall-street-rally-nasdaq",
+   "time": "2026-11-09T15:44:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "US stocks rally by mid-morning, with the Nasdaq up 2.4%, the S&P 500 up 2% and the Dow up 1.6%, as US crude falls 3.2% to $87.96 a barrel, per Yahoo Finance.",
+   "ar": "الأسهم الأميركية ترتفع بقوة قبل الظهر، إذ يصعد ناسداك 2.4% وستاندرد آند بورز 500 بنسبة 2% وداو جونز 1.6%، فيما يتراجع الخام الأميركي 3.2% إلى 87.96 دولاراً للبرميل (ياهو فايننس).",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+   }
+  },
   {
    "id": "20261109-1431-nvidia-falls-8pct-open",
    "time": "2026-11-09T14:31:00Z",
@@ -188,6 +200,18 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
+   }
+  },
+  {
+   "id": "20261109-0904-baghaei-two-day-plan",
+   "time": "2026-11-09T09:04:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian foreign ministry spokesman Esmaeil Baghaei says Tehran's two-day proposal, restoring Hormuz security within 48 hours if the US lifts its blockade and ends hostilities, remains on the table.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن مقترح طهران لمدة يومين، الذي يعيد أمن هرمز خلال 48 ساعة إذا رفعت واشنطن الحصار وأوقفت الأعمال العدائية، لا يزال مطروحاً.",
+   "source": {
+    "name": "ANI",
+    "url": "https://aninews.in/news/world/middle-east/iran-says-two-day-plan-remains-on-table-links-hormuz-security-to-us-meeting-its-demands20261109143416/"
    }
   },
   {
@@ -1471,30 +1495,6 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/syria-aids-saudi-arabia-with-military-advice-and-training-amid-houthi-attacks-sources-say/"
-   }
-  },
-  {
-   "id": "20261106-1554-iran-s400-request",
-   "time": "2026-11-06T15:54:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran is negotiating to buy Russian S-400 air-defence systems, and security official Mohsen Rezaei handed Putin a letter from Mojtaba Khamenei requesting them, The Telegraph reports.",
-   "ar": "إيران تتفاوض لشراء منظومات الدفاع الجوي الروسية «إس-400»، والمسؤول الأمني محسن رضائي سلّم بوتين رسالة من مجتبى خامنئي يطلبها فيها، بحسب «ذا تلغراف».",
-   "source": {
-    "name": "The Telegraph via i24NEWS",
-    "url": "https://www.i24news.tv/fr/actu/international/artc-l-iran-negocie-avec-la-russie-l-acquisition-de-systemes-de-defense-antiaerienne-s-400"
-   }
-  },
-  {
-   "id": "20261106-1526-irgc-claims-mq1-qeshm",
-   "time": "2026-11-06T15:26:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say their air defences shot down a US MQ-1 drone over Qeshm Island in the Strait of Hormuz; there is no immediate US confirmation, Reuters reports.",
-   "ar": "الحرس الثوري الإيراني يقول إن دفاعاته الجوية أسقطت مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم في مضيق هرمز، من دون تأكيد أميركي فوري، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via MarketScreener",
-    "url": "https://www.marketscreener.com/news/iran-says-it-downed-us-mq-1-drone-over-qeshm-island-ce785fd2db88f621"
    }
   }
  ]
