@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T10:08:44Z",
+ "updated": "2026-11-09T11:12:06Z",
  "items": [
+  {
+   "id": "20261109-1009-kremlin-abu-dhabi-trilateral",
+   "time": "2026-11-09T10:09:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin spokesman Dmitry Peskov says the Abu Dhabi talks remain a Ukraine-Russia-US trilateral format despite European delegations attending, saying Europeans have separate channels with Kyiv and Washington.",
+   "ar": "الناطق باسم الكرملين دميتري بيسكوف يقول إن محادثات أبوظبي تبقى بصيغة ثلاثية أوكرانية-روسية-أميركية رغم حضور وفود أوروبية، مشيراً إلى قنوات منفصلة للأوروبيين مع كييف وواشنطن.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/world/kremlin-says-abu-dhabi-ukraine-talks-still-trilateral-3010692"
+   }
+  },
+  {
+   "id": "20261109-0959-eu-emergency-funding-ukraine",
+   "time": "2026-11-09T09:59:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says the EU will use an emergency assistance mechanism to fund Ukraine's urgent needs after Russian strikes on power, water and heating, following a call with Ursula von der Leyen.",
+   "ar": "زيلينسكي يعلن أن الاتحاد الأوروبي سيفعّل آلية مساعدة طارئة لتمويل حاجات أوكرانيا الملحّة بعد الضربات الروسية على الكهرباء والمياه والتدفئة، إثر اتصال مع أورسولا فون دير لاين.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89526"
+   }
+  },
   {
    "id": "20261109-0939-store-no-abu-dhabi-breakthrough",
    "time": "2026-11-09T09:39:00Z",
@@ -94,6 +118,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-lifts-danger-warning-in-riyadh-3010670"
+   }
+  },
+  {
+   "id": "20261109-0436-china-extends-tariff-pause",
+   "time": "2026-11-09T04:36:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China extends its suspension of an extra 24% tariff on US goods and of special port fees on US ships until 10 January, keeping a 10% tariff, ahead of the Trump-Xi APEC meeting.",
+   "ar": "الصين تمدّد تعليق الرسوم الإضافية البالغة 24% على السلع الأميركية والرسوم الخاصة على السفن الأميركية حتى 10 كانون الثاني، مع إبقاء رسم 10%، قبيل لقاء ترامب وشي في قمة آبيك.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate"
    }
   },
   {
@@ -1425,54 +1461,6 @@
    "source": {
     "name": "AFP via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/ireland-hoax-bomb-claims-sent-to-media-outlets-european-flights-likely-part-of-coordinated-campaign/"
-   }
-  },
-  {
-   "id": "20261106-1058-komyshuvakha-toll-53",
-   "time": "2026-11-06T10:58:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The death toll from Russian guided bombs that hit a former school and shelter in Komyshuvakha, southeastern Ukraine, rises to 55 after 2 more bodies were recovered Saturday; dozens remain missing.",
-   "ar": "حصيلة القنابل الموجّهة الروسية التي أصابت مدرسة سابقة وملجأً في كوميشوفاخا جنوب شرق أوكرانيا ترتفع إلى 55 قتيلاً بعد انتشال جثتين إضافيتين السبت، فيما لا يزال العشرات في عداد المفقودين.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
-   }
-  },
-  {
-   "id": "20261106-1047-mecca-drone-intercepted",
-   "time": "2026-11-06T10:47:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a drone in the Mecca region, without naming its source, spokesman Turki al-Malki says.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير طائرة مسيّرة في منطقة مكة المكرمة، من دون تحديد مصدرها، بحسب المتحدث تركي المالكي.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-drone-in-mecca-region-2/"
-   }
-  },
-  {
-   "id": "20261106-1039-rabello-quits-comptroller-race",
-   "time": "2026-11-06T10:39:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu's lawyer Michael Rabello tells Knesset Speaker Amir Ohana he will not run for state comptroller, months after the High Court froze his appointment, per Times of Israel.",
-   "ar": "محامي نتنياهو مايكل رابيلو يبلغ رئيس الكنيست أمير أوحانا أنه لن يترشح لمنصب مراقب الدولة، بعد أشهر من تجميد المحكمة العليا لتعيينه، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/rabello-notifies-knesset-speaker-that-he-wont-run-for-state-comptroller/"
-   }
-  },
-  {
-   "id": "20261106-1019-utj-asher-liberman",
-   "time": "2026-11-06T10:19:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "United Torah Judaism chairman Yaakov Asher welcomes Avigdor Liberman's flexibility on Haredi enlistment but says no partnership proposal has been received yet, per Times of Israel.",
-   "ar": "رئيس حزب «يهدوت هتوراه» يعقوب آشر يرحّب بمرونة أفيغدور ليبرمان في ملف تجنيد الحريديم، لكنه يقول إنه لم يتلقَّ أي عرض شراكة بعد، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/utj-chief-welcomes-libermans-flexibility-but-says-no-partnership-proposal-received-yet/"
    }
   }
  ]
