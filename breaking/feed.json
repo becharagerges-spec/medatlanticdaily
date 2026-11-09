@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-09T19:08:45Z",
+ "updated": "2026-11-09T20:07:58Z",
  "items": [
+  {
+   "id": "20261109-1921-massie-files-hegseth-impeachment",
+   "time": "2026-11-09T19:21:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Republican Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth, accusing him of illegally launching the Iran war and forcing a House vote as soon as this week.",
+   "ar": "النائب الجمهوري توماس ماسي يقدّم مواد لعزل وزير الدفاع بيت هيغسيث، متّهماً إياه بشنّ حرب إيران بشكل غير قانوني، ما يفرض تصويتاً في مجلس النواب ربما هذا الأسبوع.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261109-1755-trump-qatar-pm-oval-meeting",
+   "time": "2026-11-09T17:55:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump begins a closed-door Oval Office meeting with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on a US-Iran deal, after the Qatari premier met Vice President JD Vance, per Times of Israel.",
+   "ar": "ترامب يبدأ اجتماعاً مغلقاً في المكتب البيضاوي مع رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني حول اتفاق أميركي-إيراني، بعد لقاء الأخير نائب الرئيس جي دي فانس، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-meets-with-qatari-pm-at-white-house-amid-iran-diplomacy-efforts/"
+   }
+  },
   {
    "id": "20261109-1752-hegseth-impeachment-presser",
    "time": "2026-11-09T17:52:00Z",
@@ -1530,30 +1553,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-drone-in-riyadh-region-3010236"
-   }
-  },
-  {
-   "id": "20261106-1951-zelensky-warns-bridges-attack",
-   "time": "2026-11-06T19:51:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Ukrainian intelligence shows Russia is preparing a new attack on energy infrastructure, Dnipro River bridges and civilian sites, and urges partners not to delay Patriot interceptors.",
-   "ar": "زيلينسكي يقول إن الاستخبارات الأوكرانية تُظهر أن روسيا تُعدّ لهجوم جديد على منشآت الطاقة وجسور نهر دنيبرو ومواقع مدنية، ويحثّ الشركاء على عدم تأخير صواريخ باتريوت الاعتراضية.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/"
-   }
-  },
-  {
-   "id": "20261106-1945-paraguay-pena-removed",
-   "time": "2026-11-06T19:45:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Paraguay's Senate unanimously removes President Santiago Peña over the Ueno Bank collapse; Vice President Pedro Alliana is sworn in and prosecutors order Peña held under house arrest, AP reports.",
-   "ar": "مجلس الشيوخ في الباراغواي يعزل الرئيس سانتياغو بينيا بالإجماع على خلفية انهيار مصرف «أوينو»، ونائبه بيدرو أليانا يؤدي اليمين، والنيابة تأمر بوضع بينيا قيد الإقامة الجبرية، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via WHEC",
-    "url": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
    }
   }
  ]
