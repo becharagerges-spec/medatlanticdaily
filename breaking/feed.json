@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T09:08:38Z",
+ "updated": "2026-11-09T10:08:44Z",
  "items": [
+  {
+   "id": "20261109-0939-store-no-abu-dhabi-breakthrough",
+   "time": "2026-11-09T09:39:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Norwegian Prime Minister Jonas Gahr Støre, who spoke to Putin last month, tells Politico that Putin may not want peace and he expects no major breakthrough at the Abu Dhabi talks.",
+   "ar": "رئيس الوزراء النروجي يوناس غار ستوره، الذي تحدّث إلى بوتين الشهر الماضي، يقول لـ«بوليتيكو» إن بوتين قد لا يريد السلام ولا يتوقّع اختراقاً كبيراً في محادثات أبوظبي.",
+   "source": {
+    "name": "Politico Europe"
+   }
+  },
   {
    "id": "20261109-0855-crete-migrants-20-dead",
    "time": "2026-11-09T08:55:00Z",
@@ -11,6 +22,18 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/20-migrants-die-trying-to-reach-greeces-crete-authorities-say/"
+   }
+  },
+  {
+   "id": "20261109-0841-iran-iaea-bushehr-visit",
+   "time": "2026-11-09T08:41:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's foreign ministry spokesman Esmaeil Baghaei says IAEA inspectors visited the Bushehr nuclear plant a few days ago, but says normal cooperation cannot resume after US and Israeli attacks.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن مفتشي الوكالة الدولية للطاقة الذرية زاروا محطة بوشهر النووية قبل أيام، لكن التعاون الطبيعي لا يمكن أن يُستأنف بعد الهجمات الأميركية والإسرائيلية.",
+   "source": {
+    "name": "Trend",
+    "url": "https://www.trend.az/iran/4244654.html"
    }
   },
   {
@@ -1450,30 +1473,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/utj-chief-welcomes-libermans-flexibility-but-says-no-partnership-proposal-received-yet/"
-   }
-  },
-  {
-   "id": "20261106-1005-pmo-aid-partnership",
-   "time": "2026-11-06T10:05:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu's office, in its first response, does not deny Trump's announced end of US military aid to Israel by the end of 2026, calling it a move 'from aid to partnership'.",
-   "ar": "مكتب نتنياهو، في أول ردّ له، لا ينفي إعلان ترامب وقف المساعدات العسكرية الأميركية لإسرائيل بنهاية 2026، ويصف الخطوة بأنها انتقال «من المساعدة إلى الشراكة».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/in-1st-response-netanyahus-office-doesnt-deny-trumps-announcement-of-imminent-halt-to-military-aid/"
-   }
-  },
-  {
-   "id": "20261106-0940-liberman-open-haredim",
-   "time": "2026-11-06T09:40:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yisrael Beytenu leader Avigdor Liberman says he is open to a coalition with Haredi parties and a compromise on the draft law, but rejects any government relying on the Joint List and Ra'am.",
-   "ar": "زعيم «يسرائيل بيتينو» أفيغدور ليبرمان يقول إنه منفتح على ائتلاف مع الأحزاب الحريدية وعلى تسوية في قانون التجنيد، لكنه يرفض أي حكومة تستند إلى القائمة المشتركة و«راعم».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/liberman-confirms-hes-open-to-coalition-with-haredi-parties-compromise-on-enlistment-law/"
    }
   }
  ]
