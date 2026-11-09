@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T12:11:37Z",
+ "updated": "2026-11-09T13:13:29Z",
  "items": [
+  {
+   "id": "20261109-1257-pezeshkian-end-no-war-no-peace",
+   "time": "2026-11-09T12:57:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei ordered the government to end the 'no war, no peace' situation with the US, per The Times of Israel.",
+   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن المرشد الأعلى مجتبى خامنئي أمر الحكومة بإنهاء حالة «لا حرب ولا سلم» مع الولايات المتحدة، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-president-supreme-leader-told-us-to-end-no-war-no-peace-reality/"
+   }
+  },
+  {
+   "id": "20261109-1248-g7-paris-rubio-iran-ukraine",
+   "time": "2026-11-09T12:48:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "G7 foreign ministers open 2 days of talks in Paris, with European ministers pressing US Secretary of State Marco Rubio on a fair Ukraine settlement and avoiding new escalation with Iran.",
+   "ar": "وزراء خارجية مجموعة السبع يفتتحون محادثات تستمر يومين في باريس، والوزراء الأوروبيون يضغطون على وزير الخارجية الأميركي ماركو روبيو من أجل تسوية عادلة لأوكرانيا وتجنّب تصعيد جديد مع إيران.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks/"
+   }
+  },
   {
    "id": "20261109-1207-riner-presidential-bid",
    "time": "2026-11-09T12:07:00Z",
@@ -14,6 +38,30 @@
    }
   },
   {
+   "id": "20261109-1203-novaya-gazeta-closes",
+   "time": "2026-11-09T12:03:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Russia's independent newspaper Novaya Gazeta winds up operations and leaves its Moscow office, citing state pressure; the Kremlin calls it part of a 'rotational process' in the media market.",
+   "ar": "صحيفة «نوفايا غازيتا» الروسية المستقلة توقف عملها وتغادر مكتبها في موسكو بسبب ضغوط الدولة؛ والكرملين يصف ذلك بأنه جزء من «عملية تدوير» في سوق الإعلام.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/"
+   }
+  },
+  {
+   "id": "20261109-1115-yashar-haredim-replace-ohana",
+   "time": "2026-11-09T11:15:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Eisenkot's Yashar party invites Shas and United Torah Judaism to back replacing Knesset Speaker Amir Ohana with an incoming Yashar MK.",
+   "ar": "حزب «ياشار» بزعامة آيزنكوت يدعو حزبي «شاس» و«يهدوت هتوراه» إلى دعم استبدال رئيس الكنيست أمير أوحانا بنائب جديد من «ياشار».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-invites-haredi-factions-to-back-knesset-speaker-replacement/"
+   }
+  },
+  {
    "id": "20261109-1100-estonia-russia-state-terrorism",
    "time": "2026-11-09T11:00:00Z",
    "theater": "europe",
@@ -23,6 +71,30 @@
    "source": {
     "name": "Financial Times via European Pravda",
     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/9/7249560/"
+   }
+  },
+  {
+   "id": "20261109-1051-us-partial-blockade-lift-offer",
+   "time": "2026-11-09T10:51:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Emirati outlet Erem News reports the US has offered Iran a phased plan starting with a partial lifting of the naval blockade in exchange for reopening the Strait of Hormuz; Iran has not responded.",
+   "ar": "موقع «إرم نيوز» الإماراتي يفيد بأن واشنطن عرضت على إيران خطة مرحلية تبدأ برفع جزئي للحصار البحري مقابل إعادة فتح مضيق هرمز؛ ولم تردّ طهران بعد.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-us-offering-iran-partial-lifting-of-blockade-in-exchange-for-opening-hormuz/"
+   }
+  },
+  {
+   "id": "20261109-1021-erdogan-warns-iran-attacks",
+   "time": "2026-11-09T10:21:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Turkish President Recep Tayyip Erdogan says Turkey does not want a new wave of attacks on Iran and that he conveyed his concerns to Trump in a recent phone call.",
+   "ar": "الرئيس التركي رجب طيب أردوغان يقول إن تركيا لا تريد موجة جديدة من الهجمات على إيران، وإنه نقل مخاوفه إلى ترامب في اتصال هاتفي أخيراً.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/erdogan-says-he-conveyed-turkiyes-concerns-on-potential-attacks-on-iran-to-trump-3010695"
    }
   },
   {
@@ -904,11 +976,11 @@
    "time": "2026-11-07T13:21:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Yemeni military and government sources tell AFP hundreds of Syrian troops have deployed on the Saudi-Yemeni border to fight the Houthis; a Syrian diplomatic source tells SANA Syria has no plans to send troops to Yemen.",
-   "ar": "مصادر عسكرية وحكومية يمنية تقول لفرانس برس إن مئات الجنود السوريين انتشروا على الحدود السعودية اليمنية لقتال الحوثيين، فيما ينفي مصدر دبلوماسي سوري لـ«سانا» وجود أي خطط لإرسال قوات إلى اليمن.",
+   "en": "Yemeni sources told AFP hundreds of Syrian troops deployed on the Saudi-Yemeni border; Syrian Foreign Minister Asaad al-Shaibani says there is no deployment to Yemen and no plan for one soon.",
+   "ar": "مصادر يمنية قالت لفرانس برس إن مئات الجنود السوريين انتشروا على الحدود السعودية اليمنية؛ ووزير الخارجية السوري أسعد الشيباني ينفي أي انتشار في اليمن أو خطة لذلك في المدى القريب.",
    "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914141"
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/"
    }
   },
   {
@@ -1413,54 +1485,6 @@
    "source": {
     "name": "The Times via Israel Hayom",
     "url": "https://www.israelhayom.com/2026/11/06/iodine-nuclear-strike-pickaxe-mountain-iran/"
-   }
-  },
-  {
-   "id": "20261106-1239-trump-strikes-new-moon",
-   "time": "2026-11-06T12:39:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Senior officials tell Fox News Trump discussed renewed strikes on Iran with his national security team, citing the 9 November new moon as preferred darkness for resuming operations.",
-   "ar": "مسؤولون كبار يقولون لـ«فوكس نيوز» إن ترامب بحث مع فريقه للأمن القومي استئناف الضربات على إيران، مشيرين إلى المحاق في 9 تشرين الثاني كظلام مفضّل لاستئناف العمليات.",
-   "source": {
-    "name": "Fox News via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-discusses-new-iran-strikes-at-white-house-possibly-under-cover-of-nov-9s-new-moon-report/"
-   }
-  },
-  {
-   "id": "20261106-1230-iran-nuclear-back-in-play",
-   "time": "2026-11-06T12:30:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran is reviewing Qatari-mediated proposals to curb its nuclear programme, including its highly enriched uranium stockpile, in exchange for significant US sanctions relief, Bloomberg and Times of Israel report.",
-   "ar": "إيران تدرس مقترحات بوساطة قطرية للحدّ من برنامجها النووي، بما فيها مخزون اليورانيوم العالي التخصيب، مقابل تخفيف واسع للعقوبات الأميركية، بحسب «بلومبرغ» و«تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-and-iran-edge-closer-to-deal-with-nuclear-issue-back-in-play"
-   }
-  },
-  {
-   "id": "20261106-1219-tanker-blast-khasab",
-   "time": "2026-11-06T12:19:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "A tanker transiting the Strait of Hormuz reports an explosion at its port-side waterline 16 nautical miles east of Oman's Khasab; it continues under its own power with all crew safe, UKMTO says.",
-   "ar": "ناقلة تعبر مضيق هرمز تبلّغ عن انفجار عند خط الماء في جانبها الأيسر على بُعد 16 ميلاً بحرياً شرق خصب العُمانية، وتواصل إبحارها بقوتها الذاتية وطاقمها بأمان، بحسب هيئة UKMTO البريطانية.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/tanker-reports-explosion-near-omans-khasab-while-transiting-strait-of-hormuz-ukmto-says-3010151"
-   }
-  },
-  {
-   "id": "20261106-1218-anc-municipal-losses",
-   "time": "2026-11-06T12:18:00Z",
-   "theater": "africa",
-   "status": "reported",
-   "en": "With 71% of votes counted in South Africa's municipal elections, the ANC has 32% and the Democratic Alliance 25%, about 14 points below the ANC's 2021 result, per Times of Israel.",
-   "ar": "بعد فرز 71% من الأصوات في الانتخابات البلدية في جنوب أفريقيا، يحصل المؤتمر الوطني الأفريقي على 32% والتحالف الديمقراطي على 25%، أي نحو 14 نقطة دون نتيجة المؤتمر عام 2021، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/south-africas-anc-continues-decline-as-early-municipal-elections-results-show-big-losses/"
    }
   }
  ]
