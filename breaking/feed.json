@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T06:13:06Z",
+ "updated": "2026-11-09T07:12:03Z",
  "items": [
+  {
+   "id": "20261109-0700-ukraine-317-drones-271-downed",
+   "time": "2026-11-09T07:00:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 317 drones overnight, 105 of them jet-powered Shaheds; 271 were downed or suppressed, with hits recorded at 31 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 317 مسيّرة خلال الليل، بينها 105 مسيّرات «شاهد» نفاثة؛ أُسقطت أو عُطّلت 271 منها، وسُجّلت إصابات في 31 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4182779-air-defense-neutralizes-271-of-317-russian-drones-targeting-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261109-0640-riyadh-aerial-threat-lifted",
+   "time": "2026-11-09T06:40:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Civil Defense warns Riyadh residents of an aerial threat on Monday morning and lifts the alert minutes later, as Yemen's Houthis keep firing missiles and drones at the kingdom.",
+   "ar": "الدفاع المدني السعودي يحذّر سكان الرياض من تهديد جوي صباح الاثنين ثم يرفع الإنذار بعد دقائق، فيما يواصل الحوثيون إطلاق الصواريخ والمسيّرات على المملكة.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-lifts-danger-warning-in-riyadh-3010670"
+   }
+  },
   {
    "id": "20261109-0434-hormuz-nav-aids-no-transit",
    "time": "2026-11-09T04:34:00Z",
@@ -83,6 +107,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/trump-to-meet-tomorrow-at-white-house-with-qatari-leader/"
+   }
+  },
+  {
+   "id": "20261109-0109-znpp-power-cut-restored",
+   "time": "2026-11-09T01:09:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "The IAEA says the Zaporizhzhia nuclear plant lost its only 330-kV external power line and ran on emergency diesel generators for about 10 hours before power was restored.",
+   "ar": "الوكالة الدولية للطاقة الذرية تقول إن محطة زابوريجيا النووية فقدت خط الإمداد الخارجي الوحيد بقدرة 330 كيلوفولت وعملت على مولدات الديزل الطارئة نحو 10 ساعات قبل إعادة التيار.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/"
    }
   },
   {
@@ -665,11 +701,11 @@
    "time": "2026-11-07T15:37:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "The toll from the Krakow shooting rises to 9 dead and 15 wounded after 3 people were found dead at the gunman's home, Polish Prime Minister Donald Tusk says.",
-   "ar": "حصيلة إطلاق النار في كراكوف ترتفع إلى 9 قتلى و15 جريحاً بعد العثور على 3 أشخاص قتلى في منزل المسلّح، بحسب رئيس الوزراء البولندي دونالد توسك.",
+   "en": "Polish police say the 24-year-old gunman who killed 6 people in Krakow's Old Town square has died in hospital; his parents and sister were also found dead at home.",
+   "ar": "الشرطة البولندية تعلن وفاة المسلّح البالغ 24 عاماً، الذي قتل 6 أشخاص في ساحة البلدة القديمة في كراكوف، في المستشفى؛ وكانت جثث والديه وشقيقته قد وُجدت في منزله.",
    "source": {
-    "name": "TVP World",
-    "url": "https://tvpworld.com/96363195/tusk-three-found-dead-at-krakow-shooters-home"
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/krakow-mass-shooting-assailant-died-in-hospital-polish-police-say/"
    }
   },
   {
@@ -1462,18 +1498,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones"
-   }
-  },
-  {
-   "id": "20261106-0628-grynspan-un-poll",
-   "time": "2026-11-06T06:28:00Z",
-   "theater": "world",
-   "status": "reported",
-   "en": "Costa Rica's Rebeca Grynspan extends her lead in the Security Council's informal poll for UN secretary-general with 12 votes in favour and 3 against, sources tell Reuters; Rafael Grossi is second.",
-   "ar": "الكوستاريكية ريبيكا غرينسبان توسّع تقدّمها في الاقتراع غير الرسمي لمجلس الأمن على منصب الأمين العام للأمم المتحدة بـ12 صوتاً مؤيداً و3 معارضين، بحسب مصادر لرويترز، ورافاييل غروسي ثانياً.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/costa-ricas-grynspan-extends-lead-in-informal-un-chief-poll-sources-say/"
    }
   }
  ]
