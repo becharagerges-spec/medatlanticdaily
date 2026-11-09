@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-09T07:12:03Z",
+ "updated": "2026-11-09T09:08:38Z",
  "items": [
+  {
+   "id": "20261109-0855-crete-migrants-20-dead",
+   "time": "2026-11-09T08:55:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Greek authorities say 20 migrants died on 2 boats trying to reach Crete, with 8 bodies found on one and 12 on the other; about 40 people were rescued.",
+   "ar": "السلطات اليونانية تعلن وفاة 20 مهاجراً على متن قاربين كانا يحاولان بلوغ جزيرة كريت، إذ عُثر على 8 جثث في أحدهما و12 في الآخر، وأُنقذ نحو 40 شخصاً.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/20-migrants-die-trying-to-reach-greeces-crete-authorities-say/"
+   }
+  },
+  {
+   "id": "20261109-0837-lebanese-army-baalbek-raid",
+   "time": "2026-11-09T08:37:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "The Lebanese army says it detained 6 wanted suspects, 4 Lebanese and 2 Syrians, and seized a large quantity of weapons including RPGs in raids near Baalbek.",
+   "ar": "الجيش اللبناني يعلن توقيف 6 مطلوبين، 4 لبنانيين وسوريَّين، وضبط كمية كبيرة من الأسلحة بينها قاذفات «آر بي جي» خلال مداهمات قرب بعلبك.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-army-says-6-suspects-detained-many-weapons-seized-during-raid-in-countrys-east/"
+   }
+  },
+  {
+   "id": "20261109-0835-china-denies-nvidia-spy",
+   "time": "2026-11-09T08:35:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's foreign ministry calls claims it spied on Nvidia CEO Jensen Huang 'baseless', as Nvidia shares fall in early European trading after the board opened a probe.",
+   "ar": "الخارجية الصينية تصف الاتهامات بالتجسس على الرئيس التنفيذي لـ«إنفيديا» جنسن هوانغ بأنها «لا أساس لها»، فيما تتراجع أسهم الشركة في التداولات الأوروبية المبكرة بعد فتح مجلس إدارتها تحقيقاً.",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/china-rejects-baseless-claims-it-spied-on-nvidia-boss/"
+   }
+  },
+  {
+   "id": "20261109-0728-israel-strikes-kfar-tebnit-qantara",
+   "time": "2026-11-09T07:28:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Israeli warplanes strike the south Lebanon towns of Kfar Tebnit and al-Qantara on Monday morning, per Lebanese outlets MTV and Beirut News Center.",
+   "ar": "الطيران الحربي الإسرائيلي يغير على بلدتي كفرتبنيت والقنطرة في جنوب لبنان صباح الاثنين، بحسب قناة «إم تي في» وموقع «بيروت نيوز سنتر».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://mtv.com.lb/news/1756458"
+   }
+  },
   {
    "id": "20261109-0700-ukraine-317-drones-271-downed",
    "time": "2026-11-09T07:00:00Z",
@@ -1426,78 +1474,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/liberman-confirms-hes-open-to-coalition-with-haredi-parties-compromise-on-enlistment-law/"
-   }
-  },
-  {
-   "id": "20261106-0817-muhoozi-to-quit-army",
-   "time": "2026-11-06T08:17:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Uganda's army chief General Muhoozi Kainerugaba, President Museveni's son, says he will hand over the post to a qualified officer within a few months, after about 2 years in office.",
-   "ar": "قائد الجيش الأوغندي الجنرال موهوزي كاينيروغابا، نجل الرئيس موسيفيني، يعلن أنه سيسلّم منصبه إلى ضابط مؤهّل خلال أشهر، بعد نحو سنتين في القيادة.",
-   "source": {
-    "name": "Citizen Digital",
-    "url": "https://citizen.digital/article/general-muhoozi-kainerugaba-announces-plan-to-step-down-as-ugandas-military-chief-n393432"
-   }
-  },
-  {
-   "id": "20261106-0805-trump-tamim-call",
-   "time": "2026-11-06T08:05:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's Emir Sheikh Tamim bin Hamad and President Trump discuss by phone Qatar's mediation toward a 'comprehensive agreement to end the regional crisis', a Qatari statement says.",
-   "ar": "أمير قطر الشيخ تميم بن حمد والرئيس ترامب يبحثان هاتفياً الوساطة القطرية للتوصل إلى «اتفاق شامل ينهي الأزمة الإقليمية»، بحسب بيان قطري.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/"
-   }
-  },
-  {
-   "id": "20261106-0804-najran-two-missiles",
-   "time": "2026-11-06T08:04:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences intercepted 2 Houthi ballistic missiles fired toward Najran, with debris falling and damage being assessed.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون باتجاه نجران، وسقطت شظايا ويجري تقييم الأضرار.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-downed-two-houthi-missiles-fired-toward-saudi-arabias-najran/"
-   }
-  },
-  {
-   "id": "20261106-0735-irgc-hormuz-closed-two-tankers",
-   "time": "2026-11-06T07:35:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 2 more oil tankers hit mines and caught fire in and east of the Strait of Hormuz, and declare the strait closed until Iran's 7 conditions are met; unverified.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط إضافيتين اصطدمتا بألغام واشتعلت فيهما النيران داخل مضيق هرمز وشرقه، ويعلن إغلاق المضيق إلى أن تُلبّى شروط إيران السبعة؛ ولم يُتحقق من ذلك.",
-   "source": {
-    "name": "Trend",
-    "url": "https://www.trend.az/iran/4243686.html"
-   }
-  },
-  {
-   "id": "20261106-0734-ukraine-227-drones-overnight",
-   "time": "2026-11-06T07:34:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's air force says Russia launched 227 attack drones overnight, of which 196 were downed or suppressed, with hits recorded at 14 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 227 مسيّرة هجومية خلال الليل، أُسقطت أو عُطّلت 196 منها، فيما سُجّلت إصابات في 14 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4181994-adf-neutralizes-196-russian-drones-used-to-attack-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261106-0714-nikkei-taiex-bear-market",
-   "time": "2026-11-06T07:14:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Japan's Nikkei 225 and Taiwan's Taiex fall into technical bear markets as the AI selloff deepens; the Taiex closes 4.5% lower after an intraday drop of more than 8%.",
-   "ar": "مؤشرا نيكاي 225 الياباني وتايكس التايواني يدخلان سوقاً هابطة مع تعمّق موجة بيع أسهم الذكاء الاصطناعي، وتايكس يغلق متراجعاً 4.5% بعد هبوط تجاوز 8% خلال الجلسة.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones"
    }
   }
  ]
