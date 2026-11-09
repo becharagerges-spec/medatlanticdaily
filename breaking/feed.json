@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T13:13:29Z",
+ "updated": "2026-11-09T14:12:04Z",
  "items": [
+  {
+   "id": "20261109-1326-brent-falls-36pct-hormuz",
+   "time": "2026-11-09T13:26:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude falls 3.6% to $94.76 a barrel and US crude 3.1% to $88.05 as Iran reviews Qatari proposals and Trump meets Qatar's prime minister, AP reports.",
+   "ar": "خام برنت يتراجع 3.6% إلى 94.76 دولاراً للبرميل والخام الأميركي 3.1% إلى 88.05 دولاراً، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP via Transport Topics",
+    "url": "https://www.ttnews.com/articles/oil-prices-trump-qatar-talks"
+   }
+  },
   {
    "id": "20261109-1257-pezeshkian-end-no-war-no-peace",
    "time": "2026-11-09T12:57:00Z",
@@ -23,6 +35,17 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks/"
+   }
+  },
+  {
+   "id": "20261109-1236-hezbollah-mps-islamabad-track",
+   "time": "2026-11-09T12:36:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Hezbollah MPs urge Lebanese authorities to reconsider their stance and join the Islamabad track, per Naharnet.",
+   "ar": "نواب «حزب الله» يدعون السلطات اللبنانية إلى إعادة النظر في موقفها والانضمام إلى «مسار إسلام آباد»، بحسب موقع «نهارنت».",
+   "source": {
+    "name": "Naharnet"
    }
   },
   {
@@ -71,6 +94,17 @@
    "source": {
     "name": "Financial Times via European Pravda",
     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/9/7249560/"
+   }
+  },
+  {
+   "id": "20261109-1052-jumblat-backs-disarmament",
+   "time": "2026-11-09T10:52:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Druze leader Walid Jumblat throws his support behind President Joseph Aoun and Prime Minister Nawaf Salam on disarming Hezbollah, per Naharnet.",
+   "ar": "الزعيم الدرزي وليد جنبلاط يعلن دعمه للرئيس جوزاف عون ورئيس الحكومة نواف سلام في مسألة نزع سلاح «حزب الله»، بحسب موقع «نهارنت».",
+   "source": {
+    "name": "Naharnet"
    }
   },
   {
@@ -169,6 +203,18 @@
    }
   },
   {
+   "id": "20261109-0838-israel-hayom-8bn-hormuz-deal",
+   "time": "2026-11-09T08:38:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Israel Hayom, citing diplomatic sources, reports a Qatari-brokered proposal: Iran reopens Hormuz and halts tanker attacks, the US lifts its blockade and $8 billion in Iranian funds in Qatar is unfrozen.",
+   "ar": "«يسرائيل هيوم» تنقل عن مصادر دبلوماسية مقترحاً بوساطة قطرية: إيران تعيد فتح هرمز وتوقف الهجمات على الناقلات، وواشنطن ترفع الحصار، ويُفرج عن 8 مليارات دولار إيرانية مجمّدة في قطر.",
+   "source": {
+    "name": "Israel Hayom",
+    "url": "https://www.israelhayom.com/2026/11/09/8-billion-lifeline-iranian-deal-set-to-land-on-trumps-desk/"
+   }
+  },
+  {
    "id": "20261109-0837-lebanese-army-baalbek-raid",
    "time": "2026-11-09T08:37:00Z",
    "theater": "lebanon",
@@ -190,6 +236,18 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/china-rejects-baseless-claims-it-spied-on-nvidia-boss/"
+   }
+  },
+  {
+   "id": "20261109-0747-syria-mecca-pact",
+   "time": "2026-11-09T07:47:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Two Syrian officials tell AP that Damascus has decided to join the Mecca defence pact with Saudi Arabia, Turkey and Pakistan but has not announced it; a regional official says talks continue.",
+   "ar": "مسؤولان سوريان يقولان لـ«أسوشيتد برس» إن دمشق قررت الانضمام إلى ميثاق مكة الدفاعي مع السعودية وتركيا وباكستان من دون إعلان ذلك بعد، فيما يقول مسؤول إقليمي إن المحادثات مستمرة.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/syria-saudi-yemen-houthis-fighters-d436bdc81a8e6b28bb99c417aaeaf8b6"
    }
   },
   {
@@ -1449,42 +1507,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-reiterates-demand-for-mandatory-national-service-after-liberman-opens-door-to-coalition-with-haredim/"
-   }
-  },
-  {
-   "id": "20261106-1400-velos-seafarer-killed",
-   "time": "2026-11-06T14:00:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "One seafarer was killed on the unladen oil products tanker MT Velos in the Gulf on Thursday in an explosion believed to be a missile strike, its Greek manager Velos Tankers says.",
-   "ar": "مقتل بحّار على متن ناقلة المشتقات النفطية الفارغة «إم تي فيلوس» في الخليج يوم الخميس بانفجار يُرجَّح أنه ناجم عن ضربة صاروخية، بحسب شركة «فيلوس تانكرز» اليونانية المشغّلة.",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/one-seafarer-killed-in-missile-attack-on-tanker-in-gulf/3092590/"
-   }
-  },
-  {
-   "id": "20261106-1335-us-jobs-165000",
-   "time": "2026-11-06T13:35:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US economy added 165,000 jobs in October, topping all forecasts, and the unemployment rate fell, Labor Department data show.",
-   "ar": "الاقتصاد الأميركي أضاف 165 ألف وظيفة في تشرين الأول، متجاوزاً كل التوقعات، فيما تراجع معدل البطالة، بحسب بيانات وزارة العمل.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-06/us-employment-report-for-october-live-updates"
-   }
-  },
-  {
-   "id": "20261106-1327-iran-iodine-tablets",
-   "time": "2026-11-06T13:27:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian health workers are distributing iodine tablets within 2 to 3 kilometres of nuclear facilities amid fears of renewed US strikes, an unnamed health official tells The Times.",
-   "ar": "عاملون صحيون إيرانيون يوزّعون أقراص اليود ضمن دائرة 2 إلى 3 كيلومترات حول المنشآت النووية وسط مخاوف من تجدّد الضربات الأميركية، بحسب مسؤول صحي لم يُكشف اسمه لـ«ذا تايمز».",
-   "source": {
-    "name": "The Times via Israel Hayom",
-    "url": "https://www.israelhayom.com/2026/11/06/iodine-nuclear-strike-pickaxe-mountain-iran/"
    }
   }
  ]
