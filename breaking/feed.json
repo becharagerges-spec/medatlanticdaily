@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T03:09:03Z",
+ "updated": "2026-11-09T04:08:42Z",
  "items": [
+  {
+   "id": "20261109-0135-taiex-rebound-rescue",
+   "time": "2026-11-09T01:35:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Taiwan's Taiex jumps more than 4% in early Monday trade after the National Stabilization Fund approves its tenth market-rescue operation following Friday's 1,873-point fall.",
+   "ar": "مؤشر «تايكس» التايواني يقفز أكثر من 4% في مستهل تداولات الاثنين بعدما أقرّ صندوق الاستقرار الوطني عملية الإنقاذ العاشرة للسوق إثر تراجع الجمعة بـ1,873 نقطة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout"
+   }
+  },
+  {
+   "id": "20261109-0049-trump-xi-putin-apec",
+   "time": "2026-11-09T00:49:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says he expects to meet Xi Jinping and Vladimir Putin at the 18–19 November APEC summit in Shenzhen, with ending the Iran war and denuclearisation on the agenda.",
+   "ar": "ترامب يقول إنه يتوقّع لقاء شي جين بينغ وفلاديمير بوتين في قمة «أبيك» في شنتشن يومَي 18 و19 تشرين الثاني، على أن يشمل البحث إنهاء الحرب على إيران ونزع السلاح النووي.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/trump-thinks-meet-xi-putin-004942420.html"
+   }
+  },
   {
    "id": "20261109-0022-trump-eisenkot-netanyahu-similar",
    "time": "2026-11-09T00:22:00Z",
@@ -1402,18 +1426,6 @@
    "source": {
     "name": "HDFC Sky",
     "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-6-2026-brent-reclaims-100-wti-nears-92-both-benchmarks-head-for-12percent-weekly-decline"
-   }
-  },
-  {
-   "id": "20261106-0344-uae-araghchi-call",
-   "time": "2026-11-06T03:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UAE Foreign Minister Sheikh Abdullah bin Zayed urges de-escalation in a call from Iranian FM Abbas Araghchi, who also spoke with his Turkish and Kuwaiti counterparts, WAM reports.",
-   "ar": "وزير الخارجية الإماراتي الشيخ عبدالله بن زايد يدعو إلى خفض التصعيد في اتصال تلقّاه من نظيره الإيراني عباس عراقجي، الذي تواصل أيضاً مع نظيريه التركي والكويتي، بحسب وكالة «وام».",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/uae/2026/11/06/sheikh-abdullah-urges-de-escalation-in-call-with-iranian-foreign-minister/"
    }
   }
  ]
