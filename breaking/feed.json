@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T14:12:04Z",
+ "updated": "2026-11-09T15:11:02Z",
  "items": [
+  {
+   "id": "20261109-1431-nvidia-falls-8pct-open",
+   "time": "2026-11-09T14:31:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia shares fall 8% to $171.62 at the Wall Street open as its board investigates whether CEO Jensen Huang was targeted by foreign intelligence, while the Dow rises 1.2%.",
+   "ar": "أسهم «إنفيديا» تهبط 8% إلى 171.62 دولاراً عند افتتاح وول ستريت فيما يحقق مجلس إدارتها في ما إذا كان رئيسها التنفيذي جنسن هوانغ هدفاً لجهاز استخبارات أجنبي، بينما يرتفع مؤشر داو جونز 1.2%.",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+   }
+  },
   {
    "id": "20261109-1326-brent-falls-36pct-hormuz",
    "time": "2026-11-09T13:26:00Z",
@@ -1033,12 +1045,12 @@
    "id": "20261107-1321-syria-troops-yemen-saudi",
    "time": "2026-11-07T13:21:00Z",
    "theater": "saudi",
-   "status": "reported",
-   "en": "Yemeni sources told AFP hundreds of Syrian troops deployed on the Saudi-Yemeni border; Syrian Foreign Minister Asaad al-Shaibani says there is no deployment to Yemen and no plan for one soon.",
-   "ar": "مصادر يمنية قالت لفرانس برس إن مئات الجنود السوريين انتشروا على الحدود السعودية اليمنية؛ ووزير الخارجية السوري أسعد الشيباني ينفي أي انتشار في اليمن أو خطة لذلك في المدى القريب.",
+   "status": "confirmed",
+   "en": "A Syrian government official tells SANA that Syrian soldiers were sent to Saudi Arabia for training, expertise exchange and military consultations, but denies any deployment to Yemen.",
+   "ar": "مسؤول حكومي سوري يقول لوكالة «سانا» إن جنوداً سوريين أُرسلوا إلى السعودية للتدريب وتبادل الخبرات والتشاور العسكري، نافياً أي انتشار في اليمن.",
    "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis"
    }
   },
   {
@@ -1483,30 +1495,6 @@
    "source": {
     "name": "Reuters via MarketScreener",
     "url": "https://www.marketscreener.com/news/iran-says-it-downed-us-mq-1-drone-over-qeshm-island-ce785fd2db88f621"
-   }
-  },
-  {
-   "id": "20261106-1508-taiz-market-strike-20",
-   "time": "2026-11-06T15:08:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Houthis now say at least 30 people were killed in strikes on a market in Al-Waziya, Taiz, blaming Saudi Arabia; Yemeni government forces say a Houthi missile hit it, per Al Jazeera.",
-   "ar": "الحوثيون يقولون الآن إن 30 شخصاً على الأقل قُتلوا في ضربات على سوق في الوازعية بتعز ويحمّلون السعودية المسؤولية، فيما تقول القوات الحكومية اليمنية إن صاروخاً حوثياً أصابه، بحسب الجزيرة.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
-   }
-  },
-  {
-   "id": "20261106-1443-eisenkot-national-service",
-   "time": "2026-11-06T14:43:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Gadi Eisenkot says talks on a national emergency government made 'significant progress and breakthroughs', expects the mandate early next week, and keeps national service for all as a condition.",
-   "ar": "غادي آيزنكوت يقول إن مشاورات حكومة الطوارئ الوطنية حققت «تقدّماً واختراقات كبيرة»، ويتوقع نيل التكليف مطلع الأسبوع المقبل، متمسكاً بالخدمة الوطنية للجميع شرطاً.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-reiterates-demand-for-mandatory-national-service-after-liberman-opens-door-to-coalition-with-haredim/"
    }
   }
  ]
