@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-10T05:08:31Z",
+ "updated": "2026-11-10T06:11:02Z",
  "items": [
+  {
+   "id": "20261110-0549-us-tankers-leave-mildenhall",
+   "time": "2026-11-10T05:49:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "US military refuelling tankers have been moved from RAF Mildenhall in Britain to Germany and other locations over an Iranian threat, the Wall Street Journal reports.",
+   "ar": "نقل طائرات تزويد بالوقود عسكرية أميركية من قاعدة ميلدنهول البريطانية إلى ألمانيا ومواقع أخرى بسبب تهديد إيراني، وفق «وول ستريت جورنال».",
+   "source": {
+    "name": "Reuters via Cyprus Mail",
+    "url": "https://cyprus-mail.com/2026/11/10/us-aircraft-evacuated-from-second-uk-base-due-to-iran-threat-wsj-reports"
+   }
+  },
+  {
+   "id": "20261110-0430-saba-saudi-strikes-sanaa",
+   "time": "2026-11-10T04:30:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi-run Saba says Saudi airstrikes hit a gas station north of Sanaa and a state oil company building in the south of the city; Riyadh has not confirmed.",
+   "ar": "وكالة «سبأ» التابعة للحوثيين تقول إن غارات سعودية أصابت محطة غاز شمال صنعاء ومبنى لشركة النفط الحكومية جنوب المدينة، ولم تؤكد الرياض ذلك.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/saudi-led-coalition-reports-houthi-missile-drone-interceptions-saba-reports-saudi-strikes-on-sanaa/3094740/"
+   }
+  },
   {
    "id": "20261110-0429-china-trade-surplus-1tn",
    "time": "2026-11-10T04:29:00Z",
@@ -1466,30 +1490,6 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0520-europe-hoaxes-russia-probe",
-   "time": "2026-11-07T05:20:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "European security agencies are investigating whether this week's wave of bomb hoaxes that disrupted flights and newsrooms originated in Russia, the Financial Times reports.",
-   "ar": "أجهزة أمن أوروبية تحقق في ما إذا كانت موجة التهديدات الكاذبة بالقنابل التي عطّلت الرحلات وغرف الأخبار هذا الأسبوع قد انطلقت من روسيا، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times",
-    "url": "https://x.com/FT/status/2118936637128274252"
-   }
-  },
-  {
-   "id": "20261107-0517-riyadh-cruise-missile",
-   "time": "2026-11-07T05:17:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences intercepted and destroyed a Houthi cruise missile fired toward the Riyadh region on Saturday.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت ودمّرت صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض يوم السبت.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
    }
   }
  ]
