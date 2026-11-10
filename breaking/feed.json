@@ -1,16 +1,52 @@
 {
- "updated": "2026-11-10T08:09:24Z",
+ "updated": "2026-11-10T09:08:59Z",
  "items": [
+  {
+   "id": "20261110-0903-brent-below-90",
+   "time": "2026-11-10T09:03:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude falls below $90 a barrel for the first time since August after Trump signals further strikes on Iran are unnecessary, Bloomberg reports.",
+   "ar": "خام برنت يهبط دون 90 دولاراً للبرميل للمرة الأولى منذ آب بعدما ألمح ترامب إلى أن ضربات إضافية على إيران غير ضرورية، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/brent-crude-falls-below-90-a-barrel-for-first-time-since-august"
+   }
+  },
+  {
+   "id": "20261110-0826-kahana-speaker-liberman-fadc",
+   "time": "2026-11-10T08:26:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Eisenkot, Bennett, Golan, Liberman and Lapid agree to nominate Yashar's Matan Kahana as Knesset speaker, with Liberman to chair the Foreign Affairs and Defense Committee.",
+   "ar": "آيزنكوت وبينيت وغولان وليبرمان ولابيد يتفقون على ترشيح متان كهانا من حزب «يَشار» لرئاسة الكنيست، على أن يترأس ليبرمان لجنة الخارجية والأمن.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee"
+   }
+  },
+  {
+   "id": "20261110-0803-araghchi-no-rezaei-vance",
+   "time": "2026-11-10T08:03:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says there are no plans for security chief Mohsen Rezaei to meet US Vice President JD Vance, and the war will not end through military action or sanctions.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إنه لا خطط للقاء بين أمين المجلس الأعلى للأمن القومي محسن رضائي ونائب الرئيس الأميركي جي دي فانس، وإن الحرب لن تنتهي بالعمل العسكري أو العقوبات.",
+   "source": {
+    "name": "WANA",
+    "url": "https://wanaen.com/araghchi-no-plans-for-rezaei-vance-meeting/"
+   }
+  },
   {
    "id": "20261110-0754-abu-dhabi-talks-open",
    "time": "2026-11-10T07:54:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Ukraine opens the Abu Dhabi talks by meeting the UK, France, Germany, Italy, NATO and the European Commission, says Rustem Umerov; US envoys Witkoff and Kushner join later for trilateral talks with Russia.",
-   "ar": "أوكرانيا تفتتح محادثات أبوظبي باجتماع مع بريطانيا وفرنسا وألمانيا وإيطاليا والناتو والمفوضية الأوروبية، بحسب رستم عميروف، على أن ينضم المبعوثان الأميركيان ويتكوف وكوشنر لاحقاً إلى محادثات ثلاثية مع روسيا.",
+   "en": "Russia-Ukraine talks mediated by US envoys Witkoff and Kushner begin in Abu Dhabi, after Ukraine's Rustem Umerov first meets the UK, France, Germany, Italy, NATO and the European Commission.",
+   "ar": "المحادثات الروسية الأوكرانية بوساطة المبعوثَين الأميركيين ويتكوف وكوشنر تنطلق في أبوظبي، بعدما التقى المفاوض الأوكراني رستم عميروف أولاً بريطانيا وفرنسا وألمانيا وإيطاليا والناتو والمفوضية الأوروبية.",
    "source": {
-    "name": "Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1233833.html"
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/"
    }
   },
   {
@@ -1442,18 +1478,6 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/oil-tanker-said-to-catch-fire-after-hitting-naval-mine-in-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261107-0901-da-wins-nelson-mandela-bay",
-   "time": "2026-11-07T09:01:00Z",
-   "theater": "africa",
-   "status": "reported",
-   "en": "South Africa's Democratic Alliance wins 53 of 120 seats in the Nelson Mandela Bay metro, ahead of the ANC with 32 and the EFF with 7, per provisional results reported by SABC.",
-   "ar": "التحالف الديمقراطي في جنوب أفريقيا يفوز بـ53 من 120 مقعداً في بلدية خليج نيلسون مانديلا، متقدماً على المؤتمر الوطني الأفريقي (32) و«مناضلون من أجل الحرية الاقتصادية» (7)، وفق نتائج أولية نقلتها SABC.",
-   "source": {
-    "name": "SABC News",
-    "url": "https://x.com/SABCNews/status/2118992194816106620"
    }
   }
  ]
