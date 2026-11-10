@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T03:08:51Z",
+ "updated": "2026-11-10T04:08:12Z",
  "items": [
+  {
+   "id": "20261110-0307-california-rejects-billionaire-tax",
+   "time": "2026-11-10T03:07:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "California voters reject Proposition 40, a one-time 5% tax on residents worth over $1 billion, a win for Governor Gavin Newsom, who opposed it, AP reports.",
+   "ar": "ناخبو كاليفورنيا يرفضون الاقتراح 40 لفرض ضريبة لمرة واحدة بنسبة 5% على من تتجاوز ثرواتهم مليار دولار، في مكسب للحاكم غافين نيوسوم المعارض له، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP"
+   }
+  },
   {
    "id": "20261110-0223-asia-stocks-kospi-5pct",
    "time": "2026-11-10T02:23:00Z",
@@ -11,6 +22,18 @@
    "source": {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/economy-news/asian-stocks-climb-as-sliding-oil-prices-buoy-sentiment-5013939"
+   }
+  },
+  {
+   "id": "20261110-0156-houthi-missiles-riyadh-south",
+   "time": "2026-11-10T01:56:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it destroyed 2 Houthi missiles, one ballistic and one cruise, fired at Riyadh, and a third ballistic missile aimed at southern Saudi Arabia.",
+   "ar": "التحالف بقيادة السعودية يعلن تدمير صاروخين أطلقهما الحوثيون نحو الرياض، أحدهما باليستي والآخر مجنّح، إضافة إلى صاروخ باليستي ثالث استهدف جنوب المملكة.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-914398"
    }
   },
   {
