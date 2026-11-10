@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T15:11:20Z",
+ "updated": "2026-11-10T16:11:45Z",
  "items": [
+  {
+   "id": "20261110-1453-adnoc-vessel-damaged-uae-waters",
+   "time": "2026-11-10T14:53:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "ADNOC Logistics & Services says one of its vessels was damaged in an attack in UAE territorial waters in the Gulf on Tuesday afternoon; response teams are working.",
+   "ar": "«أدنوك للإمداد والخدمات» تعلن تضرّر إحدى سفنها في هجوم داخل المياه الإقليمية الإماراتية في الخليج بعد ظهر الثلاثاء، وفرق الاستجابة تعمل في الموقع.",
+   "source": {
+    "name": "Khaleej Times",
+    "url": "https://www.khaleejtimes.com/business/energy/adnoc-vessel-damaged-attack-uae-waters-november-10-2026"
+   }
+  },
   {
    "id": "20261110-1419-rubio-g7-devastating-costs-iran",
    "time": "2026-11-10T14:19:00Z",
@@ -50,6 +62,18 @@
    }
   },
   {
+   "id": "20261110-1328-rubio-israel-rich-enough-aid",
+   "time": "2026-11-10T13:28:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio says Trump believes Israel is 'rich enough' to buy US weapons without military aid and wants the $3.8 billion-a-year financing to end as soon as possible.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن ترامب يرى أن إسرائيل «غنية بما يكفي» لشراء الأسلحة الأميركية من دون مساعدات عسكرية، ويريد إنهاء التمويل البالغ 3.8 مليارات دولار سنوياً في أسرع وقت.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/rubio-israel-rich-enough-to-buy-own-weapons-trump-wants-swift-end-to-military-aid"
+   }
+  },
+  {
    "id": "20261110-1313-hegseth-impeachment-farce",
    "time": "2026-11-10T13:13:00Z",
    "theater": "usa",
@@ -59,6 +83,18 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
+   }
+  },
+  {
+   "id": "20261110-1134-rubio-macron-post-unifil",
+   "time": "2026-11-10T11:34:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Rubio and Macron discuss replacing UNIFIL, whose mandate ends on 31 December, with a lighter monitoring mission for south Lebanon's pilot zones, which Rubio says could be civilian, per Naharnet.",
+   "ar": "روبيو وماكرون يبحثان استبدال «اليونيفيل»، التي تنتهي ولايتها في 31 كانون الأول، ببعثة مراقبة أخفّ للمناطق التجريبية في جنوب لبنان، قد تكون مدنية بحسب روبيو، وفق «نهارنت».",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://naharnet.com/stories/en/323666-rubio-discusses-post-unifil-monitoring-mission-with-macron"
    }
   },
   {
@@ -1514,30 +1550,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-attacked-riyadh-airport-aramco-oil-sites-and-saudi-troops/"
-   }
-  },
-  {
-   "id": "20261107-1602-paris-probe-bomb-threats",
-   "time": "2026-11-07T16:02:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Paris prosecutors open an investigation into false bomb threats against dozens of commercial flights in Europe over the past week, including any links to foreign powers.",
-   "ar": "النيابة العامة في باريس تفتح تحقيقاً في تهديدات كاذبة بالقنابل استهدفت عشرات الرحلات التجارية في أوروبا خلال الأسبوع الماضي، بما في ذلك أي صلة بقوى أجنبية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/france-investigating-if-airline-bomb-threats-linked-to-foreign-powers/"
-   }
-  },
-  {
-   "id": "20261107-1537-krakow-shooting-5-dead",
-   "time": "2026-11-07T15:37:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Polish police say the 24-year-old gunman who killed 6 people in Krakow's Old Town square has died in hospital; his parents and sister were also found dead at home.",
-   "ar": "الشرطة البولندية تعلن وفاة المسلّح البالغ 24 عاماً، الذي قتل 6 أشخاص في ساحة البلدة القديمة في كراكوف، في المستشفى؛ وكانت جثث والديه وشقيقته قد وُجدت في منزله.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/krakow-mass-shooting-assailant-died-in-hospital-polish-police-say/"
    }
   }
  ]
