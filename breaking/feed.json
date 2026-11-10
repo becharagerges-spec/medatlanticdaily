@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-10T19:11:42Z",
+ "updated": "2026-11-10T20:08:04Z",
  "items": [
+  {
+   "id": "20261110-1922-jordan-house-gop-leader",
+   "time": "2026-11-10T19:22:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "House Republicans elect Rep. Jim Jordan as their leader for the next Congress, defeating Steve Scalise 106-73 in a secret ballot, per Politico, after losing their majority.",
+   "ar": "الجمهوريون في مجلس النواب الأميركي ينتخبون النائب جيم جوردان زعيماً لهم في الكونغرس المقبل، متغلّباً على ستيف سكاليز بـ106 أصوات مقابل 73 في اقتراع سرّي، وفق «بوليتيكو»، بعد خسارتهم الأغلبية.",
+   "source": {
+    "name": "Fox News",
+    "url": "https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise"
+   }
+  },
+  {
+   "id": "20261110-1908-unifil-patrol-fired-wadi-jilou",
+   "time": "2026-11-10T19:08:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "UNIFIL says its patrol near Wadi Jilou, east of Tyre, came under fire about a dozen times and returned fire, with no peacekeepers hurt, and urges Lebanon to investigate.",
+   "ar": "اليونيفيل تعلن أن دوريتها قرب وادي جيلو شرق صور تعرّضت لإطلاق نار نحو 12 مرة وردّت على مصدره، من دون إصابات في صفوف عناصرها، وتدعو لبنان إلى التحقيق.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/unifil-says-forces-came-under-fire-during-routine-patrol-in-southern-lebanon/"
+   }
+  },
+  {
+   "id": "20261110-1839-zamir-opposes-iran-action",
+   "time": "2026-11-10T18:39:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "IDF chief Eyal Zamir again warned in closed meetings against Netanyahu's planned action on Iran, citing political uncertainty and reduced White House appetite for war, Channel 12 reports.",
+   "ar": "رئيس الأركان الإسرائيلي إيال زامير حذّر مجدداً في اجتماعات مغلقة من تحرّك يخطط له نتنياهو ضد إيران، بسبب الغموض السياسي وتراجع رغبة البيت الأبيض في الحرب، بحسب «القناة 12».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/zamir-said-to-again-warn-in-closed-meetings-that-netanyahu-advancing-ill-advised-action-against-iran/"
+   }
+  },
+  {
+   "id": "20261110-1836-knesset-speaker-vote-nov17",
+   "time": "2026-11-10T18:36:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Knesset Speaker Amir Ohana schedules a vote on electing a new speaker for Tuesday, 17 November, after 67 lawmakers signed a request demanding it.",
+   "ar": "رئيس الكنيست أمير أوحانا يحدد الثلاثاء 17 تشرين الثاني موعداً للتصويت على انتخاب رئيس جديد للكنيست، بعدما وقّع 67 نائباً طلباً بذلك.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/ohana-says-vote-to-elect-new-knesset-speaker-to-be-held-next-tuesday-after-majority-of-mks-demand-it/"
+   }
+  },
+  {
+   "id": "20261110-1829-yashar-cancels-likud-talks",
+   "time": "2026-11-10T18:29:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's Yashar party says it cancelled Wednesday's coalition meeting with Likud over Netanyahu's 'divisive speech'; Likud says it still seeks a national unity government.",
+   "ar": "حزب «يشار» بزعامة آيزنكوت يعلن إلغاء اجتماع الأربعاء مع الليكود بشأن الائتلاف بسبب «خطاب نتنياهو التقسيمي»، والليكود يردّ بأنه لا يزال يسعى إلى حكومة وحدة وطنية.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-cancels-scheduled-negotiations-with-likud-after-netanyahus-divisive-speech/"
+   }
+  },
   {
    "id": "20261110-1728-irgc-third-tanker-mine",
    "time": "2026-11-10T17:28:00Z",
@@ -1562,42 +1622,6 @@
    "source": {
     "name": "Xinhua",
     "url": "https://english.news.cn/20261108/f39c2d4022aa443bbbfe219090babf62/c.html"
-   }
-  },
-  {
-   "id": "20261107-1949-herzog-taps-eisenkot",
-   "time": "2026-11-07T19:49:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "President Isaac Herzog says he will task Gadi Eisenkot on Sunday with forming Israel's next government, after Eisenkot won 67 recommendations to Netanyahu's 46; he will have 28 days.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يعلن أنه سيكلّف غادي آيزنكوت الأحد بتشكيل الحكومة المقبلة، بعد حصوله على 67 توصية مقابل 46 لنتنياهو، وأمامه 28 يوماً.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
-   }
-  },
-  {
-   "id": "20261107-1923-trump-doj-probe-democrats",
-   "time": "2026-11-07T19:23:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump orders the Justice Department to investigate Democrats for 'threatening a lot of people' with impeachment and other punishment, calling it a criminal act without giving evidence.",
-   "ar": "ترامب يأمر وزارة العدل بالتحقيق مع الديمقراطيين بتهمة «تهديد الكثير من الناس» بالعزل وعقوبات أخرى، واصفاً ذلك بالعمل الإجرامي من دون تقديم أدلة.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/trump-orders-doj-look-democrats-181318926.html"
-   }
-  },
-  {
-   "id": "20261107-1914-yashar-invites-likud",
-   "time": "2026-11-07T19:14:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's Yashar party calls Netanyahu's unity appeal hypocritical and invites Likud to join an Eisenkot-led government if it drops far-right and Haredi partners, per The Times of Israel.",
-   "ar": "حزب «يشار» بزعامة آيزنكوت يصف دعوة نتنياهو إلى الوحدة بالنفاق ويدعو الليكود إلى الانضمام لحكومة برئاسة آيزنكوت إذا تخلّى عن شركائه من اليمين المتطرف والحريديم، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-accuses-netanyahu-of-hypocrisy-for-urging-unity-government-invites-him-to-join-coalition-led-by-eisenkot-without-extremists/"
    }
   }
  ]
