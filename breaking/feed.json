@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T18:08:38Z",
+ "updated": "2026-11-10T19:11:42Z",
  "items": [
+  {
+   "id": "20261110-1728-irgc-third-tanker-mine",
+   "time": "2026-11-10T17:28:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says a third tanker exploded and caught fire on Tuesday after hitting a mine on an 'unauthorized' route in the eastern Strait of Hormuz; no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة ثالثة انفجرت واشتعلت فيها النيران الثلاثاء بعد اصطدامها بلغم على مسار «غير مرخّص» في شرق مضيق هرمز، من دون تأكيد مستقل.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://www.aa.com.tr/en/middle-east/iran-says-3rd-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4119401"
+   }
+  },
   {
    "id": "20261110-1615-zelensky-prisoners-priority",
    "time": "2026-11-10T16:15:00Z",
@@ -71,6 +83,18 @@
    "source": {
     "name": "Khaleej Times",
     "url": "https://www.khaleejtimes.com/business/energy/adnoc-vessel-damaged-attack-uae-waters-november-10-2026"
+   }
+  },
+  {
+   "id": "20261110-1436-eu-four-defy-merz-ukraine-budget",
+   "time": "2026-11-10T14:36:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Slovakia, the Czech Republic, Hungary and Bulgaria reject Merz's demand to tie the next EU budget to new Ukraine aid, with Fico threatening a veto, per Euronews.",
+   "ar": "سلوفاكيا والتشيك والمجر وبلغاريا ترفض مطلب ميرتس ربط الموازنة الأوروبية المقبلة بمساعدات جديدة لأوكرانيا، وفيكو يلوّح بالفيتو، بحسب «يورونيوز».",
+   "source": {
+    "name": "Euronews",
+    "url": "https://euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
    }
   },
   {
@@ -1574,42 +1598,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yashar-accuses-netanyahu-of-hypocrisy-for-urging-unity-government-invites-him-to-join-coalition-led-by-eisenkot-without-extremists/"
-   }
-  },
-  {
-   "id": "20261107-1907-trump-dana-white-press",
-   "time": "2026-11-07T19:07:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says he has asked UFC chief executive Dana White to become White House press secretary, as he reshuffles his team after the midterm losses.",
-   "ar": "ترامب يقول إنه طلب من الرئيس التنفيذي لـUFC دانا وايت تولّي منصب المتحدث الصحافي باسم البيت الأبيض، في إطار إعادة ترتيب فريقه بعد خسائر الانتخابات النصفية.",
-   "source": {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
-   }
-  },
-  {
-   "id": "20261107-1827-shas-eisenkot-utj",
-   "time": "2026-11-07T18:27:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "A Shas source tells Channel 12 the party will not oppose an Eisenkot-led government that includes United Torah Judaism if UTJ's spiritual leader approves; Shas calls the report 'fake news'.",
-   "ar": "مصدر في «شاس» يقول للقناة 12 إن الحزب لن يعارض حكومة برئاسة آيزنكوت تضمّ «يهدوت هتوراه» إذا وافق مرجعها الروحي، فيما تصف «شاس» التقرير بأنه «أخبار كاذبة».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/shas-reportedly-wont-seek-to-thwart-utj-from-joining-eisenkot-led-government/"
-   }
-  },
-  {
-   "id": "20261107-1812-france-protests-250000",
-   "time": "2026-11-07T18:12:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "French student unions say about 250,000 people joined Saturday's nationwide protests against the rising cost of living and in support of the youth movement.",
-   "ar": "اتحادات طلابية فرنسية تقول إن نحو 250 ألف شخص شاركوا في احتجاجات السبت على مستوى البلاد ضد غلاء المعيشة ودعماً للحراك الشبابي.",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience"
    }
   }
  ]
