@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T09:08:59Z",
+ "updated": "2026-11-10T10:08:52Z",
  "items": [
+  {
+   "id": "20261110-0945-gcc-command-hq-kuwait",
+   "time": "2026-11-10T09:45:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Gulf Cooperation Council states approve an advanced headquarters for their unified military command in Kuwait and the deployment of 'appropriate' forces there, the bloc's secretary-general says.",
+   "ar": "دول مجلس التعاون الخليجي توافق على إنشاء مقرّ متقدّم لقيادتها العسكرية الموحّدة في الكويت ونشر قوات «مناسبة» فيه، بحسب الأمين العام للمجلس.",
+   "source": {
+    "name": "Reuters via Devdiscourse",
+    "url": "https://www.devdiscourse.com/article/international/4004431-gulf-arab-states-approve-military-command-headquarters-in-kuwait-gcc-chief-says"
+   }
+  },
   {
    "id": "20261110-0903-brent-below-90",
    "time": "2026-11-10T09:03:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/brent-crude-falls-below-90-a-barrel-for-first-time-since-august"
+   }
+  },
+  {
+   "id": "20261110-0845-iraq-reopens-sheeb-crossing",
+   "time": "2026-11-10T08:45:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraq reopens the Sheeb border crossing with Iran in Missan province and will shut the Mandali crossing from Friday, as Washington presses Baghdad to close most crossings with Iran.",
+   "ar": "العراق يعيد فتح معبر الشيب الحدودي مع إيران في محافظة ميسان ويغلق معبر مندلي اعتباراً من الجمعة، فيما تضغط واشنطن على بغداد لإغلاق معظم المعابر مع إيران.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iraq-reopens-sheeb-border-crossing-with-iran-amid-us-pressure-3010863"
    }
   },
   {
