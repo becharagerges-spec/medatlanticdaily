@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T04:08:12Z",
+ "updated": "2026-11-10T05:08:31Z",
  "items": [
+  {
+   "id": "20261110-0429-china-trade-surplus-1tn",
+   "time": "2026-11-10T04:29:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's customs data show a $1.04 trillion trade surplus for January to October, as October exports jump 35.2% to $412.3 billion and imports rise 41.6%.",
+   "ar": "بيانات الجمارك الصينية تُظهر فائضاً تجارياً بقيمة 1.04 تريليون دولار من كانون الثاني إلى تشرين الأول، مع قفزة الصادرات في تشرين الأول 35.2% إلى 412.3 مليار دولار وارتفاع الواردات 41.6%.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
+   }
+  },
   {
    "id": "20261110-0307-california-rejects-billionaire-tax",
    "time": "2026-11-10T03:07:00Z",
@@ -69,6 +81,18 @@
    "ar": "ترامب يقول إن مكتب التحقيقات الفدرالي يدقّق في علاقة الرئيس التنفيذي لـ«إنفيديا» جنسن هوانغ بعميلة للحكومة الصينية، لكنه يصفه بـ«رجل شريف جداً» لا داعي لقلقه، بحسب أسوشيتد برس.",
    "source": {
     "name": "AP"
+   }
+  },
+  {
+   "id": "20261109-2215-rezaei-denies-talks",
+   "time": "2026-11-09T22:15:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's security council chief Mohsen Rezaei says the US should stop manufacturing 'fake news about imaginary talks' and must accept Iran's seven conditions to end the war.",
+   "ar": "رئيس مجلس الأمن الإيراني محسن رضائي يقول إن على واشنطن الكفّ عن صناعة «أخبار كاذبة عن محادثات وهمية» وإن عليها القبول بشروط إيران السبعة لإنهاء الحرب.",
+   "source": {
+    "name": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/iran-s-top-security-official-says-us-should-stop-manufacturing-fake-news-about-imaginary-talks-ce785fd3d181f325"
    }
   },
   {
@@ -1466,30 +1490,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
-   }
-  },
-  {
-   "id": "20261107-0458-iran-army-stronger-immediate",
-   "time": "2026-11-07T04:58:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian army spokesman Brig. Gen. Mohammad Akraminia says Iran's forces are stronger than at the war's start and will respond to any attack immediately, without geographical limits.",
-   "ar": "المتحدث باسم الجيش الإيراني العميد محمد أكرمي‌نيا يقول إن القوات الإيرانية أقوى مما كانت عليه في بداية الحرب، وسترد على أي هجوم فوراً ومن دون حدود جغرافية.",
-   "source": {
-    "name": "AFP via Malay Mail",
-    "url": "https://www.malaymail.com/news/world/2026/11/07/iran-says-its-military-is-stronger-now-than-when-the-war-against-us-israel-began-in-february/242319"
-   }
-  },
-  {
-   "id": "20261107-0440-us-china-busan-call",
-   "time": "2026-11-07T04:40:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "US Treasury Secretary Scott Bessent and trade envoy Jamieson Greer press Chinese Vice Premier He Lifeng in a call to implement the Busan deal on rare earths and farm purchases 'immediately'.",
-   "ar": "وزير الخزانة الأميركي سكوت بيسنت والممثل التجاري جيميسون غرير يضغطان في اتصال على نائب رئيس الوزراء الصيني هي ليفنغ لتنفيذ اتفاق بوسان بشأن المعادن النادرة والمشتريات الزراعية «فوراً».",
-   "source": {
-    "name": "AsiaOne",
-    "url": "https://www.asiaone.com/world/us-urges-china-meet-rare-earths-agriculture-commitments-ahead-trump-xi-meetings"
    }
   }
  ]
