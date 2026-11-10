@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T07:09:39Z",
+ "updated": "2026-11-10T08:09:24Z",
  "items": [
+  {
+   "id": "20261110-0754-abu-dhabi-talks-open",
+   "time": "2026-11-10T07:54:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine opens the Abu Dhabi talks by meeting the UK, France, Germany, Italy, NATO and the European Commission, says Rustem Umerov; US envoys Witkoff and Kushner join later for trilateral talks with Russia.",
+   "ar": "أوكرانيا تفتتح محادثات أبوظبي باجتماع مع بريطانيا وفرنسا وألمانيا وإيطاليا والناتو والمفوضية الأوروبية، بحسب رستم عميروف، على أن ينضم المبعوثان الأميركيان ويتكوف وكوشنر لاحقاً إلى محادثات ثلاثية مع روسيا.",
+   "source": {
+    "name": "Interfax-Ukraine",
+    "url": "https://en.interfax.com.ua/news/general/1233833.html"
+   }
+  },
   {
    "id": "20261110-0627-ukraine-162-drones-135-downed",
    "time": "2026-11-10T06:27:00Z",
@@ -1442,54 +1454,6 @@
    "source": {
     "name": "SABC News",
     "url": "https://x.com/SABCNews/status/2118992194816106620"
-   }
-  },
-  {
-   "id": "20261107-0802-iran-mp-threatens-saudi-infra",
-   "time": "2026-11-07T08:02:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian MP Ghasem Ravanbakhsh warns Saudi oil facilities, power stations and desalination plants could be targeted if war resumes, and says over 40 MPs signed a motion to impeach Foreign Minister Araghchi, per Iran International.",
-   "ar": "النائب الإيراني قاسم روانبخش يحذّر من استهداف منشآت النفط ومحطات الكهرباء والتحلية السعودية إذا استؤنفت الحرب، ويقول إن أكثر من 40 نائباً وقّعوا طلباً لاستجواب وزير الخارجية عراقجي، بحسب «إيران إنترناشيونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0755-ukraine-172-drones-149-downed",
-   "time": "2026-11-07T07:55:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia launched 172 attack drones and ballistic missiles overnight; 4 missiles and 149 drones were downed, with hits recorded at 24 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت ليلاً 172 مسيّرة هجومية وصواريخ بالستية؛ أُسقط 4 صواريخ و149 مسيّرة، وسُجّلت إصابات في 24 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4182349-air-defense-downs-four-missiles-149-drones-used-by-russia-to-attack-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261107-0743-irgc-nuclear-doctrine-readiness",
-   "time": "2026-11-07T07:43:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC spokesman Hossein Mohebbi tells Fars the Guards would prepare for any leadership decision to change Iran's nuclear doctrine and says work to extend missile range is ongoing.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول لوكالة «فارس» إن الحرس سيستعدّ لأي قرار من القيادة بتغيير العقيدة النووية الإيرانية، وإن العمل على زيادة مدى الصواريخ مستمر.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0726-pboc-gold-24-months",
-   "time": "2026-11-07T07:26:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's central bank added 830,000 ounces of gold in October, its 24th straight monthly purchase, lifting reserves to 78.3 million ounces, official data show.",
-   "ar": "المصرف المركزي الصيني أضاف 830 ألف أونصة من الذهب في تشرين الأول، في شرائه الشهري الرابع والعشرين على التوالي، لترتفع احتياطاته إلى 78.3 مليون أونصة، وفق بيانات رسمية.",
-   "source": {
-    "name": "Seoul Economic Daily",
-    "url": "https://en.sedaily.com/international/2026/11/07/chinas-central-bank-extends-gold-buying-streak-to-24-months"
    }
   }
  ]
