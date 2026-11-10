@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T06:11:02Z",
+ "updated": "2026-11-10T07:09:39Z",
  "items": [
+  {
+   "id": "20261110-0627-ukraine-162-drones-135-downed",
+   "time": "2026-11-10T06:27:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 162 attack drones and an Iskander-M ballistic missile overnight; 135 drones were downed or suppressed, with hits recorded at 19 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت خلال الليل 162 مسيّرة هجومية وصاروخاً بالستياً من طراز إسكندر-إم؛ أُسقطت أو عُطّلت 135 مسيّرة، وسُجّلت إصابات في 19 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4183161-adf-down-135-of-162-russian-drones-launched-against-ukraine-overnight.html"
+   }
+  },
   {
    "id": "20261110-0549-us-tankers-leave-mildenhall",
    "time": "2026-11-10T05:49:00Z",
@@ -1478,18 +1490,6 @@
    "source": {
     "name": "Seoul Economic Daily",
     "url": "https://en.sedaily.com/international/2026/11/07/chinas-central-bank-extends-gold-buying-streak-to-24-months"
-   }
-  },
-  {
-   "id": "20261107-0646-irgc-mohebbi-capabilities",
-   "time": "2026-11-07T06:46:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC spokesman Hossein Mohebbi says the Guards may unveil undisclosed capabilities if a third round of fighting starts, and claims Iran downed 7 reconnaissance drones intact in two weeks.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن الحرس قد يكشف قدرات غير معلنة إذا اندلعت جولة قتال ثالثة، ويزعم أن إيران أسقطت 7 طائرات استطلاع مسيّرة سليمة خلال أسبوعين.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
    }
   }
  ]
