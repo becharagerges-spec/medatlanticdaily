@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T12:10:21Z",
+ "updated": "2026-11-10T13:12:52Z",
  "items": [
+  {
+   "id": "20261110-1117-joint-list-backs-kahana",
+   "time": "2026-11-10T11:17:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Joint List MK Ahmad Tibi tells Kan the Arab-led faction will vote for Yashar's Matan Kahana as Knesset speaker to replace Likud's Amir Ohana, per Times of Israel.",
+   "ar": "النائب أحمد الطيبي يقول لـ«كان» إن القائمة المشتركة ذات الغالبية العربية ستصوّت لمرشح «يشار» متان كهانا رئيساً للكنيست بدلاً من أمير أوحانا من الليكود، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/tibi-says-joint-list-will-vote-for-kahana-as-knesset-speaker-we-want-to-be-part-of-the-change/"
+   }
+  },
   {
    "id": "20261110-1059-iran-mp-nukes-araghchi-impeach",
    "time": "2026-11-10T10:59:00Z",
@@ -47,6 +59,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/brent-crude-falls-below-90-a-barrel-for-first-time-since-august"
+   }
+  },
+  {
+   "id": "20261110-0851-burka-teen-killed",
+   "time": "2026-11-10T08:51:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "A 14-year-old Palestinian is killed and 2 teenagers wounded by Israeli fire in Burka near Nablus, Palestinian sources say; the army says troops fired at suspected stone-throwers.",
+   "ar": "مقتل فتى فلسطيني في الرابعة عشرة وإصابة مراهقَين اثنين بنيران إسرائيلية في برقة قرب نابلس بحسب مصادر فلسطينية، والجيش الإسرائيلي يقول إن جنوده أطلقوا النار على مشتبه برشق الحجارة.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-914432"
    }
   },
   {
@@ -1502,18 +1526,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis"
-   }
-  },
-  {
-   "id": "20261107-1225-iraq-oil-5m-bpd",
-   "time": "2026-11-07T12:25:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraq's Oil Minister Basim Mohammed tells state news agency INA that the country's oil output now exceeds 5 million barrels per day.",
-   "ar": "وزير النفط العراقي باسم محمد يقول لوكالة الأنباء العراقية إن إنتاج البلاد من النفط تجاوز 5 ملايين برميل يومياً.",
-   "source": {
-    "name": "Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/business/5338615-iraq-oil-output-exceeds-5-million-bpd"
    }
   }
  ]
