@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-10T14:11:21Z",
+ "updated": "2026-11-10T15:11:20Z",
  "items": [
+  {
+   "id": "20261110-1419-rubio-g7-devastating-costs-iran",
+   "time": "2026-11-10T14:19:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio told G7 ministers in Paris the US will keep imposing 'devastating' economic costs on Iran and called its leaders 'lunatics', G7 diplomats tell Reuters.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو أبلغ وزراء مجموعة السبع في باريس أن واشنطن ستواصل فرض كلفة اقتصادية «مدمّرة» على إيران ووصف قادتها بـ«المجانين»، بحسب دبلوماسيين في المجموعة لرويترز.",
+   "source": {
+    "name": "Reuters via Aaj English TV",
+    "url": "https://english.aaj.tv/news/330480144/rubio-tells-g7-us-will-keep-imposing-devastating-costs-on-iran-diplomats-say"
+   }
+  },
+  {
+   "id": "20261110-1400-26th-knesset-sworn-in",
+   "time": "2026-11-10T14:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's 26th Knesset is sworn in, and Gadi Eisenkot, tasked with forming the government, promises a new government 'as soon as possible', per Times of Israel.",
+   "ar": "الكنيست الإسرائيلي السادس والعشرون يؤدّي اليمين، وغادي آيزنكوت المكلّف تشكيل الحكومة يتعهّد بحكومة جديدة «في أسرع وقت ممكن»، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-10-2026/"
+   }
+  },
   {
    "id": "20261110-1343-yashar-61-signatures-ohana",
    "time": "2026-11-10T13:43:00Z",
@@ -1514,30 +1538,6 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/krakow-mass-shooting-assailant-died-in-hospital-polish-police-say/"
-   }
-  },
-  {
-   "id": "20261107-1449-zelensky-abu-dhabi-talks",
-   "time": "2026-11-07T14:49:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Russia fired 36 ballistic missiles and 172 drones overnight to pressure Kyiv before US-Russia-Ukraine talks in Abu Dhabi next Tuesday and Wednesday, and urges faster Patriot deliveries.",
-   "ar": "زيلينسكي يقول إن روسيا أطلقت 36 صاروخاً باليستياً و172 مسيّرة ليلاً للضغط على كييف قبل المحادثات الأميركية-الروسية-الأوكرانية في أبوظبي الثلاثاء والأربعاء المقبلين، ويطالب بتسريع تسليم صواريخ باتريوت.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/world/zelensky-says-russia-ramping-up-strikes-to-pressure-ukraine-at-talks-3010331"
-   }
-  },
-  {
-   "id": "20261107-1424-iraq-fm-border-crossings",
-   "time": "2026-11-07T14:24:00Z",
-   "theater": "iraq",
-   "status": "reported",
-   "en": "Iraqi Foreign Minister Fuad Hussein tells Al Jazeera that Washington formally asked Iraq to close all but 2 border crossings with Iran, and that the Hormuz shutdown cost Iraq about $60 billion.",
-   "ar": "وزير الخارجية العراقي فؤاد حسين يقول لـ«الجزيرة» إن واشنطن طلبت رسمياً من العراق إغلاق كل المعابر الحدودية مع إيران باستثناء معبرين، وإن إغلاق هرمز كلّف العراق نحو 60 مليار دولار.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours"
    }
   }
  ]
