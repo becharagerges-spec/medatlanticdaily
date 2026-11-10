@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:08:52Z",
+ "updated": "2026-11-10T11:09:32Z",
  "items": [
   {
    "id": "20261110-0945-gcc-command-hq-kuwait",
@@ -35,6 +35,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/iraq-reopens-sheeb-border-crossing-with-iran-amid-us-pressure-3010863"
+   }
+  },
+  {
+   "id": "20261110-0830-qatar-pm-g7-briefing",
+   "time": "2026-11-10T08:30:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani makes an unscheduled stop at the G7 meeting in Paris to brief British, French, German, Italian and Saudi ministers after his Iran talks with Trump.",
+   "ar": "رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني يتوقف بشكل غير مقرر في اجتماع مجموعة السبع في باريس لإطلاع وزراء بريطانيا وفرنسا وألمانيا وإيطاليا والسعودية على محادثاته مع ترامب بشأن إيران.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/qatari-pm-makes-unscheduled-stop-at-g7-to-brief-europeans-post-trump-talks/3094956/"
    }
   },
   {
@@ -154,6 +166,18 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-914398"
+   }
+  },
+  {
+   "id": "20261110-0048-strikes-kfar-tebnit-tallousa",
+   "time": "2026-11-10T00:48:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli warplanes strike Kfar Tebnit and Tallousa in south Lebanon and artillery hits the outskirts of Mayfadoun, Hadatha and Harees, per Lebanese reports; no casualties were reported.",
+   "ar": "الطيران الحربي الإسرائيلي يغير على بلدتي كفرتبنيت وطلوسة في جنوب لبنان، والمدفعية تقصف أطراف ميفدون وحداثا وحاريص، بحسب تقارير لبنانية، من دون الإبلاغ عن إصابات.",
+   "source": {
+    "name": "Al-Dawla News",
+    "url": "https://www.aldawlanews.com/1388561"
    }
   },
   {
@@ -1490,18 +1514,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/mena/2026/11/07/irans-araghchi-holds-talks-with-12-foreign-ministers-to-defuse-tensions/"
-   }
-  },
-  {
-   "id": "20261107-1040-iran-navy-tanker-mine-hormuz",
-   "time": "2026-11-07T10:40:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says an oil tanker caught fire after hitting a naval mine in the eastern Strait of Hormuz, and warns ships entering prohibited areas will meet the same fate.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة نفط اشتعلت فيها النيران بعد اصطدامها بلغم بحري في شرق مضيق هرمز، وتحذّر من أن السفن التي تدخل المناطق المحظورة ستلقى المصير نفسه.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/oil-tanker-said-to-catch-fire-after-hitting-naval-mine-in-strait-of-hormuz"
    }
   }
  ]
