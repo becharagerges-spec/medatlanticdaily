@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-09T20:07:58Z",
+ "updated": "2026-11-10T03:08:51Z",
  "items": [
+  {
+   "id": "20261110-0223-asia-stocks-kospi-5pct",
+   "time": "2026-11-10T02:23:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian stocks rally on Tuesday, with Seoul's Kospi up more than 5% and Tokyo's Nikkei about 3%, as Brent crude falls 1% to $91.56, its lowest since early September.",
+   "ar": "الأسهم الآسيوية ترتفع الثلاثاء، إذ يصعد مؤشر كوسبي في سيول أكثر من 5% ونيكاي في طوكيو نحو 3%، فيما يتراجع خام برنت 1% إلى 91.56 دولاراً، أدنى مستوى منذ مطلع أيلول.",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/economy-news/asian-stocks-climb-as-sliding-oil-prices-buoy-sentiment-5013939"
+   }
+  },
+  {
+   "id": "20261109-2318-netanyahu-calls-trump-daily",
+   "time": "2026-11-09T23:18:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu has been calling Trump every day to urge him to resume the war on Iran, while Gulf leaders press for negotiations, the Financial Times reports, citing a person briefed.",
+   "ar": "نتنياهو يتصل بترامب يومياً لحثّه على استئناف الحرب على إيران، فيما يضغط قادة الخليج لمصلحة التفاوض، بحسب «فايننشال تايمز» نقلاً عن مصدر مطّلع.",
+   "source": {
+    "name": "Financial Times via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-said-calling-trump-every-day-to-push-him-to-resume-iran-war/"
+   }
+  },
+  {
+   "id": "20261109-2231-trump-iran-war-effectively-over",
+   "time": "2026-11-09T22:31:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "After meeting Qatar's prime minister, Trump says the Iran war is 'effectively over' militarily and new strikes are unlikely, but the US naval blockade and Task Force Iron Gate will stay.",
+   "ar": "ترامب يقول بعد لقائه رئيس الوزراء القطري إن الحرب على إيران «انتهت فعلياً» عسكرياً وإن ضربات جديدة مستبعدة، لكن الحصار البحري الأميركي وقوة «البوابة الحديدية» باقيان.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+   }
+  },
+  {
+   "id": "20261109-2226-trump-fbi-huang-affair",
+   "time": "2026-11-09T22:26:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says the FBI is looking into Nvidia CEO Jensen Huang's affair with a Chinese government agent, but calls Huang 'a very honorable man' who should not worry, AP reports.",
+   "ar": "ترامب يقول إن مكتب التحقيقات الفدرالي يدقّق في علاقة الرئيس التنفيذي لـ«إنفيديا» جنسن هوانغ بعميلة للحكومة الصينية، لكنه يصفه بـ«رجل شريف جداً» لا داعي لقلقه، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261109-2128-us-official-territory-flexibility",
+   "time": "2026-11-09T21:28:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A US official says Russia and Ukraine privately signal room to compromise on a land swap before 2-day Abu Dhabi talks led by Witkoff and Kushner open on Tuesday.",
+   "ar": "مسؤول أميركي يقول إن روسيا وأوكرانيا تُبديان سرّاً استعداداً لتسوية حول مبادلة أراضٍ، قبل محادثات أبوظبي التي تستمر يومين بقيادة ويتكوف وكوشنر وتنطلق الثلاثاء.",
+   "source": {
+    "name": "Reuters via Daily Maverick",
+    "url": "https://www.dailymaverick.co.za/article/2026-11-09-russia-and-ukraine-showing-flexibility-on-territory-us-official-says/"
+   }
+  },
+  {
+   "id": "20261109-2025-scotus-big-bend-wall",
+   "time": "2026-11-09T20:25:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Supreme Court lets the Trump administration resume border wall construction in Texas's Big Bend region for now, over bipartisan objections.",
+   "ar": "المحكمة العليا الأميركية تسمح لإدارة ترامب باستئناف بناء الجدار الحدودي في منطقة بيغ بند في تكساس مؤقتاً، رغم اعتراضات من الحزبين.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261109-2024-boebert-loses-colorado",
+   "time": "2026-11-09T20:24:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "CNN projects Democrat Eileen Laubacher, a retired rear admiral, will unseat Republican Rep. Lauren Boebert in Colorado's 4th District.",
+   "ar": "شبكة «سي إن إن» تتوقع فوز الديمقراطية إيلين لوباخر، الأميرال المتقاعدة، على النائبة الجمهورية لورين بوبرت في الدائرة الرابعة في كولورادو.",
+   "source": {
+    "name": "CNN"
+   }
+  },
   {
    "id": "20261109-1921-massie-files-hegseth-impeachment",
    "time": "2026-11-09T19:21:00Z",
@@ -137,10 +218,11 @@
    "time": "2026-11-09T13:26:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Brent crude falls as much as 4.8% to below $94 a barrel, a 10-week low, as Iran reviews Qatari proposals and Trump meets Qatar's prime minister.",
-   "ar": "خام برنت يتراجع حتى 4.8% إلى ما دون 94 دولاراً للبرميل، أدنى مستوى في 10 أسابيع، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري.",
+   "en": "Brent crude settles down $5.75 at $92.57 a barrel, a 10-week low, and US crude falls $3.98 to $86.85, as Iran reviews Qatari proposals and Trump meets Qatar's prime minister.",
+   "ar": "خام برنت يُقفل منخفضاً 5.75 دولارات عند 92.57 دولاراً للبرميل، أدنى مستوى في 10 أسابيع، والخام الأميركي يتراجع 3.98 دولارات إلى 86.85، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري.",
    "source": {
-    "name": "Bloomberg"
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://ca.finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
    }
   },
   {
@@ -1385,174 +1467,6 @@
    "source": {
     "name": "AsiaOne",
     "url": "https://www.asiaone.com/world/us-urges-china-meet-rare-earths-agriculture-commitments-ahead-trump-xi-meetings"
-   }
-  },
-  {
-   "id": "20261107-0306-us-asks-china-press-iran",
-   "time": "2026-11-07T03:06:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "The Washington Post reports Treasury Secretary Scott Bessent, backed by Trump, asked China to use its influence to help end the Iran war, and Beijing relayed the message to Tehran.",
-   "ar": "«واشنطن بوست» تفيد بأن وزير الخزانة سكوت بيسنت طلب، بدعم من ترامب، من الصين استخدام نفوذها للمساعدة في إنهاء الحرب مع إيران، وأن بكين نقلت الرسالة إلى طهران.",
-   "source": {
-    "name": "Washington Post via Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0303-nvidia-huang-spy-report",
-   "time": "2026-11-07T03:03:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Nvidia's board launches an investigation into whether CEO Jensen Huang was targeted by a Chinese spy, after Huang admits being unfaithful, Bloomberg reports.",
-   "ar": "مجلس إدارة «إنفيديا» يفتح تحقيقاً لمعرفة ما إذا كان رئيسها التنفيذي جنسن هوانغ قد استُهدف من جاسوسة صينية، بعد إقراره بالخيانة الزوجية، وفق «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
-   }
-  },
-  {
-   "id": "20261107-0301-saratov-refinery-strike",
-   "time": "2026-11-07T03:01:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukrainian strikes overnight reportedly set the Saratov oil refinery ablaze and hit sites in Rostov and Oryol, per monitoring channels cited by the Kyiv Independent; unverified.",
-   "ar": "ضربات أوكرانية ليلية أشعلت، بحسب قنوات رصد نقلت عنها «كييف إندبندنت»، النار في مصفاة ساراتوف للنفط وأصابت مواقع في روستوف وأوريول؛ من دون تأكيد مستقل.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/"
-   }
-  },
-  {
-   "id": "20261107-0239-qatar-pm-us-willing",
-   "time": "2026-11-07T02:39:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani says the US remains willing to reach a diplomatic solution with Iran after the midterms and that significant progress has been made.",
-   "ar": "رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني يقول إن واشنطن لا تزال مستعدة للتوصل إلى حل دبلوماسي مع إيران بعد الانتخابات النصفية، وإن تقدماً كبيراً قد تحقق.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914112"
-   }
-  },
-  {
-   "id": "20261107-0129-wsj-netanyahu-presses-strikes",
-   "time": "2026-11-07T01:29:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The Wall Street Journal reports Netanyahu is pressing for renewed US strikes on Iran, with Hegseth and Adm. Brad Cooper backing major operations and Vance and Witkoff favouring diplomacy.",
-   "ar": "«وول ستريت جورنال» تفيد بأن نتنياهو يضغط لاستئناف الضربات الأميركية على إيران، فيما يؤيد هيغسيث والأدميرال براد كوبر عمليات واسعة ويفضّل فانس وويتكوف الدبلوماسية.",
-   "source": {
-    "name": "Wall Street Journal via Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0044-trump-cabinet-changes",
-   "time": "2026-11-07T00:44:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump tells CBS's 60 Minutes he plans 'a few changes' to his Cabinet after Republicans lost both chambers of Congress, per Anadolu.",
-   "ar": "ترامب يقول لبرنامج «60 دقيقة» على شبكة «سي بي إس» إنه يعتزم إجراء «بعض التغييرات» في حكومته بعد خسارة الجمهوريين مجلسَي الكونغرس، بحسب «الأناضول».",
-   "source": {
-    "name": "Anadolu via US Muslims",
-    "url": "https://www.usmuslims.com/trump-says-he-plans-a-few-changes-to-cabinet-after-midterm-losses-380361h.htm"
-   }
-  },
-  {
-   "id": "20261107-0036-nbc-advisers-urge-strikes",
-   "time": "2026-11-07T00:36:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "NBC News reports some advisers urged Trump to resume major operations against Iran before the new Congress convenes in January, discussing oil and gas infrastructure and nuclear sites as targets.",
-   "ar": "شبكة «إن بي سي» تفيد بأن بعض المستشارين حثّوا ترامب على استئناف العمليات الكبرى ضد إيران قبل انعقاد الكونغرس الجديد في كانون الثاني، مع بحث استهداف منشآت النفط والغاز والمواقع النووية.",
-   "source": {
-    "name": "NBC News via Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261107-0001-centcom-20m-reward-iran-nuclear",
-   "time": "2026-11-07T00:01:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "US Central Command says the Rewards for Justice programme offers up to $20 million and possible relocation for information on Iran's nuclear programme, its facilities, equipment and scientists.",
-   "ar": "القيادة المركزية الأميركية تعلن أن برنامج «مكافآت من أجل العدالة» يعرض ما يصل إلى 20 مليون دولار وإمكان إعادة التوطين مقابل معلومات عن البرنامج النووي الإيراني ومنشآته ومعدّاته وعلمائه.",
-   "source": {
-    "name": "AFP via Breitbart",
-    "url": "https://www.breitbart.com/news/us-offers-20-mn-reward-for-info-on-irans-nuclear-program-centcom/"
-   }
-  },
-  {
-   "id": "20261106-2347-iran-army-claims-mq9",
-   "time": "2026-11-06T23:47:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army says its air defences shot down a US MQ-9 drone over Qeshm Island after the US strikes there; Washington has not commented, per Anadolu.",
-   "ar": "الجيش الإيراني يقول إن دفاعاته الجوية أسقطت مسيّرة أميركية من طراز MQ-9 فوق جزيرة قشم بعد الضربات الأميركية عليها، ولا تعليق من واشنطن، بحسب «الأناضول».",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://aa.com.tr/en/middle-east/iran-says-air-defense-downed-us-mq-9-drone-above-qeshm-island/4114837"
-   }
-  },
-  {
-   "id": "20261106-2253-us-alert-iran-threat",
-   "time": "2026-11-06T22:53:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "The US State Department warns Americans in the Middle East of an increased threat of Houthi attacks and Iranian efforts to target US officials, and tells US citizens in Iran to leave now.",
-   "ar": "الخارجية الأميركية تحذّر الأميركيين في الشرق الأوسط من تزايد خطر هجمات الحوثيين ومساعٍ إيرانية لاستهداف مسؤولين أميركيين، وتدعو المواطنين الأميركيين في إيران إلى المغادرة فوراً.",
-   "source": {
-    "name": "U.S. Virtual Embassy Tehran",
-    "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026"
-   }
-  },
-  {
-   "id": "20261106-2225-qatar-denies-talks-failed",
-   "time": "2026-11-06T22:25:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's International Media Office calls reports that US-Iran talks have failed 'false and misleading', saying both sides are still working toward an agreement under Qatari mediation.",
-   "ar": "المكتب الإعلامي الدولي في قطر يصف التقارير عن فشل المفاوضات الأميركية الإيرانية بأنها «كاذبة ومضلِّلة»، مؤكداً أن الطرفين يواصلان العمل نحو اتفاق بوساطة قطرية.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.pk/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-reports-3006344"
-   }
-  },
-  {
-   "id": "20261106-2204-kyiv-ballistic-north-bridge",
-   "time": "2026-11-06T22:04:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russian ballistic missiles hit Kyiv overnight, damaging and closing the Northern Bridge, injuring 5 people including a child and disrupting power, heating and water, Mayor Vitali Klitschko says.",
-   "ar": "صواريخ باليستية روسية تضرب كييف ليلاً فتُلحق أضراراً بالجسر الشمالي وتُغلقه، وتُصيب 5 أشخاص بينهم طفل، وتعطّل الكهرباء والتدفئة والمياه، بحسب رئيس البلدية فيتالي كليتشكو.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
-   }
-  },
-  {
-   "id": "20261106-2201-qeshm-strikes-trump-minor",
-   "time": "2026-11-06T22:01:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump says US forces carried out 'minor' strikes that knocked out an Iranian anti-aircraft device, after Iranian media reported 2 missiles hit the Suza area of Qeshm Island.",
-   "ar": "ترامب يقول إن القوات الأميركية نفّذت ضربات «محدودة» دمّرت منظومة إيرانية مضادة للطائرات، بعدما أفاد الإعلام الإيراني بسقوط صاروخين على منطقة سوزا في جزيرة قشم.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals-3010264"
-   }
-  },
-  {
-   "id": "20261106-2130-riyadh-drone-intercepted",
-   "time": "2026-11-06T21:30:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says air defences intercepted and destroyed a drone in the Riyadh region late on Friday, hours after downing a drone over Mecca and 2 missiles aimed at Najran.",
-   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية اعترضت ودمّرت مسيّرة في منطقة الرياض مساء الجمعة، بعد ساعات من إسقاط مسيّرة فوق مكة وصاروخين باتجاه نجران.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-drone-in-riyadh-region-3010236"
    }
   }
  ]
