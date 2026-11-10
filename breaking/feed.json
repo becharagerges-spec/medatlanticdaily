@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-10T16:11:45Z",
+ "updated": "2026-11-10T17:09:34Z",
  "items": [
+  {
+   "id": "20261110-1615-zelensky-prisoners-priority",
+   "time": "2026-11-10T16:15:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky says releasing prisoners is Kyiv's priority after the first day of Abu Dhabi talks, as RBC-Ukraine reports a large-scale exchange is under discussion, per Kyiv Post.",
+   "ar": "زيلينسكي يقول إن الإفراج عن الأسرى أولوية كييف بعد اليوم الأول من محادثات أبوظبي، فيما تفيد «آر بي سي-أوكرانيا» بأن عملية تبادل واسعة قيد البحث، بحسب «كييف بوست».",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89694"
+   }
+  },
+  {
+   "id": "20261110-1544-macron-hormuz-insurance",
+   "time": "2026-11-10T15:44:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "France is negotiating with Saudi Arabia and other Gulf states on a publicly backed vehicle to take on part of the insurance risk for ships crossing Hormuz, Bloomberg reports; Macron's office confirms the work.",
+   "ar": "فرنسا تفاوض السعودية ودولاً خليجية أخرى على آلية مدعومة حكومياً لتحمّل جزء من مخاطر تأمين السفن العابرة لمضيق هرمز، بحسب «بلومبرغ»، والإليزيه يؤكد أن العمل جارٍ.",
+   "source": {
+    "name": "Bloomberg via Rigzone",
+    "url": "https://www.rigzone.com/news/macron_negotiates_hormuz_insurance_with_gulf_states-10-nov-2026-185053-article"
+   }
+  },
   {
    "id": "20261110-1453-adnoc-vessel-damaged-uae-waters",
    "time": "2026-11-10T14:53:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Khaleej Times",
     "url": "https://www.khaleejtimes.com/business/energy/adnoc-vessel-damaged-attack-uae-waters-november-10-2026"
+   }
+  },
+  {
+   "id": "20261110-1420-rubio-abu-dhabi-productive",
+   "time": "2026-11-10T14:20:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Rubio calls the first day of US-Russia-Ukraine talks in Abu Dhabi 'very productive' and says the trilateral format should eventually include European partners, but warns no deal is imminent.",
+   "ar": "روبيو يصف اليوم الأول من المحادثات الأميركية-الروسية-الأوكرانية في أبوظبي بأنه «مثمر جداً»، ويقول إن الصيغة الثلاثية يجب أن تضم الشركاء الأوروبيين لاحقاً، محذراً من أن الاتفاق ليس وشيكاً.",
+   "source": {
+    "name": "AFP via Khaleej Times",
+    "url": "https://www.khaleejtimes.com/world/americas/rubio-hails-very-productive-russia-ukraine-talks-abu-dhabi"
    }
   },
   {
@@ -83,6 +119,18 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
+   }
+  },
+  {
+   "id": "20261110-1147-gaza-four-killed",
+   "time": "2026-11-10T11:47:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "At least 4 Palestinians are killed by Israeli strikes and gunfire in Gaza City and Khan Younis on Tuesday, medics say; the Israeli army says it struck militants, Reuters reports.",
+   "ar": "مقتل 4 فلسطينيين على الأقل بغارات ونيران إسرائيلية في مدينة غزة وخان يونس الثلاثاء، بحسب مسعفين، والجيش الإسرائيلي يقول إنه استهدف مسلحين، وفق «رويترز».",
+   "source": {
+    "name": "Reuters via SRN News",
+    "url": "https://srnnews.com/israeli-fire-kills-father-and-son-in-gaza-medics-say/"
    }
   },
   {
@@ -1538,18 +1586,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/"
-   }
-  },
-  {
-   "id": "20261107-1614-houthis-claim-aramco-riyadh",
-   "time": "2026-11-07T16:14:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi military spokesman Yahya Saree claims 6 missile and drone operations against Aramco oil facilities, Riyadh airport and Saudi troops; Saudi Arabia has not confirmed any hits.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يعلن تنفيذ 6 عمليات بالصواريخ والمسيّرات استهدفت منشآت نفطية لأرامكو ومطار الرياض وقوات سعودية، من دون تأكيد سعودي لأي إصابات.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-attacked-riyadh-airport-aramco-oil-sites-and-saudi-troops/"
    }
   }
  ]
