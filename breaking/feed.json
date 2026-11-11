@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T06:08:32Z",
+ "updated": "2026-11-11T07:10:19Z",
  "items": [
+  {
+   "id": "20261111-0618-ukraine-163-drones-144-downed",
+   "time": "2026-11-11T06:18:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 163 attack drones and a Kh-59/69 guided missile overnight; 144 drones were downed or suppressed, with hits recorded at 17 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت خلال الليل 163 مسيّرة هجومية وصاروخاً موجّهاً من طراز Kh-59/69، وأُسقطت أو حُيّدت 144 مسيّرة، وسُجّلت إصابات في 17 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4183607-air-defense-neutralizes-14-banderol-missiles-130-russian-drones-overnight.html"
+   }
+  },
+  {
+   "id": "20261111-0344-india-fujairah-energy-crew-hurt",
+   "time": "2026-11-11T03:44:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "India's shipping minister Sarbananda Sonowal says the Liberia-flagged supertanker Fujairah Energy was hit by a projectile in the Gulf on Tuesday, injuring 4 crew members.",
+   "ar": "وزير الملاحة الهندي ساربانادا سونوال يقول إن ناقلة النفط العملاقة «فجيرة إنرجي» التي ترفع علم ليبيريا أُصيبت بمقذوف في الخليج يوم الثلاثاء، ما أدى إلى إصابة 4 من أفراد طاقمها.",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/four-injured-as-tanker-with-indian-crew-hit-by-projectile-in-arabian-gulf-1.500743272"
+   }
+  },
+  {
+   "id": "20261111-0324-ukmto-tanker-incident-hormuz",
+   "time": "2026-11-11T03:24:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says it received a report of an incident involving a tanker in the Strait of Hormuz on Wednesday; the crew's status and the extent of any damage are not yet known.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إنها تلقّت بلاغاً عن حادث يطال ناقلة نفط في مضيق هرمز يوم الأربعاء، ولم تُعرف بعد حالة الطاقم ولا حجم الأضرار.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/ukmto-reports-tanker-incident-in-strait-of-hormuz-3011095"
+   }
+  },
   {
    "id": "20261111-0323-kosdaq-jumps-5pct",
    "time": "2026-11-11T03:23:00Z",
@@ -71,6 +107,18 @@
    "source": {
     "name": "CBS News",
     "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
+   }
+  },
+  {
+   "id": "20261110-2223-south-pars-platform-fire",
+   "time": "2026-11-10T22:23:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian officials say a fire on a Phase 14 platform at the South Pars gas field, producing 14.5 million cubic metres a day, is under control; 17 workers who jumped into the sea were rescued.",
+   "ar": "مسؤولون إيرانيون يقولون إن حريقاً على منصة في المرحلة 14 من حقل بارس الجنوبي للغاز، تنتج 14.5 مليون متر مكعب يومياً، بات تحت السيطرة، وأُنقذ 17 عاملاً قفزوا إلى البحر.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field"
    }
   },
   {
@@ -1657,42 +1705,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.pk/middle-east/iran-executes-three-men-linked-to-anti-government-protests-3006432"
-   }
-  },
-  {
-   "id": "20261108-0631-us-expels-lebanon-consul-detroit",
-   "time": "2026-11-08T06:31:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "The US declares Lebanon's consul in Detroit, Ibrahim Charara, persona non grata and gives him 48 hours to leave over old posts praising the 1983 Marine barracks bombing, per Asharq Al-Awsat.",
-   "ar": "واشنطن تعلن القنصل اللبناني في ديترويت إبراهيم شرارة شخصاً غير مرغوب فيه وتمهله 48 ساعة للمغادرة بسبب منشورات قديمة تمجّد تفجير مقر المارينز عام 1983، بحسب «الشرق الأوسط».",
-   "source": {
-    "name": "Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/arab-world/5338808-us-state-department-expels-lebanon%E2%80%99s-consul-detroit"
-   }
-  },
-  {
-   "id": "20261108-0617-ukraine-164-drones-137-downed",
-   "time": "2026-11-08T06:17:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia launched 164 drones and 3 Kh-59/69 missiles overnight; 137 drones were downed or suppressed, with hits recorded at 23 locations.",
-   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت ليلاً 164 مسيّرة و3 صواريخ Kh-59/69، أُسقطت أو عُطّلت منها 137 مسيّرة، مع تسجيل إصابات في 23 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4182552-adf-neutralises-137-of-164-russian-drones-overnight.html"
-   }
-  },
-  {
-   "id": "20261108-0615-riyadh-two-ballistic-missiles",
-   "time": "2026-11-08T06:15:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia's Energy Ministry says falling shrapnel caused minor damage to an Aramco administrative building in Riyadh during an attempted attack, with no casualties, after the coalition intercepted Houthi missiles.",
-   "ar": "وزارة الطاقة السعودية تعلن أن شظايا متساقطة ألحقت أضراراً طفيفة بمبنى إداري لأرامكو في الرياض خلال محاولة هجوم، من دون إصابات، بعد اعتراض التحالف صواريخ حوثية.",
-   "source": {
-    "name": "Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/gulf/5338801-energy-ministry-minor-damage-attempted-attack-saudi-aramco-building-riyadh"
    }
   }
  ]
