@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T13:11:50Z",
+ "updated": "2026-11-11T14:10:13Z",
  "items": [
+  {
+   "id": "20261111-1345-knesset-arrangements-committee",
+   "time": "2026-11-11T13:45:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "The Knesset approves 63-50 a 22-member Arrangements Committee chaired by Yashar's Roy Folkman, giving the anti-Netanyahu bloc control of parliamentary business and rejecting Likud's bid to curb Arab parties.",
+   "ar": "الكنيست يقرّ بأغلبية 63 مقابل 50 لجنة ترتيبات من 22 عضواً برئاسة روي فولكمان من «يشار»، ما يمنح الكتلة المناهضة لنتنياهو السيطرة على العمل البرلماني ويُسقط مسعى الليكود لتقليص نفوذ الأحزاب العربية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/knesset-approves-makeup-of-powerful-arrangements-committee-63-50-rejecting-likud-bid-to-dilute-arab-parties-influence"
+   }
+  },
   {
    "id": "20261111-1240-houthis-claim-saudi-strikes-taiz-lahj",
    "time": "2026-11-11T12:40:00Z",
@@ -110,6 +122,18 @@
    }
   },
   {
+   "id": "20261111-0829-batroun-hezbollah-arrests",
+   "time": "2026-11-11T08:29:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanese security forces arrest 5 Hezbollah members carrying maps and weapons documents in the Batroun–Bsharri highlands; PM Nawaf Salam says 'the era of absent accountability and cover-ups is over'.",
+   "ar": "قوى الأمن الداخلي اللبنانية توقف 5 عناصر من حزب الله بحوزتهم خرائط ووثائق عن أسلحة في جرود البترون وبشرّي، ورئيس الحكومة نواف سلام يقول إن «زمن غياب المحاسبة والتغطية قد انتهى».",
+   "source": {
+    "name": "This is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/pm-nawaf-salam-demands-accountability-over-batroun-bsharri-arrests-condemns-murder-of-former-iraqi-mp"
+   }
+  },
+  {
    "id": "20261111-0630-murban-slump",
    "time": "2026-11-11T06:30:00Z",
    "theater": "markets",
@@ -162,11 +186,11 @@
    "time": "2026-11-11T03:24:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "UKMTO reports an incident involving a tanker in the Strait of Hormuz on Wednesday; Iran's army says a tanker hit a mine and caught fire after entering a 'prohibited area'.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تبلّغ عن حادث يطال ناقلة في مضيق هرمز يوم الأربعاء، والجيش الإيراني يقول إن ناقلة اصطدمت بلغم واشتعلت بعد دخولها «منطقة محظورة».",
+   "en": "The tanker in Wednesday's Strait of Hormuz incident reported by UKMTO is the Saudi-flagged NCC Fajr; India's shipping minister says its whole crew, including 3 Indians, is safe.",
+   "ar": "الناقلة المعنية بحادث مضيق هرمز الذي أبلغت عنه هيئة عمليات التجارة البحرية البريطانية يوم الأربعاء هي «إن سي سي فجر» التي ترفع العلم السعودي، ووزير الملاحة الهندي يقول إن طاقمها كاملاً، بينهم 3 هنود، بخير.",
    "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-says-oil-tanker-hit-mine-and-caught-fire-in-strait-of-hormuz-3011095"
+    "name": "PTI via ThePrint",
+    "url": "https://theprint.in/india/saudi-arabia-flagged-tanker-hit-in-strait-of-hormuz-3-indian-seafarers-aboard-sonowal/3096262/"
    }
   },
   {
