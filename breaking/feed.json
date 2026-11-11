@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:08:19Z",
+ "updated": "2026-11-11T05:08:22Z",
  "items": [
   {
    "id": "20261111-0259-kryvyi-rih-drones-power",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/89737"
+   }
+  },
+  {
+   "id": "20261111-0102-bessent-military-base",
+   "time": "2026-11-11T01:02:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Treasury Secretary Scott Bessent has moved out of his home onto a military base after Iranian threats against his life, The New York Times reports.",
+   "ar": "وزير الخزانة الأميركي سكوت بيسنت انتقل من منزله إلى قاعدة عسكرية إثر تهديدات إيرانية لحياته، وفق صحيفة «نيويورك تايمز».",
+   "source": {
+    "name": "The New York Times via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/us-treasury-secretary-bessent-moved-to-military-base-after-iranian-threats-nyt/"
+   }
+  },
+  {
+   "id": "20261111-0059-ust-luga-port-drone-fire",
+   "time": "2026-11-11T00:59:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "A Ukrainian drone strike sparks a fire in Russia's Ust-Luga Baltic port zone and an emergency blackout at a local substation, Leningrad Oblast governor Alexander Drozdenko says.",
+   "ar": "ضربة بمسيّرة أوكرانية تُشعل حريقاً في منطقة ميناء أوست-لوغا الروسي على بحر البلطيق وتتسبب بانقطاع طارئ للكهرباء في محطة محلية، بحسب حاكم مقاطعة لينينغراد ألكسندر دروزدينكو.",
+   "source": {
+    "name": "TASS",
+    "url": "https://tass.com/emergencies/2215825"
    }
   },
   {
@@ -142,6 +166,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yashar-cancels-scheduled-negotiations-with-likud-after-netanyahus-divisive-speech/"
+   }
+  },
+  {
+   "id": "20261110-1802-trump-netanyahu-heated-call",
+   "time": "2026-11-10T18:02:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli sources tell Ynet a weekend Trump-Netanyahu call on Iran was 'a shouting match from hell'; Netanyahu's office calls the report 'fake news, complete nonsense'.",
+   "ar": "مصادر إسرائيلية تقول لـ«واي نت» إن اتصال ترامب ونتنياهو حول إيران في عطلة نهاية الأسبوع كان «مباراة صراخ جهنمية»، فيما وصف مكتب نتنياهو التقرير بأنه «أخبار كاذبة وهراء تام».",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/sjoxqce0me"
    }
   },
   {
