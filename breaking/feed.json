@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-11T09:08:50Z",
+ "updated": "2026-11-11T10:08:02Z",
  "items": [
   {
    "id": "20261111-0853-abu-dhabi-talks-day-two",
    "time": "2026-11-11T08:53:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "The second day of US-mediated Russia-Ukraine talks begins in Abu Dhabi, Russian media report, after Tuesday's first session lasted 4.5 hours.",
-   "ar": "انطلاق اليوم الثاني من المحادثات الروسية الأوكرانية بوساطة أميركية في أبوظبي، وفق وسائل إعلام روسية، بعدما استمرت جلسة الثلاثاء الأولى 4.5 ساعات.",
+   "status": "confirmed",
+   "en": "Russia and Ukraine open a second day of US-brokered talks in Abu Dhabi, starting with a three-way session before Kyiv meets European officials, Ukraine's Rustem Umerov says.",
+   "ar": "روسيا وأوكرانيا تبدآن اليوم الثاني من المحادثات بوساطة أميركية في أبوظبي، بجلسة ثلاثية يليها لقاء كييف بمسؤولين أوروبيين، بحسب رئيس الوفد الأوكراني رستم أوميروف.",
    "source": {
-    "name": "APA",
-    "url": "https://en.apa.az/cis-countries/abu-dhabi-hosts-second-day-of-russia-ukraine-us-negotiations-535418"
+    "name": "AP via News4Jax",
+    "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
    }
   },
   {
@@ -54,11 +54,11 @@
    "time": "2026-11-11T03:24:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "UKMTO says it received a report of an incident involving a tanker in the Strait of Hormuz on Wednesday; the crew's status and the extent of any damage are not yet known.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إنها تلقّت بلاغاً عن حادث يطال ناقلة نفط في مضيق هرمز يوم الأربعاء، ولم تُعرف بعد حالة الطاقم ولا حجم الأضرار.",
+   "en": "UKMTO reports an incident involving a tanker in the Strait of Hormuz on Wednesday; Iran's army says a tanker hit a mine and caught fire after entering a 'prohibited area'.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تبلّغ عن حادث يطال ناقلة في مضيق هرمز يوم الأربعاء، والجيش الإيراني يقول إن ناقلة اصطدمت بلغم واشتعلت بعد دخولها «منطقة محظورة».",
    "source": {
     "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/ukmto-reports-tanker-incident-in-strait-of-hormuz-3011095"
+    "url": "https://www.arabnews.com/middle-east/iran-says-oil-tanker-hit-mine-and-caught-fire-in-strait-of-hormuz-3011095"
    }
   },
   {
@@ -102,11 +102,11 @@
    "time": "2026-11-11T00:59:00Z",
    "theater": "russia",
    "status": "confirmed",
-   "en": "A Ukrainian drone strike sparks a fire in Russia's Ust-Luga Baltic port zone and an emergency blackout at a local substation, Leningrad Oblast governor Alexander Drozdenko says.",
-   "ar": "ضربة بمسيّرة أوكرانية تُشعل حريقاً في منطقة ميناء أوست-لوغا الروسي على بحر البلطيق وتتسبب بانقطاع طارئ للكهرباء في محطة محلية، بحسب حاكم مقاطعة لينينغراد ألكسندر دروزدينكو.",
+   "en": "Ukrainian drones start a fire at Russia's Ust-Luga port, injuring 3 workers; Russia's Defence Ministry says it downed 627 drones overnight, 150 of them over the St Petersburg region.",
+   "ar": "مسيّرات أوكرانية تُشعل حريقاً في ميناء أوست-لوغا الروسي وتُصيب 3 عمّال، ووزارة الدفاع الروسية تقول إنها أسقطت 627 مسيّرة ليلاً، منها 150 فوق منطقة سانت بطرسبرغ.",
    "source": {
-    "name": "TASS",
-    "url": "https://tass.com/emergencies/2215825"
+    "name": "AP via News4Jax",
+    "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
    }
   },
   {
@@ -1681,30 +1681,6 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/world/2026/11/08/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine/"
-   }
-  },
-  {
-   "id": "20261108-0921-ukmto-tanker-fire-khasab",
-   "time": "2026-11-08T09:21:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a tanker caught fire about 8 nautical miles northwest of Oman's Khasab, near the Strait of Hormuz, and its crew was evacuated; the cause and vessel are not identified.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن أن ناقلة اشتعلت فيها النيران على بُعد نحو 8 أميال بحرية شمال غرب خصب العُمانية قرب مضيق هرمز، وأُجلي طاقمها، من دون تحديد السبب أو هوية السفينة.",
-   "source": {
-    "name": "Arab Times",
-    "url": "https://www.arabtimesonline.com/news/tanker-catches-fire-off-omans-khasab-crew-evacuated/"
-   }
-  },
-  {
-   "id": "20261108-0917-irgc-iron-gate-wordplay",
-   "time": "2026-11-08T09:17:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "IRGC spokesman Hossein Mohebbi tells Fars the US Task Force Iron Gate plan to block Iran's land and Caspian trade routes is 'merely a wordplay' that cannot collapse Iran's economy.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول لـ«فارس» إن خطة قوة «البوابة الحديدية» الأميركية لإغلاق طرق تجارة إيران البرية وعبر بحر قزوين «مجرد تلاعب بالألفاظ» ولن تُسقط الاقتصاد الإيراني.",
-   "source": {
-    "name": "Reuters via Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-914180"
    }
   }
  ]
