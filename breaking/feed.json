@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T05:08:22Z",
+ "updated": "2026-11-11T06:08:32Z",
  "items": [
+  {
+   "id": "20261111-0323-kosdaq-jumps-5pct",
+   "time": "2026-11-11T03:23:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kosdaq jumps about 5% to near 700 by Wednesday's midday break as AI stocks rebound, triggering a buy-side sidecar, while the Kospi rises 1.7%, per investingLive.",
+   "ar": "مؤشر كوسداك الكوري الجنوبي يقفز نحو 5% إلى قرابة 700 نقطة عند استراحة منتصف نهار الأربعاء مع انتعاش أسهم الذكاء الاصطناعي، ما فعّل آلية «سايدكار» للشراء، فيما يرتفع كوسبي 1.7% (investingLive).",
+   "source": {
+    "name": "investingLive",
+    "url": "https://investinglive.com/stock-market-update/asia-midday-nikkei-up-for-third-day-kosdaq-jumps-5-as-ai-stocks-rebound/"
+   }
+  },
   {
    "id": "20261111-0259-kryvyi-rih-drones-power",
    "time": "2026-11-11T02:59:00Z",
@@ -82,6 +94,30 @@
    "ar": "الجمهوريون في مجلس الشيوخ يعيدون انتخاب جون ثون زعيماً لهم بالتزكية للكونغرس المقبل، حيث سيصبحون أقلية بعد خسائر الانتخابات النصفية.",
    "source": {
     "name": "Politico"
+   }
+  },
+  {
+   "id": "20261110-2033-pmo-gaza-winter-hamas-disarm",
+   "time": "2026-11-10T20:33:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu's office says its Gaza winter plan includes over 91,000 tents and 8,200 trucks of supplies, but insists Hamas must disarm before reconstruction begins.",
+   "ar": "مكتب نتنياهو يقول إن خطة الشتاء لغزة تشمل أكثر من 91,000 خيمة و8,200 شاحنة إمدادات، لكنه يصرّ على نزع سلاح حماس قبل بدء إعادة الإعمار.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/under-criticism-pms-office-insists-winter-supplies-entering-gaza-but-hamas-must-disarm-before-reconstruction/"
+   }
+  },
+  {
+   "id": "20261110-2032-ex-iraqi-mp-found-dead-beirut",
+   "time": "2026-11-10T20:32:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Former Iraqi MP Ahmed al-Alwani is found dead in a Beirut apartment in Tariq al-Jdideh, apparently strangled, and one suspect is arrested, a Lebanese security source says.",
+   "ar": "العثور على النائب العراقي السابق أحمد العلواني مقتولاً في شقة بمنطقة الطريق الجديدة في بيروت، ويبدو أنه قضى خنقاً، وتوقيف مشتبه به واحد، بحسب مصدر أمني لبناني.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.pk/middle-east/former-iraqi-mp-found-dead-in-beirut-suspect-arrested-3006694"
    }
   },
   {
@@ -1657,18 +1693,6 @@
    "source": {
     "name": "Asharq Al-Awsat",
     "url": "https://english.aawsat.com/gulf/5338801-energy-ministry-minor-damage-attempted-attack-saudi-aramco-building-riyadh"
-   }
-  },
-  {
-   "id": "20261108-0601-raam-backs-eisenkot-no-deal",
-   "time": "2026-11-08T06:01:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Ra'am will vote for an Eisenkot-led government even without a coalition deal, while the Joint List will not vote for it but will not topple it, Haaretz reports.",
-   "ar": "«القائمة العربية الموحّدة» ستصوّت لحكومة برئاسة آيزنكوت حتى من دون اتفاق ائتلافي، فيما لن تصوّت «القائمة المشتركة» لها لكنها لن تعمل على إسقاطها، بحسب «هآرتس».",
-   "source": {
-    "name": "Haaretz via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-raam-will-vote-for-new-eisenkot-led-government-even-without-coalition-deal/"
    }
   }
  ]
