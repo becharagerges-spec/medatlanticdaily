@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-11T12:09:44Z",
+ "updated": "2026-11-11T13:11:50Z",
  "items": [
+  {
+   "id": "20261111-1240-houthis-claim-saudi-strikes-taiz-lahj",
+   "time": "2026-11-11T12:40:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's Houthis claim Saudi warplanes struck districts of Taiz and Lahj provinces around midnight and Saudi artillery shelled Shada, wounding civilians; Riyadh has not confirmed, per The Jerusalem Post.",
+   "ar": "الحوثيون في اليمن يزعمون أن مقاتلات سعودية قصفت مديريات في محافظتَي تعز ولحج قرابة منتصف الليل وأن مدفعية سعودية قصفت شدا، ما أدى إلى جرح مدنيين؛ والرياض لم تؤكد، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-914585"
+   }
+  },
+  {
+   "id": "20261111-1225-us-putin-blessing-europe-talks",
+   "time": "2026-11-11T12:25:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "US officials say Washington will seek Putin's 'blessing' for European countries to join the Ukraine peace talks after two days of negotiations in Abu Dhabi, per Politico.",
+   "ar": "مسؤولون أميركيون يقولون إن واشنطن ستسعى إلى نيل «مباركة» بوتين لانضمام الدول الأوروبية إلى محادثات السلام بشأن أوكرانيا بعد يومين من المفاوضات في أبوظبي، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/u-s-to-seek-putins-blessing-for-europe-to-join-ukraine-talks/"
+   }
+  },
+  {
+   "id": "20261111-1210-witkoff-kushner-putin-moscow",
+   "time": "2026-11-11T12:10:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "US envoys Steve Witkoff and Jared Kushner will meet Putin in Moscow on Thursday, then brief Zelensky in Dublin, after the Abu Dhabi talks end.",
+   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر سيلتقيان بوتين في موسكو الخميس، ثم يُطلعان زيلينسكي على النتائج في دبلن، بعد انتهاء محادثات أبوظبي.",
+   "source": {
+    "name": "Interfax-Ukraine",
+    "url": "https://en.interfax.com.ua/news/general/1234767.html"
+   }
+  },
+  {
+   "id": "20261111-1117-irgc-two-more-tankers-mines",
+   "time": "2026-11-11T11:17:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says 2 more tankers hit mines overnight on an 'unauthorized' route in the Strait of Hormuz and are burning and abandoned; no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتين إضافيتين اصطدمتا بألغام ليلاً على مسار «غير مرخّص» في مضيق هرمز، وإنهما تحترقان وقد هجرهما طاقماهما، من دون تأكيد مستقل.",
+   "source": {
+    "name": "Shafaq News",
+    "url": "https://shafaq.com/en/World/IRGC-criticizes-CENTCOM-chief-over-Hormuz-tanker-blasts"
+   }
+  },
   {
    "id": "20261111-0939-nato-crisis-forces",
    "time": "2026-11-11T09:39:00Z",
@@ -18,11 +66,23 @@
    "time": "2026-11-11T09:39:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Russia and Ukraine agree at the Abu Dhabi talks to 'the biggest humanitarian release of prisoners', with numbers to be finalized on Thursday, US envoy Jared Kushner says.",
-   "ar": "روسيا وأوكرانيا تتفقان في محادثات أبوظبي على «أكبر عملية إفراج إنساني عن الأسرى»، على أن تُحسم الأعداد الخميس، بحسب المبعوث الأميركي جاريد كوشنر.",
+   "en": "Russia and Ukraine agree at the Abu Dhabi talks to 'the biggest humanitarian release of prisoners', a swap of 1,000 for 1,000 or more per Interfax-Ukraine, with numbers finalized Thursday, Kushner says.",
+   "ar": "روسيا وأوكرانيا تتفقان في محادثات أبوظبي على «أكبر عملية إفراج إنساني عن الأسرى»، أي تبادل ألف مقابل ألف أو أكثر بحسب «إنترفاكس-أوكرانيا»، على أن تُحسم الأعداد الخميس، وفق كوشنر.",
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/world/2026/11/11/officials-at-talks-between-russia-and-ukraine-say-the-sides-have-agreed-a-large-release-of-prisoners-of-war/"
+   }
+  },
+  {
+   "id": "20261111-0921-rezaei-enriched-material-stays",
+   "time": "2026-11-11T09:21:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's security council chief Mohsen Rezaei tells Al Mayadeen that Iran will not ship its enriched uranium abroad and will use it for nuclear-powered ships and submarines.",
+   "ar": "أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول لـ«الميادين» إن إيران لن تنقل اليورانيوم المخصّب إلى الخارج وستستخدمه للسفن والغواصات العاملة بالطاقة النووية.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611077068"
    }
   },
   {
@@ -1681,30 +1741,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
-   }
-  },
-  {
-   "id": "20261108-1246-zelensky-week-115-missiles",
-   "time": "2026-11-08T12:46:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Russia fired 115 missiles, nearly 1,900 guided bombs and over 3,000 strike drones at Ukraine this week, and urges a strong 22nd EU sanctions package.",
-   "ar": "زيلينسكي يقول إن روسيا أطلقت هذا الأسبوع 115 صاروخاً ونحو 1900 قنبلة موجّهة وأكثر من 3000 مسيّرة هجومية على أوكرانيا، ويطالب بحزمة عقوبات أوروبية 22 قوية.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89479"
-   }
-  },
-  {
-   "id": "20261108-1223-irgc-three-tankers-fire",
-   "time": "2026-11-08T12:23:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 3 'non-compliant' oil tankers exploded and caught fire in the Strait of Hormuz on Sunday, without naming them; there is no independent confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إن 3 ناقلات نفط «غير ملتزمة» انفجرت واشتعلت فيها النيران في مضيق هرمز يوم الأحد، من دون أن يسمّيها، ولا تأكيد مستقلاً لذلك.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-3-tankers-caught-fire-in-hormuz"
    }
   }
  ]
