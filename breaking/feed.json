@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T10:08:02Z",
+ "updated": "2026-11-11T11:15:59Z",
  "items": [
+  {
+   "id": "20261111-0939-nato-crisis-forces",
+   "time": "2026-11-11T09:39:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "NATO members are considering scrapping the requirement to provide extra troops for crisis-management missions abroad so they can focus forces on Russia, per Politico Europe.",
+   "ar": "دول حلف الأطلسي تدرس إلغاء شرط تقديم قوات إضافية لمهمات إدارة الأزمات في الخارج لتركيز قواتها على روسيا، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/nato-shrink-forces-missions-abroad-focus-fight-russia/"
+   }
+  },
+  {
+   "id": "20261111-0858-abu-dhabi-talks-end",
+   "time": "2026-11-11T08:58:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The second and final day of US-brokered Russia-Ukraine talks in Abu Dhabi ends after less than two hours, per TASS, as the Kremlin says its delegates will not meet European representatives.",
+   "ar": "اليوم الثاني والأخير من المحادثات الروسية الأوكرانية بوساطة أميركية في أبوظبي ينتهي في أقل من ساعتين، بحسب «تاس»، والكرملين يقول إن وفده لن يلتقي ممثلين أوروبيين.",
+   "source": {
+    "name": "The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-wrap-up-final-day-of-abu-dhabi-peace-talks-a94227"
+   }
+  },
   {
    "id": "20261111-0853-abu-dhabi-talks-day-two",
    "time": "2026-11-11T08:53:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "AP via News4Jax",
     "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
+   }
+  },
+  {
+   "id": "20261111-0630-murban-slump",
+   "time": "2026-11-11T06:30:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Physical Murban crude falls $7.10, or 7.2%, to $92.07 a barrel, while Brent rises 1.3% to $92.64 after two-month lows, per Gulf News.",
+   "ar": "خام مربان الفعلي يتراجع 7.10 دولارات، أي 7.2%، إلى 92.07 دولاراً للبرميل، فيما يرتفع برنت 1.3% إلى 92.64 دولاراً بعد أدنى مستوى في شهرين، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/uae/usisrael-iran-conflict-what-uae-residents-need-to-know-today-nov-11-2026-1.500743399"
    }
   },
   {
@@ -1657,30 +1693,6 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-3-tankers-caught-fire-in-hormuz"
-   }
-  },
-  {
-   "id": "20261108-1038-katz-iran-mission-not-complete",
-   "time": "2026-11-08T10:38:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli Defence Minister Israel Katz says the mission against Iran is 'not complete' and troops will not withdraw from areas held in Gaza, Lebanon and Syria.",
-   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن المهمة ضد إيران «لم تكتمل» وإن القوات لن تنسحب من المناطق التي تسيطر عليها في غزة ولبنان وسوريا.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323625-israel-defense-minister-says-mission-not-complete-on-iran"
-   }
-  },
-  {
-   "id": "20261108-1020-komyshuvakha-drone-rescuers",
-   "time": "2026-11-08T10:20:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian drone strikes emergency crews at the Komyshuvakha site where guided bombs killed at least 55 people; Ukraine's emergency service says no one was hurt but rescue equipment was damaged.",
-   "ar": "مسيّرة روسية تستهدف فرق الطوارئ في موقع كوميشوفاخا حيث قتلت القنابل الموجّهة 55 شخصاً على الأقل، وخدمة الطوارئ الأوكرانية تقول إن أحداً لم يُصب لكن معدات الإنقاذ تضرّرت.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/world/2026/11/08/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine/"
    }
   }
  ]
