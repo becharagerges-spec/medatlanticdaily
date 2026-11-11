@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-11T17:08:43Z",
+ "updated": "2026-11-11T18:08:07Z",
  "items": [
+  {
+   "id": "20261111-1738-qassem-let-israel-attack",
+   "time": "2026-11-11T17:38:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Hezbollah leader Naim Qassem calls disarmament a US and Israeli demand and tells Lebanese critics who want it to let Israel carry it out, per Iran International.",
+   "ar": "الأمين العام لحزب الله نعيم قاسم يصف نزع السلاح بأنه مطلب أميركي وإسرائيلي، ويقول لمنتقديه اللبنانيين المطالبين به أن يتركوا إسرائيل تنفّذه، بحسب «إيران إنترناشيونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
+  {
+   "id": "20261111-1723-trump-arlington-total-victory",
+   "time": "2026-11-11T17:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells a Veterans Day ceremony at Arlington that the US won the Iran war, seeks 'total victory', says Iran needs 25 years to rebuild and 18 Americans were killed.",
+   "ar": "ترامب يقول في مراسم يوم المحاربين القدامى في أرلينغتون إن الولايات المتحدة ربحت الحرب على إيران وتريد «نصراً كاملاً»، وإن إيران تحتاج 25 عاماً لإعادة البناء، وإن 18 أميركياً قُتلوا.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/american-politics/article-914616"
+   }
+  },
+  {
+   "id": "20261111-1644-darchiev-dies",
+   "time": "2026-11-11T16:44:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Russia's Foreign Ministry says Alexander Darchiev, its ambassador to the United States since March 2025, has died suddenly at 66, without giving a cause.",
+   "ar": "الخارجية الروسية تعلن وفاة ألكسندر دارتشييف، سفير روسيا لدى الولايات المتحدة منذ آذار 2025، فجأةً عن 66 عاماً، من دون ذكر السبب.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/russian-ambassador-to-us-dies-moscow-says/"
+   }
+  },
+  {
+   "id": "20261111-1633-ghalibaf-us-asked-putin",
+   "time": "2026-11-11T16:33:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's parliament speaker Ghalibaf says US officials asked Putin to broker direct talks with Tehran and that Washington has not formally answered Iran's 7 conditions, per Fars.",
+   "ar": "رئيس البرلمان الإيراني قاليباف يقول إن مسؤولين أميركيين طلبوا من بوتين التوسّط لمحادثات مباشرة مع طهران، وإن واشنطن لم تردّ رسمياً على شروط إيران السبعة، بحسب «فارس».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
   {
    "id": "20261111-1521-kremlin-putin-trump-apec",
    "time": "2026-11-11T15:21:00Z",
@@ -1729,18 +1777,6 @@
    "source": {
     "name": "Xinhua",
     "url": "https://english.news.cn/20261109/5642476cc7a4410ba6a9939cefa7e48e/c.html"
-   }
-  },
-  {
-   "id": "20261108-1800-trump-cnn-iran-unlikely",
-   "time": "2026-11-08T18:00:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells CNN new US strikes on Iran are 'highly unlikely' if talks progress toward a 'very strong agreement', but says 38 Iranian bridges could be hit within an hour.",
-   "ar": "ترامب يقول لـCNN إن ضربات أميركية جديدة على إيران «مستبعدة جداً» إذا تقدّمت المحادثات نحو «اتفاق قوي جداً»، لكنه يؤكد أن 38 جسراً إيرانياً يمكن ضربها خلال ساعة.",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/trump-says-he-is-unlikely-to-order-iran-attack-if-talks-progress-cnn-reports/3093772/"
    }
   }
  ]
