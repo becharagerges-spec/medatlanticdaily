@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T03:09:31Z",
+ "updated": "2026-11-11T04:08:19Z",
  "items": [
+  {
+   "id": "20261111-0259-kryvyi-rih-drones-power",
+   "time": "2026-11-11T02:59:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russian drones hit critical infrastructure in Kryvyi Rih late Tuesday, leaving parts of Zelensky's hometown without power and disrupting heating and water, city defence chief Oleksandr Vilkul says.",
+   "ar": "مسيّرات روسية تضرب بنى تحتية حيوية في كريفي ريه مساء الثلاثاء، فتقطع الكهرباء عن أجزاء من مدينة زيلينسكي وتعطّل التدفئة والمياه، بحسب رئيس مجلس دفاع المدينة أولكسندر فيلكول.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89737"
+   }
+  },
   {
    "id": "20261111-0040-softbank-7bn-loss",
    "time": "2026-11-11T00:40:00Z",
@@ -58,6 +70,18 @@
    "source": {
     "name": "CNN",
     "url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest"
+   }
+  },
+  {
+   "id": "20261110-2001-gop-ags-threaten-uk-netherlands",
+   "time": "2026-11-10T20:01:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Republican attorneys general from 13 US states threaten to bar British and Dutch companies from state contracts and divest unless London and The Hague drop sanctions on Israeli settlements.",
+   "ar": "المدّعون العامّون الجمهوريون في 13 ولاية أميركية يهدّدون بحرمان الشركات البريطانية والهولندية من العقود وسحب الاستثمارات منها ما لم تتراجع لندن ولاهاي عن عقوباتهما على المستوطنات الإسرائيلية.",
+   "source": {
+    "name": "The Telegraph via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/us-states-threaten-britain-trade-200116757.html"
    }
   },
   {
