@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T18:08:07Z",
+ "updated": "2026-11-11T19:10:06Z",
  "items": [
+  {
+   "id": "20261111-1850-israel-france-dagan-entry",
+   "time": "2026-11-11T18:50:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's Foreign Ministry calls France's decision to deny entry to Samaria Regional Council head Yossi Dagan 'completely unacceptable' and says it will demand explanations.",
+   "ar": "وزارة الخارجية الإسرائيلية تصف قرار فرنسا منع دخول رئيس مجلس مستوطنات السامرة يوسي داغان بأنه «غير مقبول إطلاقاً» وتقول إنها ستطالب بتوضيحات.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/israel-calls-french-decision-to-deny-entry-to-settler-leader-completely-unacceptable/"
+   }
+  },
+  {
+   "id": "20261111-1822-eisenkot-ag-briefings-pmo",
+   "time": "2026-11-11T18:22:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Eisenkot asks Attorney General Gali Baharav-Miara to secure him security briefings and cabinet approval of any military action; Netanyahu's office calls his demand a 'transparent attempt' to politicize security.",
+   "ar": "آيزنكوت يطلب من المستشارة القضائية غالي بهاراف-ميارا ضمان تلقّيه إحاطات أمنية وإقرار الحكومة أي عمل عسكري، ومكتب نتنياهو يصف مطلبه بأنه «محاولة مكشوفة» لتسييس الأمن.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-asks-ag-to-intervene-arguing-that-netanyahus-staff-has-fails-to-arrange-security-briefings/"
+   }
+  },
+  {
+   "id": "20261111-1743-eisenkot-letter-no-security-moves",
+   "time": "2026-11-11T17:43:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "In a letter, Eisenkot urges caretaker PM Netanyahu not to deploy security forces without an immediate threat during the transition, noting only 46 MKs still back him, amid reports of planned Iran action.",
+   "ar": "آيزنكوت يحثّ رئيس الحكومة الانتقالية نتنياهو في رسالة على عدم تحريك القوى الأمنية من دون تهديد فوري خلال المرحلة الانتقالية، مذكّراً بأن 46 نائباً فقط ما زالوا يدعمونه، وسط تقارير عن عمل مخطط ضد إيران.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/amid-talk-of-iran-action-eisenkot-implores-netanyahu-to-hold-off-on-security-moves-during-transitional-period/"
+   }
+  },
   {
    "id": "20261111-1738-qassem-let-israel-attack",
    "time": "2026-11-11T17:38:00Z",
@@ -47,6 +83,30 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+   }
+  },
+  {
+   "id": "20261111-1622-rezaei-us-bases-europe",
+   "time": "2026-11-11T16:22:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's security council chief Mohsen Rezaei tells Al Mayadeen that Tehran will strike US bases in Europe if American aircraft use them to attack Iran.",
+   "ar": "أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول لقناة «الميادين» إن طهران ستضرب القواعد الأميركية في أوروبا إذا استخدمتها الطائرات الأميركية لمهاجمة إيران.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks-3011215"
+   }
+  },
+  {
+   "id": "20261111-1558-coalition-cruise-missiles-riyadh",
+   "time": "2026-11-11T15:58:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it destroyed 3 Houthi cruise missiles fired toward the Riyadh region and 2 drones over the Makkah and southern regions.",
+   "ar": "التحالف بقيادة السعودية يعلن تدمير 3 صواريخ كروز أطلقها الحوثيون باتجاه منطقة الرياض ومسيّرتين فوق منطقة مكة والمناطق الجنوبية.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/coalition-says-houthi-drones-and-missiles-launched-toward-saudi-arabia-destroyed-3011220"
    }
   },
   {
@@ -1729,54 +1789,6 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-says-us-attacked-qeshm-island-no-major-infrastructure-damaged/"
-   }
-  },
-  {
-   "id": "20261108-1947-araghchi-mediators-halted",
-   "time": "2026-11-08T19:47:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi tells state TV that mediators have not travelled since the US midterm elections, blaming 'the shock' of the results.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول للتلفزيون الرسمي إن الوسطاء توقفوا عن التنقل منذ الانتخابات النصفية الأميركية، ويعزو ذلك إلى «صدمة» نتائجها.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
-   }
-  },
-  {
-   "id": "20261108-1926-south-lebanon-strikes-mansouri",
-   "time": "2026-11-08T19:26:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli warplanes strike the town of Mansouri and the area around Aita al-Jabal and Haddatha in south Lebanon, per Lebanese outlet Beirut 24; no casualties are reported yet.",
-   "ar": "الطيران الحربي الإسرائيلي يغير على بلدة المنصوري ومحيط عيتا الجبل وحداثا في جنوب لبنان، وفق موقع «بيروت 24»، من دون معلومات عن إصابات حتى الآن.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/08/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A-%D9%88%D9%85%D8%AD%D9%8A/"
-   }
-  },
-  {
-   "id": "20261108-1912-trump-presses-netanyahu-gaza",
-   "time": "2026-11-08T19:12:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Trump pressed Netanyahu in a Thursday call to advance the Gaza peace plan after Israel's election, Axios reports; neither office commented.",
-   "ar": "ترامب ضغط على نتنياهو في اتصال يوم الخميس للمضي في خطة السلام في غزة بعد الانتخابات الإسرائيلية، وفق موقع «أكسيوس»؛ ولم يعلّق أي من المكتبين.",
-   "source": {
-    "name": "Axios",
-    "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan"
-   }
-  },
-  {
-   "id": "20261108-1853-coalition-sanaa-launch-platform",
-   "time": "2026-11-08T18:53:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted 5 Houthi missiles and a drone on Sunday, 3 aimed at Riyadh and the Eastern Province, and destroyed 3 launchers in Saada and Sanaa.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض 5 صواريخ حوثية ومسيّرة يوم الأحد، استهدف بعضها الرياض والمنطقة الشرقية، وتدمير 3 منصات إطلاق في صعدة وصنعاء.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261109/5642476cc7a4410ba6a9939cefa7e48e/c.html"
    }
   }
  ]
