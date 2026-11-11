@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:10:19Z",
+ "updated": "2026-11-11T08:09:06Z",
  "items": [
   {
    "id": "20261111-0618-ukraine-163-drones-144-downed",
@@ -95,6 +95,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
+   }
+  },
+  {
+   "id": "20261110-2353-goolsbee-cpi-disturbing",
+   "time": "2026-11-10T23:53:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Chicago Fed President Austan Goolsbee calls the October inflation report 'borderline disturbing', saying services inflation is not coming down, as traders firm up bets on a December rate hike.",
+   "ar": "رئيس الاحتياطي الفدرالي في شيكاغو أوستن غولزبي يصف تقرير التضخم لشهر تشرين الأول بأنه «مقلق إلى حدّ ما»، قائلاً إن تضخم الخدمات لا يتراجع، فيما يعزّز المتداولون رهاناتهم على رفع الفائدة في كانون الأول.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/fed-s-goolsbee-says-october-cpi-report-borderline-disturbing-mwbel9qz"
    }
   },
   {
@@ -864,8 +876,8 @@
    "time": "2026-11-09T16:43:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "French Foreign Minister Jean-Noël Barrot blames an IRGC-linked group for cyberattacks on supermarket fridges at 700 food sites, summons Iran's ambassador and says France will seek EU sanctions.",
-   "ar": "وزير الخارجية الفرنسي جان نويل بارو يحمّل مجموعة مرتبطة بالحرس الثوري مسؤولية هجمات سيبرانية على برادات متاجر طالت 700 موقع غذائي، ويستدعي السفير الإيراني ويعلن السعي إلى عقوبات أوروبية.",
+   "en": "France's Barrot blames an IRGC-linked group for cyberattacks on fridges at 700 food sites and summons Iran's envoy; Iranian Foreign Minister Araghchi mocks France as 'unable to manage fridges'.",
+   "ar": "وزير الخارجية الفرنسي بارو يحمّل مجموعة مرتبطة بالحرس الثوري مسؤولية هجمات سيبرانية على برادات 700 موقع غذائي ويستدعي السفير الإيراني، ووزير الخارجية الإيراني عراقجي يسخر من فرنسا «العاجزة عن إدارة البرادات».",
    "source": {
     "name": "CNN",
     "url": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack"
@@ -1693,18 +1705,6 @@
    "source": {
     "name": "IMLebanon",
     "url": "https://www.imlebanon.org/2026/11/08/south45-106/"
-   }
-  },
-  {
-   "id": "20261108-0752-iran-executes-three-protesters",
-   "time": "2026-11-08T07:52:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran executes 3 men the judiciary says carried out operations for Israel and the United States during January's anti-government protests in Karaj.",
-   "ar": "إيران تُعدم 3 رجال تقول السلطة القضائية إنهم نفّذوا عمليات لصالح إسرائيل والولايات المتحدة خلال احتجاجات كانون الثاني المناهضة للحكومة في كرج.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.pk/middle-east/iran-executes-three-men-linked-to-anti-government-protests-3006432"
    }
   }
  ]
