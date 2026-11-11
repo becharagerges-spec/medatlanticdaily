@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T19:10:06Z",
+ "updated": "2026-11-11T20:08:05Z",
  "items": [
+  {
+   "id": "20261111-1933-iraq-delegation-alwani-killing",
+   "time": "2026-11-11T19:33:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Iraq is sending a security delegation to Beirut over the strangling of former MP Ahmed al-Alwani; a Lebanese judicial official says 2 foreign suspects fled to Syria and 1 Lebanese is detained.",
+   "ar": "العراق يوفد وفداً أمنياً إلى بيروت لمتابعة التحقيق في خنق النائب السابق أحمد العلواني، ومسؤول قضائي لبناني يقول إن مشتبهَين أجنبيَّين فرّا إلى سوريا وأُوقف لبناني.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iraq-to-send-delegation-to-lebanon-over-ex-mp-killing-3011295"
+   }
+  },
+  {
+   "id": "20261111-1923-erdogan-cop31-gaza-ecocide",
+   "time": "2026-11-11T19:23:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Turkish President Erdogan calls the Gaza war an 'ecocide' at the COP31 climate summit in Antalya; Israel's Foreign Ministry calls his remarks a 'campaign of lies', per Times of Israel.",
+   "ar": "الرئيس التركي أردوغان يصف حرب غزة بـ«الإبادة البيئية» في قمة المناخ COP31 في أنطاليا، والخارجية الإسرائيلية تعتبر كلامه «حملة أكاذيب»، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/turkeys-president-calls-gaza-war-an-ecocide-at-un-climate-summit-israel-campaign-of-lies/"
+   }
+  },
   {
    "id": "20261111-1850-israel-france-dagan-entry",
    "time": "2026-11-11T18:50:00Z",
@@ -1765,30 +1789,6 @@
    "source": {
     "name": "CBS News",
     "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
-   }
-  },
-  {
-   "id": "20261108-2027-khor-mor-drone-gas-halted",
-   "time": "2026-11-08T20:27:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "A drone hits an LPG tank at Iraqi Kurdistan's Khor Mor gas field, halting production and cutting about 2.8 gigawatts of power generation; Iraq's prime minister says no casualties.",
-   "ar": "مسيّرة تصيب خزان غاز مسال في حقل خور مور بإقليم كردستان العراق، فيتوقف الإنتاج ويُفقد نحو 2.8 غيغاواط من توليد الكهرباء؛ ورئيس الوزراء العراقي يقول إن لا إصابات.",
-   "source": {
-    "name": "Reuters via Internazionale",
-    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/08/production-suspended-at-iraq-s-khor-mor-gas-field-after-drone-attack-sources-say"
-   }
-  },
-  {
-   "id": "20261108-1947-qeshm-four-explosions",
-   "time": "2026-11-08T19:47:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "An Iranian provincial official tells Fars a US attack hit sites on Qeshm Island overnight, away from residential areas, with no vital infrastructure damaged, per Reuters.",
-   "ar": "مسؤول إقليمي إيراني يقول لوكالة «فارس» إن هجوماً أميركياً أصاب مواقع في جزيرة قشم ليلاً بعيداً عن المناطق السكنية، من دون أضرار في البنى الحيوية، بعد الإبلاغ عن 4 انفجارات، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-says-us-attacked-qeshm-island-no-major-infrastructure-damaged/"
    }
   }
  ]
