@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T14:10:13Z",
+ "updated": "2026-11-11T16:08:48Z",
  "items": [
+  {
+   "id": "20261111-1521-kremlin-putin-trump-apec",
+   "time": "2026-11-11T15:21:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin aide Yuri Ushakov says Putin will meet US envoys Witkoff and Kushner in Moscow on Thursday morning, and a Putin-Trump meeting at the APEC summit in China is under consideration.",
+   "ar": "مساعد الكرملين يوري أوشاكوف يقول إن بوتين سيلتقي المبعوثَين الأميركيَّين ويتكوف وكوشنر في موسكو صباح الخميس، وإن عقد لقاء بين بوتين وترامب على هامش قمة «أبيك» في الصين قيد الدرس.",
+   "source": {
+    "name": "TASS via LaPresse",
+    "url": "https://uk.lapresse.it/world-en/2026/11/11/ukraine-kremlin-putin-to-meet-witkoff-and-kushner-tomorrow-morning-in-moscow/"
+   }
+  },
   {
    "id": "20261111-1345-knesset-arrangements-committee",
    "time": "2026-11-11T13:45:00Z",
@@ -167,6 +179,18 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/iran-designates-argentinas-navy-air-060950148.html"
+   }
+  },
+  {
+   "id": "20261111-0400-russian-missiles-moldova-airspace",
+   "time": "2026-11-11T04:00:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Moldova's army says 2 Russian cruise missiles entered Moldovan airspace from Ukraine's Odesa region around 06:00 local time and stayed 4 to 5 minutes before returning.",
+   "ar": "الجيش المولدوفي يقول إن صاروخَي كروز روسيَّين دخلا الأجواء المولدوفية من منطقة أوديسا الأوكرانية نحو السادسة صباحاً بالتوقيت المحلي، وبقيا فيها 4 إلى 5 دقائق قبل أن يعودا.",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-39-across-ukraine-over-past-day-as-2-russian-cruise-missiles-violate-moldovan-airspace/"
    }
   },
   {
@@ -1694,77 +1718,6 @@
    "source": {
     "name": "Abbas Araghchi on X",
     "url": "https://x.com/araghchi/status/2119476334250373250"
-   }
-  },
-  {
-   "id": "20261108-1541-pezeshkian-fuel-conservation",
-   "time": "2026-11-08T15:41:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian President Masoud Pezeshkian urges Iranians to cut electricity and gas use to protect industry, blaming US-Israeli attacks for problems in gas production.",
-   "ar": "الرئيس الإيراني مسعود بزشكيان يدعو الإيرانيين إلى خفض استهلاك الكهرباء والغاز لحماية الصناعة، محمّلاً الهجمات الأميركية الإسرائيلية مسؤولية مشكلات إنتاج الغاز.",
-   "source": {
-    "name": "WebIndia123",
-    "url": "https://news.webindia123.com/news/Articles/World/20261108/4517439.html"
-   }
-  },
-  {
-   "id": "20261108-1532-egypt-giza-train-collision",
-   "time": "2026-11-08T15:32:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "The toll from a collision between 2 trains in Egypt's Giza province rises to at least 7 dead and more than 100 injured; a Fayoum-bound train hit the rear of an Aswan-bound train.",
-   "ar": "ارتفاع حصيلة اصطدام قطارين في محافظة الجيزة المصرية إلى 7 قتلى على الأقل وأكثر من 100 جريح، بعدما اصطدم قطار متجه إلى الفيوم بمؤخرة قطار متجه إلى أسوان.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261108-1524-deri-quits-knesset-slate",
-   "time": "2026-11-08T15:24:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Shas leader Aryeh Deri and MKs Dror Amos and Moshe Abutbul withdraw from the party's Knesset slate; Deri stays party chairman but will not sit in the 26th Knesset.",
-   "ar": "زعيم «شاس» أرييه درعي والنائبان درور عاموس وموشيه أبوطبول ينسحبون من لائحة الحزب للكنيست؛ درعي يبقى رئيساً للحزب لكنه لن يكون عضواً في الكنيست الـ26.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/lk3um4o2r"
-   }
-  },
-  {
-   "id": "20261108-1519-eisenkot-receives-mandate",
-   "time": "2026-11-08T15:19:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "President Isaac Herzog formally gives Gadi Eisenkot the mandate to form Israel's next government; Eisenkot pledges a 'national emergency government' that will require 'creative and extraordinary political moves'.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يكلّف رسمياً غادي آيزنكوت بتشكيل الحكومة المقبلة، وآيزنكوت يتعهّد بـ«حكومة طوارئ وطنية» تتطلّب «خطوات سياسية خلّاقة واستثنائية».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/receiving-mandate-to-form-government-eisenkot-acknowledges-task-requires-creative-and-extraordinary-political-moves"
-   }
-  },
-  {
-   "id": "20261108-1457-barrot-europe-abu-dhabi",
-   "time": "2026-11-08T14:57:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "French Foreign Minister Jean-Noël Barrot says France and other Europeans will attend the 10–11 November US-mediated Russia-Ukraine talks in Abu Dhabi, despite the Kremlin ruling out a European role.",
-   "ar": "وزير الخارجية الفرنسي جان-نويل بارو يقول إن فرنسا وأوروبيين آخرين سيشاركون في محادثات أبوظبي بين روسيا وأوكرانيا بوساطة أميركية في 10 و11 تشرين الثاني، رغم رفض الكرملين أي دور أوروبي.",
-   "source": {
-    "name": "NPR",
-    "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
-   }
-  },
-  {
-   "id": "20261108-1448-ukraine-power-outages-850k",
-   "time": "2026-11-08T14:48:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "DTEK says over 600,000 residents lost power in Dnipropetrovsk region and Kharkiv officials say about 250,000 customers did after overnight Russian strikes, per Euronews.",
-   "ar": "شركة «دي تي إي كي» تقول إن أكثر من 600 ألف من سكان منطقة دنيبروبيتروفسك انقطعت عنهم الكهرباء، ومسؤولو خاركيف يقولون إن نحو 250 ألف مشترك تأثروا، بعد ضربات روسية ليلية على منشآت الطاقة («يورونيوز»).",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
    }
   }
  ]
