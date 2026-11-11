@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-10T20:08:04Z",
+ "updated": "2026-11-11T03:09:31Z",
  "items": [
+  {
+   "id": "20261111-0040-softbank-7bn-loss",
+   "time": "2026-11-11T00:40:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "SoftBank Group shares slide more than 10% in Tokyo after the company posts a $7 billion loss driven by a large US data-centre writedown.",
+   "ar": "أسهم مجموعة سوفت بنك تتراجع أكثر من 10% في طوكيو بعد إعلان الشركة خسارة بقيمة 7 مليارات دولار بسبب شطب كبير لقيمة مراكز بيانات في الولايات المتحدة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
+   }
+  },
+  {
+   "id": "20261110-2305-house-kills-hegseth-impeachment",
+   "time": "2026-11-10T23:05:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The House votes 211-204 to refer Rep. Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, effectively killing it.",
+   "ar": "مجلس النواب الأميركي يصوّت بأغلبية 211 مقابل 204 على إحالة قرار النائب توماس ماسي بعزل وزير الدفاع بيت هيغسيث إلى اللجنة القضائية، ما يُسقطه عملياً.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
+   }
+  },
+  {
+   "id": "20261110-2059-us-soldier-arrested-uk-russia",
+   "time": "2026-11-10T20:59:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "London's Metropolitan Police arrest a 41-year-old US Army soldier near Gloucester on suspicion of espionage for Russia; the FBI calls the case of 'the utmost concern'.",
+   "ar": "شرطة لندن تعتقل جندياً في الجيش الأميركي يبلغ 41 عاماً قرب غلوستر للاشتباه بالتجسس لصالح روسيا، ومكتب التحقيقات الفدرالي يصف القضية بأنها «مصدر قلق بالغ».",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia"
+   }
+  },
+  {
+   "id": "20261110-2052-thune-reelected-senate-gop",
+   "time": "2026-11-10T20:52:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Senate Republicans re-elect John Thune as their leader by acclamation for the next Congress, in which they will be in the minority after the midterm losses.",
+   "ar": "الجمهوريون في مجلس الشيوخ يعيدون انتخاب جون ثون زعيماً لهم بالتزكية للكونغرس المقبل، حيث سيصبحون أقلية بعد خسائر الانتخابات النصفية.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261110-2013-doj-charges-fairford-plot",
+   "time": "2026-11-10T20:13:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Justice Department charges 3 alleged Iranian-backed operatives over a failed September attack on RAF Fairford, alleging one directed the plot from a New York jail.",
+   "ar": "وزارة العدل الأميركية توجّه اتهامات إلى 3 عناصر يُشتبه بارتباطهم بإيران في محاولة هجوم فاشلة على قاعدة فيرفورد البريطانية في أيلول، وتتهم أحدهم بتوجيه المخطط من سجن في نيويورك.",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest"
+   }
+  },
   {
    "id": "20261110-1922-jordan-house-gop-leader",
    "time": "2026-11-10T19:22:00Z",
@@ -174,8 +233,8 @@
    "time": "2026-11-10T14:19:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "Secretary of State Marco Rubio told G7 ministers in Paris the US will keep imposing 'devastating' economic costs on Iran and called its leaders 'lunatics', G7 diplomats tell Reuters.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو أبلغ وزراء مجموعة السبع في باريس أن واشنطن ستواصل فرض كلفة اقتصادية «مدمّرة» على إيران ووصف قادتها بـ«المجانين»، بحسب دبلوماسيين في المجموعة لرويترز.",
+   "en": "Secretary of State Marco Rubio tells G7 ministers in Paris the US will keep imposing 'devastating' economic costs on Iran, then says there is 'no need for major combat operations' now.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يبلغ وزراء مجموعة السبع في باريس أن واشنطن ستواصل فرض كلفة اقتصادية «مدمّرة» على إيران، ثم يقول إنه «لا حاجة لعمليات قتالية كبرى» حالياً.",
    "source": {
     "name": "Reuters via Aaj English TV",
     "url": "https://english.aaj.tv/news/330480144/rubio-tells-g7-us-will-keep-imposing-devastating-costs-on-iran-diplomats-say"
@@ -1550,78 +1609,6 @@
    "source": {
     "name": "Haaretz via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/report-raam-will-vote-for-new-eisenkot-led-government-even-without-coalition-deal/"
-   }
-  },
-  {
-   "id": "20261108-0258-houthi-missile-eastern-province",
-   "time": "2026-11-08T02:58:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences intercepted and destroyed a Houthi ballistic missile fired toward Saudi Arabia's Eastern Province, after civil defence alerts in Dammam, Al-Ahsa and Abqaiq.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت ودمّرت صاروخاً باليستياً أطلقه الحوثيون نحو المنطقة الشرقية في السعودية، بعد تحذيرات للدفاع المدني في الدمام والأحساء وأبقيق.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-houthi-missile-destroyed-over-eastern"
-   }
-  },
-  {
-   "id": "20261108-0120-uae-rescues-22-gulf-of-oman",
-   "time": "2026-11-08T01:20:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "The UAE National Guard says its coast guard evacuated all 22 crew, all Arab nationals, from a cargo ship that caught fire in the Gulf of Oman; the cause was not given.",
-   "ar": "الحرس الوطني الإماراتي يعلن أن خفر السواحل أجلى أفراد الطاقم الـ22، وجميعهم من جنسيات عربية، من سفينة شحن اندلع فيها حريق في خليج عُمان، من دون الإعلان عن سبب الحريق.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/uae/2026/11/08/uae-rescues-22-after-fire-breaks-out-on-cargo-ship-in-gulf-of-oman/"
-   }
-  },
-  {
-   "id": "20261107-2158-kremlin-abu-dhabi-delegation",
-   "time": "2026-11-07T21:58:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "The Kremlin says aide Vladimir Medinsky will lead Russia's delegation to the 10–11 November Abu Dhabi talks with the US and Ukraine, joined by deputy foreign minister Sergei Ryabkov and military intelligence chief Igor Kostyukov.",
-   "ar": "الكرملين يعلن أن المستشار فلاديمير ميدينسكي سيرأس وفد روسيا إلى محادثات أبوظبي مع الولايات المتحدة وأوكرانيا في 10 و11 تشرين الثاني، ويضمّ نائب وزير الخارجية سيرغي ريابكوف ورئيس الاستخبارات العسكرية إيغور كوستيوكوف.",
-   "source": {
-    "name": "Reuters via Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
-   }
-  },
-  {
-   "id": "20261107-2150-irgc-two-tankers-mines",
-   "time": "2026-11-07T21:50:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 2 tankers using an 'unauthorized' route hit mines and caught fire in and east of the Strait of Hormuz; no independent confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتين سلكتا مساراً «غير مرخّص» اصطدمتا بألغام واشتعلت فيهما النيران داخل مضيق هرمز وشرقه، من دون تأكيد مستقل.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261108/35f56d5f87294f648f3223cea814e580/c.html"
-   }
-  },
-  {
-   "id": "20261107-2131-centcom-disables-mv-huda",
-   "time": "2026-11-07T21:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "US Central Command says a US aircraft struck the stern of cargo ship M/V Huda in the Gulf of Oman after it tried to breach the US blockade of Iran.",
-   "ar": "القيادة المركزية الأميركية تعلن أن طائرة أميركية استهدفت مؤخرة سفينة الشحن «هدى» في خليج عُمان بعدما حاولت خرق الحصار الأميركي على إيران.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-3010407"
-   }
-  },
-  {
-   "id": "20261107-2129-iran-explosions-southern-counties",
-   "time": "2026-11-07T21:29:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian state TV reports explosions in Qeshm, Sirik, Jask and Bandar Abbas near the Strait of Hormuz, saying the cause is unclear; no damage is confirmed, per Xinhua.",
-   "ar": "التلفزيون الإيراني الرسمي يفيد بدويّ انفجارات في قشم وسيريك وجاسك وبندر عباس قرب مضيق هرمز، ويقول إن سببها غير واضح، من دون تأكيد أي أضرار، بحسب «شينخوا».",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261108/f39c2d4022aa443bbbfe219090babf62/c.html"
    }
   }
  ]
