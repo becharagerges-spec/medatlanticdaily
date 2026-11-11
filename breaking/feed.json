@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:15:59Z",
+ "updated": "2026-11-11T12:09:44Z",
  "items": [
   {
    "id": "20261111-0939-nato-crisis-forces",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Politico Europe",
     "url": "https://www.politico.eu/article/nato-shrink-forces-missions-abroad-focus-fight-russia/"
+   }
+  },
+  {
+   "id": "20261111-0939-abu-dhabi-pow-exchange",
+   "time": "2026-11-11T09:39:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Russia and Ukraine agree at the Abu Dhabi talks to 'the biggest humanitarian release of prisoners', with numbers to be finalized on Thursday, US envoy Jared Kushner says.",
+   "ar": "روسيا وأوكرانيا تتفقان في محادثات أبوظبي على «أكبر عملية إفراج إنساني عن الأسرى»، على أن تُحسم الأعداد الخميس، بحسب المبعوث الأميركي جاريد كوشنر.",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/world/2026/11/11/officials-at-talks-between-russia-and-ukraine-say-the-sides-have-agreed-a-large-release-of-prisoners-of-war/"
    }
   },
   {
