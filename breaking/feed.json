@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T08:09:06Z",
+ "updated": "2026-11-11T09:08:50Z",
  "items": [
+  {
+   "id": "20261111-0853-abu-dhabi-talks-day-two",
+   "time": "2026-11-11T08:53:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The second day of US-mediated Russia-Ukraine talks begins in Abu Dhabi, Russian media report, after Tuesday's first session lasted 4.5 hours.",
+   "ar": "انطلاق اليوم الثاني من المحادثات الروسية الأوكرانية بوساطة أميركية في أبوظبي، وفق وسائل إعلام روسية، بعدما استمرت جلسة الثلاثاء الأولى 4.5 ساعات.",
+   "source": {
+    "name": "APA",
+    "url": "https://en.apa.az/cis-countries/abu-dhabi-hosts-second-day-of-russia-ukraine-us-negotiations-535418"
+   }
+  },
   {
    "id": "20261111-0618-ukraine-163-drones-144-downed",
    "time": "2026-11-11T06:18:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4183607-air-defense-neutralizes-14-banderol-missiles-130-russian-drones-overnight.html"
+   }
+  },
+  {
+   "id": "20261111-0618-iran-designates-argentina-forces",
+   "time": "2026-11-11T06:18:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Foreign Ministry designates Argentina's navy and air force as 'terrorist organizations', citing reciprocity for Buenos Aires' April listing of the Revolutionary Guards.",
+   "ar": "وزارة الخارجية الإيرانية تصنّف سلاحَي البحرية والجو الأرجنتينيين «منظمتين إرهابيتين»، رداً بالمثل على إدراج بوينس آيرس الحرس الثوري على لائحة الإرهاب في نيسان.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/iran-designates-argentinas-navy-air-060950148.html"
    }
   },
   {
@@ -1681,30 +1705,6 @@
    "source": {
     "name": "Reuters via Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/iran-news/article-914180"
-   }
-  },
-  {
-   "id": "20261108-0859-ukraine-5-killed-day",
-   "time": "2026-11-08T08:59:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukrainian regional officials say Russian attacks killed 5 people, all in Donetsk Oblast, and injured 10 over the past day, with 725 strikes on Zaporizhzhia Oblast.",
-   "ar": "مسؤولون إقليميون أوكرانيون يقولون إن الهجمات الروسية قتلت 5 أشخاص، جميعهم في دونيتسك، وأصابت 10 خلال اليوم الماضي، مع 725 ضربة على مقاطعة زابوريجيا.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
-   }
-  },
-  {
-   "id": "20261108-0838-south-lebanon-shelling-zawtar",
-   "time": "2026-11-08T08:38:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli artillery shells areas between Mayfadoun, Upper Nabatieh and East Zawtar in south Lebanon, after overnight shelling and demolition blasts near Zawtar and al-Qantara, per IMLebanon.",
-   "ar": "المدفعية الإسرائيلية تقصف المناطق الواقعة بين ميفدون والنبطية الفوقا وزوطر الشرقية في جنوب لبنان، بعد قصف وتفجيرات ليلية قرب زوطر والقنطرة، وفق «IMLebanon».",
-   "source": {
-    "name": "IMLebanon",
-    "url": "https://www.imlebanon.org/2026/11/08/south45-106/"
    }
   }
  ]
