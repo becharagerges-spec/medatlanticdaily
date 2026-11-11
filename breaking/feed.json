@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:08:48Z",
+ "updated": "2026-11-11T17:08:43Z",
  "items": [
   {
    "id": "20261111-1521-kremlin-putin-trump-apec",
@@ -23,6 +23,41 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/knesset-approves-makeup-of-powerful-arrangements-committee-63-50-rejecting-likud-bid-to-dilute-arab-parties-influence"
+   }
+  },
+  {
+   "id": "20261111-1302-netanyahu-unity-possible",
+   "time": "2026-11-11T13:02:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu says a national unity government is 'possible' and warns of 'immense challenges' ahead; Eisenkot's Yashar replies he 'does not want unity', per Israel Hayom.",
+   "ar": "نتنياهو يقول إن حكومة وحدة وطنية «ممكنة» ويحذّر من «تحديات هائلة» مقبلة، وحزب «يشار» بزعامة آيزنكوت يردّ بأنه «لا يريد الوحدة»، بحسب «يسرائيل هيوم».",
+   "source": {
+    "name": "Israel Hayom",
+    "url": "https://www.israelhayom.com/2026/11/11/netanyahu-unity-government-eisenkot-knesset-speech/"
+   }
+  },
+  {
+   "id": "20261111-1242-g7-iran-nuclear-hormuz",
+   "time": "2026-11-11T12:42:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "G7 foreign ministers say Iran must never acquire a nuclear weapon, condemn its attacks on ships in Hormuz, oppose any transit tolls and back CENTCOM mine-clearing and escorts.",
+   "ar": "وزراء خارجية مجموعة السبع يؤكدون أنه يجب ألّا تمتلك إيران سلاحاً نووياً أبداً، ويدينون هجماتها على السفن في هرمز، ويرفضون أي رسوم عبور، ويدعمون عمليات القيادة المركزية الأميركية لنزع الألغام والمواكبة.",
+   "source": {
+    "name": "This Is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/g7-foreign-ministers-share-joint-statement-on-iran"
+   }
+  },
+  {
+   "id": "20261111-1242-g7-hezbollah-disarmament",
+   "time": "2026-11-11T12:42:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "G7 foreign ministers' joint declaration calls disarming all non-state armed groups in Lebanon, 'foremost among them Hezbollah', essential and urges all parties to respect the ceasefire.",
+   "ar": "الإعلان المشترك لوزراء خارجية مجموعة السبع يعتبر نزع سلاح كل الجماعات المسلحة غير الحكومية في لبنان، «وفي مقدّمها حزب الله»، أمراً أساسياً، ويدعو جميع الأطراف إلى احترام وقف إطلاق النار.",
+   "source": {
+    "name": "UK Government (G7 joint declaration)"
    }
   },
   {
@@ -1706,18 +1741,6 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/trump-says-he-is-unlikely-to-order-iran-attack-if-talks-progress-cnn-reports/3093772/"
-   }
-  },
-  {
-   "id": "20261108-1705-araghchi-two-day-proposal",
-   "time": "2026-11-08T17:05:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says Iran's '2-day proposal' stands: the US must meet its requirements, including an end to war on all fronts, or 'choose war'.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن «مقترح اليومين» لا يزال قائماً: على واشنطن تلبية الشروط، ومنها إنهاء الحرب على كل الجبهات، أو «اختيار الحرب».",
-   "source": {
-    "name": "Abbas Araghchi on X",
-    "url": "https://x.com/araghchi/status/2119476334250373250"
    }
   }
  ]
