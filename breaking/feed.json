@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:09:14Z",
+ "updated": "2026-11-12T18:08:26Z",
  "items": [
   {
    "id": "20261112-1650-iran-army-two-tankers-mines",
@@ -35,6 +35,18 @@
    "source": {
     "name": "The Moscow Times",
     "url": "https://www.themoscowtimes.com/2026/11/12/us-envoy-says-new-round-of-talks-agreed-after-kremlin-meeting-a94236"
+   }
+  },
+  {
+   "id": "20261112-1433-uk-sanctions-russian-oil",
+   "time": "2026-11-12T14:33:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "At the Dublin summit, UK Prime Minister Andy Burnham announces sanctions on all 10 of Russia's major oil producers, including Slavneft and Rosneft's Vostok Oil project, plus shadow-fleet tankers.",
+   "ar": "رئيس الوزراء البريطاني آندي بورنهام يعلن في قمة دبلن عقوبات على كبار منتجي النفط الروس العشرة، ومنهم «سلافنفط» ومشروع «فوستوك أويل» التابع لـ«روسنفط»، إضافةً إلى ناقلات «أسطول الظل».",
+   "source": {
+    "name": "dpa via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/uks-burnham-unveils-stinging-sanctions-143326188.html"
    }
   },
   {
@@ -178,6 +190,18 @@
    "ar": "رئيس الوزراء الإستوني كريستن ميخال يريد أن يتحدّث رئيس المجلس الأوروبي أنطونيو كوستا ومسؤولة السياسة الخارجية كايا كالاس باسم أوروبا في محادثات السلام بشأن أوكرانيا، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico Europe"
+   }
+  },
+  {
+   "id": "20261112-0833-israel-security-cabinet-sunday",
+   "time": "2026-11-12T08:33:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Caretaker PM Netanyahu will convene Israel's security cabinet on Sunday, its first meeting since 5 October, as Eisenkot urges no military action before a new government forms, per The Jerusalem Post.",
+   "ar": "رئيس حكومة تصريف الأعمال نتنياهو سيعقد المجلس الوزاري الأمني الإسرائيلي الأحد، في أول اجتماع له منذ 5 تشرين الأول، فيما يدعو آيزنكوت إلى تجنّب أي عمل عسكري قبل تشكيل حكومة جديدة، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-914671"
    }
   },
   {
@@ -1539,54 +1563,6 @@
    "ar": "النائب الجمهوري توماس ماسي يقدّم مواد لعزل وزير الدفاع بيت هيغسيث، متّهماً إياه بشنّ حرب إيران بشكل غير قانوني، ما يفرض تصويتاً في مجلس النواب ربما هذا الأسبوع.",
    "source": {
     "name": "AP"
-   }
-  },
-  {
-   "id": "20261109-1755-trump-qatar-pm-oval-meeting",
-   "time": "2026-11-09T17:55:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump begins a closed-door Oval Office meeting with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on a US-Iran deal, after the Qatari premier met Vice President JD Vance, per Times of Israel.",
-   "ar": "ترامب يبدأ اجتماعاً مغلقاً في المكتب البيضاوي مع رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني حول اتفاق أميركي-إيراني، بعد لقاء الأخير نائب الرئيس جي دي فانس، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-meets-with-qatari-pm-at-white-house-amid-iran-diplomacy-efforts/"
-   }
-  },
-  {
-   "id": "20261109-1752-hegseth-impeachment-presser",
-   "time": "2026-11-09T17:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Defense Secretary Pete Hegseth says he will hold a press conference on Tuesday, his first in over 180 days, on an expected impeachment resolution in Congress over Iran and Venezuela policy.",
-   "ar": "وزير الدفاع الأميركي بيت هيغسيث يعلن أنه سيعقد مؤتمراً صحافياً الثلاثاء، الأول منذ أكثر من 180 يوماً، بشأن قرار عزل متوقَّع في الكونغرس على خلفية سياستَي إيران وفنزويلا.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/politics/2026/11/09/hegseth-announces-rare-press-conference-to-discuss-expected-impeachment-resolution-in-congress/"
-   }
-  },
-  {
-   "id": "20261109-1742-eisenkot-liberman-speaker",
-   "time": "2026-11-09T17:42:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot and Avigdor Liberman agree on a Yashar candidate to replace Knesset Speaker Amir Ohana, who says he will hold a vote within a week if 61 MKs sign, per Ynet.",
-   "ar": "آيزنكوت وأفيغدور ليبرمان يتفقان على مرشح من «ياشار» لخلافة رئيس الكنيست أمير أوحانا، الذي يقول إنه سيجري التصويت خلال أسبوع إذا وقّع 61 نائباً، بحسب «واي نت».",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/bkbp4kkrmg"
-   }
-  },
-  {
-   "id": "20261109-1714-saudi-east-west-pipeline-hit",
-   "time": "2026-11-09T17:14:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia's energy ministry says the East-West oil pipeline, its main export route bypassing Hormuz, was targeted in the Medina region, causing a limited fire; operations are unaffected and no one was hurt.",
-   "ar": "وزارة الطاقة السعودية تعلن استهداف خط الأنابيب شرق-غرب، طريق التصدير الرئيسي الذي يتجاوز هرمز، في منطقة المدينة المنورة، ما أدى إلى حريق محدود؛ العمليات لم تتأثر ولا إصابات.",
-   "source": {
-    "name": "AFP via Gulf News",
-    "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-says-east-west-pipeline-targeted-operations-unaffected-1.500741614"
    }
   }
  ]
