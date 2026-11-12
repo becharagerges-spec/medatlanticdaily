@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T06:08:02Z",
+ "updated": "2026-11-12T07:08:37Z",
  "items": [
+  {
+   "id": "20261112-0622-witkoff-kushner-moscow",
+   "time": "2026-11-12T06:22:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "US envoys Steve Witkoff and Jared Kushner land at Moscow's Vnukovo airport, met by Kremlin envoy Kirill Dmitriev, ahead of talks with Putin on ending the Ukraine war, per TASS.",
+   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر يصلان إلى مطار فنوكوفو في موسكو، ويستقبلهما مبعوث الكرملين كيريل دميترييف، قبيل محادثات مع بوتين بشأن إنهاء الحرب في أوكرانيا، بحسب «تاس».",
+   "source": {
+    "name": "LaPresse",
+    "url": "https://uk.lapresse.it/world-en/2026/11/12/ukraine-witkoff-and-kushner-arrive-in-moscow-for-talks/"
+   }
+  },
   {
    "id": "20261112-0529-nasser-hospital-strike",
    "time": "2026-11-12T05:29:00Z",
@@ -1729,30 +1741,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://mtv.com.lb/news/1756458"
-   }
-  },
-  {
-   "id": "20261109-0700-ukraine-317-drones-271-downed",
-   "time": "2026-11-09T07:00:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia launched 317 drones overnight, 105 of them jet-powered Shaheds; 271 were downed or suppressed, with hits recorded at 31 locations.",
-   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 317 مسيّرة خلال الليل، بينها 105 مسيّرات «شاهد» نفاثة؛ أُسقطت أو عُطّلت 271 منها، وسُجّلت إصابات في 31 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4182779-air-defense-neutralizes-271-of-317-russian-drones-targeting-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261109-0640-riyadh-aerial-threat-lifted",
-   "time": "2026-11-09T06:40:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Civil Defense warns Riyadh residents of an aerial threat on Monday morning and lifts the alert minutes later, as Yemen's Houthis keep firing missiles and drones at the kingdom.",
-   "ar": "الدفاع المدني السعودي يحذّر سكان الرياض من تهديد جوي صباح الاثنين ثم يرفع الإنذار بعد دقائق، فيما يواصل الحوثيون إطلاق الصواريخ والمسيّرات على المملكة.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-lifts-danger-warning-in-riyadh-3010670"
    }
   }
  ]
