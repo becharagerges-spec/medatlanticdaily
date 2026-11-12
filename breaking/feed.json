@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-12T12:09:47Z",
+ "updated": "2026-11-12T13:10:44Z",
  "items": [
+  {
+   "id": "20261112-1252-putin-envoys-foreign-troops",
+   "time": "2026-11-12T12:52:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Meeting US envoys Witkoff and Kushner at the Kremlin, Putin says any foreign troops deployed in Ukraine would be legitimate targets and claims Russia controls Kostiantynivka, per TASS.",
+   "ar": "خلال لقائه المبعوثَين الأميركيَّين ويتكوف وكوشنر في الكرملين، بوتين يقول إن أي قوات أجنبية تُنشر في أوكرانيا ستكون أهدافاً مشروعة، ويزعم أن روسيا تسيطر على كوستيانتينيفكا، بحسب «تاس».",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/89918"
+   }
+  },
+  {
+   "id": "20261112-1226-zelensky-epc-dublin",
+   "time": "2026-11-12T12:26:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "At the European Political Community summit in Dublin, Zelensky warns Russia is trying to rewrite Europe's security architecture before any ceasefire and calls for Europe to join peace negotiations.",
+   "ar": "في قمة المجموعة السياسية الأوروبية في دبلن، زيلينسكي يحذّر من أن روسيا تسعى إلى إعادة رسم البنية الأمنية لأوروبا قبل أي وقف لإطلاق النار، ويطالب بإشراك أوروبا في مفاوضات السلام.",
+   "source": {
+    "name": "RTÉ",
+    "url": "https://www.rte.ie/news/ireland/2026/1112/1598960-epc-meetings-dublin/"
+   }
+  },
+  {
+   "id": "20261112-1123-eu-commission-israel-pact",
+   "time": "2026-11-12T11:23:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Commission says it will examine a citizens' initiative with more than 1.1 million validated signatures from 12 states seeking suspension of the EU-Israel Association Agreement.",
+   "ar": "المفوضية الأوروبية تعلن أنها ستدرس مبادرة مواطنين تحمل أكثر من 1.1 مليون توقيع مُصادَق عليه من 12 دولة تطالب بتعليق اتفاقية الشراكة بين الاتحاد الأوروبي وإسرائيل.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/world/eu-commission-to-examine-initiative-seeking-israel-pact-suspension-3011399"
+   }
+  },
   {
    "id": "20261112-1024-berri-we-are-free-ghalibaf",
    "time": "2026-11-12T10:24:00Z",
@@ -11,6 +47,18 @@
    "source": {
     "name": "Naharnet",
     "url": "https://mobile.naharnet.com/stories/en/323725-berri-affirms-lebanon-is-free-in-response-to-ghalibaf-s-unified-front-remarks"
+   }
+  },
+  {
+   "id": "20261112-0949-zelensky-starshield-cap",
+   "time": "2026-11-12T09:49:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says speed restrictions on Starshield satellite links are back, capping use at 161 km/h and hampering Ukraine's interception of Russian jet-powered drones; Kyiv is seeking answers from Washington.",
+   "ar": "زيلينسكي يقول إن قيود السرعة على اتصالات «ستارشيلد» الفضائية عادت، محدّدةً الاستخدام بـ161 كلم/ساعة ومعرقلةً اعتراض أوكرانيا للمسيّرات الروسية النفاثة، وكييف تطلب إيضاحات من واشنطن.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/12/zelenskyy-starlink-again-facing-restrictions-in-ukraine-hampering-russian-drone-intercepti"
    }
   },
   {
@@ -118,6 +166,18 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+   }
+  },
+  {
+   "id": "20261112-0418-xi-taiwan-reunification",
+   "time": "2026-11-12T04:18:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Xi Jinping says Taiwan's 'complete reunification' must and will be realised as 'the tide of history cannot be stopped'; Taiwan reports 29 Chinese military aircraft on a combat readiness patrol.",
+   "ar": "شي جين بينغ يقول إن «إعادة التوحيد الكاملة» مع تايوان يجب أن تتحقق وستتحقق لأن «مدّ التاريخ لا يمكن وقفه»، وتايوان ترصد 29 طائرة عسكرية صينية في دورية جاهزية قتالية.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/chinas-xi-says-taiwan-reunification-041815230.html"
    }
   },
   {
@@ -1527,65 +1587,6 @@
    "source": {
     "name": "Reuters via Yahoo Finance",
     "url": "https://ca.finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
-   }
-  },
-  {
-   "id": "20261109-1257-pezeshkian-end-no-war-no-peace",
-   "time": "2026-11-09T12:57:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei ordered the government to end the 'no war, no peace' situation with the US, per The Times of Israel.",
-   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن المرشد الأعلى مجتبى خامنئي أمر الحكومة بإنهاء حالة «لا حرب ولا سلم» مع الولايات المتحدة، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iranian-president-supreme-leader-told-us-to-end-no-war-no-peace-reality/"
-   }
-  },
-  {
-   "id": "20261109-1248-g7-paris-rubio-iran-ukraine",
-   "time": "2026-11-09T12:48:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "G7 foreign ministers open 2 days of talks in Paris, with European ministers pressing US Secretary of State Marco Rubio on a fair Ukraine settlement and avoiding new escalation with Iran.",
-   "ar": "وزراء خارجية مجموعة السبع يفتتحون محادثات تستمر يومين في باريس، والوزراء الأوروبيون يضغطون على وزير الخارجية الأميركي ماركو روبيو من أجل تسوية عادلة لأوكرانيا وتجنّب تصعيد جديد مع إيران.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks/"
-   }
-  },
-  {
-   "id": "20261109-1236-hezbollah-mps-islamabad-track",
-   "time": "2026-11-09T12:36:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Hezbollah MPs urge Lebanese authorities to reconsider their stance and join the Islamabad track, per Naharnet.",
-   "ar": "نواب «حزب الله» يدعون السلطات اللبنانية إلى إعادة النظر في موقفها والانضمام إلى «مسار إسلام آباد»، بحسب موقع «نهارنت».",
-   "source": {
-    "name": "Naharnet"
-   }
-  },
-  {
-   "id": "20261109-1231-iran-iaea-no-full-monitoring",
-   "time": "2026-11-09T12:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran tells the IAEA in a 10-page document that it is not obliged to accept full nuclear monitoring while under threat of US attack, Bloomberg reports.",
-   "ar": "إيران تبلغ الوكالة الدولية للطاقة الذرية في وثيقة من 10 صفحات أنها غير ملزمة بقبول رقابة نووية كاملة ما دامت مهددة بهجوم أميركي، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/iran-hardens-line-against-nuclear-monitoring-as-deal-hopes-fade"
-   }
-  },
-  {
-   "id": "20261109-1223-salam-avoid-new-war",
-   "time": "2026-11-09T12:23:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Prime Minister Nawaf Salam tells the cabinet Lebanon's priority is to protect its security and avoid being dragged into any new war, as Israeli strikes hit Kfar Tebnit and al-Qantara.",
-   "ar": "رئيس الحكومة نواف سلام يقول أمام مجلس الوزراء إن الأولوية حماية لبنان وأمنه وتجنّب جرّه إلى أي حرب جديدة، فيما تستهدف غارات إسرائيلية كفرتبنيت والقنطرة.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.net/news/2026/11/9/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%84%D8%A7%D9%85"
    }
   }
  ]
