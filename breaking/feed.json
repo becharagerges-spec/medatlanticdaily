@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:08:38Z",
+ "updated": "2026-11-12T11:08:52Z",
  "items": [
   {
    "id": "20261112-0927-eisenkot-briefing-military-secretary",
@@ -109,6 +109,18 @@
    }
   },
   {
+   "id": "20261112-0400-st-petersburg-colonel-car-bomb",
+   "time": "2026-11-12T04:00:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "A remotely detonated car bomb kills a Russian air force colonel in a St Petersburg suburb, per Fontanka; Russia's Investigative Committee opens a murder case and nobody has claimed it.",
+   "ar": "عبوة مفخّخة فُجّرت عن بُعد في سيارة تقتل عقيداً في سلاح الجو الروسي بضاحية في سانت بطرسبرغ، بحسب «فونتانكا»؛ ولجنة التحقيق الروسية تفتح قضية قتل ولم يتبنَّ أحد العملية.",
+   "source": {
+    "name": "Fontanka via Euromaidan Press",
+    "url": "https://euromaidanpress.com/2026/11/12/russian-colonel-killed-by-a-remote-detonated-car-bomb-a-day-after-ukrainian-drones-hit-a-nearby-baltic-port/"
+   }
+  },
+  {
    "id": "20261112-0027-mecca-missile-debris",
    "time": "2026-11-12T00:27:00Z",
    "theater": "saudi",
@@ -125,11 +137,11 @@
    "time": "2026-11-11T23:00:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia fired Iskander-M, KN-23 and Zircon missiles and 123 drones overnight, including at Kyiv; 94 drones were downed and hits were recorded at 17 sites.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت ليلاً صواريخ «إسكندر-إم» و«كيه إن-23» و«تسيركون» و123 مسيّرة، بينها على كييف؛ وأُسقطت 94 مسيّرة وسُجّلت إصابات في 17 موقعاً.",
+   "en": "Russia fired Iskander-M, KN-23 and Zircon missiles and 123 drones overnight, hitting 17 sites; in Kyiv a drone strike on a residential block killed a woman and injured 5, per Mayor Klitschko.",
+   "ar": "روسيا أطلقت ليلاً صواريخ «إسكندر-إم» و«كيه إن-23» و«تسيركون» و123 مسيّرة أصابت 17 موقعاً، وفي كييف قُتلت امرأة وأُصيب 5 بضربة مسيّرة على مبنى سكني، بحسب رئيس البلدية كليتشكو.",
    "source": {
-    "name": "UNN",
-    "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-ballistic-missiles-and-zircon-missiles-94-of-123-drones-were-neutralized"
+    "name": "dpa via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/ukraine-reports-one-dead-russian-101823735.html"
    }
   },
   {
@@ -1610,65 +1622,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-invites-haredi-factions-to-back-knesset-speaker-replacement/"
-   }
-  },
-  {
-   "id": "20261109-1100-estonia-russia-state-terrorism",
-   "time": "2026-11-09T11:00:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Estonian Interior Minister Igor Taro tells the Financial Times that Russia's sabotage and attacks in Europe should be called state terrorism, not hybrid incidents, and urges an end to Russian tourist visas.",
-   "ar": "وزير الداخلية الإستوني إيغور تارو يقول لـ«فايننشال تايمز» إن أعمال التخريب والهجمات الروسية في أوروبا يجب أن تُسمّى إرهاب دولة لا حوادث هجينة، ويدعو إلى وقف التأشيرات السياحية للروس.",
-   "source": {
-    "name": "Financial Times via European Pravda",
-    "url": "https://www.eurointegration.com.ua/eng/news/2026/11/9/7249560/"
-   }
-  },
-  {
-   "id": "20261109-1052-jumblat-backs-disarmament",
-   "time": "2026-11-09T10:52:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Druze leader Walid Jumblat throws his support behind President Joseph Aoun and Prime Minister Nawaf Salam on disarming Hezbollah, per Naharnet.",
-   "ar": "الزعيم الدرزي وليد جنبلاط يعلن دعمه للرئيس جوزاف عون ورئيس الحكومة نواف سلام في مسألة نزع سلاح «حزب الله»، بحسب موقع «نهارنت».",
-   "source": {
-    "name": "Naharnet"
-   }
-  },
-  {
-   "id": "20261109-1051-us-partial-blockade-lift-offer",
-   "time": "2026-11-09T10:51:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Emirati outlet Erem News reports the US has offered Iran a phased plan starting with a partial lifting of the naval blockade in exchange for reopening the Strait of Hormuz; Iran has not responded.",
-   "ar": "موقع «إرم نيوز» الإماراتي يفيد بأن واشنطن عرضت على إيران خطة مرحلية تبدأ برفع جزئي للحصار البحري مقابل إعادة فتح مضيق هرمز؛ ولم تردّ طهران بعد.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-us-offering-iran-partial-lifting-of-blockade-in-exchange-for-opening-hormuz/"
-   }
-  },
-  {
-   "id": "20261109-1021-erdogan-warns-iran-attacks",
-   "time": "2026-11-09T10:21:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Turkish President Recep Tayyip Erdogan says Turkey does not want a new wave of attacks on Iran and that he conveyed his concerns to Trump in a recent phone call.",
-   "ar": "الرئيس التركي رجب طيب أردوغان يقول إن تركيا لا تريد موجة جديدة من الهجمات على إيران، وإنه نقل مخاوفه إلى ترامب في اتصال هاتفي أخيراً.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/erdogan-says-he-conveyed-turkiyes-concerns-on-potential-attacks-on-iran-to-trump-3010695"
-   }
-  },
-  {
-   "id": "20261109-1009-kremlin-abu-dhabi-trilateral",
-   "time": "2026-11-09T10:09:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin spokesman Dmitry Peskov says the Abu Dhabi talks remain a Ukraine-Russia-US trilateral format despite European delegations attending, saying Europeans have separate channels with Kyiv and Washington.",
-   "ar": "الناطق باسم الكرملين دميتري بيسكوف يقول إن محادثات أبوظبي تبقى بصيغة ثلاثية أوكرانية-روسية-أميركية رغم حضور وفود أوروبية، مشيراً إلى قنوات منفصلة للأوروبيين مع كييف وواشنطن.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/world/kremlin-says-abu-dhabi-ukraine-talks-still-trilateral-3010692"
    }
   }
  ]
