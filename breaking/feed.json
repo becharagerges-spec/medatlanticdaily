@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-12T05:08:43Z",
+ "updated": "2026-11-12T06:08:02Z",
  "items": [
+  {
+   "id": "20261112-0529-nasser-hospital-strike",
+   "time": "2026-11-12T05:29:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "An Israeli strike on Nasser Hospital in Khan Younis kills at least 6 people, including a surgeon, and wounds about 20, Gaza's civil defence says; Israel's army says it targeted a senior Hamas commander.",
+   "ar": "غارة إسرائيلية على مستشفى ناصر في خان يونس تقتل 6 أشخاص على الأقل بينهم جرّاح وتصيب نحو 20، بحسب الدفاع المدني في غزة، والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في «حماس».",
+   "source": {
+    "name": "Reuters via The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-at-least-five-others/"
+   }
+  },
+  {
+   "id": "20261112-0510-indonesia-vp-gibran-resigns",
+   "time": "2026-11-12T05:10:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Indonesian Vice President Gibran Rakabuming Raka, son of ex-president Joko Widodo, resigns after courts ruled his education documents failed election requirements and 120 lawmakers moved toward impeachment, per AP.",
+   "ar": "نائب الرئيس الإندونيسي جبران راكابومينغ راكا، نجل الرئيس السابق جوكو ويدودو، يستقيل بعدما قضت المحاكم بأن وثائقه الدراسية لا تستوفي شروط الترشح وتحرّك 120 نائباً نحو عزله، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/world/2026/11/12/indonesias-vice-president-resigns-as-his-eligibility-and-academic-credentials-are-questioned/"
+   }
+  },
+  {
+   "id": "20261112-0421-vahidi-missiles-continue",
+   "time": "2026-11-12T04:21:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC chief Ahmad Vahidi says Iran will keep developing missiles despite US threats and sanctions, with aerospace forces working deep underground, per Tasnim.",
+   "ar": "قائد الحرس الثوري أحمد وحيدي يقول إن إيران ستواصل تطوير صواريخها رغم التهديدات والعقوبات الأميركية، وإن القوة الجوفضائية تعمل في أعماق الأرض، بحسب «تسنيم».",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+   }
+  },
   {
    "id": "20261112-0027-mecca-missile-debris",
    "time": "2026-11-12T00:27:00Z",
