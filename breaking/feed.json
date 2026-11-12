@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-12T09:08:20Z",
+ "updated": "2026-11-12T10:08:38Z",
  "items": [
+  {
+   "id": "20261112-0927-eisenkot-briefing-military-secretary",
+   "time": "2026-11-12T09:27:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot is set to receive a security briefing from Netanyahu's military secretary after accusing the caretaker prime minister's office of withholding briefings, Hebrew media report, per The Times of Israel.",
+   "ar": "آيزنكوت يتلقّى إحاطة أمنية من السكرتير العسكري لنتنياهو بعد اتهامه مكتب رئيس الحكومة الانتقالية بحجب الإحاطات عنه، وفق وسائل إعلام عبرية نقلتها «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-receive-security-briefing-from-netanyahus-military-secretary-report/"
+   }
+  },
+  {
+   "id": "20261112-0904-alibaba-slumps-huang",
+   "time": "2026-11-12T09:04:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Alibaba shares fall more than 6% in Hong Kong as fears grow that the Nvidia CEO scandal will tighten US scrutiny of Chinese access to advanced chips, per Investing.com.",
+   "ar": "أسهم «علي بابا» تتراجع أكثر من 6% في هونغ كونغ وسط مخاوف من أن تؤدي فضيحة الرئيس التنفيذي لـ«إنفيديا» إلى تشديد الرقابة الأميركية على حصول الصين على الرقائق المتقدمة، وفق «إنفستينغ.كوم».",
+   "source": {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/economy-news/nvidia-said-to-preparing-huang-ouster-alibaba-slumps--whats-moving-markets-5020685"
+   }
+  },
   {
    "id": "20261112-0834-estonia-costa-kallas-talks",
    "time": "2026-11-12T08:34:00Z",
@@ -61,6 +85,18 @@
    }
   },
   {
+   "id": "20261112-0422-irgc-two-supertankers-explode",
+   "time": "2026-11-12T04:22:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says 2 more supertankers carrying over 4 million barrels exploded on Wednesday night after ignoring warnings on an 'unauthorised route' in Hormuz; no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتين عملاقتين إضافيتين تحملان أكثر من 4 ملايين برميل انفجرتا ليل الأربعاء بعد تجاهل تحذيرات بشأن «مسار غير مرخّص» في هرمز، من دون تأكيد مستقل.",
+   "source": {
+    "name": "Reuters via MarineLink",
+    "url": "https://www.marinelink.com/news/two-oil-supertankers-explode-strait-544312"
+   }
+  },
+  {
    "id": "20261112-0421-vahidi-missiles-continue",
    "time": "2026-11-12T04:21:00Z",
    "theater": "iran",
@@ -77,8 +113,8 @@
    "time": "2026-11-12T00:27:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "Saudi civil defence says air defences intercepted 2 ballistic missiles fired by the Houthis toward the Mecca region, with debris falling at Sabuhah, about 35 km from the Grand Mosque.",
-   "ar": "الدفاع المدني السعودي يعلن أن الدفاعات الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون باتجاه منطقة مكة، وسقط حطامهما في قرية الصبوحة على بُعد نحو 35 كلم من المسجد الحرام.",
+   "en": "Saudi civil defence says 2 Houthi ballistic missiles fired toward the Mecca region were intercepted, with debris falling at Sabuhah; a Houthi spokesman rejects the Mecca claim as Saudi 'lies'.",
+   "ar": "الدفاع المدني السعودي يقول إن صاروخين باليستيين أطلقهما الحوثيون نحو منطقة مكة اعتُرضا وسقط حطامهما في الصبوحة، فيما ينفي متحدث حوثي ذلك ويصفه بـ«أكاذيب» سعودية.",
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/saudi-arabia-says-debris-intercepted-002740905.html"
@@ -1633,41 +1669,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/world/kremlin-says-abu-dhabi-ukraine-talks-still-trilateral-3010692"
-   }
-  },
-  {
-   "id": "20261109-0959-eu-emergency-funding-ukraine",
-   "time": "2026-11-09T09:59:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says the EU will use an emergency assistance mechanism to fund Ukraine's urgent needs after Russian strikes on power, water and heating, following a call with Ursula von der Leyen.",
-   "ar": "زيلينسكي يعلن أن الاتحاد الأوروبي سيفعّل آلية مساعدة طارئة لتمويل حاجات أوكرانيا الملحّة بعد الضربات الروسية على الكهرباء والمياه والتدفئة، إثر اتصال مع أورسولا فون دير لاين.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89526"
-   }
-  },
-  {
-   "id": "20261109-0939-store-no-abu-dhabi-breakthrough",
-   "time": "2026-11-09T09:39:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Norwegian Prime Minister Jonas Gahr Støre, who spoke to Putin last month, tells Politico that Putin may not want peace and he expects no major breakthrough at the Abu Dhabi talks.",
-   "ar": "رئيس الوزراء النروجي يوناس غار ستوره، الذي تحدّث إلى بوتين الشهر الماضي، يقول لـ«بوليتيكو» إن بوتين قد لا يريد السلام ولا يتوقّع اختراقاً كبيراً في محادثات أبوظبي.",
-   "source": {
-    "name": "Politico Europe"
-   }
-  },
-  {
-   "id": "20261109-0917-eu-joint-team-abu-dhabi",
-   "time": "2026-11-09T09:17:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The European Commission and Council will send a joint team led by Bjoern Seibert and Anna-Maria Boura to the 10–11 November Abu Dhabi talks; von der Leyen backs an energy-infrastructure ceasefire.",
-   "ar": "المفوضية والمجلس الأوروبيان يرسلان فريقاً مشتركاً بقيادة بيورن زايبرت وآنا-ماريا بورا إلى محادثات أبوظبي في 10 و11 تشرين الثاني، وفون دير لاين تؤيّد وقفاً لإطلاق النار يشمل منشآت الطاقة.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
    }
   }
  ]
