@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T07:08:37Z",
+ "updated": "2026-11-12T08:09:56Z",
  "items": [
+  {
+   "id": "20261112-0751-china-nvidia-spy-blockade",
+   "time": "2026-11-12T07:51:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's foreign ministry spokeswoman Mao Ning urges the US to stop 'fabricating' spy narratives over Nvidia CEO Jensen Huang as a pretext for a 'technological blockade' of China.",
+   "ar": "المتحدثة باسم الخارجية الصينية ماو نينغ تدعو واشنطن إلى التوقف عن «فبركة» روايات تجسس حول رئيس «إنفيديا» جنسن هوانغ ذريعةً لفرض «حصار تكنولوجي» على الصين.",
+   "source": {
+    "name": "Reuters via Devdiscourse",
+    "url": "https://www.devdiscourse.com/article/international/4005657-china-urges-us-to-stop-fabricating-spy-narrative-over-nvidia"
+   }
+  },
   {
    "id": "20261112-0622-witkoff-kushner-moscow",
    "time": "2026-11-12T06:22:00Z",
@@ -65,12 +77,12 @@
    "id": "20261111-2300-kyiv-ballistic-attack",
    "time": "2026-11-11T23:00:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "Explosions hit Kyiv around 01:00 local time as Russia fires ballistic missiles at the capital, hours after the Abu Dhabi talks ended without a breakthrough, per the Kyiv Independent.",
-   "ar": "انفجارات تهزّ كييف قرابة الساعة الواحدة فجراً بالتوقيت المحلي إثر إطلاق روسيا صواريخ باليستية على العاصمة، بعد ساعات من انتهاء محادثات أبوظبي من دون اختراق، بحسب «كييف إندبندنت».",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia fired Iskander-M, KN-23 and Zircon missiles and 123 drones overnight, including at Kyiv; 94 drones were downed and hits were recorded at 17 sites.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت ليلاً صواريخ «إسكندر-إم» و«كيه إن-23» و«تسيركون» و123 مسيّرة، بينها على كييف؛ وأُسقطت 94 مسيّرة وسُجّلت إصابات في 17 موقعاً.",
    "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
+    "name": "UNN",
+    "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-ballistic-missiles-and-zircon-missiles-94-of-123-drones-were-neutralized"
    }
   },
   {
@@ -1717,30 +1729,6 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/china-rejects-baseless-claims-it-spied-on-nvidia-boss/"
-   }
-  },
-  {
-   "id": "20261109-0747-syria-mecca-pact",
-   "time": "2026-11-09T07:47:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Two Syrian officials tell AP that Damascus has decided to join the Mecca defence pact with Saudi Arabia, Turkey and Pakistan but has not announced it; a regional official says talks continue.",
-   "ar": "مسؤولان سوريان يقولان لـ«أسوشيتد برس» إن دمشق قررت الانضمام إلى ميثاق مكة الدفاعي مع السعودية وتركيا وباكستان من دون إعلان ذلك بعد، فيما يقول مسؤول إقليمي إن المحادثات مستمرة.",
-   "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/syria-saudi-yemen-houthis-fighters-d436bdc81a8e6b28bb99c417aaeaf8b6"
-   }
-  },
-  {
-   "id": "20261109-0728-israel-strikes-kfar-tebnit-qantara",
-   "time": "2026-11-09T07:28:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Israeli warplanes strike the south Lebanon towns of Kfar Tebnit and al-Qantara on Monday morning, per Lebanese outlets MTV and Beirut News Center.",
-   "ar": "الطيران الحربي الإسرائيلي يغير على بلدتي كفرتبنيت والقنطرة في جنوب لبنان صباح الاثنين، بحسب قناة «إم تي في» وموقع «بيروت نيوز سنتر».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://mtv.com.lb/news/1756458"
    }
   }
  ]
