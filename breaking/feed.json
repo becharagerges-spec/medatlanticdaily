@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:08:24Z",
+ "updated": "2026-11-12T04:08:06Z",
  "items": [
   {
    "id": "20261112-0027-mecca-missile-debris",
@@ -47,6 +47,18 @@
    "source": {
     "name": "Mississippi Today",
     "url": "https://mississippitoday.org/2026/11/11/scott-colom-wins-senate-mississippi-hyde-smith/"
+   }
+  },
+  {
+   "id": "20261111-2148-security-cabinet-iran-prep",
+   "time": "2026-11-11T21:48:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's security cabinet has ordered the military to step up preparations for a possible attack on Iran, public broadcaster Kan reports, warning the directives could trigger a war.",
+   "ar": "المجلس الوزاري الأمني الإسرائيلي أوعز إلى الجيش بتكثيف الاستعدادات لهجوم محتمل على إيران، بحسب هيئة البث العامة «كان»، التي حذّرت من أن هذه التوجيهات قد تُشعل حرباً.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran"
    }
   },
   {
@@ -1729,18 +1741,6 @@
    "source": {
     "name": "AP",
     "url": "https://www.wsls.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
-   }
-  },
-  {
-   "id": "20261109-0405-kirishi-refinery-drones",
-   "time": "2026-11-09T04:05:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukrainian drones reportedly hit the Kirishi refinery, Russia's second-largest, in Leningrad Oblast overnight, per Ukrainian monitoring channels; Governor Aleksandr Drozdenko says 113 drones were shot down over the region.",
-   "ar": "مسيّرات أوكرانية تصيب على ما يُروى مصفاة كيريشي، ثاني أكبر مصفاة في روسيا، في مقاطعة لينينغراد ليلاً بحسب قنوات رصد أوكرانية؛ والحاكم ألكسندر دروزدينكو يقول إن 113 مسيّرة أُسقطت فوق المنطقة.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
    }
   }
  ]
