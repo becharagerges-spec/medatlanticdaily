@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-12T14:09:27Z",
+ "updated": "2026-11-12T15:09:00Z",
  "items": [
+  {
+   "id": "20261112-1438-nvidia-13pct-nasdaq-falls",
+   "time": "2026-11-12T14:38:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia shares tumble 13% after CEO Jensen Huang's ouster, dragging the Nasdaq 100 down 1.4% and a key chipmaker index down 3.5%, Bloomberg reports.",
+   "ar": "أسهم «إنفيديا» تهوي 13% بعد إطاحة رئيسها التنفيذي جنسن هوانغ، ما يجرّ مؤشر ناسداك 100 إلى التراجع 1.4% ومؤشراً رئيسياً لشركات الرقائق 3.5%، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates"
+   }
+  },
+  {
+   "id": "20261112-1406-dc-logan-circle-shooting",
+   "time": "2026-11-12T14:06:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Five people are shot in Washington's Logan Circle neighbourhood, about a mile north of the White House, and the shooter has not been caught, police say, AP reports.",
+   "ar": "إصابة خمسة أشخاص بإطلاق نار في حي لوغان سيركل في واشنطن، على بُعد نحو ميل شمال البيت الأبيض، والشرطة تقول إن مطلق النار لم يُعتقل بعد، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP via OPB",
+    "url": "https://www.opb.org/article/2026/11/12/washington-dc-5-people-are-shot-trendy-logan-circle-neighborhood/"
+   }
+  },
   {
    "id": "20261112-1400-trump-no-iran-deal",
    "time": "2026-11-12T14:00:00Z",
@@ -1575,30 +1599,6 @@
    "source": {
     "name": "The Jewish Chronicle",
     "url": "https://www.thejc.com/news/israel/israel-approves-foreign-troops-gaza-peace-plan-ufnb7gzz"
-   }
-  },
-  {
-   "id": "20261109-1431-nvidia-falls-8pct-open",
-   "time": "2026-11-09T14:31:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nvidia shares fall 8% to $171.62 at the Wall Street open as its board investigates whether CEO Jensen Huang was targeted by foreign intelligence, while the Dow rises 1.2%.",
-   "ar": "أسهم «إنفيديا» تهبط 8% إلى 171.62 دولاراً عند افتتاح وول ستريت فيما يحقق مجلس إدارتها في ما إذا كان رئيسها التنفيذي جنسن هوانغ هدفاً لجهاز استخبارات أجنبي، بينما يرتفع مؤشر داو جونز 1.2%.",
-   "source": {
-    "name": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-   }
-  },
-  {
-   "id": "20261109-1429-orban-brother-detained",
-   "time": "2026-11-09T14:29:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Hungarian police detain Aron Orban, brother of former Prime Minister Viktor Orban, in a human-trafficking probe; Viktor Orban calls it a 'dirty game' targeting him.",
-   "ar": "الشرطة المجرية توقف آرون أوربان، شقيق رئيس الوزراء السابق فيكتور أوربان، في تحقيق بالاتجار بالبشر، وأوربان يصف الأمر بـ«لعبة قذرة» تستهدفه شخصياً.",
-   "source": {
-    "name": "CP24",
-    "url": "https://www.cp24.com/news/world/2026/11/09/police-detain-former-hungarian-pm-orbans-brother-report/"
    }
   }
  ]
