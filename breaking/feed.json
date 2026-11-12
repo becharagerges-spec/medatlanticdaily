@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T11:08:52Z",
+ "updated": "2026-11-12T12:09:47Z",
  "items": [
+  {
+   "id": "20261112-1024-berri-we-are-free-ghalibaf",
+   "time": "2026-11-12T10:24:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Speaker Nabih Berri tells parliament 'We are free' after MP Samy Gemayel urged him to reject Iranian speaker Ghalibaf's call Iran and Lebanon a 'unified front', per Naharnet.",
+   "ar": "رئيس مجلس النواب نبيه بري يقول في الجلسة «نحن أحرار» بعدما طالبه النائب سامي الجميّل برفض وصف رئيس البرلمان الإيراني قاليباف إيران ولبنان بـ«جبهة موحّدة»، بحسب «نهارنت».",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323725-berri-affirms-lebanon-is-free-in-response-to-ghalibaf-s-unified-front-remarks"
+   }
+  },
   {
    "id": "20261112-0927-eisenkot-briefing-military-secretary",
    "time": "2026-11-12T09:27:00Z",
@@ -1574,54 +1586,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.net/news/2026/11/9/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%84%D8%A7%D9%85"
-   }
-  },
-  {
-   "id": "20261109-1207-riner-presidential-bid",
-   "time": "2026-11-09T12:07:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Five-time Olympic judo champion Teddy Riner announces he will run in France's 2027 presidential election, saying he wants to show the country can be turned around.",
-   "ar": "بطل الجودو الأولمبي خمس مرات تيدي رينر يعلن ترشّحه للانتخابات الرئاسية الفرنسية عام 2027، قائلاً إنه يريد أن يُثبت أن فرنسا قادرة على النهوض من جديد.",
-   "source": {
-    "name": "AFP via France 24",
-    "url": "https://www.france24.com/en/live-news/20261109-olympic-judo-champion-riner-joins-fight-for-french-presidency"
-   }
-  },
-  {
-   "id": "20261109-1203-novaya-gazeta-closes",
-   "time": "2026-11-09T12:03:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Russia's independent newspaper Novaya Gazeta winds up operations and leaves its Moscow office, citing state pressure; the Kremlin calls it part of a 'rotational process' in the media market.",
-   "ar": "صحيفة «نوفايا غازيتا» الروسية المستقلة توقف عملها وتغادر مكتبها في موسكو بسبب ضغوط الدولة؛ والكرملين يصف ذلك بأنه جزء من «عملية تدوير» في سوق الإعلام.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/"
-   }
-  },
-  {
-   "id": "20261109-1154-rosneft-petrol-limits",
-   "time": "2026-11-09T11:54:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Rosneft limits petrol sales to 30 litres per customer in cities and 50 on highways in several Russian regions after Ukrainian refinery strikes, per Kommersant and Current Time.",
-   "ar": "«روسنفت» تحدّ مبيعات البنزين بـ30 ليتراً للزبون في المدن و50 على الطرق السريعة في عدة مناطق روسية بعد ضربات أوكرانية على المصافي، بحسب «كوميرسانت» و«التلفزيون الحالي».",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-imposes-gasoline-sales-restrictions-amid-ukrainian-oil-refinery-attacks-russian-media-report/"
-   }
-  },
-  {
-   "id": "20261109-1115-yashar-haredim-replace-ohana",
-   "time": "2026-11-09T11:15:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Eisenkot's Yashar party invites Shas and United Torah Judaism to back replacing Knesset Speaker Amir Ohana with an incoming Yashar MK.",
-   "ar": "حزب «ياشار» بزعامة آيزنكوت يدعو حزبي «شاس» و«يهدوت هتوراه» إلى دعم استبدال رئيس الكنيست أمير أوحانا بنائب جديد من «ياشار».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-invites-haredi-factions-to-back-knesset-speaker-replacement/"
    }
   }
  ]
