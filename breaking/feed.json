@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T19:08:53Z",
+ "updated": "2026-11-12T20:08:51Z",
  "items": [
+  {
+   "id": "20261112-1913-baghaei-warns-backing-us",
+   "time": "2026-11-12T19:13:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's foreign ministry spokesman Esmaeil Baghaei warns that any country sending naval forces, equipment or personnel to support US attacks on Iran will be treated as a participant in the aggression.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يحذّر من أن أي دولة ترسل قوات بحرية أو معدات أو أفراداً لدعم الهجمات الأميركية على إيران ستُعامَل كشريكة في العدوان.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-warns-countries-against-backing-us-war-iran"
+   }
+  },
   {
    "id": "20261112-1732-houthis-claim-east-west-pipeline",
    "time": "2026-11-12T17:32:00Z",
@@ -47,6 +59,18 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/saudi-arabia-puts-pressure-eu-160428879.html"
+   }
+  },
+  {
+   "id": "20261112-1555-ushakov-apec-nato",
+   "time": "2026-11-12T15:55:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "After the Kremlin talks, Putin aide Yury Ushakov says Putin will continue Ukraine discussions with Trump at the APEC summit in China this month and told US envoys NATO cannot expand further.",
+   "ar": "بعد محادثات الكرملين، مستشار بوتين يوري أوشاكوف يقول إن بوتين سيواصل البحث في ملف أوكرانيا مع ترامب خلال قمة «آبيك» في الصين هذا الشهر، وإنه أبلغ المبعوثَين الأميركيَّين أن الناتو لا يمكنه التوسّع أكثر.",
+   "source": {
+    "name": "The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236"
    }
   },
   {
@@ -1588,17 +1612,6 @@
    "ar": "شبكة «سي إن إن» تتوقع فوز الديمقراطية إيلين لوباخر، الأميرال المتقاعدة، على النائبة الجمهورية لورين بوبرت في الدائرة الرابعة في كولورادو.",
    "source": {
     "name": "CNN"
-   }
-  },
-  {
-   "id": "20261109-1921-massie-files-hegseth-impeachment",
-   "time": "2026-11-09T19:21:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Republican Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth, accusing him of illegally launching the Iran war and forcing a House vote as soon as this week.",
-   "ar": "النائب الجمهوري توماس ماسي يقدّم مواد لعزل وزير الدفاع بيت هيغسيث، متّهماً إياه بشنّ حرب إيران بشكل غير قانوني، ما يفرض تصويتاً في مجلس النواب ربما هذا الأسبوع.",
-   "source": {
-    "name": "AP"
    }
   }
  ]
