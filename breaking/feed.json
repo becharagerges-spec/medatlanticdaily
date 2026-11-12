@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T16:09:24Z",
+ "updated": "2026-11-12T17:09:14Z",
  "items": [
+  {
+   "id": "20261112-1650-iran-army-two-tankers-mines",
+   "time": "2026-11-12T16:50:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army says 2 more tankers hit mines and caught fire in the eastern Strait of Hormuz on Thursday afternoon after ignoring warnings and disabling radar; Reuters could not verify.",
+   "ar": "الجيش الإيراني يقول إن ناقلتين إضافيتين اصطدمتا بألغام واشتعلت فيهما النيران في شرق مضيق هرمز بعد ظهر الخميس بعد تجاهل التحذيرات وتعطيل الرادار، ورويترز لم تتمكّن من التحقق.",
+   "source": {
+    "name": "Reuters via GV Wire",
+    "url": "https://gvwire.com/2026/11/12/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says/"
+   }
+  },
   {
    "id": "20261112-1438-nvidia-13pct-nasdaq-falls",
    "time": "2026-11-12T14:38:00Z",
@@ -14,15 +26,27 @@
    }
   },
   {
+   "id": "20261112-1436-witkoff-new-round-talks",
+   "time": "2026-11-12T14:36:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "After about 2 hours of talks with Putin at the Kremlin, US envoy Witkoff says a new round of trilateral talks is agreed and Europeans will join, per RIA Novosti.",
+   "ar": "بعد نحو ساعتين من المحادثات مع بوتين في الكرملين، المبعوث الأميركي ويتكوف يقول إنه تم الاتفاق على جولة جديدة من المحادثات الثلاثية وإن الأوروبيين سينضمّون إليها، بحسب «ريا نوفوستي».",
+   "source": {
+    "name": "The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/12/us-envoy-says-new-round-of-talks-agreed-after-kremlin-meeting-a94236"
+   }
+  },
+  {
    "id": "20261112-1406-dc-logan-circle-shooting",
    "time": "2026-11-12T14:06:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "Five people are shot in Washington's Logan Circle neighbourhood, about a mile north of the White House, and the shooter has not been caught, police say, AP reports.",
-   "ar": "إصابة خمسة أشخاص بإطلاق نار في حي لوغان سيركل في واشنطن، على بُعد نحو ميل شمال البيت الأبيض، والشرطة تقول إن مطلق النار لم يُعتقل بعد، بحسب «أسوشيتد برس».",
+   "en": "A shooting at a gym in Washington's Logan Circle neighbourhood, about a mile north of the White House, kills 1 person and wounds 4, police say; the suspect is dead.",
+   "ar": "إطلاق نار في نادٍ رياضي في حي لوغان سيركل في واشنطن، على بُعد نحو ميل شمال البيت الأبيض، يقتل شخصاً ويصيب 4 بحسب الشرطة، ومطلق النار لقي حتفه.",
    "source": {
-    "name": "AP via OPB",
-    "url": "https://www.opb.org/article/2026/11/12/washington-dc-5-people-are-shot-trendy-logan-circle-neighborhood/"
+    "name": "Axios",
+    "url": "https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade"
    }
   },
   {
@@ -47,6 +71,18 @@
    "source": {
     "name": "Nvidia",
     "url": "https://www.globenewswire.com/news-release/2026/11/12/3401635/0/en/nvidia-announces-ceo-transition.html"
+   }
+  },
+  {
+   "id": "20261112-1301-trump-mexico-tariffs-double",
+   "time": "2026-11-12T13:01:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump threatens to immediately double tariffs on Mexico unless it stops a caravan of about 1,500 migrants heading north from Tapachula toward the US border.",
+   "ar": "ترامب يهدّد بمضاعفة الرسوم الجمركية على المكسيك فوراً ما لم توقف قافلة من نحو 1500 مهاجر تتّجه شمالاً من تاباتشولا نحو الحدود الأميركية.",
+   "source": {
+    "name": "Reuters via BNN Bloomberg",
+    "url": "https://www.bnnbloomberg.ca/business/international/2026/11/12/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants/"
    }
   },
   {
@@ -1551,18 +1587,6 @@
    "source": {
     "name": "AFP via Gulf News",
     "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-says-east-west-pipeline-targeted-operations-unaffected-1.500741614"
-   }
-  },
-  {
-   "id": "20261109-1643-france-blames-iran-fridge-hacks",
-   "time": "2026-11-09T16:43:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "France's Barrot blames an IRGC-linked group for cyberattacks on fridges at 700 food sites and summons Iran's envoy; Iranian Foreign Minister Araghchi mocks France as 'unable to manage fridges'.",
-   "ar": "وزير الخارجية الفرنسي بارو يحمّل مجموعة مرتبطة بالحرس الثوري مسؤولية هجمات سيبرانية على برادات 700 موقع غذائي ويستدعي السفير الإيراني، ووزير الخارجية الإيراني عراقجي يسخر من فرنسا «العاجزة عن إدارة البرادات».",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack"
    }
   }
  ]
