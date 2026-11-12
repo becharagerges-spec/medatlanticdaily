@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T08:09:56Z",
+ "updated": "2026-11-12T09:08:20Z",
  "items": [
+  {
+   "id": "20261112-0834-estonia-costa-kallas-talks",
+   "time": "2026-11-12T08:34:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Estonian Prime Minister Kristen Michal wants EU Council President António Costa and foreign policy chief Kaja Kallas to speak for Europe in Ukraine peace talks, per Politico.",
+   "ar": "رئيس الوزراء الإستوني كريستن ميخال يريد أن يتحدّث رئيس المجلس الأوروبي أنطونيو كوستا ومسؤولة السياسة الخارجية كايا كالاس باسم أوروبا في محادثات السلام بشأن أوكرانيا، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe"
+   }
+  },
   {
    "id": "20261112-0751-china-nvidia-spy-blockade",
    "time": "2026-11-12T07:51:00Z",
@@ -1657,78 +1668,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
-   }
-  },
-  {
-   "id": "20261109-0904-baghaei-two-day-plan",
-   "time": "2026-11-09T09:04:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian foreign ministry spokesman Esmaeil Baghaei says Tehran's two-day proposal, restoring Hormuz security within 48 hours if the US lifts its blockade and ends hostilities, remains on the table.",
-   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن مقترح طهران لمدة يومين، الذي يعيد أمن هرمز خلال 48 ساعة إذا رفعت واشنطن الحصار وأوقفت الأعمال العدائية، لا يزال مطروحاً.",
-   "source": {
-    "name": "ANI",
-    "url": "https://aninews.in/news/world/middle-east/iran-says-two-day-plan-remains-on-table-links-hormuz-security-to-us-meeting-its-demands20261109143416/"
-   }
-  },
-  {
-   "id": "20261109-0855-crete-migrants-20-dead",
-   "time": "2026-11-09T08:55:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Greek authorities say 20 migrants died on 2 boats trying to reach Crete, with 8 bodies found on one and 12 on the other; about 40 people were rescued.",
-   "ar": "السلطات اليونانية تعلن وفاة 20 مهاجراً على متن قاربين كانا يحاولان بلوغ جزيرة كريت، إذ عُثر على 8 جثث في أحدهما و12 في الآخر، وأُنقذ نحو 40 شخصاً.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/20-migrants-die-trying-to-reach-greeces-crete-authorities-say/"
-   }
-  },
-  {
-   "id": "20261109-0841-iran-iaea-bushehr-visit",
-   "time": "2026-11-09T08:41:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's foreign ministry spokesman Esmaeil Baghaei says IAEA inspectors visited the Bushehr nuclear plant a few days ago, but says normal cooperation cannot resume after US and Israeli attacks.",
-   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن مفتشي الوكالة الدولية للطاقة الذرية زاروا محطة بوشهر النووية قبل أيام، لكن التعاون الطبيعي لا يمكن أن يُستأنف بعد الهجمات الأميركية والإسرائيلية.",
-   "source": {
-    "name": "Trend",
-    "url": "https://www.trend.az/iran/4244654.html"
-   }
-  },
-  {
-   "id": "20261109-0838-israel-hayom-8bn-hormuz-deal",
-   "time": "2026-11-09T08:38:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Israel Hayom, citing diplomatic sources, reports a Qatari-brokered proposal: Iran reopens Hormuz and halts tanker attacks, the US lifts its blockade and $8 billion in Iranian funds in Qatar is unfrozen.",
-   "ar": "«يسرائيل هيوم» تنقل عن مصادر دبلوماسية مقترحاً بوساطة قطرية: إيران تعيد فتح هرمز وتوقف الهجمات على الناقلات، وواشنطن ترفع الحصار، ويُفرج عن 8 مليارات دولار إيرانية مجمّدة في قطر.",
-   "source": {
-    "name": "Israel Hayom",
-    "url": "https://www.israelhayom.com/2026/11/09/8-billion-lifeline-iranian-deal-set-to-land-on-trumps-desk/"
-   }
-  },
-  {
-   "id": "20261109-0837-lebanese-army-baalbek-raid",
-   "time": "2026-11-09T08:37:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "The Lebanese army says it detained 6 wanted suspects, 4 Lebanese and 2 Syrians, and seized a large quantity of weapons including RPGs in raids near Baalbek.",
-   "ar": "الجيش اللبناني يعلن توقيف 6 مطلوبين، 4 لبنانيين وسوريَّين، وضبط كمية كبيرة من الأسلحة بينها قاذفات «آر بي جي» خلال مداهمات قرب بعلبك.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-army-says-6-suspects-detained-many-weapons-seized-during-raid-in-countrys-east/"
-   }
-  },
-  {
-   "id": "20261109-0835-china-denies-nvidia-spy",
-   "time": "2026-11-09T08:35:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's foreign ministry calls claims it spied on Nvidia CEO Jensen Huang 'baseless', as Nvidia shares fall in early European trading after the board opened a probe.",
-   "ar": "الخارجية الصينية تصف الاتهامات بالتجسس على الرئيس التنفيذي لـ«إنفيديا» جنسن هوانغ بأنها «لا أساس لها»، فيما تتراجع أسهم الشركة في التداولات الأوروبية المبكرة بعد فتح مجلس إدارتها تحقيقاً.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/china-rejects-baseless-claims-it-spied-on-nvidia-boss/"
    }
   }
  ]
