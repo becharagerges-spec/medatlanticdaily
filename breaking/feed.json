@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T18:08:26Z",
+ "updated": "2026-11-12T19:08:53Z",
  "items": [
+  {
+   "id": "20261112-1732-houthis-claim-east-west-pipeline",
+   "time": "2026-11-12T17:32:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's Houthis say they attacked a pumping station on Saudi Arabia's East-West oil pipeline and an oil facility in Yanbu; Saudi Arabia did not immediately confirm the claim.",
+   "ar": "الحوثيون في اليمن يقولون إنهم استهدفوا محطة ضخ على خط أنابيب النفط السعودي شرق–غرب ومنشأة نفطية في ينبع، فيما لم تؤكّد السعودية الادعاء فوراً.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west"
+   }
+  },
   {
    "id": "20261112-1650-iran-army-two-tankers-mines",
    "time": "2026-11-12T16:50:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "Reuters via GV Wire",
     "url": "https://gvwire.com/2026/11/12/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says/"
+   }
+  },
+  {
+   "id": "20261112-1637-katz-eye-to-eye-iran",
+   "time": "2026-11-12T16:37:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Defence Minister Israel Katz says he, caretaker PM Netanyahu and army chief Eyal Zamir 'see eye to eye on the Iranian issue in all its aspects' after a security assessment.",
+   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إنه ورئيس حكومة تصريف الأعمال نتنياهو ورئيس الأركان إيال زامير «متفقون تماماً على الملف الإيراني بكل جوانبه» بعد تقييم أمني.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/katz-netanyahu-zamir-and-i-all-see-eye-to-eye-on-the-iranian-issue/"
+   }
+  },
+  {
+   "id": "20261112-1604-saudi-eu-houthi-terror-listing",
+   "time": "2026-11-12T16:04:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia is pressing the EU to list Yemen's Houthis as a terrorist organisation, but six European officials say only a few of the 27 member states back it.",
+   "ar": "السعودية تضغط على الاتحاد الأوروبي لإدراج الحوثيين في اليمن على لائحة الإرهاب، لكن ستة مسؤولين أوروبيين يقولون إن قلّة فقط من الدول الأعضاء الـ27 تؤيّد ذلك.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/saudi-arabia-puts-pressure-eu-160428879.html"
    }
   },
   {
