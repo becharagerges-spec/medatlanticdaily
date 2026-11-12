@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:08:06Z",
+ "updated": "2026-11-12T05:08:43Z",
  "items": [
   {
    "id": "20261112-0027-mecca-missile-debris",
@@ -95,6 +95,18 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/iraq-to-send-delegation-to-lebanon-over-ex-mp-killing-3011295"
+   }
+  },
+  {
+   "id": "20261111-1926-houthis-claim-riyadh-yanbu",
+   "time": "2026-11-11T19:26:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi spokesman Yahya Saree claims 3 cruise missiles hit Riyadh's King Khalid airport and a drone struck Yanbu's Pumping Station No. 11, and calls Saudi claims of a drone over Mecca 'lies'.",
+   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم أن 3 صواريخ مجنّحة أصابت مطار الملك خالد في الرياض وأن مسيّرة ضربت محطة الضخ رقم 11 في ينبع، ويصف الرواية السعودية عن مسيّرة فوق مكة بـ«الأكاذيب».",
+   "source": {
+    "name": "This is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/houthis-claim-attacks-on-riyadh-airport-and-a-yanbu-pumping-station"
    }
   },
   {
@@ -1705,42 +1717,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-lifts-danger-warning-in-riyadh-3010670"
-   }
-  },
-  {
-   "id": "20261109-0436-china-extends-tariff-pause",
-   "time": "2026-11-09T04:36:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China extends its suspension of an extra 24% tariff on US goods and of special port fees on US ships until 10 January, keeping a 10% tariff, ahead of the Trump-Xi APEC meeting.",
-   "ar": "الصين تمدّد تعليق الرسوم الإضافية البالغة 24% على السلع الأميركية والرسوم الخاصة على السفن الأميركية حتى 10 كانون الثاني، مع إبقاء رسم 10%، قبيل لقاء ترامب وشي في قمة آبيك.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate"
-   }
-  },
-  {
-   "id": "20261109-0434-hormuz-nav-aids-no-transit",
-   "time": "2026-11-09T04:34:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "An Iranian Revolutionary Guards Navy official tells state media no unauthorised vessels crossed the Strait of Hormuz overnight after navigation aids in its southern part were destroyed, Reuters reports.",
-   "ar": "مسؤول في بحرية الحرس الثوري الإيراني يقول للإعلام الرسمي إن أي سفينة غير مرخّص لها لم تعبر مضيق هرمز ليلاً بعد تدمير أنظمة المساعدة الملاحية في جزئه الجنوبي، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-says-no-unauthorized-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroyed-3010655"
-   }
-  },
-  {
-   "id": "20261109-0414-nikkei-rebound-34pct",
-   "time": "2026-11-09T04:14:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Tokyo's Nikkei 225 rises 3.4% to 59,411 and Seoul's Kospi 1.5% in Monday trade as AI stocks recover; Brent crude slips 0.2% to $98.10 a barrel.",
-   "ar": "مؤشر نيكي 225 في طوكيو يرتفع 3.4% إلى 59,411 نقطة وكوسبي في سيول 1.5% في تداولات الاثنين مع تعافي أسهم الذكاء الاصطناعي؛ وخام برنت يتراجع 0.2% إلى 98.10 دولاراً للبرميل.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.wsls.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
    }
   }
  ]
