@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-12T13:10:44Z",
+ "updated": "2026-11-12T14:09:27Z",
  "items": [
+  {
+   "id": "20261112-1400-trump-no-iran-deal",
+   "time": "2026-11-12T14:00:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says on Truth Social 'We don't need a deal with Iran' and tells Vice President JD Vance to focus on domestic anti-fraud efforts instead of talks with Tehran.",
+   "ar": "ترامب يكتب على «تروث سوشال»: «لسنا بحاجة إلى اتفاق مع إيران»، ويطلب من نائبه جي دي فانس التركيز على مكافحة الفساد داخلياً بدلاً من المحادثات مع طهران.",
+   "source": {
+    "name": "Reuters via TimesLIVE",
+    "url": "https://www.timeslive.co.za/news/business/2026-11-12-trump-urges-vance-to-shift-attention-from-iran-to-tackling-alleged-democratic-corruption/"
+   }
+  },
+  {
+   "id": "20261112-1348-nvidia-huang-resigns",
+   "time": "2026-11-12T13:48:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia says CEO Jensen Huang has resigned effective immediately, naming CFO Colette Kress interim CEO; its shares plunge 10% in premarket trading, AP reports.",
+   "ar": "«إنفيديا» تعلن استقالة رئيسها التنفيذي جنسن هوانغ بمفعول فوري وتعيين المديرة المالية كوليت كريس رئيسة تنفيذية بالوكالة، وأسهمها تهوي 10% في تداولات ما قبل الافتتاح، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "Nvidia",
+    "url": "https://www.globenewswire.com/news-release/2026/11/12/3401635/0/en/nvidia-announces-ceo-transition.html"
+   }
+  },
   {
    "id": "20261112-1252-putin-envoys-foreign-troops",
    "time": "2026-11-12T12:52:00Z",
@@ -125,8 +149,8 @@
    "time": "2026-11-12T05:29:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "An Israeli strike on Nasser Hospital in Khan Younis kills at least 6 people, including a surgeon, and wounds about 20, Gaza's civil defence says; Israel's army says it targeted a senior Hamas commander.",
-   "ar": "غارة إسرائيلية على مستشفى ناصر في خان يونس تقتل 6 أشخاص على الأقل بينهم جرّاح وتصيب نحو 20، بحسب الدفاع المدني في غزة، والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في «حماس».",
+   "en": "An Israeli strike on Nasser Hospital in Khan Younis kills at least 6 people, including a surgeon, and wounds about 20; Israel's army and Shin Bet say the target was Hamas's Khan Younis Brigade commander.",
+   "ar": "غارة إسرائيلية على مستشفى ناصر في خان يونس تقتل 6 أشخاص على الأقل بينهم جرّاح وتصيب نحو 20، والجيش الإسرائيلي و«الشاباك» يقولان إن الهدف كان قائد لواء خان يونس في «حماس».",
    "source": {
     "name": "Reuters via The National",
     "url": "https://www.thenationalnews.com/news/mena/2026/11/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-at-least-five-others/"
@@ -1575,18 +1599,6 @@
    "source": {
     "name": "CP24",
     "url": "https://www.cp24.com/news/world/2026/11/09/police-detain-former-hungarian-pm-orbans-brother-report/"
-   }
-  },
-  {
-   "id": "20261109-1326-brent-falls-36pct-hormuz",
-   "time": "2026-11-09T13:26:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude settles down $5.75 at $92.57 a barrel, a 10-week low, and US crude falls $3.98 to $86.85, as Iran reviews Qatari proposals and Trump meets Qatar's prime minister.",
-   "ar": "خام برنت يُقفل منخفضاً 5.75 دولارات عند 92.57 دولاراً للبرميل، أدنى مستوى في 10 أسابيع، والخام الأميركي يتراجع 3.98 دولارات إلى 86.85، فيما تدرس إيران مقترحات قطرية ويلتقي ترامب رئيس الوزراء القطري.",
-   "source": {
-    "name": "Reuters via Yahoo Finance",
-    "url": "https://ca.finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
    }
   }
  ]
