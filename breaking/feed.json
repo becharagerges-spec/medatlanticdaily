@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-11T20:08:05Z",
+ "updated": "2026-11-12T03:08:24Z",
  "items": [
+  {
+   "id": "20261112-0027-mecca-missile-debris",
+   "time": "2026-11-12T00:27:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi civil defence says air defences intercepted 2 ballistic missiles fired by the Houthis toward the Mecca region, with debris falling at Sabuhah, about 35 km from the Grand Mosque.",
+   "ar": "الدفاع المدني السعودي يعلن أن الدفاعات الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون باتجاه منطقة مكة، وسقط حطامهما في قرية الصبوحة على بُعد نحو 35 كلم من المسجد الحرام.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/saudi-arabia-says-debris-intercepted-002740905.html"
+   }
+  },
+  {
+   "id": "20261111-2300-kyiv-ballistic-attack",
+   "time": "2026-11-11T23:00:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Explosions hit Kyiv around 01:00 local time as Russia fires ballistic missiles at the capital, hours after the Abu Dhabi talks ended without a breakthrough, per the Kyiv Independent.",
+   "ar": "انفجارات تهزّ كييف قرابة الساعة الواحدة فجراً بالتوقيت المحلي إثر إطلاق روسيا صواريخ باليستية على العاصمة، بعد ساعات من انتهاء محادثات أبوظبي من دون اختراق، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
+   }
+  },
+  {
+   "id": "20261111-2256-nvidia-huang-ouster-report",
+   "time": "2026-11-11T22:56:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia shares fall more than 8% after hours to $159.51 after The Wall Street Journal reports the board is preparing to oust CEO Jensen Huang over extramarital affairs.",
+   "ar": "أسهم «إنفيديا» تتراجع أكثر من 8% في التداولات اللاحقة إلى 159.51 دولاراً، بعدما أفادت «وول ستريت جورنال» بأن مجلس الإدارة يستعد لإقالة الرئيس التنفيذي جنسن هوانغ على خلفية علاقات خارج الزواج.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says"
+   }
+  },
+  {
+   "id": "20261111-2216-colom-wins-mississippi",
+   "time": "2026-11-11T22:16:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Scott Colom defeats Republican Senator Cindy Hyde-Smith in Mississippi, becoming the state's first Black senator since Reconstruction and widening the incoming Democratic Senate majority, per AP.",
+   "ar": "الديمقراطي سكوت كولوم يهزم السيناتورة الجمهورية سيندي هايد-سميث في ميسيسيبي، ليصبح أول سيناتور أسود عن الولاية منذ حقبة إعادة الإعمار، موسّعاً الأغلبية الديمقراطية المقبلة في مجلس الشيوخ، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "Mississippi Today",
+    "url": "https://mississippitoday.org/2026/11/11/scott-colom-wins-senate-mississippi-hyde-smith/"
+   }
+  },
+  {
+   "id": "20261111-2110-vance-weighs-rezaei-talks",
+   "time": "2026-11-11T21:10:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Vice President JD Vance is weighing direct talks with Iran's security chief Mohsen Rezaei, and Trump privately calls the June memorandum with Iran a mistake, The Wall Street Journal reports; Rezaei says no meeting is planned.",
+   "ar": "نائب الرئيس الأميركي جي دي فانس يدرس محادثات مباشرة مع أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي، وترامب يصف سرّاً مذكرة حزيران مع إيران بالخطأ، بحسب «وول ستريت جورنال»؛ ورضائي ينفي التخطيط لأي لقاء.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-vance-weighing-direct-talks-with-iran-trump-sees-june-mou-as-blunder/"
+   }
+  },
+  {
+   "id": "20261111-2025-europe-unsc-e1",
+   "time": "2026-11-11T20:25:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Denmark and other European countries seek an emergency UN Security Council meeting next week on Israel's E1 settlement plan, ahead of a 19 November tender for 1,234 homes; Israel's Danon calls it 'a moral disgrace'.",
+   "ar": "الدنمارك ودول أوروبية أخرى تسعى إلى جلسة طارئة لمجلس الأمن الأسبوع المقبل بشأن مخطط E1 الاستيطاني الإسرائيلي، قبل مناقصة 1,234 وحدة سكنية في 19 تشرين الثاني؛ والسفير الإسرائيلي داني دانون يصفها بـ«العار الأخلاقي».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
+   }
+  },
   {
    "id": "20261111-1933-iraq-delegation-alwani-killing",
    "time": "2026-11-11T19:33:00Z",
@@ -1669,126 +1741,6 @@
    "source": {
     "name": "The Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
-   }
-  },
-  {
-   "id": "20261109-0256-trump-ukraine-different-shape",
-   "time": "2026-11-09T02:56:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Trump tells CBS's 60 Minutes that Ukraine will likely 'end up with a little bit different shape' after the war and says he expects the war to end soon.",
-   "ar": "ترامب يقول لبرنامج «60 دقيقة» على «سي بي إس» إن أوكرانيا ستنتهي على الأرجح «بشكل مختلف قليلاً» بعد الحرب، ويتوقع أن تنتهي الحرب قريباً.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
-   }
-  },
-  {
-   "id": "20261109-0145-china-ppi-57pct",
-   "time": "2026-11-09T01:45:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's producer prices rise 5.7% year on year in October, the fastest in over 4 years and above the 5.3% forecast, while consumer inflation slows to 0.7%.",
-   "ar": "أسعار المنتجين في الصين ترتفع 5.7% على أساس سنوي في تشرين الأول، الأسرع منذ أكثر من 4 سنوات وفوق توقعات 5.3%، فيما يتباطأ تضخم المستهلكين إلى 0.7%.",
-   "source": {
-    "name": "Investing.com",
-    "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405"
-   }
-  },
-  {
-   "id": "20261109-0135-taiex-rebound-rescue",
-   "time": "2026-11-09T01:35:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Taiwan's Taiex jumps more than 4% in early Monday trade after the National Stabilization Fund approves its tenth market-rescue operation following Friday's 1,873-point fall.",
-   "ar": "مؤشر «تايكس» التايواني يقفز أكثر من 4% في مستهل تداولات الاثنين بعدما أقرّ صندوق الاستقرار الوطني عملية الإنقاذ العاشرة للسوق إثر تراجع الجمعة بـ1,873 نقطة.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout"
-   }
-  },
-  {
-   "id": "20261109-0109-trump-qatar-pm-white-house",
-   "time": "2026-11-09T01:09:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The White House says Trump will meet Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani, a key mediator in US-Iran talks, in the Oval Office on Monday.",
-   "ar": "البيت الأبيض يعلن أن ترامب سيستقبل رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني، الوسيط الأساسي في المحادثات الأميركية الإيرانية، في المكتب البيضاوي الاثنين.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-to-meet-tomorrow-at-white-house-with-qatari-leader/"
-   }
-  },
-  {
-   "id": "20261109-0109-znpp-power-cut-restored",
-   "time": "2026-11-09T01:09:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The IAEA says the Zaporizhzhia nuclear plant lost its only 330-kV external power line and ran on emergency diesel generators for about 10 hours before power was restored.",
-   "ar": "الوكالة الدولية للطاقة الذرية تقول إن محطة زابوريجيا النووية فقدت خط الإمداد الخارجي الوحيد بقدرة 330 كيلوفولت وعملت على مولدات الديزل الطارئة نحو 10 ساعات قبل إعادة التيار.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/"
-   }
-  },
-  {
-   "id": "20261109-0051-trump-midterms-dislike-israel",
-   "time": "2026-11-09T00:51:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells CBS's 60 Minutes Republicans fared poorly in the midterms partly because of 'a great dislike' for Israel, alongside the Iran war and higher gasoline prices.",
-   "ar": "ترامب يقول لبرنامج «60 دقيقة» على «سي بي إس» إن أداء الجمهوريين الضعيف في الانتخابات النصفية يعود جزئياً إلى «نفور كبير» من إسرائيل، إلى جانب الحرب على إيران وارتفاع أسعار البنزين.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-republicans-did-poorly-in-midterms-because-of-a-great-dislike-for-israel/"
-   }
-  },
-  {
-   "id": "20261109-0049-trump-xi-putin-apec",
-   "time": "2026-11-09T00:49:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says he expects to meet Xi Jinping and Vladimir Putin at the 18–19 November APEC summit in Shenzhen, with ending the Iran war and denuclearisation on the agenda.",
-   "ar": "ترامب يقول إنه يتوقّع لقاء شي جين بينغ وفلاديمير بوتين في قمة «أبيك» في شنتشن يومَي 18 و19 تشرين الثاني، على أن يشمل البحث إنهاء الحرب على إيران ونزع السلاح النووي.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/trump-thinks-meet-xi-putin-004942420.html"
-   }
-  },
-  {
-   "id": "20261109-0022-trump-eisenkot-netanyahu-similar",
-   "time": "2026-11-09T00:22:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Trump says Gadi Eisenkot and Benjamin Netanyahu are 'very similar in terms of their policy' and calls the government-formation race 'a contest between him and Bibi Netanyahu'.",
-   "ar": "ترامب يقول إن غادي آيزنكوت وبنيامين نتنياهو «متشابهان جداً في سياستهما»، ويصف سباق تشكيل الحكومة بأنه «منافسة بينه وبين بيبي نتنياهو».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-eisenkot-and-netanyahu-are-very-similar-in-terms-of-their-policy/"
-   }
-  },
-  {
-   "id": "20261108-2314-rubio-iran-no-breakthrough",
-   "time": "2026-11-08T23:14:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio says the US and Iran are not 'on the verge of a breakthrough', calling some of Tehran's demands unrealistic, before leaving for G7 talks in France.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن واشنطن وطهران ليستا «على وشك تحقيق اختراق»، ويصف بعض مطالب إيران بغير الواقعية، قبيل توجّهه إلى اجتماعات مجموعة السبع في فرنسا.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
-   }
-  },
-  {
-   "id": "20261108-2159-trump-iron-gate-full-force",
-   "time": "2026-11-08T21:59:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says the new Task Force Iron Gate to disrupt land routes into Iran is 'in full force and effect', extending the US naval blockade to Iran's land borders.",
-   "ar": "ترامب يعلن أن «قوة المهام البوابة الحديدية» الجديدة لتعطيل الطرق البرية إلى إيران باتت «سارية بكامل قوتها»، بما يمدّ الحصار البحري الأميركي إلى حدود إيران البرية.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
    }
   }
  ]
