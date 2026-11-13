@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T03:09:20Z",
+ "updated": "2026-11-13T04:08:50Z",
  "items": [
+  {
+   "id": "20261113-0313-irgc-claims-bahrain-radar",
+   "time": "2026-11-13T03:13:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say they struck a US early-warning radar in Bahrain in retaliation for an air attack on a telecom tower in Sirik; Washington and Manama did not immediately comment.",
+   "ar": "الحرس الثوري الإيراني يقول إنه استهدف راداراً أميركياً للإنذار المبكر في البحرين ردّاً على هجوم جوي على برج اتصالات في سيريك، ولا تعليق فورياً من واشنطن والمنامة.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-914794"
+   }
+  },
   {
    "id": "20261113-0211-trump-urged-huang-fight",
    "time": "2026-11-13T02:11:00Z",
@@ -22,6 +34,30 @@
    "source": {
     "name": "Senator Chris Van Hollen on X",
     "url": "https://x.com/ChrisVanHollen/status/2121061505160642660"
+   }
+  },
+  {
+   "id": "20261113-0158-asia-stocks-rebound-kospi",
+   "time": "2026-11-13T01:58:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian stocks recover from the Nvidia sell-off as South Korea's Kospi rises 2.35% and Japan's Nikkei 1.4%, while Brent crude slips 0.3% to $95.45 a barrel, Reuters reports.",
+   "ar": "الأسهم الآسيوية تتعافى من موجة بيع إنفيديا، إذ يرتفع مؤشر كوسبي الكوري 2.35% ونيكاي الياباني 1.4%، فيما يتراجع خام برنت 0.3% إلى 95.45 دولاراً للبرميل، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-recover-nvidia-whiplash-dollar-015858641.html"
+   }
+  },
+  {
+   "id": "20261113-0031-trump-gulf-asked-restraint",
+   "time": "2026-11-13T00:31:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells Stephen A. Smith that Saudi Arabia, Qatar, Kuwait, the UAE and Bahrain asked him to hold off on tougher strikes on Iran, and says he is complying.",
+   "ar": "ترامب يقول لستيفن إيه سميث إن السعودية وقطر والكويت والإمارات والبحرين طلبت منه التريّث في توجيه ضربات أشدّ إلى إيران، ويؤكد أنه يستجيب لطلبها.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/international/article-914787"
    }
   },
   {
