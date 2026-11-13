@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:08:35Z",
+ "updated": "2026-11-13T09:08:57Z",
  "items": [
   {
    "id": "20261113-0717-irgc-lng-tanker-mine-hormuz",
@@ -244,12 +244,12 @@
    "id": "20261112-1436-witkoff-new-round-talks",
    "time": "2026-11-12T14:36:00Z",
    "theater": "russia",
-   "status": "reported",
-   "en": "After about 2 hours of talks with Putin at the Kremlin, US envoy Witkoff says a new round of trilateral talks is agreed and Europeans will join, per RIA Novosti.",
-   "ar": "بعد نحو ساعتين من المحادثات مع بوتين في الكرملين، المبعوث الأميركي ويتكوف يقول إنه تم الاتفاق على جولة جديدة من المحادثات الثلاثية وإن الأوروبيين سينضمّون إليها، بحسب «ريا نوفوستي».",
+   "status": "confirmed",
+   "en": "After talks with Putin, US envoy Witkoff says Europeans will join the next round of Ukraine peace talks; Kushner says both sides agreed, but Kremlin aide Ushakov has not confirmed it.",
+   "ar": "بعد محادثاته مع بوتين، المبعوث الأميركي ويتكوف يقول إن الأوروبيين سينضمون إلى الجولة المقبلة من محادثات السلام بشأن أوكرانيا، وكوشنر يؤكد موافقة الطرفين، فيما لم يؤكد مساعد الكرملين أوشاكوف ذلك.",
    "source": {
-    "name": "The Moscow Times",
-    "url": "https://www.themoscowtimes.com/2026/11/12/us-envoy-says-new-round-of-talks-agreed-after-kremlin-meeting-a94236"
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"
    }
   },
   {
@@ -1495,66 +1495,6 @@
    "source": {
     "name": "Reuters via Devdiscourse",
     "url": "https://www.devdiscourse.com/article/international/4004431-gulf-arab-states-approve-military-command-headquarters-in-kuwait-gcc-chief-says"
-   }
-  },
-  {
-   "id": "20261110-0903-brent-below-90",
-   "time": "2026-11-10T09:03:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude falls below $90 a barrel for the first time since August after Trump signals further strikes on Iran are unnecessary, Bloomberg reports.",
-   "ar": "خام برنت يهبط دون 90 دولاراً للبرميل للمرة الأولى منذ آب بعدما ألمح ترامب إلى أن ضربات إضافية على إيران غير ضرورية، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/brent-crude-falls-below-90-a-barrel-for-first-time-since-august"
-   }
-  },
-  {
-   "id": "20261110-0851-burka-teen-killed",
-   "time": "2026-11-10T08:51:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "A 14-year-old Palestinian is killed and 2 teenagers wounded by Israeli fire in Burka near Nablus, Palestinian sources say; the army says troops fired at suspected stone-throwers.",
-   "ar": "مقتل فتى فلسطيني في الرابعة عشرة وإصابة مراهقَين اثنين بنيران إسرائيلية في برقة قرب نابلس بحسب مصادر فلسطينية، والجيش الإسرائيلي يقول إن جنوده أطلقوا النار على مشتبه برشق الحجارة.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-914432"
-   }
-  },
-  {
-   "id": "20261110-0845-iraq-reopens-sheeb-crossing",
-   "time": "2026-11-10T08:45:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraq reopens the Sheeb border crossing with Iran in Missan province and will shut the Mandali crossing from Friday, as Washington presses Baghdad to close most crossings with Iran.",
-   "ar": "العراق يعيد فتح معبر الشيب الحدودي مع إيران في محافظة ميسان ويغلق معبر مندلي اعتباراً من الجمعة، فيما تضغط واشنطن على بغداد لإغلاق معظم المعابر مع إيران.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iraq-reopens-sheeb-border-crossing-with-iran-amid-us-pressure-3010863"
-   }
-  },
-  {
-   "id": "20261110-0830-qatar-pm-g7-briefing",
-   "time": "2026-11-10T08:30:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani makes an unscheduled stop at the G7 meeting in Paris to brief British, French, German, Italian and Saudi ministers after his Iran talks with Trump.",
-   "ar": "رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني يتوقف بشكل غير مقرر في اجتماع مجموعة السبع في باريس لإطلاع وزراء بريطانيا وفرنسا وألمانيا وإيطاليا والسعودية على محادثاته مع ترامب بشأن إيران.",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/qatari-pm-makes-unscheduled-stop-at-g7-to-brief-europeans-post-trump-talks/3094956/"
-   }
-  },
-  {
-   "id": "20261110-0826-kahana-speaker-liberman-fadc",
-   "time": "2026-11-10T08:26:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Eisenkot, Bennett, Golan, Liberman and Lapid agree to nominate Yashar's Matan Kahana as Knesset speaker, with Liberman to chair the Foreign Affairs and Defense Committee.",
-   "ar": "آيزنكوت وبينيت وغولان وليبرمان ولابيد يتفقون على ترشيح متان كهانا من حزب «يَشار» لرئاسة الكنيست، على أن يترأس ليبرمان لجنة الخارجية والأمن.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee"
    }
   }
  ]
