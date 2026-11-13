@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:13:00Z",
+ "updated": "2026-11-13T17:09:24Z",
  "items": [
   {
    "id": "20261113-1434-bessent-blames-commerce-megaspeed",
@@ -26,6 +26,30 @@
    }
   },
   {
+   "id": "20261113-1316-israel-shelling-south-lebanon",
+   "time": "2026-11-13T13:16:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli artillery shells Bani Hayyan, Tallousah, Majdalzoun and other southern Lebanese towns, a tank fires on a house in Mayfadoun, and drones fly over Beirut for a second day, per NNA.",
+   "ar": "المدفعية الإسرائيلية تقصف بني حيان وتلوسة ومجدل زون وبلدات جنوبية أخرى، ودبابة تطلق النار على منزل في ميفدون، والمسيّرات تحلّق فوق بيروت لليوم الثاني، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323762-low-flying-drones-buzz-beirut-as-israeli-shelling-targets-southern-towns"
+   }
+  },
+  {
+   "id": "20261113-1245-finland-nato-not-negotiable",
+   "time": "2026-11-13T12:45:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Finnish Defence Minister Antti Häkkänen says NATO membership is 'not subject to negotiation at all' after Bild reported Russia demanded Finland leave NATO; the Kremlin denies making the demand.",
+   "ar": "وزير الدفاع الفنلندي أنتي هاكانن يقول إن عضوية الناتو «ليست خاضعة للتفاوض إطلاقاً» بعدما أفادت «بيلد» بأن روسيا طالبت فنلندا بالخروج من الحلف، فيما ينفي الكرملين تقديم هذا الطلب.",
+   "source": {
+    "name": "TT via Sweden Herald",
+    "url": "https://swedenherald.com/article/finland-rejects-reported-russian-demand-to-leave-nato-in-ukraine-talks"
+   }
+  },
+  {
    "id": "20261113-1201-ukraine-1200-drones-russia",
    "time": "2026-11-13T12:01:00Z",
    "theater": "ukraine",
@@ -35,6 +59,18 @@
    "source": {
     "name": "AP via WSLS",
     "url": "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
+   }
+  },
+  {
+   "id": "20261113-1136-russia-hits-substations-nine-regions",
+   "time": "2026-11-13T11:36:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukrainian Prime Minister Serhii Koretskyi says overnight Russian strikes hit high-voltage substations, damaging energy infrastructure in 9 regions; strikes across several regions killed at least 5 people.",
+   "ar": "رئيس الوزراء الأوكراني سيرهي كوريتسكي يقول إن الضربات الروسية الليلية أصابت محطات تحويل عالية الجهد وألحقت أضراراً بمنشآت الطاقة في 9 مناطق، فيما قتلت الضربات 5 أشخاص على الأقل.",
+   "source": {
+    "name": "United24 Media",
+    "url": "https://united24media.com/war-in-ukraine/russia-strikes-ukraines-high-voltage-substations-damaging-energy-infrastructure-across-nine-regions-24344"
    }
   },
   {
@@ -173,12 +209,12 @@
    "id": "20261113-0313-irgc-claims-bahrain-radar",
    "time": "2026-11-13T03:13:00Z",
    "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say they struck a US early-warning radar in Bahrain in retaliation for an air attack on a telecom tower in Sirik; Washington and Manama did not immediately comment.",
-   "ar": "الحرس الثوري الإيراني يقول إنه استهدف راداراً أميركياً للإنذار المبكر في البحرين ردّاً على هجوم جوي على برج اتصالات في سيريك، ولا تعليق فورياً من واشنطن والمنامة.",
+   "status": "confirmed",
+   "en": "US Central Command denies Iran's Revolutionary Guards struck a US radar in Bahrain, saying US forces shot down the 2 one-way attack drones the IRGC launched towards Bahrain.",
+   "ar": "القيادة المركزية الأميركية تنفي أن يكون الحرس الثوري الإيراني قد أصاب راداراً أميركياً في البحرين، وتقول إن القوات الأميركية أسقطت المسيّرتين الانتحاريتين اللتين أطلقهما الحرس باتجاه البحرين.",
    "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-914794"
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
    }
   },
   {
@@ -1351,54 +1387,6 @@
    "source": {
     "name": "Anadolu Agency",
     "url": "https://www.aa.com.tr/en/middle-east/iran-says-3rd-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4119401"
-   }
-  },
-  {
-   "id": "20261110-1615-zelensky-prisoners-priority",
-   "time": "2026-11-10T16:15:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky says releasing prisoners is Kyiv's priority after the first day of Abu Dhabi talks, as RBC-Ukraine reports a large-scale exchange is under discussion, per Kyiv Post.",
-   "ar": "زيلينسكي يقول إن الإفراج عن الأسرى أولوية كييف بعد اليوم الأول من محادثات أبوظبي، فيما تفيد «آر بي سي-أوكرانيا» بأن عملية تبادل واسعة قيد البحث، بحسب «كييف بوست».",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89694"
-   }
-  },
-  {
-   "id": "20261110-1544-macron-hormuz-insurance",
-   "time": "2026-11-10T15:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "France is negotiating with Saudi Arabia and other Gulf states on a publicly backed vehicle to take on part of the insurance risk for ships crossing Hormuz, Bloomberg reports; Macron's office confirms the work.",
-   "ar": "فرنسا تفاوض السعودية ودولاً خليجية أخرى على آلية مدعومة حكومياً لتحمّل جزء من مخاطر تأمين السفن العابرة لمضيق هرمز، بحسب «بلومبرغ»، والإليزيه يؤكد أن العمل جارٍ.",
-   "source": {
-    "name": "Bloomberg via Rigzone",
-    "url": "https://www.rigzone.com/news/macron_negotiates_hormuz_insurance_with_gulf_states-10-nov-2026-185053-article"
-   }
-  },
-  {
-   "id": "20261110-1543-netanyahu-knesset-iran-eisenkot-unfit",
-   "time": "2026-11-10T15:43:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "In a Knesset speech, Netanyahu warns Israel will be pressed to accept a nuclear Iran and urges a unity government; Eisenkot calls the speech 'hate-filled' and says Netanyahu is unfit for office.",
-   "ar": "نتنياهو يحذّر في خطاب أمام الكنيست من ضغوط على إسرائيل لقبول إيران نووية ويدعو إلى حكومة وحدة، وآيزنكوت يصف الخطاب بأنه «مليء بالكراهية» ويعتبر نتنياهو غير أهل للمنصب.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488"
-   }
-  },
-  {
-   "id": "20261110-1538-yashar-bills-oct7-inquiry",
-   "time": "2026-11-10T15:38:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Eisenkot's Yashar and the Democrats submit bills to the new Knesset for a state commission of inquiry into October 7, prime ministerial term limits and repeal of 3 judicial overhaul laws.",
-   "ar": "حزبا «يشار» بقيادة آيزنكوت و«الديمقراطيون» يقدّمان إلى الكنيست الجديد مشاريع قوانين لتشكيل لجنة تحقيق رسمية في 7 تشرين الأول وتحديد ولايات رئيس الحكومة وإلغاء 3 قوانين من التعديلات القضائية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-submits-bills-to-establish-oct-7-state-inquiry-limit-pm-terms-repeal-judicial-overhaul"
    }
   }
  ]
