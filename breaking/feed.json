@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T17:09:24Z",
+ "updated": "2026-11-13T18:08:34Z",
  "items": [
+  {
+   "id": "20261113-1734-eu-five-ukraine-talks",
+   "time": "2026-11-13T17:34:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "EU leaders agree that Germany, France, the UK, Italy and Poland, plus the European Commission and Council, will represent Europe at future Ukraine negotiations.",
+   "ar": "قادة الاتحاد الأوروبي يتّفقون على أن تمثّل ألمانيا وفرنسا والمملكة المتحدة وإيطاليا وبولندا، إلى جانب المفوضية والمجلس الأوروبيين، أوروبا في مفاوضات أوكرانيا المقبلة.",
+   "source": {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+   }
+  },
+  {
+   "id": "20261113-1722-chip-stocks-selloff",
+   "time": "2026-11-13T17:22:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "The chip-stock sell-off deepens on Wall Street, with AMD down about 9%, Broadcom about 6%, Intel and Micron about 5%, and Nvidia more than 4%, per Yahoo Finance.",
+   "ar": "موجة بيع أسهم الرقائق تتعمّق في وول ستريت، إذ تتراجع AMD نحو 9% وبرودكوم نحو 6% وإنتل وميكرون نحو 5% وإنفيديا أكثر من 4%، بحسب «ياهو فايننس».",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+   }
+  },
   {
    "id": "20261113-1434-bessent-blames-commerce-megaspeed",
    "time": "2026-11-13T14:34:00Z",
@@ -1363,30 +1387,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yashar-cancels-scheduled-negotiations-with-likud-after-netanyahus-divisive-speech/"
-   }
-  },
-  {
-   "id": "20261110-1802-trump-netanyahu-heated-call",
-   "time": "2026-11-10T18:02:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli sources tell Ynet a weekend Trump-Netanyahu call on Iran was 'a shouting match from hell'; Netanyahu's office calls the report 'fake news, complete nonsense'.",
-   "ar": "مصادر إسرائيلية تقول لـ«واي نت» إن اتصال ترامب ونتنياهو حول إيران في عطلة نهاية الأسبوع كان «مباراة صراخ جهنمية»، فيما وصف مكتب نتنياهو التقرير بأنه «أخبار كاذبة وهراء تام».",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/sjoxqce0me"
-   }
-  },
-  {
-   "id": "20261110-1728-irgc-third-tanker-mine",
-   "time": "2026-11-10T17:28:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says a third tanker exploded and caught fire on Tuesday after hitting a mine on an 'unauthorized' route in the eastern Strait of Hormuz; no independent confirmation.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة ثالثة انفجرت واشتعلت فيها النيران الثلاثاء بعد اصطدامها بلغم على مسار «غير مرخّص» في شرق مضيق هرمز، من دون تأكيد مستقل.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/iran-says-3rd-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4119401"
    }
   }
  ]
