@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T19:07:42Z",
+ "updated": "2026-11-13T20:08:15Z",
  "items": [
+  {
+   "id": "20261113-1930-mamdani-trump-snap-delay",
+   "time": "2026-11-13T19:30:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "New York Mayor Zohran Mamdani says he struck a deal with Trump to delay new federal SNAP food-stocking rules for small retailers nationwide by 90 days.",
+   "ar": "عمدة نيويورك زهران ممداني يعلن توصّله إلى اتفاق مع ترامب لتأجيل قواعد التخزين الفدرالية الجديدة لبرنامج القسائم الغذائية على صغار التجّار في أنحاء البلاد 90 يوماً.",
+   "source": {
+    "name": "amNewYork",
+    "url": "https://www.amny.com/politics/mamdani-deal-trump-delay-snap-rules-nationwide/"
+   }
+  },
   {
    "id": "20261113-1904-scotus-asylum-ban",
    "time": "2026-11-13T19:04:00Z",
@@ -1327,42 +1339,6 @@
    "source": {
     "name": "CNN",
     "url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest"
-   }
-  },
-  {
-   "id": "20261110-2001-gop-ags-threaten-uk-netherlands",
-   "time": "2026-11-10T20:01:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Republican attorneys general from 13 US states threaten to bar British and Dutch companies from state contracts and divest unless London and The Hague drop sanctions on Israeli settlements.",
-   "ar": "المدّعون العامّون الجمهوريون في 13 ولاية أميركية يهدّدون بحرمان الشركات البريطانية والهولندية من العقود وسحب الاستثمارات منها ما لم تتراجع لندن ولاهاي عن عقوباتهما على المستوطنات الإسرائيلية.",
-   "source": {
-    "name": "The Telegraph via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/us-states-threaten-britain-trade-200116757.html"
-   }
-  },
-  {
-   "id": "20261110-1922-jordan-house-gop-leader",
-   "time": "2026-11-10T19:22:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "House Republicans elect Rep. Jim Jordan as their leader for the next Congress, defeating Steve Scalise 106-73 in a secret ballot, per Politico, after losing their majority.",
-   "ar": "الجمهوريون في مجلس النواب الأميركي ينتخبون النائب جيم جوردان زعيماً لهم في الكونغرس المقبل، متغلّباً على ستيف سكاليز بـ106 أصوات مقابل 73 في اقتراع سرّي، وفق «بوليتيكو»، بعد خسارتهم الأغلبية.",
-   "source": {
-    "name": "Fox News",
-    "url": "https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise"
-   }
-  },
-  {
-   "id": "20261110-1908-unifil-patrol-fired-wadi-jilou",
-   "time": "2026-11-10T19:08:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "UNIFIL says its patrol near Wadi Jilou, east of Tyre, came under fire about a dozen times and returned fire, with no peacekeepers hurt, and urges Lebanon to investigate.",
-   "ar": "اليونيفيل تعلن أن دوريتها قرب وادي جيلو شرق صور تعرّضت لإطلاق نار نحو 12 مرة وردّت على مصدره، من دون إصابات في صفوف عناصرها، وتدعو لبنان إلى التحقيق.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/unifil-says-forces-came-under-fire-during-routine-patrol-in-southern-lebanon/"
    }
   }
  ]
