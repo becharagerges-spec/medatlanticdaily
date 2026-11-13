@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-13T11:09:48Z",
+ "updated": "2026-11-13T12:09:38Z",
  "items": [
+  {
+   "id": "20261113-1201-ukraine-1200-drones-russia",
+   "time": "2026-11-13T12:01:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine fires nearly 1,200 drones at Russia overnight; Russia's defence ministry says it downed 1,198, and local officials say strikes in 3 regions killed 7 people, including a child.",
+   "ar": "أوكرانيا تطلق نحو 1,200 مسيّرة على روسيا ليلاً؛ وزارة الدفاع الروسية تقول إنها أسقطت 1,198، ومسؤولون محليون يقولون إن الضربات قتلت 7 أشخاص بينهم طفل في 3 مناطق.",
+   "source": {
+    "name": "AP via WSLS",
+    "url": "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
+   }
+  },
+  {
+   "id": "20261113-1111-peskov-no-decision-europe-talks",
+   "time": "2026-11-13T11:11:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin spokesman Dmitry Peskov says Russia has not yet agreed to Europeans joining Ukraine talks and will decide once it understands their 'real intentions', contradicting US envoy Kushner.",
+   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن روسيا لم توافق بعد على مشاركة الأوروبيين في محادثات أوكرانيا وستقرر بعد فهم «نواياهم الحقيقية»، خلافاً لما أعلنه المبعوث الأميركي كوشنر.",
+   "source": {
+    "name": "AFP via Insider Paper",
+    "url": "https://insiderpaper.com/russia-says-no-decision-on-letting-europe-join-ukraine-talks/"
+   }
+  },
+  {
+   "id": "20261113-1014-france-israel-melenchon-ban",
+   "time": "2026-11-13T10:14:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "French Foreign Minister Jean-Noël Barrot calls 'demagogic' Israel's decision to bar hard-left leader Jean-Luc Mélenchon and LFI's Mathilde Panot from entering the country.",
+   "ar": "وزير الخارجية الفرنسي جان نويل بارو يصف بـ«الديماغوجي» قرار إسرائيل منع زعيم اليسار الراديكالي جان لوك ميلانشون ورئيسة كتلة «فرنسا الأبية» ماتيلد بانو من دخول أراضيها.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/france-criticises-demagogic-move-israel-ban-hard-left-leader-melenchon"
+   }
+  },
   {
    "id": "20261113-0905-iea-oil-surplus",
    "time": "2026-11-13T09:05:00Z",
@@ -1471,42 +1507,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
-   }
-  },
-  {
-   "id": "20261110-1147-gaza-four-killed",
-   "time": "2026-11-10T11:47:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "At least 4 Palestinians are killed by Israeli strikes and gunfire in Gaza City and Khan Younis on Tuesday, medics say; the Israeli army says it struck militants, Reuters reports.",
-   "ar": "مقتل 4 فلسطينيين على الأقل بغارات ونيران إسرائيلية في مدينة غزة وخان يونس الثلاثاء، بحسب مسعفين، والجيش الإسرائيلي يقول إنه استهدف مسلحين، وفق «رويترز».",
-   "source": {
-    "name": "Reuters via SRN News",
-    "url": "https://srnnews.com/israeli-fire-kills-father-and-son-in-gaza-medics-say/"
-   }
-  },
-  {
-   "id": "20261110-1134-rubio-macron-post-unifil",
-   "time": "2026-11-10T11:34:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Rubio and Macron discuss replacing UNIFIL, whose mandate ends on 31 December, with a lighter monitoring mission for south Lebanon's pilot zones, which Rubio says could be civilian, per Naharnet.",
-   "ar": "روبيو وماكرون يبحثان استبدال «اليونيفيل»، التي تنتهي ولايتها في 31 كانون الأول، ببعثة مراقبة أخفّ للمناطق التجريبية في جنوب لبنان، قد تكون مدنية بحسب روبيو، وفق «نهارنت».",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://naharnet.com/stories/en/323666-rubio-discusses-post-unifil-monitoring-mission-with-macron"
-   }
-  },
-  {
-   "id": "20261110-1117-joint-list-backs-kahana",
-   "time": "2026-11-10T11:17:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Joint List MK Ahmad Tibi tells Kan the Arab-led faction will vote for Yashar's Matan Kahana as Knesset speaker to replace Likud's Amir Ohana, per Times of Israel.",
-   "ar": "النائب أحمد الطيبي يقول لـ«كان» إن القائمة المشتركة ذات الغالبية العربية ستصوّت لمرشح «يشار» متان كهانا رئيساً للكنيست بدلاً من أمير أوحانا من الليكود، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/tibi-says-joint-list-will-vote-for-kahana-as-knesset-speaker-we-want-to-be-part-of-the-change/"
    }
   }
  ]
