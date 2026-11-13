@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T07:09:08Z",
+ "updated": "2026-11-13T08:08:35Z",
  "items": [
+  {
+   "id": "20261113-0717-irgc-lng-tanker-mine-hormuz",
+   "time": "2026-11-13T07:17:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says a tanker carrying liquefied gas hit a naval mine and exploded in the Strait of Hormuz on Friday after using an 'unauthorised' route, per Reuters.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة محمّلة بالغاز المسال اصطدمت بلغم بحري وانفجرت في مضيق هرمز يوم الجمعة بعد سلوكها مساراً «غير مرخّص»، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via Cyprus Mail",
+    "url": "https://cyprus-mail.com/2026/11/13/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz"
+   }
+  },
+  {
+   "id": "20261113-0714-alice-huang-firm-banned-nvidia-chips",
+   "time": "2026-11-13T07:14:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "A Chinese company founded by Alice Huang obtained smuggled Nvidia chips that were used at a Shanghai data centre linked to Megaspeed, Bloomberg reports.",
+   "ar": "شركة صينية أسّستها أليس هوانغ حصلت على رقائق «إنفيديا» مهرّبة استُخدمت في مركز بيانات في شنغهاي مرتبط بشركة «ميغاسبيد»، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang"
+   }
+  },
   {
    "id": "20261113-0630-odesa-strike-two-killed",
    "time": "2026-11-13T06:30:00Z",
@@ -1531,42 +1555,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee"
-   }
-  },
-  {
-   "id": "20261110-0803-araghchi-no-rezaei-vance",
-   "time": "2026-11-10T08:03:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says there are no plans for security chief Mohsen Rezaei to meet US Vice President JD Vance, and the war will not end through military action or sanctions.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إنه لا خطط للقاء بين أمين المجلس الأعلى للأمن القومي محسن رضائي ونائب الرئيس الأميركي جي دي فانس، وإن الحرب لن تنتهي بالعمل العسكري أو العقوبات.",
-   "source": {
-    "name": "WANA",
-    "url": "https://wanaen.com/araghchi-no-plans-for-rezaei-vance-meeting/"
-   }
-  },
-  {
-   "id": "20261110-0754-abu-dhabi-talks-open",
-   "time": "2026-11-10T07:54:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "The first day of US-mediated Russia-Ukraine talks in Abu Dhabi, with envoys Witkoff and Kushner, ends after about 4 hours, and the delegations will resume on Wednesday.",
-   "ar": "اليوم الأول من المحادثات الروسية الأوكرانية في أبوظبي بوساطة المبعوثَين الأميركيين ويتكوف وكوشنر ينتهي بعد نحو 4 ساعات، على أن تستأنف الوفود المحادثات الأربعاء.",
-   "source": {
-    "name": "TASS",
-    "url": "https://tass.com/politics/2215555"
-   }
-  },
-  {
-   "id": "20261110-0712-korea-cheonghae-oman",
-   "time": "2026-11-10T07:12:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "South Korea's cabinet approves extending the Cheonghae naval unit's area from the Gulf of Aden to waters south of Oman, after Iran warned Seoul against backing US operations, per Korea Times.",
-   "ar": "الحكومة الكورية الجنوبية توافق على توسيع نطاق عمل وحدة «تشونغهاي» البحرية من خليج عدن إلى المياه جنوب عُمان، بعدما حذّرت إيران سيول من دعم العمليات الأميركية، بحسب «كوريا تايمز».",
-   "source": {
-    "name": "Korea Times",
-    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261110/cover-story-iran-sees-cheonghae-expansion-as-backing-us-war-effort"
    }
   }
  ]
