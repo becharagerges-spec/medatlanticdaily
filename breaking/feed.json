@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T06:08:58Z",
+ "updated": "2026-11-13T07:09:08Z",
  "items": [
+  {
+   "id": "20261113-0630-odesa-strike-two-killed",
+   "time": "2026-11-13T06:30:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian strike on Odesa kills 2 people and injures 5, two of them seriously, damaging a private house and several cars, says regional governor Oleh Kiper.",
+   "ar": "ضربة روسية على أوديسا تقتل شخصين وتصيب 5 آخرين، بينهم اثنان بحالة خطرة، وتلحق أضراراً بمنزل خاص وعدة سيارات، بحسب حاكم المنطقة أوليغ كيبر.",
+   "source": {
+    "name": "Censor.NET",
+    "url": "https://censor.net/en/news/4033503/strike-on-odesa-on-november-13-one-person-killed-a-fire-broke-out"
+   }
+  },
+  {
+   "id": "20261113-0630-kospi-reverses-lower",
+   "time": "2026-11-13T06:30:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kospi reverses after topping 5,500 at the open and closes about 1% lower as foreign investors turn net sellers, per MLQ and MoneyToday.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي ينقلب بعد تجاوزه 5,500 نقطة عند الافتتاح ويغلق منخفضاً نحو 1% مع تحوّل المستثمرين الأجانب إلى البيع، بحسب MLQ و«موني توداي».",
+   "source": {
+    "name": "MoneyToday",
+    "url": "https://www.mt.co.kr/en/stock/2026/11/13/2026111313573077979"
+   }
+  },
   {
    "id": "20261113-0547-vinnytsia-overnight-attack",
    "time": "2026-11-13T05:47:00Z",
@@ -1543,18 +1567,6 @@
    "source": {
     "name": "Korea Times",
     "url": "https://www.koreatimes.co.kr/foreignaffairs/20261110/cover-story-iran-sees-cheonghae-expansion-as-backing-us-war-effort"
-   }
-  },
-  {
-   "id": "20261110-0627-ukraine-162-drones-135-downed",
-   "time": "2026-11-10T06:27:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia launched 162 attack drones and an Iskander-M ballistic missile overnight; 135 drones were downed or suppressed, with hits recorded at 19 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت خلال الليل 162 مسيّرة هجومية وصاروخاً بالستياً من طراز إسكندر-إم؛ أُسقطت أو عُطّلت 135 مسيّرة، وسُجّلت إصابات في 19 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4183161-adf-down-135-of-162-russian-drones-launched-against-ukraine-overnight.html"
    }
   }
  ]
