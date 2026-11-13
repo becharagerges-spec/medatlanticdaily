@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-12T20:08:51Z",
+ "updated": "2026-11-13T03:09:20Z",
  "items": [
+  {
+   "id": "20261113-0211-trump-urged-huang-fight",
+   "time": "2026-11-13T02:11:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump phoned Nvidia's Jensen Huang on Tuesday and urged him to fight for his job as the spy scandal intensified, The New York Times reports.",
+   "ar": "ترامب اتصل برئيس إنفيديا جنسن هوانغ يوم الثلاثاء وحثّه على التمسّك بمنصبه مع تصاعد فضيحة التجسّس، بحسب «نيويورك تايمز».",
+   "source": {
+    "name": "The New York Times"
+   }
+  },
+  {
+   "id": "20261113-0204-van-hollen-challenges-schumer",
+   "time": "2026-11-13T02:04:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Senator Chris Van Hollen of Maryland says he will run for Senate majority leader, challenging Chuck Schumer in the first contested Democratic leadership race in decades, per AP and Politico.",
+   "ar": "السيناتور كريس فان هولن من ولاية ماريلاند يعلن ترشّحه لزعامة الأغلبية في مجلس الشيوخ متحدّياً تشاك شومر، في أول منافسة على زعامة الديمقراطيين منذ عقود، بحسب أسوشيتد برس وبوليتيكو.",
+   "source": {
+    "name": "Senator Chris Van Hollen on X",
+    "url": "https://x.com/ChrisVanHollen/status/2121061505160642660"
+   }
+  },
+  {
+   "id": "20261113-0000-scott-summons-huang-lutnick",
+   "time": "2026-11-13T00:00:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Senate Banking Chair Tim Scott asks ex-Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify on 3 and 10 December over the Nvidia spy scandal, threatening Huang with a subpoena.",
+   "ar": "رئيس لجنة المصارف في مجلس الشيوخ تيم سكوت يطلب من الرئيس السابق لإنفيديا جنسن هوانغ ووزير التجارة هوارد لوتنيك الإدلاء بشهادتيهما في 3 و10 كانون الأول بشأن فضيحة التجسّس، ويلوّح باستدعاء هوانغ.",
+   "source": {
+    "name": "Reuters via The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/world/article-nvidia-jensen-huang-lutnick-senate-testify/"
+   }
+  },
+  {
+   "id": "20261112-2343-trump-defeat-iran-regime",
+   "time": "2026-11-12T23:43:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump tells Salem News Channel he would count it a defeat if Iran's regime is still in power when his term ends, and warns Iran 'will not exist' if it kills a US official.",
+   "ar": "ترامب يقول لقناة «سالم نيوز» إنه سيعدّ بقاء النظام الإيراني في السلطة عند انتهاء ولايته هزيمة، ويحذّر من أن إيران «لن تعود موجودة» إذا قتلت مسؤولاً أميركياً.",
+   "source": {
+    "name": "ANI",
+    "url": "https://www.aninews.in/news/world/us/would-not-hesitate-to-strike-iran-if-things-go-other-way-trump-says-8220they-will-not-exist-if-tehran-kills-us-officials20261113051335/"
+   }
+  },
+  {
+   "id": "20261112-2232-houthis-claim-riyadh-aramco-sharurah",
+   "time": "2026-11-12T22:32:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi spokesman Yahya Saree claims drone strikes on an Aramco facility in Riyadh, a cargo plane at Sharurah airport and a missile hit on Khamis Mushait air base; the Saudi-led coalition says it intercepted drones.",
+   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم شنّ هجمات بمسيّرات على منشأة لأرامكو في الرياض وطائرة شحن في مطار شرورة وضرب قاعدة خميس مشيط بصاروخ، والتحالف بقيادة السعودية يعلن اعتراض مسيّرات.",
+   "source": {
+    "name": "ANI via The Tribune",
+    "url": "https://www.tribuneindia.com/news/air-defence/houthis-claim-drone-strikes-on-riyadh-saudi-military-sites-coalition-says-drones-intercepted"
+   }
+  },
   {
    "id": "20261112-1913-baghaei-warns-backing-us",
    "time": "2026-11-12T19:13:00Z",
@@ -1484,134 +1543,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
-   }
-  },
-  {
-   "id": "20261110-0307-california-rejects-billionaire-tax",
-   "time": "2026-11-10T03:07:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "California voters reject Proposition 40, a one-time 5% tax on residents worth over $1 billion, a win for Governor Gavin Newsom, who opposed it, AP reports.",
-   "ar": "ناخبو كاليفورنيا يرفضون الاقتراح 40 لفرض ضريبة لمرة واحدة بنسبة 5% على من تتجاوز ثرواتهم مليار دولار، في مكسب للحاكم غافين نيوسوم المعارض له، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261110-0223-asia-stocks-kospi-5pct",
-   "time": "2026-11-10T02:23:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Asian stocks rally on Tuesday, with Seoul's Kospi up more than 5% and Tokyo's Nikkei about 3%, as Brent crude falls 1% to $91.56, its lowest since early September.",
-   "ar": "الأسهم الآسيوية ترتفع الثلاثاء، إذ يصعد مؤشر كوسبي في سيول أكثر من 5% ونيكاي في طوكيو نحو 3%، فيما يتراجع خام برنت 1% إلى 91.56 دولاراً، أدنى مستوى منذ مطلع أيلول.",
-   "source": {
-    "name": "Reuters via Investing.com",
-    "url": "https://www.investing.com/news/economy-news/asian-stocks-climb-as-sliding-oil-prices-buoy-sentiment-5013939"
-   }
-  },
-  {
-   "id": "20261110-0156-houthi-missiles-riyadh-south",
-   "time": "2026-11-10T01:56:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it destroyed 2 Houthi missiles, one ballistic and one cruise, fired at Riyadh, and a third ballistic missile aimed at southern Saudi Arabia.",
-   "ar": "التحالف بقيادة السعودية يعلن تدمير صاروخين أطلقهما الحوثيون نحو الرياض، أحدهما باليستي والآخر مجنّح، إضافة إلى صاروخ باليستي ثالث استهدف جنوب المملكة.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914398"
-   }
-  },
-  {
-   "id": "20261110-0048-strikes-kfar-tebnit-tallousa",
-   "time": "2026-11-10T00:48:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli warplanes strike Kfar Tebnit and Tallousa in south Lebanon and artillery hits the outskirts of Mayfadoun, Hadatha and Harees, per Lebanese reports; no casualties were reported.",
-   "ar": "الطيران الحربي الإسرائيلي يغير على بلدتي كفرتبنيت وطلوسة في جنوب لبنان، والمدفعية تقصف أطراف ميفدون وحداثا وحاريص، بحسب تقارير لبنانية، من دون الإبلاغ عن إصابات.",
-   "source": {
-    "name": "Al-Dawla News",
-    "url": "https://www.aldawlanews.com/1388561"
-   }
-  },
-  {
-   "id": "20261109-2318-netanyahu-calls-trump-daily",
-   "time": "2026-11-09T23:18:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu has been calling Trump every day to urge him to resume the war on Iran, while Gulf leaders press for negotiations, the Financial Times reports, citing a person briefed.",
-   "ar": "نتنياهو يتصل بترامب يومياً لحثّه على استئناف الحرب على إيران، فيما يضغط قادة الخليج لمصلحة التفاوض، بحسب «فايننشال تايمز» نقلاً عن مصدر مطّلع.",
-   "source": {
-    "name": "Financial Times via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-said-calling-trump-every-day-to-push-him-to-resume-iran-war/"
-   }
-  },
-  {
-   "id": "20261109-2231-trump-iran-war-effectively-over",
-   "time": "2026-11-09T22:31:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "After meeting Qatar's prime minister, Trump says the Iran war is 'effectively over' militarily and new strikes are unlikely, but the US naval blockade and Task Force Iron Gate will stay.",
-   "ar": "ترامب يقول بعد لقائه رئيس الوزراء القطري إن الحرب على إيران «انتهت فعلياً» عسكرياً وإن ضربات جديدة مستبعدة، لكن الحصار البحري الأميركي وقوة «البوابة الحديدية» باقيان.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
-   }
-  },
-  {
-   "id": "20261109-2226-trump-fbi-huang-affair",
-   "time": "2026-11-09T22:26:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says the FBI is looking into Nvidia CEO Jensen Huang's affair with a Chinese government agent, but calls Huang 'a very honorable man' who should not worry, AP reports.",
-   "ar": "ترامب يقول إن مكتب التحقيقات الفدرالي يدقّق في علاقة الرئيس التنفيذي لـ«إنفيديا» جنسن هوانغ بعميلة للحكومة الصينية، لكنه يصفه بـ«رجل شريف جداً» لا داعي لقلقه، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261109-2215-rezaei-denies-talks",
-   "time": "2026-11-09T22:15:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's security council chief Mohsen Rezaei says the US should stop manufacturing 'fake news about imaginary talks' and must accept Iran's seven conditions to end the war.",
-   "ar": "رئيس مجلس الأمن الإيراني محسن رضائي يقول إن على واشنطن الكفّ عن صناعة «أخبار كاذبة عن محادثات وهمية» وإن عليها القبول بشروط إيران السبعة لإنهاء الحرب.",
-   "source": {
-    "name": "Reuters via MarketScreener",
-    "url": "https://www.marketscreener.com/news/iran-s-top-security-official-says-us-should-stop-manufacturing-fake-news-about-imaginary-talks-ce785fd3d181f325"
-   }
-  },
-  {
-   "id": "20261109-2128-us-official-territory-flexibility",
-   "time": "2026-11-09T21:28:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A US official says Russia and Ukraine privately signal room to compromise on a land swap before 2-day Abu Dhabi talks led by Witkoff and Kushner open on Tuesday.",
-   "ar": "مسؤول أميركي يقول إن روسيا وأوكرانيا تُبديان سرّاً استعداداً لتسوية حول مبادلة أراضٍ، قبل محادثات أبوظبي التي تستمر يومين بقيادة ويتكوف وكوشنر وتنطلق الثلاثاء.",
-   "source": {
-    "name": "Reuters via Daily Maverick",
-    "url": "https://www.dailymaverick.co.za/article/2026-11-09-russia-and-ukraine-showing-flexibility-on-territory-us-official-says/"
-   }
-  },
-  {
-   "id": "20261109-2025-scotus-big-bend-wall",
-   "time": "2026-11-09T20:25:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Supreme Court lets the Trump administration resume border wall construction in Texas's Big Bend region for now, over bipartisan objections.",
-   "ar": "المحكمة العليا الأميركية تسمح لإدارة ترامب باستئناف بناء الجدار الحدودي في منطقة بيغ بند في تكساس مؤقتاً، رغم اعتراضات من الحزبين.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261109-2024-boebert-loses-colorado",
-   "time": "2026-11-09T20:24:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "CNN projects Democrat Eileen Laubacher, a retired rear admiral, will unseat Republican Rep. Lauren Boebert in Colorado's 4th District.",
-   "ar": "شبكة «سي إن إن» تتوقع فوز الديمقراطية إيلين لوباخر، الأميرال المتقاعدة، على النائبة الجمهورية لورين بوبرت في الدائرة الرابعة في كولورادو.",
-   "source": {
-    "name": "CNN"
    }
   }
  ]
