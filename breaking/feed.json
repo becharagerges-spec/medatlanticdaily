@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T12:09:38Z",
+ "updated": "2026-11-13T15:13:00Z",
  "items": [
+  {
+   "id": "20261113-1434-bessent-blames-commerce-megaspeed",
+   "time": "2026-11-13T14:34:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Treasury Secretary Scott Bessent accuses the Commerce Department of delaying labelling Nvidia customer Megaspeed a possible national security threat, as Trump advisers discuss ousting Commerce Secretary Howard Lutnick, CNN reports.",
+   "ar": "وزير الخزانة الأميركي سكوت بيسنت يتّهم وزارة التجارة بالتأخّر في تصنيف «ميغاسبيد»، زبونة «إنفيديا»، تهديداً محتملاً للأمن القومي، فيما يبحث مستشارو ترامب إقالة وزير التجارة هوارد لوتنيك، بحسب «سي إن إن».",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame"
+   }
+  },
+  {
+   "id": "20261113-1347-mossad-chief-washington-iran",
+   "time": "2026-11-13T13:47:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Mossad Director Roman Gofman is in Washington for Iran talks with senior Trump officials, including CIA Director John Ratcliffe, as Netanyahu presses Trump to resume the war, Axios reports.",
+   "ar": "مدير الموساد رومان غوفمان في واشنطن لإجراء محادثات بشأن إيران مع كبار مسؤولي إدارة ترامب، بينهم مدير الـCIA جون راتكليف، فيما يضغط نتنياهو على ترامب لاستئناف الحرب، بحسب «أكسيوس».",
+   "source": {
+    "name": "Axios via Ynet",
+    "url": "https://www.ynetnews.com/article/rj4sq9nrmx"
+   }
+  },
   {
    "id": "20261113-1201-ukraine-1200-drones-russia",
    "time": "2026-11-13T12:01:00Z",
@@ -1375,138 +1399,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-submits-bills-to-establish-oct-7-state-inquiry-limit-pm-terms-repeal-judicial-overhaul"
-   }
-  },
-  {
-   "id": "20261110-1513-houthis-claim-riyadh-airport-abqaiq",
-   "time": "2026-11-10T15:13:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi military spokesman Yahya Sarea claims missile and drone strikes on Riyadh's King Khalid airport, East-West pipeline pumping stations, Aramco's Abqaiq facilities and a Riyadh financial centre; Riyadh has not confirmed.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يزعم شنّ هجمات بصواريخ ومسيّرات على مطار الملك خالد في الرياض ومحطات ضخ خط أنابيب شرق-غرب ومنشآت أرامكو في بقيق ومركز مالي في الرياض، والرياض لم تؤكّد.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261110/56e7389047d344bfaa1dba790945420a/c.html"
-   }
-  },
-  {
-   "id": "20261110-1453-adnoc-vessel-damaged-uae-waters",
-   "time": "2026-11-10T14:53:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "ADNOC Logistics & Services says one of its vessels was damaged in an attack in UAE territorial waters in the Gulf on Tuesday afternoon; response teams are working.",
-   "ar": "«أدنوك للإمداد والخدمات» تعلن تضرّر إحدى سفنها في هجوم داخل المياه الإقليمية الإماراتية في الخليج بعد ظهر الثلاثاء، وفرق الاستجابة تعمل في الموقع.",
-   "source": {
-    "name": "Khaleej Times",
-    "url": "https://www.khaleejtimes.com/business/energy/adnoc-vessel-damaged-attack-uae-waters-november-10-2026"
-   }
-  },
-  {
-   "id": "20261110-1436-eu-four-defy-merz-ukraine-budget",
-   "time": "2026-11-10T14:36:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Slovakia, the Czech Republic, Hungary and Bulgaria reject Merz's demand to tie the next EU budget to new Ukraine aid, with Fico threatening a veto, per Euronews.",
-   "ar": "سلوفاكيا والتشيك والمجر وبلغاريا ترفض مطلب ميرتس ربط الموازنة الأوروبية المقبلة بمساعدات جديدة لأوكرانيا، وفيكو يلوّح بالفيتو، بحسب «يورونيوز».",
-   "source": {
-    "name": "Euronews",
-    "url": "https://euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
-   }
-  },
-  {
-   "id": "20261110-1420-rubio-abu-dhabi-productive",
-   "time": "2026-11-10T14:20:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Rubio calls the first day of US-Russia-Ukraine talks in Abu Dhabi 'very productive' and says the trilateral format should eventually include European partners, but warns no deal is imminent.",
-   "ar": "روبيو يصف اليوم الأول من المحادثات الأميركية-الروسية-الأوكرانية في أبوظبي بأنه «مثمر جداً»، ويقول إن الصيغة الثلاثية يجب أن تضم الشركاء الأوروبيين لاحقاً، محذراً من أن الاتفاق ليس وشيكاً.",
-   "source": {
-    "name": "AFP via Khaleej Times",
-    "url": "https://www.khaleejtimes.com/world/americas/rubio-hails-very-productive-russia-ukraine-talks-abu-dhabi"
-   }
-  },
-  {
-   "id": "20261110-1419-rubio-g7-devastating-costs-iran",
-   "time": "2026-11-10T14:19:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio tells G7 ministers in Paris the US will keep imposing 'devastating' economic costs on Iran, then says there is 'no need for major combat operations' now.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يبلغ وزراء مجموعة السبع في باريس أن واشنطن ستواصل فرض كلفة اقتصادية «مدمّرة» على إيران، ثم يقول إنه «لا حاجة لعمليات قتالية كبرى» حالياً.",
-   "source": {
-    "name": "Reuters via Aaj English TV",
-    "url": "https://english.aaj.tv/news/330480144/rubio-tells-g7-us-will-keep-imposing-devastating-costs-on-iran-diplomats-say"
-   }
-  },
-  {
-   "id": "20261110-1400-26th-knesset-sworn-in",
-   "time": "2026-11-10T14:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's 26th Knesset is sworn in, and Gadi Eisenkot, tasked with forming the government, promises a new government 'as soon as possible', per Times of Israel.",
-   "ar": "الكنيست الإسرائيلي السادس والعشرون يؤدّي اليمين، وغادي آيزنكوت المكلّف تشكيل الحكومة يتعهّد بحكومة جديدة «في أسرع وقت ممكن»، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-10-2026/"
-   }
-  },
-  {
-   "id": "20261110-1343-yashar-61-signatures-ohana",
-   "time": "2026-11-10T13:43:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's Yashar says it submitted more than 61 MK signatures to Speaker Amir Ohana demanding a vote to replace him with Matan Kahana, as the 26th Knesset opens, per Times of Israel.",
-   "ar": "حزب «يشار» بزعامة آيزنكوت يقول إنه قدّم أكثر من 61 توقيعاً لنواب إلى رئيس الكنيست أمير أوحانا للمطالبة بالتصويت على استبداله بماتان كاهانا، مع افتتاح الكنيست الـ26، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-submits-over-61-mk-signatures-demanding-vote-to-replace-knesset-speaker-ohana"
-   }
-  },
-  {
-   "id": "20261110-1338-ukmto-tanker-projectile-lima",
-   "time": "2026-11-10T13:38:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a tanker was struck by an unidentified projectile about 19 nautical miles northeast of Lima, Oman, near the Strait of Hormuz; the crew is safe and the vessel is not named.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن أن ناقلة أُصيبت بمقذوف مجهول على بعد نحو 19 ميلاً بحرياً شمال شرق ليما في عُمان قرب مضيق هرمز، والطاقم بخير ولم تُكشف هوية السفينة.",
-   "source": {
-    "name": "gCaptain",
-    "url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/"
-   }
-  },
-  {
-   "id": "20261110-1330-us-cpi-october-04",
-   "time": "2026-11-10T13:30:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US consumer prices rose 0.4% in October, above the 0.3% forecast, with core prices up 0.3%, keeping the Federal Reserve on course to consider raising rates.",
-   "ar": "أسعار المستهلك في الولايات المتحدة ارتفعت 0.4% في تشرين الأول، فوق التوقعات البالغة 0.3%، وارتفعت الأسعار الأساسية 0.3%، ما يُبقي الاحتياطي الفيدرالي على مسار درس رفع الفائدة.",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october"
-   }
-  },
-  {
-   "id": "20261110-1328-rubio-israel-rich-enough-aid",
-   "time": "2026-11-10T13:28:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio says Trump believes Israel is 'rich enough' to buy US weapons without military aid and wants the $3.8 billion-a-year financing to end as soon as possible.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول إن ترامب يرى أن إسرائيل «غنية بما يكفي» لشراء الأسلحة الأميركية من دون مساعدات عسكرية، ويريد إنهاء التمويل البالغ 3.8 مليارات دولار سنوياً في أسرع وقت.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/rubio-israel-rich-enough-to-buy-own-weapons-trump-wants-swift-end-to-military-aid"
-   }
-  },
-  {
-   "id": "20261110-1313-hegseth-impeachment-farce",
-   "time": "2026-11-10T13:13:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Defense Secretary Pete Hegseth, in his first Pentagon briefing since May, calls the impeachment effort over the Iran war a 'farce' and 'sabotage' driven by policy disagreements.",
-   "ar": "وزير الدفاع الأميركي بيت هيغسيث، في أول إحاطة له في البنتاغون منذ أيار، يصف مسعى عزله بسبب حرب إيران بأنه «مهزلة» و«تخريب» تحرّكه خلافات سياسية.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
    }
   }
  ]
