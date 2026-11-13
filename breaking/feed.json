@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T18:08:34Z",
+ "updated": "2026-11-13T19:07:42Z",
  "items": [
+  {
+   "id": "20261113-1904-scotus-asylum-ban",
+   "time": "2026-11-13T19:04:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Supreme Court agrees to decide whether Trump's executive order suspending asylum access at the southern border is legal, after lower courts ruled it unlawful.",
+   "ar": "المحكمة العليا الأميركية توافق على البتّ في قانونية الأمر التنفيذي لترامب بتعليق حق اللجوء على الحدود الجنوبية، بعدما قضت محاكم أدنى بعدم قانونيته.",
+   "source": {
+    "name": "AP via ClickOnDetroit",
+    "url": "https://www.clickondetroit.com/news/politics/2026/11/13/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border/"
+   }
+  },
   {
    "id": "20261113-1734-eu-five-ukraine-talks",
    "time": "2026-11-13T17:34:00Z",
@@ -1351,42 +1363,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/unifil-says-forces-came-under-fire-during-routine-patrol-in-southern-lebanon/"
-   }
-  },
-  {
-   "id": "20261110-1839-zamir-opposes-iran-action",
-   "time": "2026-11-10T18:39:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "IDF chief Eyal Zamir again warned in closed meetings against Netanyahu's planned action on Iran, citing political uncertainty and reduced White House appetite for war, Channel 12 reports.",
-   "ar": "رئيس الأركان الإسرائيلي إيال زامير حذّر مجدداً في اجتماعات مغلقة من تحرّك يخطط له نتنياهو ضد إيران، بسبب الغموض السياسي وتراجع رغبة البيت الأبيض في الحرب، بحسب «القناة 12».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/zamir-said-to-again-warn-in-closed-meetings-that-netanyahu-advancing-ill-advised-action-against-iran/"
-   }
-  },
-  {
-   "id": "20261110-1836-knesset-speaker-vote-nov17",
-   "time": "2026-11-10T18:36:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Knesset Speaker Amir Ohana schedules a vote on electing a new speaker for Tuesday, 17 November, after 67 lawmakers signed a request demanding it.",
-   "ar": "رئيس الكنيست أمير أوحانا يحدد الثلاثاء 17 تشرين الثاني موعداً للتصويت على انتخاب رئيس جديد للكنيست، بعدما وقّع 67 نائباً طلباً بذلك.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/ohana-says-vote-to-elect-new-knesset-speaker-to-be-held-next-tuesday-after-majority-of-mks-demand-it/"
-   }
-  },
-  {
-   "id": "20261110-1829-yashar-cancels-likud-talks",
-   "time": "2026-11-10T18:29:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's Yashar party says it cancelled Wednesday's coalition meeting with Likud over Netanyahu's 'divisive speech'; Likud says it still seeks a national unity government.",
-   "ar": "حزب «يشار» بزعامة آيزنكوت يعلن إلغاء اجتماع الأربعاء مع الليكود بشأن الائتلاف بسبب «خطاب نتنياهو التقسيمي»، والليكود يردّ بأنه لا يزال يسعى إلى حكومة وحدة وطنية.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-cancels-scheduled-negotiations-with-likud-after-netanyahus-divisive-speech/"
    }
   }
  ]
