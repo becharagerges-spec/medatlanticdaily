@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T04:08:50Z",
+ "updated": "2026-11-13T06:08:58Z",
  "items": [
+  {
+   "id": "20261113-0547-vinnytsia-overnight-attack",
+   "time": "2026-11-13T05:47:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "A Russian overnight attack on Vinnytsia injures 2 women, sets a residential building on fire and damages houses, apartment blocks and a kindergarten, Mayor Serhiy Morgunov says.",
+   "ar": "هجوم روسي ليلي على فينيتسيا يُصيب امرأتين ويُشعل حريقاً في مبنى سكني ويُلحق أضراراً بمنازل ومبانٍ سكنية وروضة أطفال، بحسب رئيس البلدية سيرهي مورغونوف.",
+   "source": {
+    "name": "UA.News",
+    "url": "https://ua.news/en/war-vs-rf/rosiia-atakuvala-vinnitsiu-vnochi-13-listopada-ie-postrazhdali-poshkodzheno-ditsadok"
+   }
+  },
   {
    "id": "20261113-0313-irgc-claims-bahrain-radar",
    "time": "2026-11-13T03:13:00Z",
@@ -1543,42 +1555,6 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4183161-adf-down-135-of-162-russian-drones-launched-against-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261110-0549-us-tankers-leave-mildenhall",
-   "time": "2026-11-10T05:49:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "US military refuelling tankers have been moved from RAF Mildenhall in Britain to Germany and other locations over an Iranian threat, the Wall Street Journal reports.",
-   "ar": "نقل طائرات تزويد بالوقود عسكرية أميركية من قاعدة ميلدنهول البريطانية إلى ألمانيا ومواقع أخرى بسبب تهديد إيراني، وفق «وول ستريت جورنال».",
-   "source": {
-    "name": "Reuters via Cyprus Mail",
-    "url": "https://cyprus-mail.com/2026/11/10/us-aircraft-evacuated-from-second-uk-base-due-to-iran-threat-wsj-reports"
-   }
-  },
-  {
-   "id": "20261110-0430-saba-saudi-strikes-sanaa",
-   "time": "2026-11-10T04:30:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi-run Saba says Saudi airstrikes hit a gas station north of Sanaa and a state oil company building in the south of the city; Riyadh has not confirmed.",
-   "ar": "وكالة «سبأ» التابعة للحوثيين تقول إن غارات سعودية أصابت محطة غاز شمال صنعاء ومبنى لشركة النفط الحكومية جنوب المدينة، ولم تؤكد الرياض ذلك.",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/saudi-led-coalition-reports-houthi-missile-drone-interceptions-saba-reports-saudi-strikes-on-sanaa/3094740/"
-   }
-  },
-  {
-   "id": "20261110-0429-china-trade-surplus-1tn",
-   "time": "2026-11-10T04:29:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's customs data show a $1.04 trillion trade surplus for January to October, as October exports jump 35.2% to $412.3 billion and imports rise 41.6%.",
-   "ar": "بيانات الجمارك الصينية تُظهر فائضاً تجارياً بقيمة 1.04 تريليون دولار من كانون الثاني إلى تشرين الأول، مع قفزة الصادرات في تشرين الأول 35.2% إلى 412.3 مليار دولار وارتفاع الواردات 41.6%.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
    }
   }
  ]
