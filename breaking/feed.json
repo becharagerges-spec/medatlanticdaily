@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:08:10Z",
+ "updated": "2026-11-14T10:07:26Z",
  "items": [
   {
    "id": "20261114-0725-iran-navy-tanker-mine-east-hormuz",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal"
+   }
+  },
+  {
+   "id": "20261114-0659-odesa-energy-50000-outage",
+   "time": "2026-11-14T06:59:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "A Russian attack on an energy facility in northern Odesa region leaves almost 50,000 households without power, energy firm DTEK says; governor Oleh Kiper confirms the attack.",
+   "ar": "هجوم روسي على منشأة للطاقة في شمال منطقة أوديسا يترك نحو 50,000 منزل بلا كهرباء، بحسب شركة «دي تي إي كي»، والحاكم أوليه كيبر يؤكد الهجوم.",
+   "source": {
+    "name": "UNN",
+    "url": "https://unn.ua/en/news/russian-attacks-on-the-energy-infrastructure-continue-where-power-outages-are-occurring-on-november-14"
    }
   },
   {
@@ -1171,42 +1183,6 @@
    "source": {
     "name": "Shafaq News",
     "url": "https://shafaq.com/en/World/IRGC-criticizes-CENTCOM-chief-over-Hormuz-tanker-blasts"
-   }
-  },
-  {
-   "id": "20261111-0939-nato-crisis-forces",
-   "time": "2026-11-11T09:39:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "NATO members are considering scrapping the requirement to provide extra troops for crisis-management missions abroad so they can focus forces on Russia, per Politico Europe.",
-   "ar": "دول حلف الأطلسي تدرس إلغاء شرط تقديم قوات إضافية لمهمات إدارة الأزمات في الخارج لتركيز قواتها على روسيا، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/nato-shrink-forces-missions-abroad-focus-fight-russia/"
-   }
-  },
-  {
-   "id": "20261111-0939-abu-dhabi-pow-exchange",
-   "time": "2026-11-11T09:39:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russia and Ukraine agree at the Abu Dhabi talks to 'the biggest humanitarian release of prisoners', a swap of 1,000 for 1,000 or more per Interfax-Ukraine, with numbers finalized Thursday, Kushner says.",
-   "ar": "روسيا وأوكرانيا تتفقان في محادثات أبوظبي على «أكبر عملية إفراج إنساني عن الأسرى»، أي تبادل ألف مقابل ألف أو أكثر بحسب «إنترفاكس-أوكرانيا»، على أن تُحسم الأعداد الخميس، وفق كوشنر.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/world/2026/11/11/officials-at-talks-between-russia-and-ukraine-say-the-sides-have-agreed-a-large-release-of-prisoners-of-war/"
-   }
-  },
-  {
-   "id": "20261111-0921-rezaei-enriched-material-stays",
-   "time": "2026-11-11T09:21:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's security council chief Mohsen Rezaei tells Al Mayadeen that Iran will not ship its enriched uranium abroad and will use it for nuclear-powered ships and submarines.",
-   "ar": "أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي يقول لـ«الميادين» إن إيران لن تنقل اليورانيوم المخصّب إلى الخارج وستستخدمه للسفن والغواصات العاملة بالطاقة النووية.",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
    }
   }
  ]
