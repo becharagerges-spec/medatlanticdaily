@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T15:08:47Z",
+ "updated": "2026-11-14T16:10:59Z",
  "items": [
+  {
+   "id": "20261114-1525-eu-gaza-crossings-aid",
+   "time": "2026-11-14T15:25:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "The EU, in a statement by foreign policy chief Kaja Kallas for all 27 members, demands Israel reopen all Gaza crossings and allow immediate, unimpeded aid access amid floods.",
+   "ar": "الاتحاد الأوروبي، في بيان لمسؤولة السياسة الخارجية كايا كالاس باسم الدول الـ27، يطالب إسرائيل بإعادة فتح كل معابر غزة والسماح بوصول المساعدات فوراً ومن دون عوائق وسط الفيضانات.",
+   "source": {
+    "name": "EU statement via Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+   }
+  },
   {
    "id": "20261114-1411-gaza-city-drone-strike-two",
    "time": "2026-11-14T14:11:00Z",
@@ -71,6 +83,30 @@
    "source": {
     "name": "Anadolu via aNews",
     "url": "https://www.anews.com.tr/world/2026/11/14/russia-ukraine-trade-deadly-overnight-strikes-leaving-5-killed-18-injured"
+   }
+  },
+  {
+   "id": "20261114-1041-imf-lebanon-banking-plan",
+   "time": "2026-11-14T10:41:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "The IMF says Lebanon still must agree a plan to restructure its banking sector before aid is released; Finance Minister Yassin Jaber hopes to sign a programme in early 2027.",
+   "ar": "صندوق النقد الدولي يقول إن على لبنان الاتفاق بعد على خطة لإعادة هيكلة القطاع المصرفي قبل الإفراج عن المساعدات، ووزير المال ياسين جابر يأمل توقيع برنامج مطلع 2027.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323779-imf-says-more-work-needed-on-lebanon-reforms"
+   }
+  },
+  {
+   "id": "20261114-1038-army-arms-depot-msharrafieh",
+   "time": "2026-11-14T10:38:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "The Lebanese army says it seized a large quantity of weapons and munitions at a depot in Msharrafieh, in Beirut's Hezbollah-dominated southern suburbs, and arrested 1 person.",
+   "ar": "الجيش اللبناني يعلن ضبط كمية كبيرة من الأسلحة والذخائر في مستودع في المشرفية بالضاحية الجنوبية لبيروت، وتوقيف شخص واحد.",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323778-army-seizes-arms-depot-in-beirut-southern-suburbs"
    }
   },
   {
@@ -1184,30 +1220,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks-3011215"
-   }
-  },
-  {
-   "id": "20261111-1558-coalition-cruise-missiles-riyadh",
-   "time": "2026-11-11T15:58:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it destroyed 3 Houthi cruise missiles fired toward the Riyadh region and 2 drones over the Makkah and southern regions.",
-   "ar": "التحالف بقيادة السعودية يعلن تدمير 3 صواريخ كروز أطلقها الحوثيون باتجاه منطقة الرياض ومسيّرتين فوق منطقة مكة والمناطق الجنوبية.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/coalition-says-houthi-drones-and-missiles-launched-toward-saudi-arabia-destroyed-3011220"
-   }
-  },
-  {
-   "id": "20261111-1521-kremlin-putin-trump-apec",
-   "time": "2026-11-11T15:21:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin aide Yuri Ushakov says Putin will meet US envoys Witkoff and Kushner in Moscow on Thursday morning, and a Putin-Trump meeting at the APEC summit in China is under consideration.",
-   "ar": "مساعد الكرملين يوري أوشاكوف يقول إن بوتين سيلتقي المبعوثَين الأميركيَّين ويتكوف وكوشنر في موسكو صباح الخميس، وإن عقد لقاء بين بوتين وترامب على هامش قمة «أبيك» في الصين قيد الدرس.",
-   "source": {
-    "name": "TASS via LaPresse",
-    "url": "https://uk.lapresse.it/world-en/2026/11/11/ukraine-kremlin-putin-to-meet-witkoff-and-kushner-tomorrow-morning-in-moscow/"
    }
   }
  ]
