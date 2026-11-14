@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T17:09:01Z",
+ "updated": "2026-11-14T18:08:20Z",
  "items": [
+  {
+   "id": "20261114-1739-netanyahu-unity-appeal-eisenkot",
+   "time": "2026-11-14T17:39:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "In a video on X, Netanyahu urges Gadi Eisenkot to drop an alternative coalition and negotiate a national unity government 'without preconditions', including on haredi conscription, citing Iran's nuclear threat.",
+   "ar": "نتنياهو يدعو، في فيديو على منصة إكس، غادي آيزنكوت إلى التخلي عن ائتلاف بديل والتفاوض «من دون شروط مسبقة» على حكومة وحدة وطنية، بما فيها تجنيد الحريديم، متذرّعاً بالتهديد النووي الإيراني.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-914874"
+   }
+  },
   {
    "id": "20261114-1525-eu-gaza-crossings-aid",
    "time": "2026-11-14T15:25:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "EU statement via Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+   }
+  },
+  {
+   "id": "20261114-1502-zaporizhzhia-strikes-22-wounded",
+   "time": "2026-11-14T15:02:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russian strikes on Zaporizhzhia wound 22 people, including 3 children, and a drone kills a man in nearby Kushuhum, Ukrainian emergency services say; traffic over the DniproHES dam was closed.",
+   "ar": "ضربات روسية على زابوريجيا تجرح 22 شخصاً بينهم 3 أطفال، ومسيّرة تقتل رجلاً في كوشوغوم المجاورة، بحسب خدمة الطوارئ الأوكرانية؛ وأُغلق السير على سد دنيبرو للطاقة الكهرومائية.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90138"
    }
   },
   {
@@ -269,8 +293,8 @@
    "time": "2026-11-13T21:13:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The FAA lifts a nationwide ground stop of more than 4 hours caused by an air traffic control communications failure; Transportation Secretary Sean Duffy blames ageing infrastructure as thousands remain stranded.",
-   "ar": "إدارة الطيران الفدرالية الأميركية ترفع وقفاً شاملاً للرحلات دام أكثر من 4 ساعات بسبب عطل في اتصالات المراقبة الجوية، ووزير النقل شون دافي يحمّل البنية التحتية المتقادمة المسؤولية فيما لا يزال الآلاف عالقين.",
+   "en": "The FAA lifted a nationwide ground stop of more than 4 hours; Transportation Secretary Sean Duffy now says contractor work switching copper lines to fiber overloaded a router, ruling out a cyberattack.",
+   "ar": "إدارة الطيران الفدرالية رفعت توقيفاً شاملاً للرحلات تجاوز 4 ساعات، ووزير النقل شون دافي يقول الآن إن أعمال متعاقد لاستبدال كابلات نحاسية بالألياف أدّت إلى تحميل زائد على جهاز توجيه، مستبعداً هجوماً سيبرانياً.",
    "source": {
     "name": "CBS News, The New York Times",
     "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
@@ -1160,42 +1184,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-asks-ag-to-intervene-arguing-that-netanyahus-staff-has-fails-to-arrange-security-briefings/"
-   }
-  },
-  {
-   "id": "20261111-1743-eisenkot-letter-no-security-moves",
-   "time": "2026-11-11T17:43:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "In a letter, Eisenkot urges caretaker PM Netanyahu not to deploy security forces without an immediate threat during the transition, noting only 46 MKs still back him, amid reports of planned Iran action.",
-   "ar": "آيزنكوت يحثّ رئيس الحكومة الانتقالية نتنياهو في رسالة على عدم تحريك القوى الأمنية من دون تهديد فوري خلال المرحلة الانتقالية، مذكّراً بأن 46 نائباً فقط ما زالوا يدعمونه، وسط تقارير عن عمل مخطط ضد إيران.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/amid-talk-of-iran-action-eisenkot-implores-netanyahu-to-hold-off-on-security-moves-during-transitional-period/"
-   }
-  },
-  {
-   "id": "20261111-1738-qassem-let-israel-attack",
-   "time": "2026-11-11T17:38:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Hezbollah leader Naim Qassem calls disarmament a US and Israeli demand and tells Lebanese critics who want it to let Israel carry it out, per Iran International.",
-   "ar": "الأمين العام لحزب الله نعيم قاسم يصف نزع السلاح بأنه مطلب أميركي وإسرائيلي، ويقول لمنتقديه اللبنانيين المطالبين به أن يتركوا إسرائيل تنفّذه، بحسب «إيران إنترناشيونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611077068"
-   }
-  },
-  {
-   "id": "20261111-1723-trump-arlington-total-victory",
-   "time": "2026-11-11T17:23:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells a Veterans Day ceremony at Arlington that the US won the Iran war, seeks 'total victory', says Iran needs 25 years to rebuild and 18 Americans were killed.",
-   "ar": "ترامب يقول في مراسم يوم المحاربين القدامى في أرلينغتون إن الولايات المتحدة ربحت الحرب على إيران وتريد «نصراً كاملاً»، وإن إيران تحتاج 25 عاماً لإعادة البناء، وإن 18 أميركياً قُتلوا.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/american-politics/article-914616"
    }
   }
  ]
