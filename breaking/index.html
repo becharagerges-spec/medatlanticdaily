@@ -14,10 +14,10 @@
 <meta name="twitter:card" content="summary">
 <style>
 @view-transition{navigation:auto}
-:root{--ground:#F6F4EF;--ink:#171614;--ink-2:#48463F;--ink-3:#7A776F;--hair:#D8D4CB;--card:#FFFFFF;--card-2:#EFECE5;--link:#1A5DAB;--esc:#C2413A;--rep:#A86A00;--ok:#2E7D4F;
+:root{--ground:#F6F4EF;--ink:#171614;--ink-2:#48463F;--ink-3:#6B6962;--hair:#D8D4CB;--card:#FFFFFF;--card-2:#EFECE5;--link:#1A5DAB;--esc:#A13630;--rep:#7E5000;--ok:#256540;
 --f-ui:-apple-system,BlinkMacSystemFont,"SF Pro Text","Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 --f-ar:-apple-system,BlinkMacSystemFont,"SF Arabic","Noto Sans Arabic","IBM Plex Sans Arabic","Segoe UI",Tahoma,"Geeza Pro",sans-serif}
-@media (prefers-color-scheme:dark){:root{--ground:#1F1F21;--ink:#F3F1EC;--ink-2:#C9C6BF;--ink-3:#8E8B84;--hair:#3A3A3E;--card:#2A2A2D;--card-2:#262628;--link:#8AB4F8;--esc:#E0695E;--rep:#E2B04A;--ok:#5FBF7A}}
+@media (prefers-color-scheme:dark){:root{--ground:#1F1F21;--ink:#F3F1EC;--ink-2:#C9C6BF;--ink-3:#96938C;--hair:#3A3A3E;--card:#2A2A2D;--card-2:#262628;--link:#8AB4F8;--esc:#E78D85;--rep:#E2B04A;--ok:#5FBF7A}}
 *{box-sizing:border-box}
 html{background:var(--ground)}
 body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.55 var(--f-ui);-webkit-text-size-adjust:100%}
@@ -44,6 +44,15 @@ body.ar .h{font-size:17.5px;line-height:1.75}
 .day{font:700 12px/1 var(--f-ui);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2);padding:22px 0 6px;border-bottom:2px solid var(--ink)}
 body.ar .day{font-family:var(--f-ar);letter-spacing:0;font-size:14px}
 .empty{color:var(--ink-3);padding:24px 0}
+.fbar{max-width:760px;margin:0 auto;padding:10px 16px 0;display:flex;gap:7px;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+.fbar::-webkit-scrollbar{display:none}
+.fbar:empty{display:none}
+.fc{flex:none;display:inline-flex;align-items:center;gap:7px;height:40px;padding:0 14px;border-radius:999px;border:1px solid var(--hair);background:var(--card);color:var(--ink);font:600 14px/1 var(--f-ui);cursor:pointer;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+body.ar .fc{font-family:var(--f-ar);font-size:15px}
+.fc i{font-style:normal;font-variant-numeric:tabular-nums;font-size:12.5px;color:var(--ink-3)}
+.fc.on{background:var(--ink);color:var(--ground);border-color:var(--ink)}
+.fc.on i{color:inherit;opacity:.8}
+.fc:focus-visible{outline:2px solid var(--link);outline-offset:2px}
 .wrap{padding-bottom:110px}
 .back{position:fixed;left:50%;bottom:max(22px,calc(env(safe-area-inset-bottom,0px) + 12px));transform:translateX(-50%);z-index:6;display:inline-flex;align-items:center;gap:9px;height:52px;padding:0 22px 0 16px;border-radius:999px;background:linear-gradient(180deg,#2B2A27,#151412);color:#fff;text-decoration:none;font:800 16px/1 var(--f-ui);white-space:nowrap;border:1px solid rgba(255,255,255,.14);box-shadow:0 14px 30px -12px rgba(0,0,0,.55),0 2px 6px rgba(0,0,0,.18);cursor:pointer;transition:transform .15s ease,box-shadow .15s ease,filter .15s ease;-webkit-tap-highlight-color:transparent}
 .back:hover{transform:translateX(-50%) translateY(-1px);filter:brightness(1.12)}
@@ -60,7 +69,7 @@ body.ar .back svg{transform:scaleX(-1)}
 <header><div class="top">
 <a class="brand" href="/"><b>MedAtlantic Daily</b><span data-en="Breaking" data-ar="عاجل">Breaking</span></a>
 <button class="lang" id="lang" type="button">عربي</button>
-</div></header>
+</div><div class="fbar" id="fbar" role="group" aria-label="Filter by theater"></div></header>
 <div class="wrap">
 <div class="meta" id="meta" data-en="Loading…" data-ar="جارٍ التحميل…">Loading…</div>
 <noscript><p class="empty">This page needs JavaScript to show the latest items. The full report is on the main page.</p></noscript>
@@ -70,6 +79,7 @@ body.ar .back svg{transform:scaleX(-1)}
 <script>
 (function(){
 var L="en";try{L=localStorage.getItem("ma_bk_lang")||"en";}catch(e){}
+var F="all";try{F=localStorage.getItem("ma_bk_th")||"all";}catch(e){}
 var TH={lebanon:["Lebanon","لبنان"],usa:["United States","الولايات المتحدة"],israel:["Israel","إسرائيل"],saudi:["Saudi Arabia","السعودية"],iraq:["Iraq","العراق"],iran:["Iran","إيران"],mideast:["Middle East","الشرق الأوسط"],gulf:["The Gulf","الخليج"],europe:["Europe","أوروبا"],russia:["Russia","روسيا"],ukraine:["Ukraine","أوكرانيا"],africa:["Africa","أفريقيا"],china:["China","الصين"],markets:["Markets","الأسواق"],world:["World","العالم"]};
 var ST={confirmed:["Confirmed","مؤكد"],reported:["Reported","منقول"]};
 var MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],MAR=["كانون الثاني","شباط","آذار","نيسان","أيار","حزيران","تموز","آب","أيلول","تشرين الأول","تشرين الثاني","كانون الأول"];
@@ -82,14 +92,24 @@ function dayLabel(r){return L=="ar"?(r.getUTCDate()+" "+MAR[r.getUTCMonth()]+" "
 function ago(iso){var m=Math.round((Date.now()-new Date(iso).getTime())/60000);if(isNaN(m))return"";if(m<60)return L=="ar"?("قبل "+Math.max(m,1)+" د"):(Math.max(m,1)+" min ago");var h=Math.floor(m/60);if(h<24)return L=="ar"?("قبل "+h+" س"):(h+" h ago");return"";}
 function safe(u){return typeof u=="string"&&/^https:\/\//.test(u)&&!/claude\.ai|anthropic|openai|chatgpt|gemini\.google|drive\.google|docs\.google|mail\.google|gmail/i.test(u);}
 function statics(){document.body.className=L=="ar"?"ar":"";document.documentElement.lang=L;document.getElementById("lang").textContent=L=="ar"?"EN":"عربي";
-var n=document.querySelectorAll("[data-en]");for(var i=0;i<n.length;i++)n[i].textContent=n[i].getAttribute("data-"+L);}
-function render(){statics();var list=document.getElementById("list"),meta=document.getElementById("meta");
+var n=document.querySelectorAll("[data-en]");for(var i=0;i<n.length;i++)n[i].textContent=n[i].getAttribute("data-"+L);
+document.getElementById("fbar").setAttribute("aria-label",L=="ar"?"تصفية حسب الساحة":"Filter by theater");}
+function chip(k,name,n){return '<button type="button" class="fc'+(F==k?" on":"")+'" data-th="'+esc(k)+'" aria-pressed="'+(F==k?"true":"false")+'">'+esc(name)+"<i>"+n+"</i></button>";}
+function render(){statics();var list=document.getElementById("list"),meta=document.getElementById("meta"),fb=document.getElementById("fbar");
 if(!data||!data.items){return;}
 var it=data.items.slice().sort(function(a,b){return a.time<b.time?1:-1;});
 meta.textContent="";meta.hidden=true;
-if(!it.length){list.innerHTML='<p class="empty">'+(L=="ar"?"لا أخبار عاجلة حالياً.":"No breaking items at the moment.")+"</p>";return;}
+if(!it.length){fb.innerHTML="";list.innerHTML='<p class="empty">'+(L=="ar"?"لا أخبار عاجلة حالياً.":"No breaking items at the moment.")+"</p>";return;}
+var cnt={},tot=0,ord=[],i,k0;
+for(i=0;i<it.length;i++){if(!riy(it[i].time))continue;tot++;k0=it[i].theater;if(k0)cnt[k0]=(cnt[k0]||0)+1;}
+for(k0 in TH)if(cnt[k0])ord.push(k0);
+for(k0 in cnt)if(ord.indexOf(k0)<0)ord.push(k0);
+if(F!="all"&&!cnt[F])F="all";
+var fh="";
+if(ord.length>1){fh=chip("all",L=="ar"?"الكل":"All",tot);for(i=0;i<ord.length;i++)fh+=chip(ord[i],(TH[ord[i]]||[ord[i],ord[i]])[L=="ar"?1:0],cnt[ord[i]]);}else{F="all";}
+fb.innerHTML=fh;
 var h="",cur="";
-for(var i=0;i<it.length;i++){var x=it[i],r=riy(x.time);if(!r)continue;var k=dayKey(r);
+for(i=0;i<it.length;i++){var x=it[i],r=riy(x.time);if(!r)continue;if(F!="all"&&x.theater!=F)continue;var k=dayKey(r);
 if(k!=cur){if(cur)h+="</ol>";h+='<div class="day">'+esc(dayLabel(r))+"</div><ol>";cur=k;}
 var th=TH[x.theater]||[x.theater||"",x.theater||""],st=ST[x.status]||ST.reported,a=ago(x.time),fresh=(Date.now()-new Date(x.time).getTime())<3600e3;
 var src=x.source||{},sname=esc(src.name||""),link=safe(src.url)?'<a href="'+esc(src.url)+'" target="_blank" rel="noopener">'+sname+"</a>":sname;
@@ -100,6 +120,9 @@ function load(){var x=new XMLHttpRequest();x.open("GET","feed.json?v="+Date.now(
 x.onload=function(){if(x.status==200){try{data=JSON.parse(x.responseText);}catch(e){}}render();if(!data)document.getElementById("meta").textContent=L=="ar"?"تعذّر التحميل، أعد المحاولة لاحقاً.":"Could not load the feed; try again shortly.";};
 x.onerror=function(){if(!data)document.getElementById("meta").textContent=L=="ar"?"تعذّر التحميل، أعد المحاولة لاحقاً.":"Could not load the feed; try again shortly.";};x.send();}
 document.getElementById("lang").onclick=function(){L=L=="ar"?"en":"ar";try{localStorage.setItem("ma_bk_lang",L);}catch(e){}render();};
+document.getElementById("fbar").onclick=function(ev){var b=ev.target;while(b&&b!=this&&!(b.getAttribute&&b.getAttribute("data-th")))b=b.parentNode;if(!b||b==this)return;
+F=b.getAttribute("data-th");try{localStorage.setItem("ma_bk_th",F);}catch(e){}render();window.scrollTo(0,0);
+var on=this.querySelector(".on");if(on&&on.scrollIntoView)on.scrollIntoView({block:"nearest",inline:"center"});};
 statics();load();setInterval(load,300000);
 })();
 </script>
