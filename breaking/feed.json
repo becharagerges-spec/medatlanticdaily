@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-14T10:07:26Z",
+ "updated": "2026-11-14T11:09:02Z",
  "items": [
+  {
+   "id": "20261114-1051-belgorod-drone-three-killed",
+   "time": "2026-11-14T10:51:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "A Ukrainian drone strike on a house in Proletarsky, Belgorod region, kills a couple and their 24-year-old daughter, Russian regional authorities say; 7 more are injured elsewhere in the region.",
+   "ar": "السلطات الإقليمية الروسية تقول إن مسيّرة أوكرانية أصابت منزلاً في بروليتارسكي بمنطقة بيلغورود فقتلت زوجين وابنتهما البالغة 24 عاماً، وأُصيب 7 آخرون في أنحاء المنطقة.",
+   "source": {
+    "name": "Anadolu via aNews",
+    "url": "https://www.anews.com.tr/world/2026/11/14/russia-ukraine-trade-deadly-overnight-strikes-leaving-5-killed-18-injured"
+   }
+  },
+  {
+   "id": "20261114-0941-zelensky-us-donbas-nato",
+   "time": "2026-11-14T09:41:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says US negotiators asked for the first time whether Ukraine would withdraw from Donbas in exchange for NATO membership, and says any final terms would be put to Ukrainians.",
+   "ar": "زيلينسكي يقول إن المفاوضين الأميركيين سألوا للمرة الأولى ما إذا كانت أوكرانيا ستنسحب من دونباس مقابل عضوية حلف الناتو، مؤكداً أن أي شروط نهائية ستُطرح على الأوكرانيين.",
+   "source": {
+    "name": "AFP via Euronews",
+    "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+   }
+  },
   {
    "id": "20261114-0725-iran-navy-tanker-mine-east-hormuz",
    "time": "2026-11-14T07:25:00Z",
