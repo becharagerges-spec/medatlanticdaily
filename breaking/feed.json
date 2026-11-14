@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-14T18:08:20Z",
+ "updated": "2026-11-14T19:08:44Z",
  "items": [
   {
    "id": "20261114-1739-netanyahu-unity-appeal-eisenkot",
    "time": "2026-11-14T17:39:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "In a video on X, Netanyahu urges Gadi Eisenkot to drop an alternative coalition and negotiate a national unity government 'without preconditions', including on haredi conscription, citing Iran's nuclear threat.",
-   "ar": "نتنياهو يدعو، في فيديو على منصة إكس، غادي آيزنكوت إلى التخلي عن ائتلاف بديل والتفاوض «من دون شروط مسبقة» على حكومة وحدة وطنية، بما فيها تجنيد الحريديم، متذرّعاً بالتهديد النووي الإيراني.",
+   "en": "Netanyahu urges Gadi Eisenkot to negotiate a national unity government 'without preconditions'; Eisenkot calls it 'another spin' and says Likud and Yashar teams already meet on Sunday.",
+   "ar": "نتنياهو يدعو غادي آيزنكوت إلى التفاوض «من دون شروط مسبقة» على حكومة وحدة وطنية، وآيزنكوت يصف الدعوة بأنها «مناورة أخرى» ويقول إن فريقَي الليكود و«يشار» يلتقيان الأحد أصلاً.",
    "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-914874"
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-calls-netanyahus-unity-offer-another-spin-says-talks-already-scheduled/"
    }
   },
   {
@@ -1160,30 +1160,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/turkeys-president-calls-gaza-war-an-ecocide-at-un-climate-summit-israel-campaign-of-lies/"
-   }
-  },
-  {
-   "id": "20261111-1850-israel-france-dagan-entry",
-   "time": "2026-11-11T18:50:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's Foreign Ministry calls France's decision to deny entry to Samaria Regional Council head Yossi Dagan 'completely unacceptable' and says it will demand explanations.",
-   "ar": "وزارة الخارجية الإسرائيلية تصف قرار فرنسا منع دخول رئيس مجلس مستوطنات السامرة يوسي داغان بأنه «غير مقبول إطلاقاً» وتقول إنها ستطالب بتوضيحات.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-calls-french-decision-to-deny-entry-to-settler-leader-completely-unacceptable/"
-   }
-  },
-  {
-   "id": "20261111-1822-eisenkot-ag-briefings-pmo",
-   "time": "2026-11-11T18:22:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Eisenkot asks Attorney General Gali Baharav-Miara to secure him security briefings and cabinet approval of any military action; Netanyahu's office calls his demand a 'transparent attempt' to politicize security.",
-   "ar": "آيزنكوت يطلب من المستشارة القضائية غالي بهاراف-ميارا ضمان تلقّيه إحاطات أمنية وإقرار الحكومة أي عمل عسكري، ومكتب نتنياهو يصف مطلبه بأنه «محاولة مكشوفة» لتسييس الأمن.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-asks-ag-to-intervene-arguing-that-netanyahus-staff-has-fails-to-arrange-security-briefings/"
    }
   }
  ]
