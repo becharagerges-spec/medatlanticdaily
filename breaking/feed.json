@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-13T20:08:15Z",
+ "updated": "2026-11-14T03:08:05Z",
  "items": [
+  {
+   "id": "20261114-0111-rubio-no-need-strikes-iran",
+   "time": "2026-11-14T01:11:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US Secretary of State Marco Rubio tells the Federalist Society the economic pain inflicted on Iran is 'so great that there's no need for military action', per AP.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول أمام «الجمعية الفدرالية» إن الألم الاقتصادي المفروض على إيران «كبير لدرجة لا حاجة معها إلى عمل عسكري»، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/rubio-no-need-for-further-strikes-on-iran-because-the-economic-pain-is-so-great/"
+   }
+  },
+  {
+   "id": "20261113-2340-trump-xi-putin-shenzhen",
+   "time": "2026-11-13T23:40:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "The White House says Trump, Xi Jinping and Putin will meet on Thursday 19 November on the sidelines of the APEC summit in Shenzhen; a US official says Iran and nuclear arms, not Ukraine, are on the agenda.",
+   "ar": "البيت الأبيض يعلن أن ترامب وشي جين بينغ وبوتين سيلتقون الخميس 19 تشرين الثاني على هامش قمة «أبيك» في شنتشن، ومسؤول أميركي يقول إن إيران والأسلحة النووية، لا أوكرانيا، على جدول الأعمال.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+   }
+  },
+  {
+   "id": "20261113-2240-houthis-jazan-missiles",
+   "time": "2026-11-13T22:40:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's Houthis say they fired 2 ballistic missiles at Saudi forces in Al-Tuwal, Jazan, and attacked Riyadh's King Khalid airport and an East-West pipeline pumping station; no Saudi confirmation.",
+   "ar": "الحوثيون في اليمن يقولون إنهم أطلقوا صاروخين بالستيين على القوات السعودية في الطوال بجازان، وهاجموا مطار الملك خالد في الرياض ومحطة ضخ على خط أنابيب شرق–غرب، من دون تأكيد سعودي.",
+   "source": {
+    "name": "The Jerusalem Post"
+   }
+  },
+  {
+   "id": "20261113-2113-faa-nationwide-ground-stop",
+   "time": "2026-11-13T21:13:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The FAA grounds all US flights for more than 4 hours over a communications failure at air traffic control centres; Homeland Security Secretary Markwayne Mullin sees no sign of a security threat.",
+   "ar": "إدارة الطيران الفدرالية الأميركية توقف جميع الرحلات في الولايات المتحدة أكثر من 4 ساعات بسبب عطل في الاتصالات بمراكز المراقبة الجوية، ووزير الأمن الداخلي ماركواين مولين لا يرى مؤشراً على تهديد أمني.",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
+   }
+  },
+  {
+   "id": "20261113-2105-irgc-two-oil-tankers-mines",
+   "time": "2026-11-13T21:05:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says 2 oil tankers exploded and caught fire after hitting sea mines while crossing the Strait of Hormuz without coordinating with Iran; no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط انفجرتا واشتعلت فيهما النيران بعد اصطدامهما بألغام بحرية أثناء عبور مضيق هرمز من دون تنسيق مع إيران، من دون تأكيد مستقل.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-two-tankers-hit-sea-mines-in-hormuz/"
+   }
+  },
   {
    "id": "20261113-1930-mamdani-trump-snap-delay",
    "time": "2026-11-13T19:30:00Z",
@@ -47,6 +106,18 @@
    "source": {
     "name": "Yahoo Finance",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+   }
+  },
+  {
+   "id": "20261113-1515-qatar-turkey-defence-pact",
+   "time": "2026-11-13T15:15:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar's Emir Tamim bin Hamad and Turkish President Erdoğan sign a joint defence agreement in Istanbul, pledging a common stance against any external armed attack on either country.",
+   "ar": "أمير قطر الشيخ تميم بن حمد والرئيس التركي أردوغان يوقّعان في إسطنبول اتفاقية دفاع مشترك تنصّ على موقف موحّد في وجه أي اعتداء مسلّح خارجي على أيٍّ من البلدين.",
+   "source": {
+    "name": "Qatar Amiri Diwan",
+    "url": "https://www.diwan.gov.qa/ar-qa/briefing-room/news/foreign-visits/2026/november/13/hh-the-amir-and-turkish-president-sign-joint-defense-agreement"
    }
   },
   {
@@ -1196,149 +1267,6 @@
    "source": {
     "name": "investingLive",
     "url": "https://investinglive.com/stock-market-update/asia-midday-nikkei-up-for-third-day-kosdaq-jumps-5-as-ai-stocks-rebound/"
-   }
-  },
-  {
-   "id": "20261111-0259-kryvyi-rih-drones-power",
-   "time": "2026-11-11T02:59:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Russian drones hit critical infrastructure in Kryvyi Rih late Tuesday, leaving parts of Zelensky's hometown without power and disrupting heating and water, city defence chief Oleksandr Vilkul says.",
-   "ar": "مسيّرات روسية تضرب بنى تحتية حيوية في كريفي ريه مساء الثلاثاء، فتقطع الكهرباء عن أجزاء من مدينة زيلينسكي وتعطّل التدفئة والمياه، بحسب رئيس مجلس دفاع المدينة أولكسندر فيلكول.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89737"
-   }
-  },
-  {
-   "id": "20261111-0102-bessent-military-base",
-   "time": "2026-11-11T01:02:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Treasury Secretary Scott Bessent has moved out of his home onto a military base after Iranian threats against his life, The New York Times reports.",
-   "ar": "وزير الخزانة الأميركي سكوت بيسنت انتقل من منزله إلى قاعدة عسكرية إثر تهديدات إيرانية لحياته، وفق صحيفة «نيويورك تايمز».",
-   "source": {
-    "name": "The New York Times via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-treasury-secretary-bessent-moved-to-military-base-after-iranian-threats-nyt/"
-   }
-  },
-  {
-   "id": "20261111-0059-ust-luga-port-drone-fire",
-   "time": "2026-11-11T00:59:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Ukrainian drones start a fire at Russia's Ust-Luga port, injuring 3 workers; Russia's Defence Ministry says it downed 627 drones overnight, 150 of them over the St Petersburg region.",
-   "ar": "مسيّرات أوكرانية تُشعل حريقاً في ميناء أوست-لوغا الروسي وتُصيب 3 عمّال، ووزارة الدفاع الروسية تقول إنها أسقطت 627 مسيّرة ليلاً، منها 150 فوق منطقة سانت بطرسبرغ.",
-   "source": {
-    "name": "AP via News4Jax",
-    "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
-   }
-  },
-  {
-   "id": "20261111-0040-softbank-7bn-loss",
-   "time": "2026-11-11T00:40:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "SoftBank Group shares slide more than 10% in Tokyo after the company posts a $7 billion loss driven by a large US data-centre writedown.",
-   "ar": "أسهم مجموعة سوفت بنك تتراجع أكثر من 10% في طوكيو بعد إعلان الشركة خسارة بقيمة 7 مليارات دولار بسبب شطب كبير لقيمة مراكز بيانات في الولايات المتحدة.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
-   }
-  },
-  {
-   "id": "20261110-2353-goolsbee-cpi-disturbing",
-   "time": "2026-11-10T23:53:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Chicago Fed President Austan Goolsbee calls the October inflation report 'borderline disturbing', saying services inflation is not coming down, as traders firm up bets on a December rate hike.",
-   "ar": "رئيس الاحتياطي الفدرالي في شيكاغو أوستن غولزبي يصف تقرير التضخم لشهر تشرين الأول بأنه «مقلق إلى حدّ ما»، قائلاً إن تضخم الخدمات لا يتراجع، فيما يعزّز المتداولون رهاناتهم على رفع الفائدة في كانون الأول.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/fed-s-goolsbee-says-october-cpi-report-borderline-disturbing-mwbel9qz"
-   }
-  },
-  {
-   "id": "20261110-2305-house-kills-hegseth-impeachment",
-   "time": "2026-11-10T23:05:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The House votes 211-204 to refer Rep. Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, effectively killing it.",
-   "ar": "مجلس النواب الأميركي يصوّت بأغلبية 211 مقابل 204 على إحالة قرار النائب توماس ماسي بعزل وزير الدفاع بيت هيغسيث إلى اللجنة القضائية، ما يُسقطه عملياً.",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
-   }
-  },
-  {
-   "id": "20261110-2223-south-pars-platform-fire",
-   "time": "2026-11-10T22:23:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian officials say a fire on a Phase 14 platform at the South Pars gas field, producing 14.5 million cubic metres a day, is under control; 17 workers who jumped into the sea were rescued.",
-   "ar": "مسؤولون إيرانيون يقولون إن حريقاً على منصة في المرحلة 14 من حقل بارس الجنوبي للغاز، تنتج 14.5 مليون متر مكعب يومياً، بات تحت السيطرة، وأُنقذ 17 عاملاً قفزوا إلى البحر.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field"
-   }
-  },
-  {
-   "id": "20261110-2059-us-soldier-arrested-uk-russia",
-   "time": "2026-11-10T20:59:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "London's Metropolitan Police arrest a 41-year-old US Army soldier near Gloucester on suspicion of espionage for Russia; the FBI calls the case of 'the utmost concern'.",
-   "ar": "شرطة لندن تعتقل جندياً في الجيش الأميركي يبلغ 41 عاماً قرب غلوستر للاشتباه بالتجسس لصالح روسيا، ومكتب التحقيقات الفدرالي يصف القضية بأنها «مصدر قلق بالغ».",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia"
-   }
-  },
-  {
-   "id": "20261110-2052-thune-reelected-senate-gop",
-   "time": "2026-11-10T20:52:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Senate Republicans re-elect John Thune as their leader by acclamation for the next Congress, in which they will be in the minority after the midterm losses.",
-   "ar": "الجمهوريون في مجلس الشيوخ يعيدون انتخاب جون ثون زعيماً لهم بالتزكية للكونغرس المقبل، حيث سيصبحون أقلية بعد خسائر الانتخابات النصفية.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261110-2033-pmo-gaza-winter-hamas-disarm",
-   "time": "2026-11-10T20:33:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu's office says its Gaza winter plan includes over 91,000 tents and 8,200 trucks of supplies, but insists Hamas must disarm before reconstruction begins.",
-   "ar": "مكتب نتنياهو يقول إن خطة الشتاء لغزة تشمل أكثر من 91,000 خيمة و8,200 شاحنة إمدادات، لكنه يصرّ على نزع سلاح حماس قبل بدء إعادة الإعمار.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/under-criticism-pms-office-insists-winter-supplies-entering-gaza-but-hamas-must-disarm-before-reconstruction/"
-   }
-  },
-  {
-   "id": "20261110-2032-ex-iraqi-mp-found-dead-beirut",
-   "time": "2026-11-10T20:32:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Former Iraqi MP Ahmed al-Alwani is found dead in a Beirut apartment in Tariq al-Jdideh, apparently strangled, and one suspect is arrested, a Lebanese security source says.",
-   "ar": "العثور على النائب العراقي السابق أحمد العلواني مقتولاً في شقة بمنطقة الطريق الجديدة في بيروت، ويبدو أنه قضى خنقاً، وتوقيف مشتبه به واحد، بحسب مصدر أمني لبناني.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.pk/middle-east/former-iraqi-mp-found-dead-in-beirut-suspect-arrested-3006694"
-   }
-  },
-  {
-   "id": "20261110-2013-doj-charges-fairford-plot",
-   "time": "2026-11-10T20:13:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Justice Department charges 3 alleged Iranian-backed operatives over a failed September attack on RAF Fairford, alleging one directed the plot from a New York jail.",
-   "ar": "وزارة العدل الأميركية توجّه اتهامات إلى 3 عناصر يُشتبه بارتباطهم بإيران في محاولة هجوم فاشلة على قاعدة فيرفورد البريطانية في أيلول، وتتهم أحدهم بتوجيه المخطط من سجن في نيويورك.",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest"
    }
   }
  ]
