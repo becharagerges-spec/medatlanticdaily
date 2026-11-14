@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:07:35Z",
+ "updated": "2026-11-14T08:08:38Z",
  "items": [
   {
    "id": "20261114-0638-russia-96-drones-ukraine",
@@ -101,11 +101,11 @@
    "time": "2026-11-13T19:34:00Z",
    "theater": "world",
    "status": "confirmed",
-   "en": "Microsoft reports 'broad recovery' after an outage since Thursday hit Outlook and Teams in 74 countries, blaming a network capacity upgrade, not a cyberattack.",
-   "ar": "مايكروسوفت تعلن «تعافياً واسعاً» بعد عطل منذ الخميس طال Outlook وTeams في 74 دولة، وتعزوه إلى تحديث في سعة الشبكة لا إلى هجوم سيبراني.",
+   "en": "Microsoft says access to its flagship software, including Outlook and Teams, is fully restored after a global outage it blamed on a network capacity upgrade, not a cyberattack.",
+   "ar": "مايكروسوفت تعلن استعادة الوصول الكامل إلى برمجياتها الرئيسية، ومنها Outlook وTeams، بعد عطل عالمي عزته إلى تحديث في سعة الشبكة لا إلى هجوم سيبراني.",
    "source": {
-    "name": "ABC News (Australia)",
-    "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540"
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
    }
   },
   {
