@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:07:36Z",
+ "updated": "2026-11-14T22:08:32Z",
  "items": [
   {
    "id": "20261114-1921-damascus-jaramana-car-bomb",
@@ -23,6 +23,30 @@
    "source": {
     "name": "Beirut 24",
     "url": "https://www.beirut24.org/2026/11/14/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%81%D8%B1%D8%AA%D8%A8%D9%86%D9%8A%D8%AA-%D8%AC%D9%86-2/"
+   }
+  },
+  {
+   "id": "20261114-1820-hayya-gaza-rains-aid",
+   "time": "2026-11-14T18:20:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Hamas political chief Khalil al-Hayya calls for urgent repairs to Gaza's sewers after heavy rains destroyed tens of thousands of tents, and urges Israel to allow more food and fuel in.",
+   "ar": "رئيس المكتب السياسي لحماس خليل الحية يدعو إلى إصلاح عاجل لشبكات الصرف في غزة بعدما دمّرت الأمطار الغزيرة عشرات آلاف الخيام، ويطالب إسرائيل بإدخال مزيد من الغذاء والوقود.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-urgent-repairs-gazas-sewage-and-drainage-systems"
+   }
+  },
+  {
+   "id": "20261114-1744-houthis-72-coalition-strikes",
+   "time": "2026-11-14T17:44:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi military spokesman Yahya Saree says the Saudi-led coalition carried out 72 air strikes in 24 hours on Saada, Taiz, Lahij and al-Jawf, and 5,020 air and missile attacks since the summer.",
+   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن التحالف بقيادة السعودية شنّ 72 غارة جوية خلال 24 ساعة على صعدة وتعز ولحج والجوف، و5020 هجوماً جوياً وصاروخياً منذ الصيف.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-report-72-saudi-led-coalition-air-strikes-across-yemen"
    }
   },
   {
@@ -119,6 +143,18 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/3098816/"
+   }
+  },
+  {
+   "id": "20261114-1121-ukraine-russia-prisoner-swap",
+   "time": "2026-11-14T11:21:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says the Moscow talks with US negotiators produced agreement on a prisoner swap of more than 1,000 people per side, possibly 1,200 to 1,300, and rejects any Ukrainian neutrality.",
+   "ar": "زيلينسكي يقول إن محادثات موسكو مع المفاوضين الأميركيين أفضت إلى اتفاق على تبادل أكثر من 1000 أسير من كل جانب، وربما 1200 إلى 1300، ويرفض أي حياد لأوكرانيا.",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/world/2026/11/14/zelenskyy-says-a-new-european-security-framework-floated-by-us-could-benefit-putin/"
    }
   },
   {
@@ -1136,42 +1172,6 @@
    "source": {
     "name": "Mississippi Today",
     "url": "https://mississippitoday.org/2026/11/11/scott-colom-wins-senate-mississippi-hyde-smith/"
-   }
-  },
-  {
-   "id": "20261111-2148-security-cabinet-iran-prep",
-   "time": "2026-11-11T21:48:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's security cabinet has ordered the military to step up preparations for a possible attack on Iran, public broadcaster Kan reports, warning the directives could trigger a war.",
-   "ar": "المجلس الوزاري الأمني الإسرائيلي أوعز إلى الجيش بتكثيف الاستعدادات لهجوم محتمل على إيران، بحسب هيئة البث العامة «كان»، التي حذّرت من أن هذه التوجيهات قد تُشعل حرباً.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran"
-   }
-  },
-  {
-   "id": "20261111-2110-vance-weighs-rezaei-talks",
-   "time": "2026-11-11T21:10:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Vice President JD Vance is weighing direct talks with Iran's security chief Mohsen Rezaei, and Trump privately calls the June memorandum with Iran a mistake, The Wall Street Journal reports; Rezaei says no meeting is planned.",
-   "ar": "نائب الرئيس الأميركي جي دي فانس يدرس محادثات مباشرة مع أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي، وترامب يصف سرّاً مذكرة حزيران مع إيران بالخطأ، بحسب «وول ستريت جورنال»؛ ورضائي ينفي التخطيط لأي لقاء.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-vance-weighing-direct-talks-with-iran-trump-sees-june-mou-as-blunder/"
-   }
-  },
-  {
-   "id": "20261111-2025-europe-unsc-e1",
-   "time": "2026-11-11T20:25:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Denmark and other European countries seek an emergency UN Security Council meeting next week on Israel's E1 settlement plan, ahead of a 19 November tender for 1,234 homes; Israel's Danon calls it 'a moral disgrace'.",
-   "ar": "الدنمارك ودول أوروبية أخرى تسعى إلى جلسة طارئة لمجلس الأمن الأسبوع المقبل بشأن مخطط E1 الاستيطاني الإسرائيلي، قبل مناقصة 1,234 وحدة سكنية في 19 تشرين الثاني؛ والسفير الإسرائيلي داني دانون يصفها بـ«العار الأخلاقي».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
    }
   }
  ]
