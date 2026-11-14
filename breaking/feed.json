@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-14T14:08:48Z",
+ "updated": "2026-11-14T15:08:47Z",
  "items": [
+  {
+   "id": "20261114-1411-gaza-city-drone-strike-two",
+   "time": "2026-11-14T14:11:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "An Israeli drone strike in northern Gaza City kills 2 Palestinians, per Palestinian media; the Israeli army says it targeted 2 militants and is reviewing the results.",
+   "ar": "غارة بمسيّرة إسرائيلية في شمال مدينة غزة تقتل فلسطينيَّين اثنين بحسب وسائل إعلام فلسطينية، والجيش الإسرائيلي يقول إنه استهدف عنصرَين مسلّحَين وإن النتائج قيد المراجعة.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/2-palestinians-reportedly-killed-in-north-gaza-drone-strike-idf-says-it-targeted-2-terror-operatives/"
+   }
+  },
+  {
+   "id": "20261114-1325-coalition-two-houthi-drones-riyadh",
+   "time": "2026-11-14T13:25:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed 2 Houthi drones launched toward the Riyadh and southern regions; spokesman Turki al-Maliki gave no word on damage or casualties.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرتَين حوثيتَين أُطلقتا نحو منطقة الرياض والمنطقة الجنوبية، ولم يذكر المتحدث تركي المالكي أي أضرار أو إصابات.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-drones-in-riyadh-southern-saudi-arabia/4125225"
+   }
+  },
   {
    "id": "20261114-1130-trump-may-hold-off-iran",
    "time": "2026-11-14T11:30:00Z",
@@ -47,6 +71,30 @@
    "source": {
     "name": "Anadolu via aNews",
     "url": "https://www.anews.com.tr/world/2026/11/14/russia-ukraine-trade-deadly-overnight-strikes-leaving-5-killed-18-injured"
+   }
+  },
+  {
+   "id": "20261114-1013-eisenkot-haredi-coalition-priority",
+   "time": "2026-11-14T10:13:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gadi Eisenkot has decided to prioritise a coalition with the ultra-Orthodox parties, as the four Jewish-led opposition parties hold only 48 of 120 seats, Israel's Channel 12 reports.",
+   "ar": "غادي آيزنكوت قرّر إعطاء الأولوية لائتلاف مع الأحزاب الحريدية، إذ لا تملك أحزاب المعارضة اليهودية الأربعة سوى 48 مقعداً من 120، بحسب القناة 12 الإسرائيلية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/"
+   }
+  },
+  {
+   "id": "20261114-1008-denmark-665m-ukraine-aid",
+   "time": "2026-11-14T10:08:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Denmark is giving Ukraine a new €645 million defence package and €20 million in energy support, €665 million in total.",
+   "ar": "زيلينسكي يعلن أن الدنمارك تقدّم لأوكرانيا حزمة دفاعية جديدة بقيمة 645 مليون يورو و20 مليون يورو دعماً للطاقة، أي 665 مليون يورو إجمالاً.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90117"
    }
   },
   {
