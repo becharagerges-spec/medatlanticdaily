@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:08:05Z",
+ "updated": "2026-11-14T14:08:48Z",
  "items": [
   {
    "id": "20261114-1130-trump-may-hold-off-iran",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/3098816/"
+   }
+  },
+  {
+   "id": "20261114-1107-iran-second-tanker-mine-east-hormuz",
+   "time": "2026-11-14T11:07:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says a second tanker caught fire on Saturday after hitting a naval mine in the eastern Strait of Hormuz, the fifth vessel hit there in 24 hours.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة ثانية اشتعلت السبت بعد ارتطامها بلغم بحري في شرق مضيق هرمز، وهي السفينة الخامسة التي تُصاب هناك خلال 24 ساعة.",
+   "source": {
+    "name": "Tasnim via News.az",
+    "url": "https://news.az/news/second-tanker-reported-ablaze-in-strait-of-hormuz-iran-says"
+   }
+  },
+  {
+   "id": "20261114-1100-irgc-claims-mq1-qeshm",
+   "time": "2026-11-14T11:00:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over Qeshm Island at about 2:30 pm local time, claiming it as the 17th MQ-1 downed.",
+   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم نحو الساعة 2:30 بعد الظهر بالتوقيت المحلي، ويقول إنها الـMQ-1 السابعة عشرة التي يسقطها.",
+   "source": {
+    "name": "Press TV",
+    "url": "https://www.presstv.co.uk/Detail/2026/11/14/780711/irgc-shoots-down-17th-us-mq-1-drone-over-qeshm-island"
    }
   },
   {
@@ -35,6 +59,18 @@
    "source": {
     "name": "AFP via Euronews",
     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+   }
+  },
+  {
+   "id": "20261114-0753-russia-nato-1997-demands",
+   "time": "2026-11-14T07:53:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia demanded NATO pull eastern-flank forces back to 1997 lines, end Western military aid to Ukraine and nuclear sharing, in Kremlin talks with US envoys on 12 November, per The New York Times.",
+   "ar": "روسيا طالبت بسحب قوات الناتو على الجناح الشرقي إلى خطوط 1997 ووقف المساعدات العسكرية الغربية لأوكرانيا والمشاركة النووية، خلال محادثات الكرملين مع المبعوثَين الأميركيَّين في 12 تشرين الثاني، بحسب «نيويورك تايمز».",
+   "source": {
+    "name": "The New York Times via Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90105"
    }
   },
   {
@@ -1124,89 +1160,6 @@
    "source": {
     "name": "TASS via LaPresse",
     "url": "https://uk.lapresse.it/world-en/2026/11/11/ukraine-kremlin-putin-to-meet-witkoff-and-kushner-tomorrow-morning-in-moscow/"
-   }
-  },
-  {
-   "id": "20261111-1345-knesset-arrangements-committee",
-   "time": "2026-11-11T13:45:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "The Knesset approves 63-50 a 22-member Arrangements Committee chaired by Yashar's Roy Folkman, giving the anti-Netanyahu bloc control of parliamentary business and rejecting Likud's bid to curb Arab parties.",
-   "ar": "الكنيست يقرّ بأغلبية 63 مقابل 50 لجنة ترتيبات من 22 عضواً برئاسة روي فولكمان من «يشار»، ما يمنح الكتلة المناهضة لنتنياهو السيطرة على العمل البرلماني ويُسقط مسعى الليكود لتقليص نفوذ الأحزاب العربية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/knesset-approves-makeup-of-powerful-arrangements-committee-63-50-rejecting-likud-bid-to-dilute-arab-parties-influence"
-   }
-  },
-  {
-   "id": "20261111-1302-netanyahu-unity-possible",
-   "time": "2026-11-11T13:02:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu says a national unity government is 'possible' and warns of 'immense challenges' ahead; Eisenkot's Yashar replies he 'does not want unity', per Israel Hayom.",
-   "ar": "نتنياهو يقول إن حكومة وحدة وطنية «ممكنة» ويحذّر من «تحديات هائلة» مقبلة، وحزب «يشار» بزعامة آيزنكوت يردّ بأنه «لا يريد الوحدة»، بحسب «يسرائيل هيوم».",
-   "source": {
-    "name": "Israel Hayom",
-    "url": "https://www.israelhayom.com/2026/11/11/netanyahu-unity-government-eisenkot-knesset-speech/"
-   }
-  },
-  {
-   "id": "20261111-1242-g7-iran-nuclear-hormuz",
-   "time": "2026-11-11T12:42:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "G7 foreign ministers say Iran must never acquire a nuclear weapon, condemn its attacks on ships in Hormuz, oppose any transit tolls and back CENTCOM mine-clearing and escorts.",
-   "ar": "وزراء خارجية مجموعة السبع يؤكدون أنه يجب ألّا تمتلك إيران سلاحاً نووياً أبداً، ويدينون هجماتها على السفن في هرمز، ويرفضون أي رسوم عبور، ويدعمون عمليات القيادة المركزية الأميركية لنزع الألغام والمواكبة.",
-   "source": {
-    "name": "This Is Beirut",
-    "url": "https://thisisbeirut.com.lb/news/politics/g7-foreign-ministers-share-joint-statement-on-iran"
-   }
-  },
-  {
-   "id": "20261111-1242-g7-hezbollah-disarmament",
-   "time": "2026-11-11T12:42:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "G7 foreign ministers' joint declaration calls disarming all non-state armed groups in Lebanon, 'foremost among them Hezbollah', essential and urges all parties to respect the ceasefire.",
-   "ar": "الإعلان المشترك لوزراء خارجية مجموعة السبع يعتبر نزع سلاح كل الجماعات المسلحة غير الحكومية في لبنان، «وفي مقدّمها حزب الله»، أمراً أساسياً، ويدعو جميع الأطراف إلى احترام وقف إطلاق النار.",
-   "source": {
-    "name": "UK Government (G7 joint declaration)"
-   }
-  },
-  {
-   "id": "20261111-1240-houthis-claim-saudi-strikes-taiz-lahj",
-   "time": "2026-11-11T12:40:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's Houthis claim Saudi warplanes struck districts of Taiz and Lahj provinces around midnight and Saudi artillery shelled Shada, wounding civilians; Riyadh has not confirmed, per The Jerusalem Post.",
-   "ar": "الحوثيون في اليمن يزعمون أن مقاتلات سعودية قصفت مديريات في محافظتَي تعز ولحج قرابة منتصف الليل وأن مدفعية سعودية قصفت شدا، ما أدى إلى جرح مدنيين؛ والرياض لم تؤكد، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914585"
-   }
-  },
-  {
-   "id": "20261111-1225-us-putin-blessing-europe-talks",
-   "time": "2026-11-11T12:25:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "US officials say Washington will seek Putin's 'blessing' for European countries to join the Ukraine peace talks after two days of negotiations in Abu Dhabi, per Politico.",
-   "ar": "مسؤولون أميركيون يقولون إن واشنطن ستسعى إلى نيل «مباركة» بوتين لانضمام الدول الأوروبية إلى محادثات السلام بشأن أوكرانيا بعد يومين من المفاوضات في أبوظبي، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/u-s-to-seek-putins-blessing-for-europe-to-join-ukraine-talks/"
-   }
-  },
-  {
-   "id": "20261111-1210-witkoff-kushner-putin-moscow",
-   "time": "2026-11-11T12:10:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "US envoys Steve Witkoff and Jared Kushner will meet Putin in Moscow on Thursday, then brief Zelensky in Dublin, after the Abu Dhabi talks end.",
-   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر سيلتقيان بوتين في موسكو الخميس، ثم يُطلعان زيلينسكي على النتائج في دبلن، بعد انتهاء محادثات أبوظبي.",
-   "source": {
-    "name": "Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1234767.html"
    }
   }
  ]
