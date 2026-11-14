@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T11:09:02Z",
+ "updated": "2026-11-14T12:08:05Z",
  "items": [
+  {
+   "id": "20261114-1130-trump-may-hold-off-iran",
+   "time": "2026-11-14T11:30:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump has told senior advisers he may hold off on attacking Iran if Tehran or the Houthis make no new provocations, Reuters reports, citing three sources; a third US carrier is heading to the region.",
+   "ar": "ترامب أبلغ كبار مستشاريه أنه قد يمتنع عن مهاجمة إيران ما لم تقم طهران أو الحوثيون باستفزازات جديدة، بحسب «رويترز» نقلاً عن ثلاثة مصادر، فيما تتّجه حاملة طائرات أميركية ثالثة إلى المنطقة.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/3098816/"
+   }
+  },
   {
    "id": "20261114-1051-belgorod-drone-three-killed",
    "time": "2026-11-14T10:51:00Z",
@@ -125,10 +137,10 @@
    "time": "2026-11-13T21:13:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The FAA grounds all US flights for more than 4 hours over a communications failure at air traffic control centres; Homeland Security Secretary Markwayne Mullin sees no sign of a security threat.",
-   "ar": "إدارة الطيران الفدرالية الأميركية توقف جميع الرحلات في الولايات المتحدة أكثر من 4 ساعات بسبب عطل في الاتصالات بمراكز المراقبة الجوية، ووزير الأمن الداخلي ماركواين مولين لا يرى مؤشراً على تهديد أمني.",
+   "en": "The FAA lifts a nationwide ground stop of more than 4 hours caused by an air traffic control communications failure; Transportation Secretary Sean Duffy blames ageing infrastructure as thousands remain stranded.",
+   "ar": "إدارة الطيران الفدرالية الأميركية ترفع وقفاً شاملاً للرحلات دام أكثر من 4 ساعات بسبب عطل في اتصالات المراقبة الجوية، ووزير النقل شون دافي يحمّل البنية التحتية المتقادمة المسؤولية فيما لا يزال الآلاف عالقين.",
    "source": {
-    "name": "CBS News",
+    "name": "CBS News, The New York Times",
     "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
    }
   },
@@ -1195,18 +1207,6 @@
    "source": {
     "name": "Interfax-Ukraine",
     "url": "https://en.interfax.com.ua/news/general/1234767.html"
-   }
-  },
-  {
-   "id": "20261111-1117-irgc-two-more-tankers-mines",
-   "time": "2026-11-11T11:17:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says 2 more tankers hit mines overnight on an 'unauthorized' route in the Strait of Hormuz and are burning and abandoned; no independent confirmation.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتين إضافيتين اصطدمتا بألغام ليلاً على مسار «غير مرخّص» في مضيق هرمز، وإنهما تحترقان وقد هجرهما طاقماهما، من دون تأكيد مستقل.",
-   "source": {
-    "name": "Shafaq News",
-    "url": "https://shafaq.com/en/World/IRGC-criticizes-CENTCOM-chief-over-Hormuz-tanker-blasts"
    }
   }
  ]
