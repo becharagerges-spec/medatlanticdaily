@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-14T03:08:05Z",
+ "updated": "2026-11-14T06:08:16Z",
  "items": [
+  {
+   "id": "20261114-0520-alaska-keeps-ranked-choice",
+   "time": "2026-11-14T05:20:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Alaska voters reject a ballot measure to repeal the state's open primaries and ranked-choice voting in general elections, AP reports.",
+   "ar": "ناخبو ألاسكا يرفضون اقتراحاً لإلغاء الانتخابات التمهيدية المفتوحة ونظام التصويت بالاختيار المرتّب في الانتخابات العامة، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/alaska-voters-reject-ballot-measure-051258685.html"
+   }
+  },
+  {
+   "id": "20261114-0507-alaska-governor-democrat",
+   "time": "2026-11-14T05:07:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Jonathan Kreiss-Tomkins, 37, wins Alaska's governorship, flipping the seat held by term-limited Republican Mike Dunleavy; it is the first Democratic win there in over 20 years.",
+   "ar": "الديمقراطي جوناثان كرايس-تومكينز (37 عاماً) يفوز بمنصب حاكم ألاسكا وينتزع المقعد من الجمهوري مايك دنليفي، في أول فوز ديمقراطي بالمنصب منذ أكثر من 20 عاماً.",
+   "source": {
+    "name": "NPR",
+    "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
+   }
+  },
   {
    "id": "20261114-0111-rubio-no-need-strikes-iran",
    "time": "2026-11-14T01:11:00Z",
@@ -58,6 +82,18 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-two-tankers-hit-sea-mines-in-hormuz/"
+   }
+  },
+  {
+   "id": "20261113-1934-microsoft-outage-recovery",
+   "time": "2026-11-13T19:34:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Microsoft reports 'broad recovery' after an outage since Thursday hit Outlook and Teams in 74 countries, blaming a network capacity upgrade, not a cyberattack.",
+   "ar": "مايكروسوفت تعلن «تعافياً واسعاً» بعد عطل منذ الخميس طال Outlook وTeams في 74 دولة، وتعزوه إلى تحديث في سعة الشبكة لا إلى هجوم سيبراني.",
+   "source": {
+    "name": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540"
    }
   },
   {
@@ -1219,54 +1255,6 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/iran-designates-argentinas-navy-air-060950148.html"
-   }
-  },
-  {
-   "id": "20261111-0400-russian-missiles-moldova-airspace",
-   "time": "2026-11-11T04:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Moldova's army says 2 Russian cruise missiles entered Moldovan airspace from Ukraine's Odesa region around 06:00 local time and stayed 4 to 5 minutes before returning.",
-   "ar": "الجيش المولدوفي يقول إن صاروخَي كروز روسيَّين دخلا الأجواء المولدوفية من منطقة أوديسا الأوكرانية نحو السادسة صباحاً بالتوقيت المحلي، وبقيا فيها 4 إلى 5 دقائق قبل أن يعودا.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-39-across-ukraine-over-past-day-as-2-russian-cruise-missiles-violate-moldovan-airspace/"
-   }
-  },
-  {
-   "id": "20261111-0344-india-fujairah-energy-crew-hurt",
-   "time": "2026-11-11T03:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "India's shipping minister Sarbananda Sonowal says the Liberia-flagged supertanker Fujairah Energy was hit by a projectile in the Gulf on Tuesday, injuring 4 crew members.",
-   "ar": "وزير الملاحة الهندي ساربانادا سونوال يقول إن ناقلة النفط العملاقة «فجيرة إنرجي» التي ترفع علم ليبيريا أُصيبت بمقذوف في الخليج يوم الثلاثاء، ما أدى إلى إصابة 4 من أفراد طاقمها.",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/mena/four-injured-as-tanker-with-indian-crew-hit-by-projectile-in-arabian-gulf-1.500743272"
-   }
-  },
-  {
-   "id": "20261111-0324-ukmto-tanker-incident-hormuz",
-   "time": "2026-11-11T03:24:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "The tanker in Wednesday's Strait of Hormuz incident reported by UKMTO is the Saudi-flagged NCC Fajr; India's shipping minister says its whole crew, including 3 Indians, is safe.",
-   "ar": "الناقلة المعنية بحادث مضيق هرمز الذي أبلغت عنه هيئة عمليات التجارة البحرية البريطانية يوم الأربعاء هي «إن سي سي فجر» التي ترفع العلم السعودي، ووزير الملاحة الهندي يقول إن طاقمها كاملاً، بينهم 3 هنود، بخير.",
-   "source": {
-    "name": "PTI via ThePrint",
-    "url": "https://theprint.in/india/saudi-arabia-flagged-tanker-hit-in-strait-of-hormuz-3-indian-seafarers-aboard-sonowal/3096262/"
-   }
-  },
-  {
-   "id": "20261111-0323-kosdaq-jumps-5pct",
-   "time": "2026-11-11T03:23:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "South Korea's Kosdaq jumps about 5% to near 700 by Wednesday's midday break as AI stocks rebound, triggering a buy-side sidecar, while the Kospi rises 1.7%, per investingLive.",
-   "ar": "مؤشر كوسداك الكوري الجنوبي يقفز نحو 5% إلى قرابة 700 نقطة عند استراحة منتصف نهار الأربعاء مع انتعاش أسهم الذكاء الاصطناعي، ما فعّل آلية «سايدكار» للشراء، فيما يرتفع كوسبي 1.7% (investingLive).",
-   "source": {
-    "name": "investingLive",
-    "url": "https://investinglive.com/stock-market-update/asia-midday-nikkei-up-for-third-day-kosdaq-jumps-5-as-ai-stocks-rebound/"
    }
   }
  ]
