@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T11:08:25Z",
+ "updated": "2026-11-15T12:07:56Z",
  "items": [
+  {
+   "id": "20261115-1127-hajjar-khattab-damascus",
+   "time": "2026-11-15T11:27:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanese Interior Minister Ahmad al-Hajjar meets Syrian Interior Minister Anas Khattab in Damascus, and both sides discuss boosting security cooperation between their ministries, Syria's SANA agency says.",
+   "ar": "وزير الداخلية اللبناني أحمد الحجار يلتقي وزير الداخلية السوري أنس خطاب في دمشق، والجانبان يبحثان تعزيز التعاون الأمني بين الوزارتين، بحسب وكالة «سانا» السورية.",
+   "source": {
+    "name": "SANA",
+    "url": "https://sana.sy/locals/2635668/"
+   }
+  },
+  {
+   "id": "20261115-1121-bin-farhan-aoun",
+   "time": "2026-11-15T11:21:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Saudi envoy Prince Yazid bin Farhan meets President Joseph Aoun at Baabda on Sunday morning, after a 2-hour dinner meeting with PM Nawaf Salam on Saturday, per MTV Lebanon.",
+   "ar": "الموفد السعودي الأمير يزيد بن فرحان يلتقي الرئيس جوزاف عون في بعبدا صباح الأحد، بعد لقاء عشاء استمر ساعتين مع رئيس الحكومة نواف سلام السبت، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1758501"
+   }
+  },
   {
    "id": "20261115-1045-likud-yashar-coalition-talks",
    "time": "2026-11-15T10:45:00Z",
@@ -1148,18 +1172,6 @@
    "source": {
     "name": "RTÉ",
     "url": "https://www.rte.ie/news/ireland/2026/1112/1598960-epc-meetings-dublin/"
-   }
-  },
-  {
-   "id": "20261112-1123-eu-commission-israel-pact",
-   "time": "2026-11-12T11:23:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission says it will examine a citizens' initiative with more than 1.1 million validated signatures from 12 states seeking suspension of the EU-Israel Association Agreement.",
-   "ar": "المفوضية الأوروبية تعلن أنها ستدرس مبادرة مواطنين تحمل أكثر من 1.1 مليون توقيع مُصادَق عليه من 12 دولة تطالب بتعليق اتفاقية الشراكة بين الاتحاد الأوروبي وإسرائيل.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/world/eu-commission-to-examine-initiative-seeking-israel-pact-suspension-3011399"
    }
   }
  ]
