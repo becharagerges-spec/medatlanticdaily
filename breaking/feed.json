@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:08:13Z",
+ "updated": "2026-11-15T19:09:21Z",
  "items": [
   {
    "id": "20261115-1641-gofman-returns-security-cabinet",
@@ -47,6 +47,18 @@
    "source": {
     "name": "AP via ABC News",
     "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-starshield-restrictions-threaten-ukraines-energy-defenses-138156524"
+   }
+  },
+  {
+   "id": "20261115-1402-ukraine-hits-akhtubinsk-airfield",
+   "time": "2026-11-15T14:02:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's General Staff says its forces hit Russia's Akhtubinsk airfield, home of the 929th State Flight Test Center about 650 km from the front, triggering a blast at a missile-components store.",
+   "ar": "هيئة الأركان الأوكرانية تقول إن قواتها أصابت مطار أختوبينسك الروسي، مقر مركز اختبارات الطيران الحكومي 929 على بعد نحو 650 كلم من الجبهة، ما تسبب بانفجار في مستودع لمكوّنات الصواريخ.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4184885-defense-forces-strike-akhtubinsk-airfield-drone-launch-site-in-russias-oryol-region-overnight.html"
    }
   },
   {
@@ -98,6 +110,18 @@
    }
   },
   {
+   "id": "20261115-1239-beirut-bar-council-election",
+   "time": "2026-11-15T12:39:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Elie Kleimos (1,819 votes), Wissam Bou Tayea, Maya Chehab and Wissam Eid win the 4 open seats on the Beirut Bar Association council, with Kataeb and Lebanese Forces candidates losing.",
+   "ar": "إيلي قليموس (1819 صوتاً) ووسيم بو طايع ومايا شهاب ووسام عيد يفوزون بالمقاعد الأربعة في مجلس نقابة المحامين في بيروت، فيما يخسر مرشحو الكتائب والقوات اللبنانية.",
+   "source": {
+    "name": "Safir al-Chamal",
+    "url": "https://safiralchamal.com/2026/11/15/740683/"
+   }
+  },
+  {
    "id": "20261115-1215-araghchi-muscat",
    "time": "2026-11-15T12:15:00Z",
    "theater": "iran",
@@ -107,6 +131,18 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/iran-news/article-914945"
+   }
+  },
+  {
+   "id": "20261115-1143-ukraine-hits-nizhnekamsk-refinery",
+   "time": "2026-11-15T11:43:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukraine's General Staff says its drones hit the Nizhnekamskneftekhim petrochemical plant and the TAIF-NK refinery in Tatarstan, damaging its only primary processing unit, and the Monolit helicopter maker in Bryansk.",
+   "ar": "هيئة الأركان الأوكرانية تقول إن مسيّراتها أصابت مجمّع نيجنيكامسك نفتيخيم للبتروكيماويات ومصفاة TAIF-NK في تتارستان، ما ألحق أضراراً بوحدة المعالجة الأولية الوحيدة فيها، ومصنع مونوليت للمروحيات في بريانسك.",
+   "source": {
+    "name": "Censor.NET",
+    "url": "https://censor.net/en/news/4033806/defense-forces-struck-two-plants-in-tatarstan-what-other-targets-were-hit"
    }
   },
   {
@@ -154,6 +190,18 @@
    "ar": "وزارة الخارجية القطرية تدين استمرار الهجمات الإيرانية على البحرين وتعدّها انتهاكاً صارخاً لسيادتها وتصعيداً خطيراً، والسعودية تدين الهجمات أيضاً وتطالب بوقفها فوراً.",
    "source": {
     "name": "The Peninsula"
+   }
+  },
+  {
+   "id": "20261115-0909-chornomorsk-attack-six-injured",
+   "time": "2026-11-15T09:09:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "An overnight Russian attack on Chornomorsk in Odesa region injures 6 people and damages energy infrastructure, Ukraine's State Emergency Service says; DTEK says 41,000 families lost power.",
+   "ar": "هجوم روسي ليلي على تشورنومورسك في منطقة أوديسا يجرح 6 أشخاص ويلحق أضراراً بالبنية التحتية للطاقة، بحسب خدمة الطوارئ الأوكرانية؛ وDTEK تقول إن 41 ألف عائلة انقطعت عنها الكهرباء.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4184809-russian-attack-on-chornomorsk-leaves-six-injured-damages-energy-infrastructure.html"
    }
   },
   {
