@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T15:08:10Z",
+ "updated": "2026-11-15T16:07:55Z",
  "items": [
+  {
+   "id": "20261115-1430-irgc-supertanker-sinks-hormuz",
+   "time": "2026-11-15T14:30:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say a supertanker carrying over 2 million barrels of crude sank after hitting a mine in the southern Strait of Hormuz, and a second tanker also hit a mine.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلة عملاقة تحمل أكثر من مليوني برميل من النفط الخام غرقت بعد اصطدامها بلغم جنوب مضيق هرمز، وإن ناقلة ثانية اصطدمت أيضاً بلغم.",
+   "source": {
+    "name": "AFP via RTÉ",
+    "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
+   }
+  },
   {
    "id": "20261115-1349-yashar-likud-offer",
    "time": "2026-11-15T13:49:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "Walla via JFeed",
     "url": "https://www.jfeed.com/news-israel/tojqwa"
+   }
+  },
+  {
+   "id": "20261115-1314-houthi-missile-lahj-checkpoint",
+   "time": "2026-11-15T13:14:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "A Houthi missile attack on a checkpoint in Khor Omeira, Lahj province, near Aden, kills 5 people and wounds 8, Yemeni military and government sources tell AFP.",
+   "ar": "هجوم صاروخي للحوثيين على حاجز في خور عميرة بمحافظة لحج قرب عدن يقتل 5 أشخاص ويجرح 8، وفق مصادر عسكرية وحكومية يمنية لوكالة فرانس برس.",
+   "source": {
+    "name": "AFP via Dawn",
+    "url": "https://www.dawn.com/news/2044728/yemens-houthis-kill-five-in-attack-near-aden-sources-say"
+   }
+  },
+  {
+   "id": "20261115-1256-waltz-lebanon-visit-unifil",
+   "time": "2026-11-15T12:56:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "US Ambassador to the UN Mike Waltz visits Lebanon and Morocco from 15 to 17 November to discuss the Trilateral Framework and the end of UNIFIL's mandate, the US Embassy in Beirut says.",
+   "ar": "السفير الأميركي لدى الأمم المتحدة مايك والتز يزور لبنان والمغرب من 15 إلى 17 تشرين الثاني لبحث «الإطار الثلاثي» وانتهاء ولاية اليونيفيل، بحسب السفارة الأميركية في بيروت.",
+   "source": {
+    "name": "US Embassy in Lebanon",
+    "url": "https://lb.usembassy.gov/media-advisory-ambassador-mike-waltz-travels-to-lebanon-and-morocco-november-15-17/"
    }
   },
   {
@@ -1099,30 +1135,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/katz-netanyahu-zamir-and-i-all-see-eye-to-eye-on-the-iranian-issue/"
-   }
-  },
-  {
-   "id": "20261112-1604-saudi-eu-houthi-terror-listing",
-   "time": "2026-11-12T16:04:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia is pressing the EU to list Yemen's Houthis as a terrorist organisation, but six European officials say only a few of the 27 member states back it.",
-   "ar": "السعودية تضغط على الاتحاد الأوروبي لإدراج الحوثيين في اليمن على لائحة الإرهاب، لكن ستة مسؤولين أوروبيين يقولون إن قلّة فقط من الدول الأعضاء الـ27 تؤيّد ذلك.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/saudi-arabia-puts-pressure-eu-160428879.html"
-   }
-  },
-  {
-   "id": "20261112-1555-ushakov-apec-nato",
-   "time": "2026-11-12T15:55:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "After the Kremlin talks, Putin aide Yury Ushakov says Putin will continue Ukraine discussions with Trump at the APEC summit in China this month and told US envoys NATO cannot expand further.",
-   "ar": "بعد محادثات الكرملين، مستشار بوتين يوري أوشاكوف يقول إن بوتين سيواصل البحث في ملف أوكرانيا مع ترامب خلال قمة «آبيك» في الصين هذا الشهر، وإنه أبلغ المبعوثَين الأميركيَّين أن الناتو لا يمكنه التوسّع أكثر.",
-   "source": {
-    "name": "The Moscow Times",
-    "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236"
    }
   }
  ]
