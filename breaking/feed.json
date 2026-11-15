@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T16:07:55Z",
+ "updated": "2026-11-15T17:09:36Z",
  "items": [
+  {
+   "id": "20261115-1641-gofman-returns-security-cabinet",
+   "time": "2026-11-15T16:41:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Mossad chief Roman Gofman returns from talks on Iran with CIA Director Ratcliffe and envoy Witkoff and joins Israel's first security cabinet meeting since the election, per Maariv and Ynet.",
+   "ar": "رئيس الموساد رومان غوفمان يعود من محادثات حول إيران مع مدير الـCIA راتكليف والمبعوث ويتكوف، ويشارك في أول اجتماع للمجلس الوزاري الأمني الإسرائيلي منذ الانتخابات، بحسب «معاريف» و«يديعوت».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/mossad-chief-returns-from-us-after-meeting-ratcliffe-witkoff-on-iran-will-update-security-cabinet"
+   }
+  },
+  {
+   "id": "20261115-1523-nyt-israel-kidnapped-iranian-generals-arad",
+   "time": "2026-11-15T15:23:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Israel kidnapped Iranian generals in its search for missing airman Ron Arad and killed one, IRGC Quds Force general Alireza Asgari, after interrogation, The New York Times reports; Israel has denied involvement.",
+   "ar": "إسرائيل خطفت جنرالات إيرانيين في بحثها عن الطيار المفقود رون أراد وقتلت أحدهم، جنرال فيلق القدس علي رضا عسكري، بعد استجوابه، بحسب «نيويورك تايمز»؛ وإسرائيل نفت أي تورط.",
+   "source": {
+    "name": "The New York Times via Times of Israel",
+    "url": "https://www.timesofisrael.com/israel-kidnapped-iranian-generals-killed-one-in-effort-to-locate-ron-arad-nyt/"
+   }
+  },
   {
    "id": "20261115-1430-irgc-supertanker-sinks-hormuz",
    "time": "2026-11-15T14:30:00Z",
@@ -1111,30 +1135,6 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west"
-   }
-  },
-  {
-   "id": "20261112-1650-iran-army-two-tankers-mines",
-   "time": "2026-11-12T16:50:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army says 2 more tankers hit mines and caught fire in the eastern Strait of Hormuz on Thursday afternoon after ignoring warnings and disabling radar; Reuters could not verify.",
-   "ar": "الجيش الإيراني يقول إن ناقلتين إضافيتين اصطدمتا بألغام واشتعلت فيهما النيران في شرق مضيق هرمز بعد ظهر الخميس بعد تجاهل التحذيرات وتعطيل الرادار، ورويترز لم تتمكّن من التحقق.",
-   "source": {
-    "name": "Reuters via GV Wire",
-    "url": "https://gvwire.com/2026/11/12/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says/"
-   }
-  },
-  {
-   "id": "20261112-1637-katz-eye-to-eye-iran",
-   "time": "2026-11-12T16:37:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Defence Minister Israel Katz says he, caretaker PM Netanyahu and army chief Eyal Zamir 'see eye to eye on the Iranian issue in all its aspects' after a security assessment.",
-   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إنه ورئيس حكومة تصريف الأعمال نتنياهو ورئيس الأركان إيال زامير «متفقون تماماً على الملف الإيراني بكل جوانبه» بعد تقييم أمني.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/katz-netanyahu-zamir-and-i-all-see-eye-to-eye-on-the-iranian-issue/"
    }
   }
  ]
