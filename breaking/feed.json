@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T07:07:52Z",
+ "updated": "2026-11-15T09:08:21Z",
  "items": [
+  {
+   "id": "20261115-0839-yemen-forces-quit-bab-el-mandeb",
+   "time": "2026-11-15T08:39:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Southern Yemeni forces backing the Saudi-supported government withdraw from the Bab el-Mandeb area and Dhubab airport to Aden, leaving the Houthis in control of the strait.",
+   "ar": "القوات الجنوبية اليمنية الداعمة للحكومة المدعومة سعودياً تنسحب من منطقة باب المندب ومطار ذباب نحو عدن، تاركةً الحوثيين مسيطرين على المضيق.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-914920"
+   }
+  },
+  {
+   "id": "20261115-0808-jordan-karak-church-death-sentences",
+   "time": "2026-11-15T08:08:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Jordan's State Security Court sentences to death the 3 men convicted of the 23 October terrorist attack on a church in Hamoud, Karak governorate.",
+   "ar": "محكمة أمن الدولة في الأردن تقضي بإعدام المدانين الثلاثة بتنفيذ الهجوم الإرهابي على كنيسة بلدة حمود في محافظة الكرك في 23 تشرين الأول.",
+   "source": {
+    "name": "Al-Araby Al-Jadeed",
+    "url": "https://www.alaraby.co.uk/politics/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D9%83-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A"
+   }
+  },
   {
    "id": "20261115-0600-russia-132-drones-ukraine",
    "time": "2026-11-15T06:00:00Z",
@@ -59,6 +83,18 @@
    "source": {
     "name": "Saudi-led coalition via Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
+   }
+  },
+  {
+   "id": "20261115-0300-south-lebanon-demolitions-hujeir",
+   "time": "2026-11-15T03:00:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "The Israeli army blows up buildings in al-Qantara, near Kunin and in Bani Hayyan, and its jets strike Wadi al-Hujeir in south Lebanon, per Egypt's MENA agency; no casualties are reported.",
+   "ar": "الجيش الإسرائيلي ينفّذ تفجيرات في القنطرة ومحيط كونين وبني حيان، وطائراته تغير على وادي الحجير في جنوب لبنان، وفق وكالة أنباء الشرق الأوسط؛ ولا إصابات مُعلنة.",
+   "source": {
+    "name": "MENA via Youm7",
+    "url": "https://www.youm7.com/story/2026/11/15/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%86%D9%8A%D9%81%D8%A9-%D9%81%D9%89-%D9%83%D9%88%D9%86%D9%8A%D9%86-%D9%88%D8%A8%D9%86%D9%89-%D8%AD%D9%8A%D8%A7%D9%86-%D9%88%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9/7618661"
    }
   },
   {
@@ -1112,53 +1148,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-election-2026/article-914743"
-   }
-  },
-  {
-   "id": "20261112-0904-alibaba-slumps-huang",
-   "time": "2026-11-12T09:04:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Alibaba shares fall more than 6% in Hong Kong as fears grow that the Nvidia CEO scandal will tighten US scrutiny of Chinese access to advanced chips, per Investing.com.",
-   "ar": "أسهم «علي بابا» تتراجع أكثر من 6% في هونغ كونغ وسط مخاوف من أن تؤدي فضيحة الرئيس التنفيذي لـ«إنفيديا» إلى تشديد الرقابة الأميركية على حصول الصين على الرقائق المتقدمة، وفق «إنفستينغ.كوم».",
-   "source": {
-    "name": "Investing.com",
-    "url": "https://investing.com/news/economy-news/nvidia-said-to-preparing-huang-ouster-alibaba-slumps--whats-moving-markets-5020685"
-   }
-  },
-  {
-   "id": "20261112-0834-estonia-costa-kallas-talks",
-   "time": "2026-11-12T08:34:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Estonian Prime Minister Kristen Michal wants EU Council President António Costa and foreign policy chief Kaja Kallas to speak for Europe in Ukraine peace talks, per Politico.",
-   "ar": "رئيس الوزراء الإستوني كريستن ميخال يريد أن يتحدّث رئيس المجلس الأوروبي أنطونيو كوستا ومسؤولة السياسة الخارجية كايا كالاس باسم أوروبا في محادثات السلام بشأن أوكرانيا، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico Europe"
-   }
-  },
-  {
-   "id": "20261112-0833-israel-security-cabinet-sunday",
-   "time": "2026-11-12T08:33:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Caretaker PM Netanyahu will convene Israel's security cabinet on Sunday, its first meeting since 5 October, as Eisenkot urges no military action before a new government forms, per The Jerusalem Post.",
-   "ar": "رئيس حكومة تصريف الأعمال نتنياهو سيعقد المجلس الوزاري الأمني الإسرائيلي الأحد، في أول اجتماع له منذ 5 تشرين الأول، فيما يدعو آيزنكوت إلى تجنّب أي عمل عسكري قبل تشكيل حكومة جديدة، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-914671"
-   }
-  },
-  {
-   "id": "20261112-0751-china-nvidia-spy-blockade",
-   "time": "2026-11-12T07:51:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's foreign ministry spokeswoman Mao Ning urges the US to stop 'fabricating' spy narratives over Nvidia CEO Jensen Huang as a pretext for a 'technological blockade' of China.",
-   "ar": "المتحدثة باسم الخارجية الصينية ماو نينغ تدعو واشنطن إلى التوقف عن «فبركة» روايات تجسس حول رئيس «إنفيديا» جنسن هوانغ ذريعةً لفرض «حصار تكنولوجي» على الصين.",
-   "source": {
-    "name": "Reuters via Devdiscourse",
-    "url": "https://www.devdiscourse.com/article/international/4005657-china-urges-us-to-stop-fabricating-spy-narrative-over-nvidia"
    }
   }
  ]
