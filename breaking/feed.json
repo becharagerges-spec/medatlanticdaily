@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T20:09:34Z",
+ "updated": "2026-11-15T22:08:28Z",
  "items": [
+  {
+   "id": "20261115-2157-bennett-unity-eisenkot-first",
+   "time": "2026-11-15T21:57:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Naftali Bennett privately urges partners in his bloc to consider a unity government with Netanyahu in which Eisenkot serves first as prime minister, per Israel's Channel 12.",
+   "ar": "نفتالي بينيت يحثّ شركاءه في الكتلة سرّاً على درس حكومة وحدة مع نتنياهو يتولى فيها آيزنكوت رئاسة الحكومة أولاً، بحسب القناة 12 الإسرائيلية.",
+   "source": {
+    "name": "Channel 12 via VIN News",
+    "url": "https://vinnews.com/2026/11/15/bennett-urges-bloc-partners-to-consider-unity-government-with-netanyahu-eisenkot-serving-first-as-pm/"
+   }
+  },
   {
    "id": "20261115-1756-iraq-ultimatum-kataib-hezbollah",
    "time": "2026-11-15T17:56:00Z",
