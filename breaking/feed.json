@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T14:08:59Z",
+ "updated": "2026-11-15T15:08:10Z",
  "items": [
+  {
+   "id": "20261115-1349-yashar-likud-offer",
+   "time": "2026-11-15T13:49:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's Yashar party offers Likud a place in an Eisenkot-led government for a full four-year term, with no premiership rotation with Netanyahu, Walla reports.",
+   "ar": "حزب «يشار» بقيادة آيزنكوت يعرض على الليكود المشاركة في حكومة يرأسها آيزنكوت لولاية كاملة من 4 سنوات، من دون تناوب على رئاسة الحكومة مع نتنياهو، بحسب موقع «والا».",
+   "source": {
+    "name": "Walla via JFeed",
+    "url": "https://www.jfeed.com/news-israel/tojqwa"
+   }
+  },
   {
    "id": "20261115-1240-salam-doha-qatar-energy",
    "time": "2026-11-15T12:40:00Z",
@@ -1111,42 +1123,6 @@
    "source": {
     "name": "The Moscow Times",
     "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236"
-   }
-  },
-  {
-   "id": "20261112-1438-nvidia-13pct-nasdaq-falls",
-   "time": "2026-11-12T14:38:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nvidia shares tumble 13% after CEO Jensen Huang's ouster, dragging the Nasdaq 100 down 1.4% and a key chipmaker index down 3.5%, Bloomberg reports.",
-   "ar": "أسهم «إنفيديا» تهوي 13% بعد إطاحة رئيسها التنفيذي جنسن هوانغ، ما يجرّ مؤشر ناسداك 100 إلى التراجع 1.4% ومؤشراً رئيسياً لشركات الرقائق 3.5%، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates"
-   }
-  },
-  {
-   "id": "20261112-1436-witkoff-new-round-talks",
-   "time": "2026-11-12T14:36:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "After talks with Putin, US envoy Witkoff says Europeans will join the next round of Ukraine peace talks; Kushner says both sides agreed, but Kremlin aide Ushakov has not confirmed it.",
-   "ar": "بعد محادثاته مع بوتين، المبعوث الأميركي ويتكوف يقول إن الأوروبيين سينضمون إلى الجولة المقبلة من محادثات السلام بشأن أوكرانيا، وكوشنر يؤكد موافقة الطرفين، فيما لم يؤكد مساعد الكرملين أوشاكوف ذلك.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"
-   }
-  },
-  {
-   "id": "20261112-1433-uk-sanctions-russian-oil",
-   "time": "2026-11-12T14:33:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "At the Dublin summit, UK Prime Minister Andy Burnham announces sanctions on all 10 of Russia's major oil producers, including Slavneft and Rosneft's Vostok Oil project, plus shadow-fleet tankers.",
-   "ar": "رئيس الوزراء البريطاني آندي بورنهام يعلن في قمة دبلن عقوبات على كبار منتجي النفط الروس العشرة، ومنهم «سلافنفط» ومشروع «فوستوك أويل» التابع لـ«روسنفط»، إضافةً إلى ناقلات «أسطول الظل».",
-   "source": {
-    "name": "dpa via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/uks-burnham-unveils-stinging-sanctions-143326188.html"
    }
   }
  ]
