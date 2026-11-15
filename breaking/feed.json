@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:08:21Z",
+ "updated": "2026-11-15T10:08:38Z",
  "items": [
   {
    "id": "20261115-0839-yemen-forces-quit-bab-el-mandeb",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-914920"
+   }
+  },
+  {
+   "id": "20261115-0839-bahrain-condemns-iran",
+   "time": "2026-11-15T08:39:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Bahrain's Foreign Ministry condemns Iran's attacks as aggression on its sovereignty, says air defences destroyed drones on Sunday and 2 more on Friday, and asks the UN Security Council to act.",
+   "ar": "وزارة الخارجية البحرينية تدين الهجمات الإيرانية بوصفها عدواناً على سيادتها، وتقول إن الدفاعات الجوية دمّرت مسيّرات الأحد ومسيّرتين أخريين الجمعة، وتطالب مجلس الأمن بالتحرّك.",
+   "source": {
+    "name": "Arab Times",
+    "url": "https://www.arabtimesonline.com/news/bahrain-condemns-iranian-attacks-reserves-right-to-self-defense-under-un-charter/"
+   }
+  },
+  {
+   "id": "20261115-0820-baghaei-retaliate",
+   "time": "2026-11-15T08:20:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Foreign Ministry spokesman Esmail Baghaei says Iran will retaliate for every attack and rejects making any nuclear commitments, per Iran International.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن إيران سترد على كل هجوم ويرفض تقديم أي التزامات نووية، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611143682"
    }
   },
   {
@@ -35,6 +59,18 @@
    "source": {
     "name": "Ukrainian Air Force via UNN",
     "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-132-drones-air-defense-destroyed-and-suppressed-106"
+   }
+  },
+  {
+   "id": "20261115-0557-ghalibaf-seven-conditions",
+   "time": "2026-11-15T05:57:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says Iran will not stay in 'neither war nor peace' and an agreement is possible if the US accepts Iran's 7 conditions.",
+   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول إن إيران لن تبقى في حالة «لا حرب ولا سلم»، وإن الاتفاق ممكن إذا قبلت واشنطن شروط إيران السبعة.",
+   "source": {
+    "name": "Mehr via The Tribune",
+    "url": "https://tribuneindia.com/news/world/iran-not-remain-in-state-of-neither-war-nor-peace-parliament-speaker-ghalibaf"
    }
   },
   {
@@ -1124,30 +1160,6 @@
    "source": {
     "name": "Naharnet",
     "url": "https://mobile.naharnet.com/stories/en/323725-berri-affirms-lebanon-is-free-in-response-to-ghalibaf-s-unified-front-remarks"
-   }
-  },
-  {
-   "id": "20261112-0949-zelensky-starshield-cap",
-   "time": "2026-11-12T09:49:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says speed restrictions on Starshield satellite links are back, capping use at 161 km/h and hampering Ukraine's interception of Russian jet-powered drones; Kyiv is seeking answers from Washington.",
-   "ar": "زيلينسكي يقول إن قيود السرعة على اتصالات «ستارشيلد» الفضائية عادت، محدّدةً الاستخدام بـ161 كلم/ساعة ومعرقلةً اعتراض أوكرانيا للمسيّرات الروسية النفاثة، وكييف تطلب إيضاحات من واشنطن.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/12/zelenskyy-starlink-again-facing-restrictions-in-ukraine-hampering-russian-drone-intercepti"
-   }
-  },
-  {
-   "id": "20261112-0927-eisenkot-briefing-military-secretary",
-   "time": "2026-11-12T09:27:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Caretaker PM Netanyahu gives Eisenkot a diplomatic and security briefing at the Prime Minister's Office, with his military secretary present, after Eisenkot's repeated complaints that briefings were withheld, per The Jerusalem Post.",
-   "ar": "رئيس الحكومة الانتقالية نتنياهو يقدّم لآيزنكوت إحاطة سياسية وأمنية في مكتب رئيس الحكومة بحضور سكرتيره العسكري، بعد شكاوى آيزنكوت المتكرّرة من حجب الإحاطات عنه، وفق «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-914743"
    }
   }
  ]
