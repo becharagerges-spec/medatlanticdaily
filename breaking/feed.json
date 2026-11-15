@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:08:51Z",
+ "updated": "2026-11-15T14:08:59Z",
  "items": [
   {
    "id": "20261115-1240-salam-doha-qatar-energy",
@@ -11,6 +11,18 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/en/news/1758543"
+   }
+  },
+  {
+   "id": "20261115-1215-araghchi-muscat",
+   "time": "2026-11-15T12:15:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi will travel to Muscat on Tuesday for talks with Oman's foreign minister, IRNA reports, citing ministry spokesman Esmail Baghaei.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يتوجّه إلى مسقط الثلاثاء لإجراء محادثات مع نظيره العُماني، بحسب وكالة «إرنا» نقلاً عن المتحدث باسم الخارجية إسماعيل بقائي.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-914945"
    }
   },
   {
@@ -47,6 +59,17 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-election-2026/article-914935"
+   }
+  },
+  {
+   "id": "20261115-1044-qatar-saudi-condemn-iran-bahrain",
+   "time": "2026-11-15T10:44:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Qatar's Foreign Ministry condemns Iran's continued attacks on Bahrain as a flagrant violation of its sovereignty and a dangerous escalation; Saudi Arabia also condemns the attacks and demands they stop immediately.",
+   "ar": "وزارة الخارجية القطرية تدين استمرار الهجمات الإيرانية على البحرين وتعدّها انتهاكاً صارخاً لسيادتها وتصعيداً خطيراً، والسعودية تدين الهجمات أيضاً وتطالب بوقفها فوراً.",
+   "source": {
+    "name": "The Peninsula"
    }
   },
   {
@@ -1124,42 +1147,6 @@
    "source": {
     "name": "dpa via Yahoo News",
     "url": "https://www.yahoo.com/news/politics/articles/uks-burnham-unveils-stinging-sanctions-143326188.html"
-   }
-  },
-  {
-   "id": "20261112-1406-dc-logan-circle-shooting",
-   "time": "2026-11-12T14:06:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "A shooting at a gym in Washington's Logan Circle neighbourhood, about a mile north of the White House, kills 1 person and wounds 4, police say; the suspect is dead.",
-   "ar": "إطلاق نار في نادٍ رياضي في حي لوغان سيركل في واشنطن، على بُعد نحو ميل شمال البيت الأبيض، يقتل شخصاً ويصيب 4 بحسب الشرطة، ومطلق النار لقي حتفه.",
-   "source": {
-    "name": "Axios",
-    "url": "https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade"
-   }
-  },
-  {
-   "id": "20261112-1400-trump-no-iran-deal",
-   "time": "2026-11-12T14:00:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says on Truth Social 'We don't need a deal with Iran' and tells Vice President JD Vance to focus on domestic anti-fraud efforts instead of talks with Tehran.",
-   "ar": "ترامب يكتب على «تروث سوشال»: «لسنا بحاجة إلى اتفاق مع إيران»، ويطلب من نائبه جي دي فانس التركيز على مكافحة الفساد داخلياً بدلاً من المحادثات مع طهران.",
-   "source": {
-    "name": "Reuters via TimesLIVE",
-    "url": "https://www.timeslive.co.za/news/business/2026-11-12-trump-urges-vance-to-shift-attention-from-iran-to-tackling-alleged-democratic-corruption/"
-   }
-  },
-  {
-   "id": "20261112-1348-nvidia-huang-resigns",
-   "time": "2026-11-12T13:48:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nvidia says CEO Jensen Huang has resigned effective immediately, naming CFO Colette Kress interim CEO; its shares plunge 10% in premarket trading, AP reports.",
-   "ar": "«إنفيديا» تعلن استقالة رئيسها التنفيذي جنسن هوانغ بمفعول فوري وتعيين المديرة المالية كوليت كريس رئيسة تنفيذية بالوكالة، وأسهمها تهوي 10% في تداولات ما قبل الافتتاح، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "Nvidia",
-    "url": "https://www.globenewswire.com/news-release/2026/11/12/3401635/0/en/nvidia-announces-ceo-transition.html"
    }
   }
  ]
