@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T12:07:56Z",
+ "updated": "2026-11-15T13:08:51Z",
  "items": [
+  {
+   "id": "20261115-1240-salam-doha-qatar-energy",
+   "time": "2026-11-15T12:40:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Prime Minister Nawaf Salam holds talks in Doha with Qatar's prime minister on electricity cooperation, including a possible 20-year Qatari LNG supply deal and new power plants, per MTV.",
+   "ar": "رئيس الحكومة نواف سلام يجري محادثات في الدوحة مع رئيس الوزراء القطري حول التعاون الكهربائي، بينها اتفاق محتمل لتزويد لبنان بالغاز المسال القطري لعشرين عاماً ومعامل جديدة، بحسب «MTV».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/en/news/1758543"
+   }
+  },
   {
    "id": "20261115-1127-hajjar-khattab-damascus",
    "time": "2026-11-15T11:27:00Z",
@@ -107,6 +119,18 @@
    "source": {
     "name": "Mehr via The Tribune",
     "url": "https://tribuneindia.com/news/world/iran-not-remain-in-state-of-neither-war-nor-peace-parliament-speaker-ghalibaf"
+   }
+  },
+  {
+   "id": "20261115-0555-rostov-taganrog-drone-substations",
+   "time": "2026-11-15T05:55:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Rostov governor Yuri Slyusar says an overnight Ukrainian drone attack killed a substation chief engineer in Taganrog, injured 4, damaged 2 substations and halted rail traffic.",
+   "ar": "حاكم روستوف يوري سليوسار يقول إن هجوماً أوكرانياً بالمسيّرات ليلاً قتل كبير مهندسي محطة كهرباء في تاغانروغ وجرح 4 وألحق أضراراً بمحطتين وأوقف حركة القطارات.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/"
    }
   },
   {
@@ -1136,42 +1160,6 @@
    "source": {
     "name": "Nvidia",
     "url": "https://www.globenewswire.com/news-release/2026/11/12/3401635/0/en/nvidia-announces-ceo-transition.html"
-   }
-  },
-  {
-   "id": "20261112-1301-trump-mexico-tariffs-double",
-   "time": "2026-11-12T13:01:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump threatens to immediately double tariffs on Mexico unless it stops a caravan of about 1,500 migrants heading north from Tapachula toward the US border.",
-   "ar": "ترامب يهدّد بمضاعفة الرسوم الجمركية على المكسيك فوراً ما لم توقف قافلة من نحو 1500 مهاجر تتّجه شمالاً من تاباتشولا نحو الحدود الأميركية.",
-   "source": {
-    "name": "Reuters via BNN Bloomberg",
-    "url": "https://www.bnnbloomberg.ca/business/international/2026/11/12/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants/"
-   }
-  },
-  {
-   "id": "20261112-1252-putin-envoys-foreign-troops",
-   "time": "2026-11-12T12:52:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Meeting US envoys Witkoff and Kushner at the Kremlin, Putin says any foreign troops deployed in Ukraine would be legitimate targets and claims Russia controls Kostiantynivka, per TASS.",
-   "ar": "خلال لقائه المبعوثَين الأميركيَّين ويتكوف وكوشنر في الكرملين، بوتين يقول إن أي قوات أجنبية تُنشر في أوكرانيا ستكون أهدافاً مشروعة، ويزعم أن روسيا تسيطر على كوستيانتينيفكا، بحسب «تاس».",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/89918"
-   }
-  },
-  {
-   "id": "20261112-1226-zelensky-epc-dublin",
-   "time": "2026-11-12T12:26:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "At the European Political Community summit in Dublin, Zelensky warns Russia is trying to rewrite Europe's security architecture before any ceasefire and calls for Europe to join peace negotiations.",
-   "ar": "في قمة المجموعة السياسية الأوروبية في دبلن، زيلينسكي يحذّر من أن روسيا تسعى إلى إعادة رسم البنية الأمنية لأوروبا قبل أي وقف لإطلاق النار، ويطالب بإشراك أوروبا في مفاوضات السلام.",
-   "source": {
-    "name": "RTÉ",
-    "url": "https://www.rte.ie/news/ireland/2026/1112/1598960-epc-meetings-dublin/"
    }
   }
  ]
