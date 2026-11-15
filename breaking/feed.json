@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:09:36Z",
+ "updated": "2026-11-15T18:08:13Z",
  "items": [
   {
    "id": "20261115-1641-gofman-returns-security-cabinet",
@@ -35,6 +35,18 @@
    "source": {
     "name": "AFP via RTÉ",
     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
+   }
+  },
+  {
+   "id": "20261115-1404-zelensky-starshield-limits",
+   "time": "2026-11-15T14:04:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says SpaceX limits on Ukraine's Starshield system stop interceptor drones flying above 161 km/h from catching Russian Shaheds, threatening energy defences before winter.",
+   "ar": "زيلينسكي يقول إن قيود «سبيس إكس» على نظام «ستارشيلد» الأوكراني تمنع المسيّرات الاعتراضية التي تتجاوز سرعتها 161 كلم/ساعة من ملاحقة مسيّرات «شاهد» الروسية، ما يهدد حماية منشآت الطاقة قبل الشتاء.",
+   "source": {
+    "name": "AP via ABC News",
+    "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-starshield-restrictions-threaten-ukraines-energy-defenses-138156524"
    }
   },
   {
@@ -125,12 +137,12 @@
    "id": "20261115-1045-likud-yashar-coalition-talks",
    "time": "2026-11-15T10:45:00Z",
    "theater": "israel",
-   "status": "reported",
-   "en": "Likud and Gadi Eisenkot's Yashar party hold coalition negotiations on Sunday afternoon, led by MK Ophir Katz for Likud and MK Chili Tropper for Yashar, per The Jerusalem Post.",
-   "ar": "الليكود وحزب «يشار» بزعامة غادي آيزنكوت يعقدان مفاوضات ائتلافية بعد ظهر الأحد، يقودها النائب أوفير كاتس عن الليكود والنائب حيلي تروبر عن «يشار»، بحسب «جيروزاليم بوست».",
+   "status": "confirmed",
+   "en": "The first Likud–Yashar unity talks end after about an hour with no breakthrough; both parties say the meeting was businesslike and talks will continue.",
+   "ar": "الجولة الأولى من محادثات الوحدة بين الليكود و«يشار» تنتهي بعد نحو ساعة من دون اختراق، والطرفان يصفان الاجتماع بأنه عملي ويؤكدان مواصلة المحادثات.",
    "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/article-914935"
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/concluding-first-unity-talks-yashar-and-likud-agree-to-continue-discussions"
    }
   },
   {
@@ -1123,18 +1135,6 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-warns-countries-against-backing-us-war-iran"
-   }
-  },
-  {
-   "id": "20261112-1732-houthis-claim-east-west-pipeline",
-   "time": "2026-11-12T17:32:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's Houthis say they attacked a pumping station on Saudi Arabia's East-West oil pipeline and an oil facility in Yanbu; Saudi Arabia did not immediately confirm the claim.",
-   "ar": "الحوثيون في اليمن يقولون إنهم استهدفوا محطة ضخ على خط أنابيب النفط السعودي شرق–غرب ومنشأة نفطية في ينبع، فيما لم تؤكّد السعودية الادعاء فوراً.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west"
    }
   }
  ]
