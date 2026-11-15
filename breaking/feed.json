@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T10:08:38Z",
+ "updated": "2026-11-15T11:08:25Z",
  "items": [
+  {
+   "id": "20261115-1045-likud-yashar-coalition-talks",
+   "time": "2026-11-15T10:45:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud and Gadi Eisenkot's Yashar party hold coalition negotiations on Sunday afternoon, led by MK Ophir Katz for Likud and MK Chili Tropper for Yashar, per The Jerusalem Post.",
+   "ar": "الليكود وحزب «يشار» بزعامة غادي آيزنكوت يعقدان مفاوضات ائتلافية بعد ظهر الأحد، يقودها النائب أوفير كاتس عن الليكود والنائب حيلي تروبر عن «يشار»، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/article-914935"
+   }
+  },
   {
    "id": "20261115-0839-yemen-forces-quit-bab-el-mandeb",
    "time": "2026-11-15T08:39:00Z",
@@ -1148,18 +1160,6 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/world/eu-commission-to-examine-initiative-seeking-israel-pact-suspension-3011399"
-   }
-  },
-  {
-   "id": "20261112-1024-berri-we-are-free-ghalibaf",
-   "time": "2026-11-12T10:24:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Speaker Nabih Berri tells parliament 'We are free' after MP Samy Gemayel urged him to reject Iranian speaker Ghalibaf's call Iran and Lebanon a 'unified front', per Naharnet.",
-   "ar": "رئيس مجلس النواب نبيه بري يقول في الجلسة «نحن أحرار» بعدما طالبه النائب سامي الجميّل برفض وصف رئيس البرلمان الإيراني قاليباف إيران ولبنان بـ«جبهة موحّدة»، بحسب «نهارنت».",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323725-berri-affirms-lebanon-is-free-in-response-to-ghalibaf-s-unified-front-remarks"
    }
   }
  ]
