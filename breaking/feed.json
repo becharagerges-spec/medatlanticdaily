@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T04:07:57Z",
+ "updated": "2026-11-15T06:08:48Z",
  "items": [
+  {
+   "id": "20261115-0536-us-intel-iran-2500-missiles",
+   "time": "2026-11-15T05:36:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "US intelligence believes Iran may still hold 1,500 to 2,500 missiles, a low-confidence estimate weighing on Trump's decision whether to strike again, per The Wall Street Journal.",
+   "ar": "الاستخبارات الأميركية تقدّر أن إيران ربما لا تزال تملك ما بين 1,500 و2,500 صاروخ، وهو تقدير منخفض الثقة يؤثر في قرار ترامب بشأن توجيه ضربات جديدة، بحسب «وول ستريت جورنال».",
+   "source": {
+    "name": "The Wall Street Journal via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/us-intelligence-believes-iran-could-still-have-up-to-2500-missiles-report/"
+   }
+  },
+  {
+   "id": "20261115-0441-irgc-claims-riffa-radar-drones",
+   "time": "2026-11-15T04:41:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say 6 of their drones struck a US air defence radar at Bahrain's Riffa helicopter base, per Iranian state media; the US has not confirmed the attack.",
+   "ar": "الحرس الثوري الإيراني يعلن أن 6 من مسيّراته استهدفت راداراً أميركياً للدفاع الجوي في قاعدة الرفاع للمروحيات في البحرين، وفق الإعلام الرسمي الإيراني، من دون تأكيد أميركي للهجوم.",
+   "source": {
+    "name": "Iranian state media via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-attacked-us-radar-system-at-a-base-in-bahrain"
+   }
+  },
   {
    "id": "20261115-0320-houthis-claim-saudi-recon-aircraft",
    "time": "2026-11-15T03:20:00Z",
@@ -1123,66 +1147,6 @@
    "source": {
     "name": "LaPresse",
     "url": "https://uk.lapresse.it/world-en/2026/11/12/ukraine-witkoff-and-kushner-arrive-in-moscow-for-talks/"
-   }
-  },
-  {
-   "id": "20261112-0529-nasser-hospital-strike",
-   "time": "2026-11-12T05:29:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "An Israeli strike on Nasser Hospital in Khan Younis kills at least 6 people, including a surgeon, and wounds about 20; Israel's army and Shin Bet say the target was Hamas's Khan Younis Brigade commander.",
-   "ar": "غارة إسرائيلية على مستشفى ناصر في خان يونس تقتل 6 أشخاص على الأقل بينهم جرّاح وتصيب نحو 20، والجيش الإسرائيلي و«الشاباك» يقولان إن الهدف كان قائد لواء خان يونس في «حماس».",
-   "source": {
-    "name": "Reuters via The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-at-least-five-others/"
-   }
-  },
-  {
-   "id": "20261112-0510-indonesia-vp-gibran-resigns",
-   "time": "2026-11-12T05:10:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Indonesian Vice President Gibran Rakabuming Raka, son of ex-president Joko Widodo, resigns after courts ruled his education documents failed election requirements and 120 lawmakers moved toward impeachment, per AP.",
-   "ar": "نائب الرئيس الإندونيسي جبران راكابومينغ راكا، نجل الرئيس السابق جوكو ويدودو، يستقيل بعدما قضت المحاكم بأن وثائقه الدراسية لا تستوفي شروط الترشح وتحرّك 120 نائباً نحو عزله، بحسب «أسوشيتد برس».",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/world/2026/11/12/indonesias-vice-president-resigns-as-his-eligibility-and-academic-credentials-are-questioned/"
-   }
-  },
-  {
-   "id": "20261112-0422-irgc-two-supertankers-explode",
-   "time": "2026-11-12T04:22:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says 2 more supertankers carrying over 4 million barrels exploded on Wednesday night after ignoring warnings on an 'unauthorised route' in Hormuz; no independent confirmation.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتين عملاقتين إضافيتين تحملان أكثر من 4 ملايين برميل انفجرتا ليل الأربعاء بعد تجاهل تحذيرات بشأن «مسار غير مرخّص» في هرمز، من دون تأكيد مستقل.",
-   "source": {
-    "name": "Reuters via MarineLink",
-    "url": "https://www.marinelink.com/news/two-oil-supertankers-explode-strait-544312"
-   }
-  },
-  {
-   "id": "20261112-0421-vahidi-missiles-continue",
-   "time": "2026-11-12T04:21:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC chief Ahmad Vahidi says Iran will keep developing missiles despite US threats and sanctions, with aerospace forces working deep underground, per Tasnim.",
-   "ar": "قائد الحرس الثوري أحمد وحيدي يقول إن إيران ستواصل تطوير صواريخها رغم التهديدات والعقوبات الأميركية، وإن القوة الجوفضائية تعمل في أعماق الأرض، بحسب «تسنيم».",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
-   }
-  },
-  {
-   "id": "20261112-0418-xi-taiwan-reunification",
-   "time": "2026-11-12T04:18:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi Jinping says Taiwan's 'complete reunification' must and will be realised as 'the tide of history cannot be stopped'; Taiwan reports 29 Chinese military aircraft on a combat readiness patrol.",
-   "ar": "شي جين بينغ يقول إن «إعادة التوحيد الكاملة» مع تايوان يجب أن تتحقق وستتحقق لأن «مدّ التاريخ لا يمكن وقفه»، وتايوان ترصد 29 طائرة عسكرية صينية في دورية جاهزية قتالية.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/chinas-xi-says-taiwan-reunification-041815230.html"
    }
   }
  ]
