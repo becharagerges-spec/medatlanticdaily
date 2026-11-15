@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T06:08:48Z",
+ "updated": "2026-11-15T07:07:52Z",
  "items": [
+  {
+   "id": "20261115-0600-russia-132-drones-ukraine",
+   "time": "2026-11-15T06:00:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 132 drones overnight, 106 were downed or suppressed, and hits were recorded at 20 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 132 مسيّرة خلال الليل، أُسقطت أو عُطّلت 106 منها، وسُجّلت إصابات في 20 موقعاً.",
+   "source": {
+    "name": "Ukrainian Air Force via UNN",
+    "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-132-drones-air-defense-destroyed-and-suppressed-106"
+   }
+  },
   {
    "id": "20261115-0536-us-intel-iran-2500-missiles",
    "time": "2026-11-15T05:36:00Z",
@@ -34,6 +46,18 @@
    "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم إسقاط طائرة استطلاع مسلحة سعودية في أجواء الجوف، فيما يعلن التحالف بقيادة السعودية إسقاط مسيّرة حوثية ثالثة فوق المنطقة الشرقية.",
    "source": {
     "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
+   }
+  },
+  {
+   "id": "20261115-0320-coalition-third-drone-eastern-region",
+   "time": "2026-11-15T03:20:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi-led coalition spokesman Turki al-Malki says its forces shot down a third Houthi drone over Saudi Arabia's Eastern Region within 3 hours.",
+   "ar": "المتحدث باسم التحالف بقيادة السعودية تركي المالكي يقول إن قواته أسقطت مسيّرة حوثية ثالثة فوق المنطقة الشرقية في السعودية خلال 3 ساعات.",
+   "source": {
+    "name": "Saudi-led coalition via Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
    }
   },
@@ -1135,18 +1159,6 @@
    "source": {
     "name": "Reuters via Devdiscourse",
     "url": "https://www.devdiscourse.com/article/international/4005657-china-urges-us-to-stop-fabricating-spy-narrative-over-nvidia"
-   }
-  },
-  {
-   "id": "20261112-0622-witkoff-kushner-moscow",
-   "time": "2026-11-12T06:22:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "US envoys Steve Witkoff and Jared Kushner land at Moscow's Vnukovo airport, met by Kremlin envoy Kirill Dmitriev, ahead of talks with Putin on ending the Ukraine war, per TASS.",
-   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر يصلان إلى مطار فنوكوفو في موسكو، ويستقبلهما مبعوث الكرملين كيريل دميترييف، قبيل محادثات مع بوتين بشأن إنهاء الحرب في أوكرانيا، بحسب «تاس».",
-   "source": {
-    "name": "LaPresse",
-    "url": "https://uk.lapresse.it/world-en/2026/11/12/ukraine-witkoff-and-kushner-arrive-in-moscow-for-talks/"
    }
   }
  ]
