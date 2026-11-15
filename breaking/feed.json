@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T00:08:27Z",
+ "updated": "2026-11-15T03:08:53Z",
  "items": [
+  {
+   "id": "20261115-0149-coalition-two-missiles-riyadh",
+   "time": "2026-11-15T01:49:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says its air defences intercepted 2 Houthi ballistic missiles fired at Riyadh early Sunday, after downing 2 drones over the Eastern Province; no damage is reported.",
+   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون نحو الرياض فجر الأحد، بعد إسقاط مسيّرتين فوق المنطقة الشرقية، من دون الإبلاغ عن أضرار.",
+   "source": {
+    "name": "Saudi-led coalition via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-ballistic-missiles-shot-down-over-riyadh-coalition-spokesman"
+   }
+  },
+  {
+   "id": "20261114-2306-hamas-rafah-commander-killed",
+   "time": "2026-11-14T23:06:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "An Israeli strike in al-Mawasi, Khan Younis, kills Samir Abu Younis, commander of Hamas's Rafah brigade; Israel's military says it targeted a senior Hamas commander and Hamas confirms his death.",
+   "ar": "غارة إسرائيلية في المواصي بخان يونس تقتل سمير أبو يونس، قائد لواء رفح في حماس؛ والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في الحركة، وحماس تؤكد مقتله.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955"
+   }
+  },
   {
    "id": "20261114-1921-damascus-jaramana-car-bomb",
    "time": "2026-11-14T19:21:00Z",
@@ -1147,18 +1171,6 @@
    "source": {
     "name": "Fontanka via Euromaidan Press",
     "url": "https://euromaidanpress.com/2026/11/12/russian-colonel-killed-by-a-remote-detonated-car-bomb-a-day-after-ukrainian-drones-hit-a-nearby-baltic-port/"
-   }
-  },
-  {
-   "id": "20261112-0027-mecca-missile-debris",
-   "time": "2026-11-12T00:27:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi civil defence says 2 Houthi ballistic missiles fired toward the Mecca region were intercepted, with debris falling at Sabuhah; a Houthi spokesman rejects the Mecca claim as Saudi 'lies'.",
-   "ar": "الدفاع المدني السعودي يقول إن صاروخين باليستيين أطلقهما الحوثيون نحو منطقة مكة اعتُرضا وسقط حطامهما في الصبوحة، فيما ينفي متحدث حوثي ذلك ويصفه بـ«أكاذيب» سعودية.",
-   "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/saudi-arabia-says-debris-intercepted-002740905.html"
    }
   }
  ]
