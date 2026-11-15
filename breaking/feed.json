@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T03:08:53Z",
+ "updated": "2026-11-15T04:07:57Z",
  "items": [
+  {
+   "id": "20261115-0320-houthis-claim-saudi-recon-aircraft",
+   "time": "2026-11-15T03:20:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi spokesman Yahya Saree claims his forces shot down a Saudi armed reconnaissance aircraft over al-Jawf, as the Saudi-led coalition says it downed a third Houthi drone over the Eastern Region.",
+   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم إسقاط طائرة استطلاع مسلحة سعودية في أجواء الجوف، فيما يعلن التحالف بقيادة السعودية إسقاط مسيّرة حوثية ثالثة فوق المنطقة الشرقية.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
+   }
+  },
   {
    "id": "20261115-0149-coalition-two-missiles-riyadh",
    "time": "2026-11-15T01:49:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Saudi-led coalition via Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-ballistic-missiles-shot-down-over-riyadh-coalition-spokesman"
+   }
+  },
+  {
+   "id": "20261115-0132-bahrain-threat-alert-sirens",
+   "time": "2026-11-15T01:32:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Bahrain's Interior Ministry sounds sirens and warns of a potential threat at about 4:32 am local time, telling residents to move to the nearest safe location; the alert is lifted around 5:00 am.",
+   "ar": "وزارة الداخلية البحرينية تطلق صفارات الإنذار وتحذّر من تهديد محتمل نحو الساعة 4:32 فجراً بالتوقيت المحلي، داعيةً السكان إلى التوجّه لأقرب مكان آمن؛ ورُفع الإنذار قرابة الخامسة فجراً.",
+   "source": {
+    "name": "News of Bahrain",
+    "url": "https://www.newsofbahrain.com/en/article/bahrain-issues-early-morning-alert"
    }
   },
   {
@@ -1159,18 +1183,6 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/politics/articles/chinas-xi-says-taiwan-reunification-041815230.html"
-   }
-  },
-  {
-   "id": "20261112-0400-st-petersburg-colonel-car-bomb",
-   "time": "2026-11-12T04:00:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "A remotely detonated car bomb kills a Russian air force colonel in a St Petersburg suburb, per Fontanka; Russia's Investigative Committee opens a murder case and nobody has claimed it.",
-   "ar": "عبوة مفخّخة فُجّرت عن بُعد في سيارة تقتل عقيداً في سلاح الجو الروسي بضاحية في سانت بطرسبرغ، بحسب «فونتانكا»؛ ولجنة التحقيق الروسية تفتح قضية قتل ولم يتبنَّ أحد العملية.",
-   "source": {
-    "name": "Fontanka via Euromaidan Press",
-    "url": "https://euromaidanpress.com/2026/11/12/russian-colonel-killed-by-a-remote-detonated-car-bomb-a-day-after-ukrainian-drones-hit-a-nearby-baltic-port/"
    }
   }
  ]
