@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-16T08:10:18Z",
+ "updated": "2026-11-16T09:09:05Z",
  "items": [
+  {
+   "id": "20261116-0821-crimea-bridge-hit",
+   "time": "2026-11-16T08:21:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Crimea's Russian-installed head Sergey Aksyonov says Ukraine hit the Crimea bridge overnight, suspending road traffic until about midday; damage appears minor and no injuries are reported.",
+   "ar": "رئيس القرم المعيَّن من روسيا سيرغي أكسيونوف يقول إن أوكرانيا أصابت جسر القرم ليلاً، فتوقّف السير عليه حتى الظهر تقريباً؛ والأضرار تبدو طفيفة ولا إصابات معلنة.",
+   "source": {
+    "name": "AFP via France 24",
+    "url": "https://www.france24.com/en/live-news/20261116-ukraine-hits-russia-s-crimea-bridge-in-1-300-drone-barrage"
+   }
+  },
   {
    "id": "20261116-0736-iran-no-iaea-access",
    "time": "2026-11-16T07:36:00Z",
@@ -30,10 +42,11 @@
    "time": "2026-11-16T06:34:00Z",
    "theater": "russia",
    "status": "reported",
-   "en": "Moscow mayor Sergei Sobyanin says Russian air defences intercepted about 139 Ukrainian drones flying towards Moscow overnight.",
-   "ar": "رئيس بلدية موسكو سيرغي سوبيانين يقول إن الدفاعات الجوية الروسية اعترضت نحو 139 مسيّرة أوكرانية كانت متجهة نحو موسكو خلال الليل.",
+   "en": "Moscow mayor Sergei Sobyanin says about 600 Ukrainian drones flew towards Moscow overnight, 191 downed near the city, as Russia's defence ministry claims 1,336 drones destroyed nationwide.",
+   "ar": "رئيس بلدية موسكو سيرغي سوبيانين يقول إن نحو 600 مسيّرة أوكرانية اتجهت نحو موسكو ليلاً، أُسقطت 191 منها قرب المدينة، فيما تقول وزارة الدفاع الروسية إنها دمّرت 1,336 مسيّرة في أنحاء روسيا.",
    "source": {
-    "name": "Sergei Sobyanin via Hindustan Times"
+    "name": "TASS",
+    "url": "https://tass.com/emergencies/2218527"
    }
   },
   {
@@ -1171,30 +1184,6 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/france-criticises-demagogic-move-israel-ban-hard-left-leader-melenchon"
-   }
-  },
-  {
-   "id": "20261113-0905-iea-oil-surplus",
-   "time": "2026-11-13T09:05:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The IEA says the world oil market swung to its first surplus since the Iran war in October, with Gulf exports at 18.4 million barrels a day, still 26% below pre-war levels.",
-   "ar": "وكالة الطاقة الدولية تقول إن سوق النفط العالمية سجّلت في تشرين الأول أول فائض منذ حرب إيران، مع صادرات خليجية بلغت 18.4 مليون برميل يومياً، لا تزال أدنى بنسبة 26% من مستويات ما قبل الحرب.",
-   "source": {
-    "name": "AFP via Free Malaysia Today",
-    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/13/iea-says-global-oil-supply-to-surpass-demand-in-q4"
-   }
-  },
-  {
-   "id": "20261113-0838-iaea-iran-cannot-verify",
-   "time": "2026-11-13T08:38:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "An IAEA report says the agency cannot conclude Iran has not diverted declared nuclear material, calls this a serious proliferation concern, and urges gradual steps to let inspectors return.",
-   "ar": "تقرير للوكالة الدولية للطاقة الذرية يقول إنها لا تستطيع الجزم بأن إيران لم تحوّل مواد نووية معلنة، ويصف ذلك بمصدر قلق جدي من الانتشار، ويحثّ على خطوات تدريجية لإعادة المفتشين.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/world/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections-3011602"
    }
   }
  ]
