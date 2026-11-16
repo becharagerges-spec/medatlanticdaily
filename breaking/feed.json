@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-16T10:10:24Z",
+ "updated": "2026-11-16T11:09:19Z",
  "items": [
+  {
+   "id": "20261116-1043-araghchi-eco-hormuz-plan",
+   "time": "2026-11-16T10:43:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi says the 10-nation Economic Cooperation Organization backs Iran's two-day plan to reopen the Strait of Hormuz, which he says could lead to a ceasefire.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن منظمة التعاون الاقتصادي التي تضم 10 دول تدعم خطة إيران لإعادة فتح مضيق هرمز خلال يومين، معتبراً أنها قد تمهّد لوقف إطلاق النار.",
+   "source": {
+    "name": "The New Arab",
+    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
+   }
+  },
+  {
+   "id": "20261116-1033-police-probe-election-arrests",
+   "time": "2026-11-16T10:33:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's police chief Daniel Levy orders an internal review of Election Day arrests of 3 Bedouin men, after reports a complaint by Netanyahu's chief of staff triggered them.",
+   "ar": "قائد الشرطة الإسرائيلية داني ليفي يأمر بمراجعة داخلية لاعتقال 3 رجال بدو يوم الانتخابات، بعد تقارير عن أن شكوى من مدير مكتب نتنياهو أطلقتها.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/police-chief-launches-internal-probe-after-reports-of-pmo-involvement-in-election-day-arrests"
+   }
+  },
+  {
+   "id": "20261116-1024-yemen-strikes-three-killed",
+   "time": "2026-11-16T10:24:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Houthi health authorities say 3 people, including a child, were killed in two strikes in Yemen and blame Saudi Arabia, which has not commented.",
+   "ar": "السلطات الصحية التابعة للحوثيين تقول إن 3 أشخاص بينهم طفل قُتلوا في غارتين في اليمن، وتحمّل السعودية المسؤولية، فيما لم تعلّق الرياض.",
+   "source": {
+    "name": "The New Arab",
+    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
+   }
+  },
+  {
+   "id": "20261116-0958-on-phoenix-projectile-oman",
+   "time": "2026-11-16T09:58:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "UKMTO and the monitor Vanguard say the Panama-flagged tanker ON PHOENIX was hit by an unknown projectile about 3 nautical miles off Oman and caught fire; all crew are safe.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية ومرصد «فانغارد» يقولان إن ناقلة النفط «أون فينيكس» التي ترفع علم بنما أُصيبت بمقذوف مجهول على بُعد نحو 3 أميال بحرية من سواحل عُمان واشتعلت فيها النيران، وطاقمها بأمان.",
+   "source": {
+    "name": "UKMTO via The New Arab",
+    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
+   }
+  },
   {
    "id": "20261116-0951-idf-janta-weapons-strike",
    "time": "2026-11-16T09:51:00Z",
@@ -23,6 +71,18 @@
    "source": {
     "name": "Lebanese Presidency via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-and-lebanese-president-discuss-end-of-unifil-mandate-and-continued-israeli-attacks/"
+   }
+  },
+  {
+   "id": "20261116-0900-bahrain-64-life-sentences",
+   "time": "2026-11-16T09:00:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "A Bahraini court sentences 64 Shia Muslims, 57 of them clerics, to life in prison on terrorism charges and 5 others to 15 years, per the Bahrain Institute for Rights and Democracy.",
+   "ar": "محكمة بحرينية تحكم بالسجن المؤبد على 64 مسلماً شيعياً، بينهم 57 رجل دين، بتهم إرهاب، وعلى 5 آخرين بالسجن 15 عاماً، وفق معهد البحرين للحقوق والديمقراطية.",
+   "source": {
+    "name": "The New Arab",
+    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
    }
   },
   {
@@ -95,6 +155,18 @@
    "source": {
     "name": "UKMTO via Anadolu",
     "url": "https://www.aa.com.tr/en/middle-east/4-armed-men-aboard-boat-approach-oil-tanker-east-of-yemens-socotra-uk-maritime-agency/4126143"
+   }
+  },
+  {
+   "id": "20261116-0534-dnipro-strike-one-killed",
+   "time": "2026-11-16T05:34:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian morning strike on Dnipro kills 1 person and injures 10, 2 seriously, damaging high-rise buildings and setting cars ablaze, regional governor Oleksandr Hanzha says.",
+   "ar": "ضربة روسية صباحية على دنيبرو تقتل شخصاً وتصيب 10 بينهم 2 بحالة خطرة، وتلحق أضراراً بأبنية شاهقة وتُحرق سيارات، بحسب حاكم المنطقة أولكسندر هانجا.",
+   "source": {
+    "name": "UNN",
+    "url": "https://unn.ua/en/news/russia-struck-dnipro-in-the-morning-one-person-was-killed-10-injured"
    }
   },
   {
@@ -1196,18 +1268,6 @@
    "source": {
     "name": "AFP via Insider Paper",
     "url": "https://insiderpaper.com/russia-says-no-decision-on-letting-europe-join-ukraine-talks/"
-   }
-  },
-  {
-   "id": "20261113-1014-france-israel-melenchon-ban",
-   "time": "2026-11-13T10:14:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "French Foreign Minister Jean-Noël Barrot calls 'demagogic' Israel's decision to bar hard-left leader Jean-Luc Mélenchon and LFI's Mathilde Panot from entering the country.",
-   "ar": "وزير الخارجية الفرنسي جان نويل بارو يصف بـ«الديماغوجي» قرار إسرائيل منع زعيم اليسار الراديكالي جان لوك ميلانشون ورئيسة كتلة «فرنسا الأبية» ماتيلد بانو من دخول أراضيها.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/france-criticises-demagogic-move-israel-ban-hard-left-leader-melenchon"
    }
   }
  ]
