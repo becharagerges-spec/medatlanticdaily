@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:09:40Z",
+ "updated": "2026-11-16T18:09:25Z",
  "items": [
   {
    "id": "20261116-1637-eu-syria-association-deal",
@@ -92,6 +92,18 @@
    "source": {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988"
+   }
+  },
+  {
+   "id": "20261116-1302-iraq-army-ordered-jurf-al-sakhar",
+   "time": "2026-11-16T13:02:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraqi PM Ali al-Zaidi orders the armed forces to enter Jurf al-Sakhar, a Kataib Hezbollah stronghold, government spokesman Haidar al-Aboudi tells INA; a security source says the faction has until Friday.",
+   "ar": "رئيس الوزراء العراقي علي الزيدي يأمر القوات المسلحة بدخول جرف الصخر، معقل كتائب حزب الله، وفق المتحدث الحكومي حيدر العبودي لوكالة الأنباء العراقية، ومصدر أمني يقول إن المهلة للفصيل تنتهي الجمعة.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iraq-orders-army-to-enter-stronghold-of-iran-backed-group-3012279"
    }
   },
   {
@@ -1301,30 +1313,6 @@
    "source": {
     "name": "AP via ClickOnDetroit",
     "url": "https://www.clickondetroit.com/news/politics/2026/11/13/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border/"
-   }
-  },
-  {
-   "id": "20261113-1734-eu-five-ukraine-talks",
-   "time": "2026-11-13T17:34:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "EU leaders agree that Germany, France, the UK, Italy and Poland, plus the European Commission and Council, will represent Europe at future Ukraine negotiations.",
-   "ar": "قادة الاتحاد الأوروبي يتّفقون على أن تمثّل ألمانيا وفرنسا والمملكة المتحدة وإيطاليا وبولندا، إلى جانب المفوضية والمجلس الأوروبيين، أوروبا في مفاوضات أوكرانيا المقبلة.",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
-   }
-  },
-  {
-   "id": "20261113-1722-chip-stocks-selloff",
-   "time": "2026-11-13T17:22:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "The chip-stock sell-off deepens on Wall Street, with AMD down about 9%, Broadcom about 6%, Intel and Micron about 5%, and Nvidia more than 4%, per Yahoo Finance.",
-   "ar": "موجة بيع أسهم الرقائق تتعمّق في وول ستريت، إذ تتراجع AMD نحو 9% وبرودكوم نحو 6% وإنتل وميكرون نحو 5% وإنفيديا أكثر من 4%، بحسب «ياهو فايننس».",
-   "source": {
-    "name": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
    }
   }
  ]
