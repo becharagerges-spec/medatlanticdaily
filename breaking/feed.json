@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-16T03:09:34Z",
+ "updated": "2026-11-16T04:07:38Z",
  "items": [
+  {
+   "id": "20261116-0255-us-pax-silica-sf-declaration",
+   "time": "2026-11-16T02:55:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The United States and 9 Pax Silica partners sign the San Francisco Declaration, pledging to jointly safeguard the technologies and infrastructure behind superintelligence supply chains and to set up working groups, the State Department says.",
+   "ar": "الولايات المتحدة و9 شركاء في «باكس سيليكا» يوقّعون «إعلان سان فرانسيسكو» ويتعهدون حماية مشتركة للتقنيات والبنى التحتية لسلاسل إمداد الذكاء الفائق وإنشاء مجموعات عمل، بحسب وزارة الخارجية الأميركية.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/"
+   }
+  },
   {
    "id": "20261116-0200-china-october-data-miss",
    "time": "2026-11-16T02:00:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "Reuters via 102.7 WBOW",
     "url": "https://1027wbow.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
+   }
+  },
+  {
+   "id": "20261116-0132-iran-navy-tanker-fire-east-hormuz",
+   "time": "2026-11-16T01:32:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says another unnamed oil tanker caught fire after hitting a naval mine in the restricted zone east of the Strait of Hormuz with its navigation systems off, per IRIB; no independent confirmation.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة نفط أخرى لم تُسمَّ اشتعلت بعد اصطدامها بلغم بحري في المنطقة المحظورة شرق مضيق هرمز وأنظمة ملاحتها مطفأة، بحسب التلفزيون الإيراني؛ ولا تأكيد مستقلاً.",
+   "source": {
+    "name": "IRIB via ANI",
+    "url": "https://www.aninews.in/news/world/middle-east/oil-tanker-catches-fire-after-hitting-naval-mine-in-hormuz-says-iranian-navy20261116070243/"
+   }
+  },
+  {
+   "id": "20261116-0001-eisenkot-netanyahu-vote-probe",
+   "time": "2026-11-16T00:01:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot says Netanyahu cannot stay in office 'for even one more minute' and demands a probe after Channel 12 reports a warrantless police raid on 3 Ra'am members before the vote.",
+   "ar": "غادي آيزنكوت يقول إن نتنياهو لا يمكن أن يبقى في منصبه «دقيقة واحدة إضافية» ويطالب بتحقيق بعد تقرير للقناة 12 عن مداهمة الشرطة منازل 3 أعضاء في «القائمة العربية الموحدة» من دون مذكرة قبيل الانتخابات.",
+   "source": {
+    "name": "AFP via Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
    }
   },
   {
@@ -1172,18 +1208,6 @@
    "source": {
     "name": "UA.News",
     "url": "https://ua.news/en/war-vs-rf/rosiia-atakuvala-vinnitsiu-vnochi-13-listopada-ie-postrazhdali-poshkodzheno-ditsadok"
-   }
-  },
-  {
-   "id": "20261113-0313-irgc-claims-bahrain-radar",
-   "time": "2026-11-13T03:13:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "US Central Command denies Iran's Revolutionary Guards struck a US radar in Bahrain, saying US forces shot down the 2 one-way attack drones the IRGC launched towards Bahrain.",
-   "ar": "القيادة المركزية الأميركية تنفي أن يكون الحرس الثوري الإيراني قد أصاب راداراً أميركياً في البحرين، وتقول إن القوات الأميركية أسقطت المسيّرتين الانتحاريتين اللتين أطلقهما الحرس باتجاه البحرين.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
    }
   }
  ]
