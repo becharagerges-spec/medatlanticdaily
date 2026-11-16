@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-16T15:09:39Z",
+ "updated": "2026-11-16T16:10:19Z",
  "items": [
+  {
+   "id": "20261116-1523-saudi-ruwaili-joint-forces",
+   "time": "2026-11-16T15:23:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "A Saudi royal decree names Chief of the General Staff Lt Gen Fayyad Al Ruwaili commander of the Joint Forces fighting the Houthis, replacing Lt Gen Fahad Al Salman, who becomes a defence adviser.",
+   "ar": "مرسوم ملكي سعودي يعيّن رئيس هيئة الأركان العامة الفريق أول فياض الرويلي قائداً للقوات المشتركة التي تقاتل الحوثيين خلفاً للفريق فهد بن حمد السلمان الذي يصبح مستشاراً لوزير الدفاع.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/saudi-arabia-replaces-joint-forces-commander-overseeing-fight-with-houthis/"
+   }
+  },
   {
    "id": "20261116-1456-trump-xi-putin-ukraine-kim",
    "time": "2026-11-16T14:56:00Z",
@@ -80,6 +92,18 @@
    "source": {
     "name": "Eunews",
     "url": "https://www.eunews.it/en/2026/11/16/ukraine-kallas-a-ceasefire-is-needed-to-begin-talks-but-moscow-isnt-serious/"
+   }
+  },
+  {
+   "id": "20261116-1220-eu-113-russia-listings",
+   "time": "2026-11-16T12:20:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "EU foreign ministers finalise 113 new Russia sanctions listings targeting almost 50 banks, St Petersburg's oil terminal, shadow-fleet ships and Wildberries owner Tatyana Kim, per the Kyiv Independent.",
+   "ar": "وزراء خارجية الاتحاد الأوروبي يقرّون 113 إدراجاً جديداً في العقوبات على روسيا تطال نحو 50 مصرفاً ومحطة نفط سان بطرسبرغ وسفناً من «أسطول الظل» ومالكة «وايلدبيريز» تاتيانا كيم، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/eu-clamps-down-on-russias-wildberries-owner-50-banks-oil-and-shadow-fleet-with-new-sanctions/"
    }
   },
   {
@@ -164,6 +188,18 @@
    "source": {
     "name": "Lebanese Presidency via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-and-lebanese-president-discuss-end-of-unifil-mandate-and-continued-israeli-attacks/"
+   }
+  },
+  {
+   "id": "20261116-0934-liberman-summons-security-chiefs",
+   "time": "2026-11-16T09:34:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Avigdor Liberman, new chair of the Knesset defence committee, seeks to summon the IDF, Mossad, Shin Bet and police chiefs over alleged election interference by Netanyahu's office; Defence Minister Katz objects, per Ynet.",
+   "ar": "أفيغدور ليبرمان، الرئيس الجديد للجنة الخارجية والأمن في الكنيست، يسعى لاستدعاء قادة الجيش والموساد والشاباك والشرطة بشأن تدخل مزعوم لمكتب نتنياهو في الانتخابات، ووزير الدفاع كاتس يعترض، بحسب «يديعوت».",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/hk11tvho0mg"
    }
   },
   {
@@ -1277,18 +1313,6 @@
    "source": {
     "name": "Yahoo Finance",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-   }
-  },
-  {
-   "id": "20261113-1515-qatar-turkey-defence-pact",
-   "time": "2026-11-13T15:15:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's Emir Tamim bin Hamad and Turkish President Erdoğan sign a joint defence agreement in Istanbul, pledging a common stance against any external armed attack on either country.",
-   "ar": "أمير قطر الشيخ تميم بن حمد والرئيس التركي أردوغان يوقّعان في إسطنبول اتفاقية دفاع مشترك تنصّ على موقف موحّد في وجه أي اعتداء مسلّح خارجي على أيٍّ من البلدين.",
-   "source": {
-    "name": "Qatar Amiri Diwan",
-    "url": "https://www.diwan.gov.qa/ar-qa/briefing-room/news/foreign-visits/2026/november/13/hh-the-amir-and-turkish-president-sign-joint-defense-agreement"
    }
   }
  ]
