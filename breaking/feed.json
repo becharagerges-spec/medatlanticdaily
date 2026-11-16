@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-16T18:09:25Z",
+ "updated": "2026-11-16T19:08:44Z",
  "items": [
+  {
+   "id": "20261116-1850-us-bank-outages",
+   "time": "2026-11-16T18:50:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Thousands of customers of Chase, Wells Fargo, Bank of America and US Bank report trouble accessing accounts, transfers, apps and ATMs, per Downdetector; no cause is given.",
+   "ar": "آلاف من عملاء «تشيس» و«ويلز فارغو» و«بنك أوف أميركا» و«يو إس بنك» يبلّغون عن تعذّر الوصول إلى حساباتهم والتحويلات والتطبيقات والصرّافات الآلية، بحسب «داون ديتكتور»، من دون تحديد السبب.",
+   "source": {
+    "name": "Gray News",
+    "url": "https://www.hawaiinewsnow.com/2026/11/16/chase-wells-fargo-bank-americam-us-bank-hit-by-nationwide-outage-users-say/"
+   }
+  },
   {
    "id": "20261116-1637-eu-syria-association-deal",
    "time": "2026-11-16T16:37:00Z",
@@ -92,6 +104,18 @@
    "source": {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988"
+   }
+  },
+  {
+   "id": "20261116-1309-coalition-drones-makkah-riyadh",
+   "time": "2026-11-16T13:09:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed 2 Houthi drones launched towards Makkah and Riyadh; no damage or casualties are reported.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرتين حوثيتين أُطلقتا باتجاه مكة المكرمة والرياض، من دون الإبلاغ عن أضرار أو إصابات.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.pk/saudi-arabia/coalition-intercepts-two-houthi-drones-launched-towards-makkah-and-riyadh-3007194"
    }
   },
   {
@@ -1301,18 +1325,6 @@
    "source": {
     "name": "amNewYork",
     "url": "https://www.amny.com/politics/mamdani-deal-trump-delay-snap-rules-nationwide/"
-   }
-  },
-  {
-   "id": "20261113-1904-scotus-asylum-ban",
-   "time": "2026-11-13T19:04:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Supreme Court agrees to decide whether Trump's executive order suspending asylum access at the southern border is legal, after lower courts ruled it unlawful.",
-   "ar": "المحكمة العليا الأميركية توافق على البتّ في قانونية الأمر التنفيذي لترامب بتعليق حق اللجوء على الحدود الجنوبية، بعدما قضت محاكم أدنى بعدم قانونيته.",
-   "source": {
-    "name": "AP via ClickOnDetroit",
-    "url": "https://www.clickondetroit.com/news/politics/2026/11/13/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border/"
    }
   }
  ]
