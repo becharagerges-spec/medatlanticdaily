@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-16T00:08:45Z",
+ "updated": "2026-11-16T03:09:34Z",
  "items": [
+  {
+   "id": "20261116-0200-china-october-data-miss",
+   "time": "2026-11-16T02:00:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's industrial output grows 4.8% year on year in October and retail sales 0.4%, both below forecasts, while fixed-asset investment falls 8.1% in January–October, official data show.",
+   "ar": "الإنتاج الصناعي في الصين ينمو 4.8% على أساس سنوي في تشرين الأول ومبيعات التجزئة 0.4%، وكلاهما دون التوقعات، فيما يتراجع الاستثمار في الأصول الثابتة 8.1% بين كانون الثاني وتشرين الأول، بحسب البيانات الرسمية.",
+   "source": {
+    "name": "Reuters via 102.7 WBOW",
+    "url": "https://1027wbow.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
+   }
+  },
+  {
+   "id": "20261115-2353-japan-q3-gdp-contracts",
+   "time": "2026-11-15T23:53:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Japan's economy shrinks at an annualised 0.1% in July–September, the Cabinet Office's preliminary data show, with output edging down 0.02% from the previous quarter.",
+   "ar": "الاقتصاد الياباني ينكمش بمعدل سنوي 0.1% في الفترة بين تموز وأيلول، بحسب البيانات الأولية لمكتب مجلس الوزراء، مع تراجع الناتج 0.02% عن الفصل السابق.",
+   "source": {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20261116/3fd985793e7941dda99b129e265dd98c/c.html"
+   }
+  },
   {
    "id": "20261115-2224-roosevelt-enters-centcom",
    "time": "2026-11-15T22:24:00Z",
@@ -47,6 +71,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/mossad-chief-returns-from-us-after-meeting-ratcliffe-witkoff-on-iran-will-update-security-cabinet"
+   }
+  },
+  {
+   "id": "20261115-1638-army-sharawneh-baalbek-raid",
+   "time": "2026-11-15T16:38:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's army says a Baalbek raid wounded and held a top wanted man in a gunfight, arrested 4 others and seized rockets, arms and about 1 million Captagon pills.",
+   "ar": "الجيش اللبناني يعلن أن مداهمة في حي الشراونة في بعلبك أدّت إلى إصابة أحد أخطر المطلوبين وتوقيفه بعد تبادل لإطلاق النار، وتوقيف 4 آخرين وضبط صواريخ وأسلحة ونحو مليون حبة كبتاغون.",
+   "source": {
+    "name": "Lebanese Army statement via Daily Beirut",
+    "url": "https://dailybeirut.com/en/lebanon-news/rockets-and-clash-with-lebanese-army-details-of-arresting-one-of-baalbeks-most-w/"
    }
   },
   {
@@ -820,11 +856,11 @@
    "time": "2026-11-13T23:40:00Z",
    "theater": "china",
    "status": "confirmed",
-   "en": "The White House says Trump, Xi Jinping and Putin will meet on Thursday 19 November on the sidelines of the APEC summit in Shenzhen; a US official says Iran and nuclear arms, not Ukraine, are on the agenda.",
-   "ar": "البيت الأبيض يعلن أن ترامب وشي جين بينغ وبوتين سيلتقون الخميس 19 تشرين الثاني على هامش قمة «أبيك» في شنتشن، ومسؤول أميركي يقول إن إيران والأسلحة النووية، لا أوكرانيا، على جدول الأعمال.",
+   "en": "China's Foreign Ministry confirms Xi will host Trump and Putin in Shenzhen on 19 November at APEC; a US official says Iran and nuclear arms are on the agenda.",
+   "ar": "وزارة الخارجية الصينية تؤكد أن شي سيستضيف ترامب وبوتين في شنتشن في 19 تشرين الثاني على هامش «أبيك»، ومسؤول أميركي يقول إن إيران والأسلحة النووية على جدول الأعمال.",
    "source": {
-    "name": "AP",
-    "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/beijing-confirms-jinping-to-hold-trilateral-summit-with-trump-and-putin-in-shenzen-this-week/"
    }
   },
   {
@@ -1148,53 +1184,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
-   }
-  },
-  {
-   "id": "20261113-0211-trump-urged-huang-fight",
-   "time": "2026-11-13T02:11:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump phoned Nvidia's Jensen Huang on Tuesday and urged him to fight for his job as the spy scandal intensified, The New York Times reports.",
-   "ar": "ترامب اتصل برئيس إنفيديا جنسن هوانغ يوم الثلاثاء وحثّه على التمسّك بمنصبه مع تصاعد فضيحة التجسّس، بحسب «نيويورك تايمز».",
-   "source": {
-    "name": "The New York Times"
-   }
-  },
-  {
-   "id": "20261113-0204-van-hollen-challenges-schumer",
-   "time": "2026-11-13T02:04:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Senator Chris Van Hollen of Maryland says he will run for Senate majority leader, challenging Chuck Schumer in the first contested Democratic leadership race in decades, per AP and Politico.",
-   "ar": "السيناتور كريس فان هولن من ولاية ماريلاند يعلن ترشّحه لزعامة الأغلبية في مجلس الشيوخ متحدّياً تشاك شومر، في أول منافسة على زعامة الديمقراطيين منذ عقود، بحسب أسوشيتد برس وبوليتيكو.",
-   "source": {
-    "name": "Senator Chris Van Hollen on X",
-    "url": "https://x.com/ChrisVanHollen/status/2121061505160642660"
-   }
-  },
-  {
-   "id": "20261113-0158-asia-stocks-rebound-kospi",
-   "time": "2026-11-13T01:58:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Asian stocks recover from the Nvidia sell-off as South Korea's Kospi rises 2.35% and Japan's Nikkei 1.4%, while Brent crude slips 0.3% to $95.45 a barrel, Reuters reports.",
-   "ar": "الأسهم الآسيوية تتعافى من موجة بيع إنفيديا، إذ يرتفع مؤشر كوسبي الكوري 2.35% ونيكاي الياباني 1.4%، فيما يتراجع خام برنت 0.3% إلى 95.45 دولاراً للبرميل، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-recover-nvidia-whiplash-dollar-015858641.html"
-   }
-  },
-  {
-   "id": "20261113-0031-trump-gulf-asked-restraint",
-   "time": "2026-11-13T00:31:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells Stephen A. Smith that Saudi Arabia, Qatar, Kuwait, the UAE and Bahrain asked him to hold off on tougher strikes on Iran, and says he is complying.",
-   "ar": "ترامب يقول لستيفن إيه سميث إن السعودية وقطر والكويت والإمارات والبحرين طلبت منه التريّث في توجيه ضربات أشدّ إلى إيران، ويؤكد أنه يستجيب لطلبها.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/international/article-914787"
    }
   }
  ]
