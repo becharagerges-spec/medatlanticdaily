@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T22:08:28Z",
+ "updated": "2026-11-16T00:08:45Z",
  "items": [
+  {
+   "id": "20261115-2224-roosevelt-enters-centcom",
+   "time": "2026-11-15T22:24:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "The USS Theodore Roosevelt enters the US Central Command area, bringing the number of US carrier strike groups in the region to 3, alongside the George Washington and George H.W. Bush, a US official says.",
+   "ar": "حاملة الطائرات الأميركية «ثيودور روزفلت» تدخل منطقة القيادة المركزية الأميركية، ليرتفع عدد مجموعات حاملات الطائرات الأميركية في المنطقة إلى 3 إلى جانب «جورج واشنطن» و«جورج بوش الأب»، بحسب مسؤول أميركي.",
+   "source": {
+    "name": "Axios via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-915003"
+   }
+  },
   {
    "id": "20261115-2157-bennett-unity-eisenkot-first",
    "time": "2026-11-15T21:57:00Z",
@@ -1183,42 +1195,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/international/article-914787"
-   }
-  },
-  {
-   "id": "20261113-0000-scott-summons-huang-lutnick",
-   "time": "2026-11-13T00:00:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Senate Banking Chair Tim Scott asks ex-Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify on 3 and 10 December over the Nvidia spy scandal, threatening Huang with a subpoena.",
-   "ar": "رئيس لجنة المصارف في مجلس الشيوخ تيم سكوت يطلب من الرئيس السابق لإنفيديا جنسن هوانغ ووزير التجارة هوارد لوتنيك الإدلاء بشهادتيهما في 3 و10 كانون الأول بشأن فضيحة التجسّس، ويلوّح باستدعاء هوانغ.",
-   "source": {
-    "name": "Reuters via The Globe and Mail",
-    "url": "https://www.theglobeandmail.com/world/article-nvidia-jensen-huang-lutnick-senate-testify/"
-   }
-  },
-  {
-   "id": "20261112-2343-trump-defeat-iran-regime",
-   "time": "2026-11-12T23:43:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump tells Salem News Channel he would count it a defeat if Iran's regime is still in power when his term ends, and warns Iran 'will not exist' if it kills a US official.",
-   "ar": "ترامب يقول لقناة «سالم نيوز» إنه سيعدّ بقاء النظام الإيراني في السلطة عند انتهاء ولايته هزيمة، ويحذّر من أن إيران «لن تعود موجودة» إذا قتلت مسؤولاً أميركياً.",
-   "source": {
-    "name": "ANI",
-    "url": "https://www.aninews.in/news/world/us/would-not-hesitate-to-strike-iran-if-things-go-other-way-trump-says-8220they-will-not-exist-if-tehran-kills-us-officials20261113051335/"
-   }
-  },
-  {
-   "id": "20261112-2232-houthis-claim-riyadh-aramco-sharurah",
-   "time": "2026-11-12T22:32:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi spokesman Yahya Saree claims drone strikes on an Aramco facility in Riyadh, a cargo plane at Sharurah airport and a missile hit on Khamis Mushait air base; the Saudi-led coalition says it intercepted drones.",
-   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم شنّ هجمات بمسيّرات على منشأة لأرامكو في الرياض وطائرة شحن في مطار شرورة وضرب قاعدة خميس مشيط بصاروخ، والتحالف بقيادة السعودية يعلن اعتراض مسيّرات.",
-   "source": {
-    "name": "ANI via The Tribune",
-    "url": "https://www.tribuneindia.com/news/air-defence/houthis-claim-drone-strikes-on-riyadh-saudi-military-sites-coalition-says-drones-intercepted"
    }
   }
  ]
