@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-16T05:07:54Z",
+ "updated": "2026-11-16T07:11:17Z",
  "items": [
+  {
+   "id": "20261116-0552-us-post-unifil-observers",
+   "time": "2026-11-16T05:52:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Washington proposes replacing UNIFIL after 2026 with a UN-covered observer mission of fewer than 100 personnel, operating north and south of the Litani, per Al Arabiya citing a diplomatic source.",
+   "ar": "واشنطن تقترح استبدال «اليونيفيل» بعد 2026 ببعثة مراقبين بغطاء أممي تضمّ أقل من 100 عنصر وتعمل شمال الليطاني وجنوبه، بحسب «العربية» نقلاً عن مصدر دبلوماسي.",
+   "source": {
+    "name": "Al Arabiya via Daily Beirut",
+    "url": "https://dailybeirut.com/en/lebanon-news/fewer-than-100-observers-washington-seeks-alternative-to-unifil-in-beirut/"
+   }
+  },
+  {
+   "id": "20261116-0539-ukmto-armed-skiff-socotra",
+   "time": "2026-11-16T05:39:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "UKMTO says a possible mothership and a skiff carrying 4 armed men and a ladder approached an oil tanker about 430 nautical miles east of Yemen's Socotra.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة أمّ محتملة وزورقاً يقلّ 4 مسلحين وسُلّماً اقتربا من ناقلة نفط على بعد نحو 430 ميلاً بحرياً شرق سقطرى اليمنية.",
+   "source": {
+    "name": "UKMTO via Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/4-armed-men-aboard-boat-approach-oil-tanker-east-of-yemens-socotra-uk-maritime-agency/4126143"
+   }
+  },
   {
    "id": "20261116-0446-irgc-two-tankers-mines-hormuz",
    "time": "2026-11-16T04:46:00Z",
@@ -1184,42 +1208,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang"
-   }
-  },
-  {
-   "id": "20261113-0630-odesa-strike-two-killed",
-   "time": "2026-11-13T06:30:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian strike on Odesa kills 2 people and injures 5, two of them seriously, damaging a private house and several cars, says regional governor Oleh Kiper.",
-   "ar": "ضربة روسية على أوديسا تقتل شخصين وتصيب 5 آخرين، بينهم اثنان بحالة خطرة، وتلحق أضراراً بمنزل خاص وعدة سيارات، بحسب حاكم المنطقة أوليغ كيبر.",
-   "source": {
-    "name": "Censor.NET",
-    "url": "https://censor.net/en/news/4033503/strike-on-odesa-on-november-13-one-person-killed-a-fire-broke-out"
-   }
-  },
-  {
-   "id": "20261113-0630-kospi-reverses-lower",
-   "time": "2026-11-13T06:30:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "South Korea's Kospi reverses after topping 5,500 at the open and closes about 1% lower as foreign investors turn net sellers, per MLQ and MoneyToday.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي ينقلب بعد تجاوزه 5,500 نقطة عند الافتتاح ويغلق منخفضاً نحو 1% مع تحوّل المستثمرين الأجانب إلى البيع، بحسب MLQ و«موني توداي».",
-   "source": {
-    "name": "MoneyToday",
-    "url": "https://www.mt.co.kr/en/stock/2026/11/13/2026111313573077979"
-   }
-  },
-  {
-   "id": "20261113-0547-vinnytsia-overnight-attack",
-   "time": "2026-11-13T05:47:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "A Russian overnight attack on Vinnytsia injures 2 women, sets a residential building on fire and damages houses, apartment blocks and a kindergarten, Mayor Serhiy Morgunov says.",
-   "ar": "هجوم روسي ليلي على فينيتسيا يُصيب امرأتين ويُشعل حريقاً في مبنى سكني ويُلحق أضراراً بمنازل ومبانٍ سكنية وروضة أطفال، بحسب رئيس البلدية سيرهي مورغونوف.",
-   "source": {
-    "name": "UA.News",
-    "url": "https://ua.news/en/war-vs-rf/rosiia-atakuvala-vinnitsiu-vnochi-13-listopada-ie-postrazhdali-poshkodzheno-ditsadok"
    }
   }
  ]
