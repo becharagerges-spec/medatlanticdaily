@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-16T14:11:05Z",
+ "updated": "2026-11-16T15:09:39Z",
  "items": [
+  {
+   "id": "20261116-1456-trump-xi-putin-ukraine-kim",
+   "time": "2026-11-16T14:56:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says he will raise Russia's war in Ukraine at his meeting with Xi and Putin in China and may also meet North Korea's Kim Jong Un.",
+   "ar": "ترامب يقول إنه سيطرح الحرب الروسية على أوكرانيا في لقائه مع شي وبوتين في الصين، وقد يلتقي أيضاً زعيم كوريا الشمالية كيم جونغ أون.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261116-1436-herzog-unity-call",
+   "time": "2026-11-16T14:36:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "President Isaac Herzog says 'Israel is greater than any political faction, bloc or leader' and urges compromise as Eisenkot leads coalition talks, per LaPresse.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يقول إن «إسرائيل أكبر من أي فصيل أو كتلة أو زعيم» ويدعو إلى التسوية فيما يقود آيزنكوت مشاورات تشكيل الحكومة، بحسب «لابريسي».",
+   "source": {
+    "name": "LaPresse",
+    "url": "https://uk.lapresse.it/world-en/2026/11/16/israel-herzog-now-is-the-time-for-unity-and-compromise/"
+   }
+  },
+  {
+   "id": "20261116-1404-berri-occupation-obstacle",
+   "time": "2026-11-16T14:04:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Speaker Nabih Berri says Israel's continuing occupation and strikes are the only violation of Lebanese sovereignty and the real obstacle to army deployment and residents' return.",
+   "ar": "رئيس مجلس النواب نبيه بري يقول إن استمرار الاحتلال الإسرائيلي واعتداءاته هو الانتهاك الوحيد للسيادة والعائق الفعلي أمام انتشار الجيش وعودة الأهالي.",
+   "source": {
+    "name": "Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/16/%D8%A8%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%82-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7/"
+   }
+  },
   {
    "id": "20261116-1401-eu-clears-unicredit-commerzbank",
    "time": "2026-11-16T14:01:00Z",
@@ -10,6 +45,17 @@
    "ar": "المفوضية الأوروبية توافق من دون شروط على استحواذ «يونيكريديت» على «كومرتس بنك»، معتبرةً أنه لا يثير مخاوف تنافسية، بعد موافقة البنك المركزي الأوروبي والاحتياطي الفيدرالي الأميركي.",
    "source": {
     "name": "Bloomberg"
+   }
+  },
+  {
+   "id": "20261116-1353-illinois-ethanol-plant-arrest",
+   "time": "2026-11-16T13:53:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "A suspect is arrested over an explosive device found on Friday at a central Illinois ethanol plant, a law enforcement official tells CNN.",
+   "ar": "توقيف مشتبه به في قضية عبوة ناسفة عُثر عليها يوم الجمعة في مصنع للإيثانول وسط ولاية إلينوي، بحسب مسؤول أمني تحدث لشبكة CNN.",
+   "source": {
+    "name": "CNN"
    }
   },
   {
@@ -34,6 +80,18 @@
    "source": {
     "name": "Eunews",
     "url": "https://www.eunews.it/en/2026/11/16/ukraine-kallas-a-ceasefire-is-needed-to-begin-talks-but-moscow-isnt-serious/"
+   }
+  },
+  {
+   "id": "20261116-1058-waltz-hezbollah-disarm",
+   "time": "2026-11-16T10:58:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "US Ambassador to the UN Mike Waltz says in Beirut that 'no country can have two armies' and Hezbollah should disarm voluntarily, with the Lebanese army restoring sovereignty.",
+   "ar": "السفير الأميركي لدى الأمم المتحدة مايك والتز يقول في بيروت إن «لا دولة يمكن أن يكون لها جيشان» وعلى حزب الله نزع سلاحه طوعاً ليستعيد الجيش اللبناني السيادة.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/us-envoy-presses-hezbollah-to-disarm-voluntarily-as-lebanon-weighs-security-after-unifil-3012226"
    }
   },
   {
@@ -1231,18 +1289,6 @@
    "source": {
     "name": "Qatar Amiri Diwan",
     "url": "https://www.diwan.gov.qa/ar-qa/briefing-room/news/foreign-visits/2026/november/13/hh-the-amir-and-turkish-president-sign-joint-defense-agreement"
-   }
-  },
-  {
-   "id": "20261113-1434-bessent-blames-commerce-megaspeed",
-   "time": "2026-11-13T14:34:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Treasury Secretary Scott Bessent accuses the Commerce Department of delaying labelling Nvidia customer Megaspeed a possible national security threat, as Trump advisers discuss ousting Commerce Secretary Howard Lutnick, CNN reports.",
-   "ar": "وزير الخزانة الأميركي سكوت بيسنت يتّهم وزارة التجارة بالتأخّر في تصنيف «ميغاسبيد»، زبونة «إنفيديا»، تهديداً محتملاً للأمن القومي، فيما يبحث مستشارو ترامب إقالة وزير التجارة هوارد لوتنيك، بحسب «سي إن إن».",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame"
    }
   }
  ]
