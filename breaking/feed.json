@@ -1,16 +1,40 @@
 {
- "updated": "2026-11-16T19:08:44Z",
+ "updated": "2026-11-16T22:09:38Z",
  "items": [
+  {
+   "id": "20261116-2015-zelensky-europe-joins-talks",
+   "time": "2026-11-16T20:15:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Ukrainian, US and European negotiating teams held a new round of talks, with Europe fully represented for the first time, and agreed a follow-up meeting in Berlin.",
+   "ar": "زيلينسكي يقول إن فرق التفاوض الأوكرانية والأميركية والأوروبية عقدت جولة محادثات جديدة، بتمثيل أوروبي كامل للمرة الأولى، واتُّفق على اجتماع متابعة في برلين.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://www.anews.com.tr/world/2026/11/16/zelensky-says-europe-joins-ukraine-settlement-negotiations-for-1st-time"
+   }
+  },
   {
    "id": "20261116-1850-us-bank-outages",
    "time": "2026-11-16T18:50:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "Thousands of customers of Chase, Wells Fargo, Bank of America and US Bank report trouble accessing accounts, transfers, apps and ATMs, per Downdetector; no cause is given.",
-   "ar": "آلاف من عملاء «تشيس» و«ويلز فارغو» و«بنك أوف أميركا» و«يو إس بنك» يبلّغون عن تعذّر الوصول إلى حساباتهم والتحويلات والتطبيقات والصرّافات الآلية، بحسب «داون ديتكتور»، من دون تحديد السبب.",
+   "en": "Customers of Chase, Wells Fargo, Bank of America and US Bank report trouble accessing accounts; Chase says a technical bug, not a cyber issue, caused it and funds stayed accessible.",
+   "ar": "عملاء «تشيس» و«ويلز فارغو» و«بنك أوف أميركا» و«يو إس بنك» يبلغون عن صعوبة في الوصول إلى حساباتهم، و«تشيس» تقول إن السبب خلل تقني لا هجوم إلكتروني وإن الأموال بقيت متاحة.",
    "source": {
-    "name": "Gray News",
-    "url": "https://www.hawaiinewsnow.com/2026/11/16/chase-wells-fargo-bank-americam-us-bank-hit-by-nationwide-outage-users-say/"
+    "name": "AP via Yahoo Finance",
+    "url": "https://ca.finance.yahoo.com/news/customers-nations-largest-banks-reporting-190456050.html"
+   }
+  },
+  {
+   "id": "20261116-1811-ghalibaf-berri-call",
+   "time": "2026-11-16T18:11:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Iran's parliament speaker Ghalibaf tells Speaker Nabih Berri by phone that calm cannot return to the region without ending the war in Lebanon, Berri's office says; Berri demands Israeli withdrawal.",
+   "ar": "رئيس مجلس الشورى الإيراني قاليباف يقول لرئيس مجلس النواب نبيه بري هاتفياً إن الهدوء لن يعود إلى المنطقة من دون إنهاء الحرب في لبنان، بحسب مكتب بري، وبري يطالب بانسحاب إسرائيل.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1758906"
    }
   },
   {
@@ -1277,54 +1301,6 @@
    "ar": "الحوثيون في اليمن يقولون إنهم أطلقوا صاروخين بالستيين على القوات السعودية في الطوال بجازان، وهاجموا مطار الملك خالد في الرياض ومحطة ضخ على خط أنابيب شرق–غرب، من دون تأكيد سعودي.",
    "source": {
     "name": "The Jerusalem Post"
-   }
-  },
-  {
-   "id": "20261113-2113-faa-nationwide-ground-stop",
-   "time": "2026-11-13T21:13:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The FAA lifted a nationwide ground stop of more than 4 hours; Transportation Secretary Sean Duffy now says contractor work switching copper lines to fiber overloaded a router, ruling out a cyberattack.",
-   "ar": "إدارة الطيران الفدرالية رفعت توقيفاً شاملاً للرحلات تجاوز 4 ساعات، ووزير النقل شون دافي يقول الآن إن أعمال متعاقد لاستبدال كابلات نحاسية بالألياف أدّت إلى تحميل زائد على جهاز توجيه، مستبعداً هجوماً سيبرانياً.",
-   "source": {
-    "name": "CBS News, The New York Times",
-    "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
-   }
-  },
-  {
-   "id": "20261113-2105-irgc-two-oil-tankers-mines",
-   "time": "2026-11-13T21:05:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says 2 oil tankers exploded and caught fire after hitting sea mines while crossing the Strait of Hormuz without coordinating with Iran; no independent confirmation.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط انفجرتا واشتعلت فيهما النيران بعد اصطدامهما بألغام بحرية أثناء عبور مضيق هرمز من دون تنسيق مع إيران، من دون تأكيد مستقل.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-two-tankers-hit-sea-mines-in-hormuz/"
-   }
-  },
-  {
-   "id": "20261113-1934-microsoft-outage-recovery",
-   "time": "2026-11-13T19:34:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Microsoft says access to its flagship software, including Outlook and Teams, is fully restored after a global outage it blamed on a network capacity upgrade, not a cyberattack.",
-   "ar": "مايكروسوفت تعلن استعادة الوصول الكامل إلى برمجياتها الرئيسية، ومنها Outlook وTeams، بعد عطل عالمي عزته إلى تحديث في سعة الشبكة لا إلى هجوم سيبراني.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
-   }
-  },
-  {
-   "id": "20261113-1930-mamdani-trump-snap-delay",
-   "time": "2026-11-13T19:30:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "New York Mayor Zohran Mamdani says he struck a deal with Trump to delay new federal SNAP food-stocking rules for small retailers nationwide by 90 days.",
-   "ar": "عمدة نيويورك زهران ممداني يعلن توصّله إلى اتفاق مع ترامب لتأجيل قواعد التخزين الفدرالية الجديدة لبرنامج القسائم الغذائية على صغار التجّار في أنحاء البلاد 90 يوماً.",
-   "source": {
-    "name": "amNewYork",
-    "url": "https://www.amny.com/politics/mamdani-deal-trump-delay-snap-rules-nationwide/"
    }
   }
  ]
