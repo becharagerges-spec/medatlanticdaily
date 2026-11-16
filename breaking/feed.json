@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-16T09:09:05Z",
+ "updated": "2026-11-16T10:10:24Z",
  "items": [
+  {
+   "id": "20261116-0951-idf-janta-weapons-strike",
+   "time": "2026-11-16T09:51:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli army says its aircraft struck a weapons shipment moving from Syria to Hezbollah in the Janta area on the Lebanon–Syria border overnight; no casualties were reported.",
+   "ar": "الجيش الإسرائيلي يقول إن طائراته استهدفت ليلاً شحنة أسلحة منقولة من سوريا إلى حزب الله في منطقة جنتا على الحدود اللبنانية السورية، من دون الإعلان عن إصابات.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-915038"
+   }
+  },
+  {
+   "id": "20261116-0945-aoun-waltz-baabda-unifil",
+   "time": "2026-11-16T09:45:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "President Joseph Aoun meets US Ambassador to the UN Mike Waltz at Baabda on the end of UNIFIL's mission and, his office says, continued Israeli attacks and breaches of the framework agreement.",
+   "ar": "الرئيس جوزاف عون يستقبل في بعبدا السفير الأميركي لدى الأمم المتحدة مايك والتز ويبحث معه انتهاء مهمة اليونيفيل، ووفق مكتبه، استمرار الاعتداءات الإسرائيلية وخرق بنود الاتفاق الإطاري.",
+   "source": {
+    "name": "Lebanese Presidency via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-and-lebanese-president-discuss-end-of-unifil-mandate-and-continued-israeli-attacks/"
+   }
+  },
   {
    "id": "20261116-0821-crimea-bridge-hit",
    "time": "2026-11-16T08:21:00Z",
