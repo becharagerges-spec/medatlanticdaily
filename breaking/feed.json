@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-16T04:07:38Z",
+ "updated": "2026-11-16T05:07:54Z",
  "items": [
+  {
+   "id": "20261116-0446-irgc-two-tankers-mines-hormuz",
+   "time": "2026-11-16T04:46:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say 2 more oil tankers hit mines and exploded in the Strait of Hormuz on Monday, and 6 tankers caught fire there on Sunday and Monday; no independent confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط إضافيتين اصطدمتا بألغام وانفجرتا في مضيق هرمز يوم الإثنين، وإن 6 ناقلات اشتعلت هناك يومي الأحد والإثنين؛ ولا تأكيد مستقلاً.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/two-oil-tankers-hit-mines-in-the-strait-of-hormuz-irgc-says-3012180"
+   }
+  },
   {
    "id": "20261116-0255-us-pax-silica-sf-declaration",
    "time": "2026-11-16T02:55:00Z",
@@ -209,12 +221,12 @@
    "id": "20261115-1314-houthi-missile-lahj-checkpoint",
    "time": "2026-11-15T13:14:00Z",
    "theater": "mideast",
-   "status": "confirmed",
-   "en": "A Houthi missile attack on a checkpoint in Khor Omeira, Lahj province, near Aden, kills 5 people and wounds 8, Yemeni military and government sources tell AFP.",
-   "ar": "هجوم صاروخي للحوثيين على حاجز في خور عميرة بمحافظة لحج قرب عدن يقتل 5 أشخاص ويجرح 8، وفق مصادر عسكرية وحكومية يمنية لوكالة فرانس برس.",
+   "status": "reported",
+   "en": "The toll from a Houthi missile attack on a checkpoint in Khor Omeira, Lahj province, near Aden, rises to 8 killed and 12 wounded, Yemeni military and government sources say.",
+   "ar": "حصيلة الهجوم الصاروخي للحوثيين على حاجز في خور عميرة بمحافظة لحج قرب عدن ترتفع إلى 8 قتلى و12 جريحاً، بحسب مصادر عسكرية وحكومية يمنية.",
    "source": {
-    "name": "AFP via Dawn",
-    "url": "https://www.dawn.com/news/2044728/yemens-houthis-kill-five-in-attack-near-aden-sources-say"
+    "name": "The New Arab",
+    "url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport"
    }
   },
   {
