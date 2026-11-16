@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-16T13:12:17Z",
+ "updated": "2026-11-16T14:11:05Z",
  "items": [
+  {
+   "id": "20261116-1401-eu-clears-unicredit-commerzbank",
+   "time": "2026-11-16T14:01:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Commission unconditionally clears UniCredit's takeover of Commerzbank, finding no competition concerns, after the ECB and the US Federal Reserve also approved the deal.",
+   "ar": "المفوضية الأوروبية توافق من دون شروط على استحواذ «يونيكريديت» على «كومرتس بنك»، معتبرةً أنه لا يثير مخاوف تنافسية، بعد موافقة البنك المركزي الأوروبي والاحتياطي الفيدرالي الأميركي.",
+   "source": {
+    "name": "Bloomberg"
+   }
+  },
+  {
+   "id": "20261116-1346-us-rule-remote-ai-chip-access",
+   "time": "2026-11-16T13:46:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Commerce Department issues a rule restricting remote access to advanced AI chips, so export curbs cannot be bypassed through remote computing, a step that could limit China's access.",
+   "ar": "وزارة التجارة الأميركية تصدر قاعدة تقيّد الوصول عن بُعد إلى رقائق الذكاء الاصطناعي المتقدمة، كي لا يُلتفّ على قيود التصدير عبر الحوسبة عن بُعد، في خطوة قد تحدّ من وصول الصين إليها.",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988"
+   }
+  },
   {
    "id": "20261116-1225-kallas-russian-demands-absurd",
    "time": "2026-11-16T12:25:00Z",
@@ -1220,30 +1243,6 @@
    "source": {
     "name": "CNN",
     "url": "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame"
-   }
-  },
-  {
-   "id": "20261113-1347-mossad-chief-washington-iran",
-   "time": "2026-11-13T13:47:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Mossad Director Roman Gofman is in Washington for Iran talks with senior Trump officials, including CIA Director John Ratcliffe, as Netanyahu presses Trump to resume the war, Axios reports.",
-   "ar": "مدير الموساد رومان غوفمان في واشنطن لإجراء محادثات بشأن إيران مع كبار مسؤولي إدارة ترامب، بينهم مدير الـCIA جون راتكليف، فيما يضغط نتنياهو على ترامب لاستئناف الحرب، بحسب «أكسيوس».",
-   "source": {
-    "name": "Axios via Ynet",
-    "url": "https://www.ynetnews.com/article/rj4sq9nrmx"
-   }
-  },
-  {
-   "id": "20261113-1316-israel-shelling-south-lebanon",
-   "time": "2026-11-13T13:16:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli artillery shells Bani Hayyan, Tallousah, Majdalzoun and other southern Lebanese towns, a tank fires on a house in Mayfadoun, and drones fly over Beirut for a second day, per NNA.",
-   "ar": "المدفعية الإسرائيلية تقصف بني حيان وتلوسة ومجدل زون وبلدات جنوبية أخرى، ودبابة تطلق النار على منزل في ميفدون، والمسيّرات تحلّق فوق بيروت لليوم الثاني، بحسب الوكالة الوطنية للإعلام.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323762-low-flying-drones-buzz-beirut-as-israeli-shelling-targets-southern-towns"
    }
   }
  ]
