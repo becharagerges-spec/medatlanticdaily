@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:09:19Z",
+ "updated": "2026-11-16T12:11:05Z",
  "items": [
   {
    "id": "20261116-1043-araghchi-eco-hormuz-plan",
@@ -89,12 +89,12 @@
    "id": "20261116-0821-crimea-bridge-hit",
    "time": "2026-11-16T08:21:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "Crimea's Russian-installed head Sergey Aksyonov says Ukraine hit the Crimea bridge overnight, suspending road traffic until about midday; damage appears minor and no injuries are reported.",
-   "ar": "رئيس القرم المعيَّن من روسيا سيرغي أكسيونوف يقول إن أوكرانيا أصابت جسر القرم ليلاً، فتوقّف السير عليه حتى الظهر تقريباً؛ والأضرار تبدو طفيفة ولا إصابات معلنة.",
+   "status": "confirmed",
+   "en": "Ukrainian drones hit the Crimea bridge overnight; Kremlin spokesman Dmitry Peskov says the damage is minor and traffic across the bridge continues, after Sergey Aksyonov had restricted it until midday.",
+   "ar": "مسيّرات أوكرانية أصابت جسر القرم ليلاً؛ والناطق باسم الكرملين دميتري بيسكوف يقول إن الأضرار طفيفة وإن حركة العبور مستمرة، بعدما كان سيرغي أكسيونوف قد قيّدها حتى الظهر.",
    "source": {
-    "name": "AFP via France 24",
-    "url": "https://www.france24.com/en/live-news/20261116-ukraine-hits-russia-s-crimea-bridge-in-1-300-drone-barrage"
+    "name": "ThePrint",
+    "url": "https://theprint.in/world/ukraine-hits-bridge-linking-russia-and-crimea-kremlin-says-damage-is-minor/3100081/"
    }
   },
   {
@@ -1232,42 +1232,6 @@
    "source": {
     "name": "TT via Sweden Herald",
     "url": "https://swedenherald.com/article/finland-rejects-reported-russian-demand-to-leave-nato-in-ukraine-talks"
-   }
-  },
-  {
-   "id": "20261113-1201-ukraine-1200-drones-russia",
-   "time": "2026-11-13T12:01:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine fires nearly 1,200 drones at Russia overnight; Russia's defence ministry says it downed 1,198, and local officials say strikes in 3 regions killed 7 people, including a child.",
-   "ar": "أوكرانيا تطلق نحو 1,200 مسيّرة على روسيا ليلاً؛ وزارة الدفاع الروسية تقول إنها أسقطت 1,198، ومسؤولون محليون يقولون إن الضربات قتلت 7 أشخاص بينهم طفل في 3 مناطق.",
-   "source": {
-    "name": "AP via WSLS",
-    "url": "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
-   }
-  },
-  {
-   "id": "20261113-1136-russia-hits-substations-nine-regions",
-   "time": "2026-11-13T11:36:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukrainian Prime Minister Serhii Koretskyi says overnight Russian strikes hit high-voltage substations, damaging energy infrastructure in 9 regions; strikes across several regions killed at least 5 people.",
-   "ar": "رئيس الوزراء الأوكراني سيرهي كوريتسكي يقول إن الضربات الروسية الليلية أصابت محطات تحويل عالية الجهد وألحقت أضراراً بمنشآت الطاقة في 9 مناطق، فيما قتلت الضربات 5 أشخاص على الأقل.",
-   "source": {
-    "name": "United24 Media",
-    "url": "https://united24media.com/war-in-ukraine/russia-strikes-ukraines-high-voltage-substations-damaging-energy-infrastructure-across-nine-regions-24344"
-   }
-  },
-  {
-   "id": "20261113-1111-peskov-no-decision-europe-talks",
-   "time": "2026-11-13T11:11:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin spokesman Dmitry Peskov says Russia has not yet agreed to Europeans joining Ukraine talks and will decide once it understands their 'real intentions', contradicting US envoy Kushner.",
-   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن روسيا لم توافق بعد على مشاركة الأوروبيين في محادثات أوكرانيا وستقرر بعد فهم «نواياهم الحقيقية»، خلافاً لما أعلنه المبعوث الأميركي كوشنر.",
-   "source": {
-    "name": "AFP via Insider Paper",
-    "url": "https://insiderpaper.com/russia-says-no-decision-on-letting-europe-join-ukraine-talks/"
    }
   }
  ]
