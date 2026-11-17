@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-17T13:10:30Z",
+ "updated": "2026-11-17T14:10:49Z",
  "items": [
+  {
+   "id": "20261117-1321-kataeb-hezbollah-refuses-jurf-withdrawal",
+   "time": "2026-11-17T13:21:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Kataeb Hezbollah commander Abu Taleb al-Saidi tells AFP the Iran-backed group will not let the Iraqi army enter Jurf al-Sakher, south of Baghdad, 'not even over our dead bodies'.",
+   "ar": "قائد في كتائب حزب الله أبو طالب الساعدي يقول لوكالة الصحافة الفرنسية إن الفصيل المدعوم من إيران لن يسمح للجيش العراقي بدخول جرف الصخر جنوب بغداد «ولو على جثثنا».",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323842-iraq-s-kataeb-hezbollah-refuses-to-withdraw-from-its-stronghold-near-baghdad"
+   }
+  },
   {
    "id": "20261117-1304-waltz-aoun-trilateral-talks",
    "time": "2026-11-17T13:04:00Z",
@@ -46,6 +58,30 @@
    "source": {
     "name": "AP via Asharq Al-Awsat",
     "url": "https://english.aawsat.com/world/5342277-trump-says-takes-%E2%80%98very-seriously%E2%80%99-possible-iran-threat-washington"
+   }
+  },
+  {
+   "id": "20261117-1118-eu-autumn-forecast-growth-inflation",
+   "time": "2026-11-17T11:18:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Commission raises its 2026 euro-area growth forecast to 1.2% from 0.9% and sees EU inflation at 3.3% this year, easing to 2.3% in 2028.",
+   "ar": "المفوضية الأوروبية ترفع توقعاتها لنمو منطقة اليورو في 2026 إلى 1.2% من 0.9%، وتتوقع تضخماً في الاتحاد الأوروبي بنسبة 3.3% هذا العام يتراجع إلى 2.3% في 2028.",
+   "source": {
+    "name": "European Commission",
+    "url": "https://economy-finance.ec.europa.eu/document/download/e6bb4d2e-5c46-44e6-a716-6624a57494f3_en?filename=ip348_en.pdf"
+   }
+  },
+  {
+   "id": "20261117-1039-knesset-speaker-katz-vs-kahana",
+   "time": "2026-11-17T10:39:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Likud fields MK Ofir Katz against Eisenkot-bloc nominee Matan Kahana in Tuesday's Knesset speaker vote, with Shas and, per Likud, United Torah Judaism backing Katz.",
+   "ar": "الليكود يرشّح النائب أوفير كاتس في مواجهة مرشّح كتلة آيزنكوت متان كاهانا في تصويت الثلاثاء على رئاسة الكنيست، وشاس، ويهدوت هتوراه بحسب الليكود، تدعمان كاتس.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171"
    }
   },
   {
@@ -1420,30 +1456,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/2-palestinians-reportedly-killed-in-north-gaza-drone-strike-idf-says-it-targeted-2-terror-operatives/"
-   }
-  },
-  {
-   "id": "20261114-1329-ukraine-hits-samara-oil-hub",
-   "time": "2026-11-14T13:29:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's General Staff says its forces hit the Samara oil-pumping hub, about 950 km inside Russia, setting oil tanks ablaze, and a hangar at the Lipetsk-2 military airfield.",
-   "ar": "هيئة الأركان الأوكرانية تقول إن قواتها أصابت مركز ضخ النفط في سامارا، على بعد نحو 950 كلم داخل روسيا، ما أشعل خزانات نفط، وحظيرة في مطار ليبيتسك-2 العسكري.",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/ukraine-hits-key-russian-oil-hub-military-airbase-in-latest-long-range-strikes/"
-   }
-  },
-  {
-   "id": "20261114-1325-coalition-two-houthi-drones-riyadh",
-   "time": "2026-11-14T13:25:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed 2 Houthi drones launched toward the Riyadh and southern regions; spokesman Turki al-Maliki gave no word on damage or casualties.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرتَين حوثيتَين أُطلقتا نحو منطقة الرياض والمنطقة الجنوبية، ولم يذكر المتحدث تركي المالكي أي أضرار أو إصابات.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-drones-in-riyadh-southern-saudi-arabia/4125225"
    }
   }
  ]
