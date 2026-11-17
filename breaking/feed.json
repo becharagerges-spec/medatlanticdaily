@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-17T00:08:35Z",
+ "updated": "2026-11-17T03:08:49Z",
  "items": [
+  {
+   "id": "20261117-0040-crimea-bridge-hit-again",
+   "time": "2026-11-17T00:40:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine strikes the Crimea bridge for a second day in a row; Moscow-installed Crimea head Sergey Aksyonov confirms the strike and says traffic is suspended.",
+   "ar": "أوكرانيا تضرب جسر القرم لليوم الثاني على التوالي؛ ورئيس القرم المعيّن من موسكو سيرغي أكسيونوف يؤكد الضربة ويعلن تعليق حركة العبور.",
+   "source": {
+    "name": "AFP via Gulf News",
+    "url": "https://gulfnews.com/world/europe/russian-strikes-hit-major-bridges-in-kyiv-mayor-1.500749826"
+   }
+  },
   {
    "id": "20261116-2320-iran-dirty-bomb-plans",
    "time": "2026-11-16T23:20:00Z",
@@ -49,6 +61,42 @@
    }
   },
   {
+   "id": "20261116-2204-iran-navy-fourth-tanker",
+   "time": "2026-11-16T22:04:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says a fourth oil tanker in 24 hours caught fire after hitting a naval mine in a restricted area east of the Strait of Hormuz; it did not name the ship.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة نفط رابعة خلال 24 ساعة اشتعلت بعد اصطدامها بلغم بحري في منطقة محظورة شرق مضيق هرمز، من دون تسمية السفينة.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-915102"
+   }
+  },
+  {
+   "id": "20261116-2151-ukmto-tanker-khasab",
+   "time": "2026-11-16T21:51:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says a tanker transiting the Strait of Hormuz was attacked about 7 nautical miles north of Oman's Khasab, leaving it disabled with an engine-room fire; the crew is safe.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة تعبر مضيق هرمز تعرّضت لهجوم على بُعد نحو 7 أميال بحرية شمال خصب العُمانية، فتعطّلت واشتعلت غرفة محركاتها؛ والطاقم بأمان.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/world/tanker-attacked-north-of-omans-khasab-ukmto-says-3012356"
+   }
+  },
+  {
+   "id": "20261116-2145-kyiv-bridges-missile-strike",
+   "time": "2026-11-16T21:45:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian ballistic missile attack hits Kyiv's North and South bridges over the Dnipro, Mayor Vitali Klitschko says, cutting water and heating in parts of the capital.",
+   "ar": "هجوم روسي بالصواريخ الباليستية يصيب جسرَي الشمال والجنوب فوق نهر دنيبرو في كييف، بحسب رئيس البلدية فيتالي كليتشكو، ويقطع المياه والتدفئة عن أجزاء من العاصمة.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+   }
+  },
+  {
    "id": "20261116-2015-zelensky-europe-joins-talks",
    "time": "2026-11-16T20:15:00Z",
    "theater": "ukraine",
@@ -65,11 +113,11 @@
    "time": "2026-11-16T19:18:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Air defences are activated in Isfahan, home to Iran's main uranium enrichment plants, the semi-official Mehr news agency reports, without giving a cause.",
-   "ar": "تفعيل الدفاعات الجوية في أصفهان، حيث أبرز منشآت تخصيب اليورانيوم الإيرانية، بحسب وكالة «مهر» شبه الرسمية، من دون ذكر السبب.",
+   "en": "Air defences are activated in Isfahan, home to Iran's main enrichment plants, Mehr reports; Isfahan's deputy governor for security later tells IRIB no hostile aircraft was detected.",
+   "ar": "تفعيل الدفاعات الجوية في أصفهان، حيث أبرز منشآت التخصيب الإيرانية، بحسب وكالة «مهر»؛ ونائب محافظ أصفهان للشؤون الأمنية يقول لاحقاً للتلفزيون الإيراني إنه لم تُرصد أي طائرة معادية.",
    "source": {
-    "name": "Mehr via APA",
-    "url": "https://en.apa.az/asia/air-defenses-activated-in-central-iran-state-media-536501"
+    "name": "IANS",
+    "url": "https://ianslive.in/iran-says-another-violating-oiler-caught-fire-in-hormuz-denies-air-defence-activity-in-central-province--20261117070744"
    }
   },
   {
@@ -94,6 +142,18 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1758906"
+   }
+  },
+  {
+   "id": "20261116-1802-lebanon-finance-banks-strike",
+   "time": "2026-11-16T18:02:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's Finance Ministry says it will apply tax law to banks without exception, after the Association of Banks announced a warning strike over amended 2020–24 tax returns.",
+   "ar": "وزارة المالية اللبنانية تؤكد أنها ستطبّق القوانين الضريبية على المصارف من دون استثناء، بعدما أعلنت جمعية المصارف إضراباً تحذيرياً احتجاجاً على تعديل التصاريح الضريبية للأعوام 2020–2024.",
+   "source": {
+    "name": "Annahar",
+    "url": "https://annahar.com/lebanon/367056/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D9%84%D8%A7-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86"
    }
   },
   {
@@ -1325,18 +1385,6 @@
    "source": {
     "name": "NPR",
     "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
-   }
-  },
-  {
-   "id": "20261114-0111-rubio-no-need-strikes-iran",
-   "time": "2026-11-14T01:11:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Secretary of State Marco Rubio tells the Federalist Society the economic pain inflicted on Iran is 'so great that there's no need for military action', per AP.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يقول أمام «الجمعية الفدرالية» إن الألم الاقتصادي المفروض على إيران «كبير لدرجة لا حاجة معها إلى عمل عسكري»، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/rubio-no-need-for-further-strikes-on-iran-because-the-economic-pain-is-so-great/"
    }
   }
  ]
