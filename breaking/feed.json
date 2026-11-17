@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-17T18:09:09Z",
+ "updated": "2026-11-17T19:09:58Z",
  "items": [
+  {
+   "id": "20261117-1901-faa-halts-router-installation",
+   "time": "2026-11-17T19:01:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The FAA pauses installation of the routers linked to last week's nationwide ground stop and switches off those already installed, relying on 25-year-old routers while it investigates.",
+   "ar": "إدارة الطيران الفدرالية الأميركية تعلّق تركيب أجهزة التوجيه المرتبطة بتوقف الرحلات على مستوى البلاد الأسبوع الماضي وتطفئ ما رُكّب منها، معتمدةً على أجهزة عمرها 25 عاماً ريثما ينتهي التحقيق.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261117-1901-herzog-pahlavi-regime",
+   "time": "2026-11-17T19:01:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli President Isaac Herzog and Iran's exiled crown prince Reza Pahlavi discuss in a joint webinar the need to bring down Iran's regime, per Times of Israel.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ وولي عهد إيران المنفي رضا بهلوي يبحثان في ندوة مشتركة عبر الإنترنت ضرورة إسقاط النظام الإيراني، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-exiled-crown-prince-herzog-discuss-need-to-bring-down-regime-free-iranian-people/"
+   }
+  },
+  {
+   "id": "20261117-1850-netanyahu-unity-government-haredim",
+   "time": "2026-11-17T18:50:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu, citing unspecified security threats, renews his call for a 'national unity government' including Haredi parties but excluding Arab parties, per Times of Israel.",
+   "ar": "نتنياهو، متذرّعاً بتهديدات أمنية لم يحددها، يجدّد دعوته إلى «حكومة وحدة وطنية» تضم الأحزاب الحريدية وتستثني الأحزاب العربية، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/citing-unspecified-security-threats-netanyahu-calls-again-for-national-unity-government-with-haredim-without-arabs/"
+   }
+  },
+  {
+   "id": "20261117-1750-saar-countermeasures-uk-sanctions",
+   "time": "2026-11-17T17:50:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli Foreign Minister Gideon Sa'ar vows 'countermeasures' after Britain sanctions 8 Israeli companies involved in West Bank settlement construction, per Times of Israel.",
+   "ar": "وزير الخارجية الإسرائيلي جدعون ساعر يتوعّد بـ«إجراءات مضادة» بعد فرض بريطانيا عقوبات على 8 شركات إسرائيلية تعمل في بناء المستوطنات في الضفة الغربية، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saar-vows-countermeasures-after-uk-announces-sanctions-on-companies-involved-in-west-bank-construction/"
+   }
+  },
+  {
+   "id": "20261117-1720-sohlberg-shin-bet-no-evidence",
+   "time": "2026-11-17T17:20:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Central Elections Committee chairman Noam Sohlberg says the Shin Bet has so far found no evidence of vote-buying on a scale that could affect the election results.",
+   "ar": "رئيس لجنة الانتخابات المركزية نوعام سولبرغ يعلن أن الشاباك لم يعثر حتى الآن على أي دليل على شراء أصوات بحجم قد يؤثر في نتائج الانتخابات.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/shin-bet-probe-into-vote-buying-claims-has-found-no-evidence-so-far-of-activity-that-could-affect-results-sohlberg-says/"
+   }
+  },
+  {
+   "id": "20261117-1705-zaidi-qaani-jurf-deal",
+   "time": "2026-11-17T17:05:00Z",
+   "theater": "iraq",
+   "status": "reported",
+   "en": "Iraqi PM Ali al-Zaidi and Quds Force commander Esmail Qaani reportedly agree that Kataib Hezbollah will leave Jurf al-Sakhar for a joint PMF-government force, per Alhurra; no side has confirmed.",
+   "ar": "رئيس الوزراء العراقي علي الزيدي وقائد فيلق القدس إسماعيل قاآني يتفقان على انسحاب كتائب حزب الله من جرف الصخر لصالح قوة مشتركة من الحشد والقوات الحكومية، بحسب «الحرة»؛ ولم يؤكد أي طرف ذلك.",
+   "source": {
+    "name": "Alhurra via Kurdistan24",
+    "url": "https://www.kurdistan24.net/en/story/953763/iraqi-pm-irgc-commander-reportedly-reach-deal-on-kh-withdrawal-from-jurf-al-sakhar"
+   }
+  },
   {
    "id": "20261117-1615-huang-ready-to-return-nvidia",
    "time": "2026-11-17T16:15:00Z",
@@ -1480,18 +1551,6 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/iraqs-pm-sacks-officials-over-oil-smuggling-in-stronghold-of-iran-backed-terror-group/"
-   }
-  },
-  {
-   "id": "20261114-1820-hayya-gaza-rains-aid",
-   "time": "2026-11-14T18:20:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Hamas political chief Khalil al-Hayya calls for urgent repairs to Gaza's sewers after heavy rains destroyed tens of thousands of tents, and urges Israel to allow more food and fuel in.",
-   "ar": "رئيس المكتب السياسي لحماس خليل الحية يدعو إلى إصلاح عاجل لشبكات الصرف في غزة بعدما دمّرت الأمطار الغزيرة عشرات آلاف الخيام، ويطالب إسرائيل بإدخال مزيد من الغذاء والوقود.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-urgent-repairs-gazas-sewage-and-drainage-systems"
    }
   }
  ]
