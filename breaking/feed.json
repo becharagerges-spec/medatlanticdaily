@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:09:42Z",
+ "updated": "2026-11-17T17:08:51Z",
  "items": [
   {
    "id": "20261117-1551-nsa-network-down",
@@ -23,6 +23,18 @@
    "source": {
     "name": "Militarnyi",
     "url": "https://militarnyi.com/en/news/an-12-aircraft-crashes-in-russia-killing-17/"
+   }
+  },
+  {
+   "id": "20261117-1427-zelensky-pow-exchange-1300",
+   "time": "2026-11-17T14:27:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky says Ukraine is preparing a prisoner-of-war exchange with Russia that could involve up to 1,300 people, the only concrete outcome of the US-brokered Abu Dhabi talks, per Kyiv Independent.",
+   "ar": "زيلينسكي يقول إن أوكرانيا تُعدّ لتبادل أسرى حرب مع روسيا قد يشمل حتى 1300 شخص، وهو النتيجة الملموسة الوحيدة لمحادثات أبوظبي برعاية أميركية، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/"
    }
   },
   {
@@ -54,11 +66,11 @@
    "time": "2026-11-17T13:36:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Several blasts are heard northwest of Qeshm city on Iran's Qeshm Island in the Strait of Hormuz, with smoke visible over the island, Fars news agency reports; no cause is given.",
-   "ar": "دويّ عدة انفجارات شمال غرب مدينة قشم في جزيرة قشم الإيرانية في مضيق هرمز، مع تصاعد الدخان فوق الجزيرة، بحسب وكالة «فارس»، من دون ذكر السبب.",
+   "en": "Iranian officials say the US struck several locations on Qeshm Island in the Strait of Hormuz; Hormozgan's deputy governor says there was no damage to residential, commercial or infrastructure areas.",
+   "ar": "مسؤولون إيرانيون يقولون إن الولايات المتحدة قصفت عدة مواقع في جزيرة قشم في مضيق هرمز، ونائب محافظ هرمزغان يؤكد عدم وقوع أضرار في المناطق السكنية والتجارية والبنى التحتية.",
    "source": {
-    "name": "Fars via Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-blasts-heard-qeshm-island"
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499"
    }
   },
   {
