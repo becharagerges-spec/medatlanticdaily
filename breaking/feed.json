@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T03:08:49Z",
+ "updated": "2026-11-17T04:09:19Z",
  "items": [
+  {
+   "id": "20261117-0403-asia-shares-fall-ai-chips",
+   "time": "2026-11-17T04:03:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian shares fall on Tuesday after new US curbs on China's access to AI chips: Nikkei down 1.2%, Australia's ASX down 1.5%, and Brent down 0.8% at $91.66 a barrel.",
+   "ar": "تراجع الأسهم الآسيوية الثلاثاء بعد قيود أميركية جديدة على وصول الصين إلى رقائق الذكاء الاصطناعي: نيكاي ينخفض 1.2% ومؤشر ASX الأسترالي 1.5%، وبرنت يتراجع 0.8% إلى 91.66 دولاراً للبرميل.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.wral.com/news/ap/4d5a3-asian-shares-decline-following-stocks-tumbled-on-wall-street/"
+   }
+  },
+  {
+   "id": "20261117-0307-trump-asia-trip-manila",
+   "time": "2026-11-17T03:07:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump flies to Asia with Rubio and Bessent for the ASEAN summit in Manila, then the APEC summit in Shenzhen, where he plans nuclear talks with Xi and Putin.",
+   "ar": "ترامب يتوجّه إلى آسيا برفقة روبيو وبيسنت لحضور قمة آسيان في مانيلا، ثم قمة أبيك في شنتشن حيث يعتزم إجراء محادثات نووية مع شي وبوتين.",
+   "source": {
+    "name": "AP via France 24",
+    "url": "https://sg.news.yahoo.com/trump-heads-asia-historic-nuclear-030759928.html"
+   }
+  },
   {
    "id": "20261117-0040-crimea-bridge-hit-again",
    "time": "2026-11-17T00:40:00Z",
@@ -58,6 +82,18 @@
    "ar": "شركة «يونايتد إيرلاينز» تعلن عطلاً شاملاً في أنظمتها بعد أيام من خلل في شبكة إدارة الطيران الفدرالية فرض وقفاً للرحلات على مستوى البلاد، ثم تقول إنها عالجت المشكلة التي أثّرت على الرحلات المغادرة.",
    "source": {
     "name": "AP"
+   }
+  },
+  {
+   "id": "20261116-2208-russia-claims-1336-drones",
+   "time": "2026-11-16T22:08:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia's Defence Ministry says it downed 1,336 Ukrainian drones, which it calls the largest single aerial attack since the full-scale invasion; 6 are wounded in Krasnodar region.",
+   "ar": "وزارة الدفاع الروسية تقول إنها أسقطت 1336 مسيّرة أوكرانية، وتصفه بأكبر هجوم جوي منذ بدء الغزو الشامل؛ وإصابة 6 أشخاص في إقليم كراسنودار.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack-3012359"
    }
   },
   {
