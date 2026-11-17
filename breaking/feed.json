@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:09:19Z",
+ "updated": "2026-11-17T05:08:46Z",
  "items": [
   {
    "id": "20261117-0403-asia-shares-fall-ai-chips",
@@ -11,6 +11,18 @@
    "source": {
     "name": "AP",
     "url": "https://www.wral.com/news/ap/4d5a3-asian-shares-decline-following-stocks-tumbled-on-wall-street/"
+   }
+  },
+  {
+   "id": "20261117-0348-araghchi-meets-oman-fm",
+   "time": "2026-11-17T03:48:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi, arriving from Islamabad, meets Omani Foreign Minister Badr Albusaidi in Muscat, Iran's SNN reports; Oman is the usual channel between Tehran and Washington.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي، القادم من إسلام آباد، يلتقي نظيره العُماني بدر البوسعيدي في مسقط، بحسب وكالة «إس إن إن» الإيرانية؛ وتُعدّ عُمان القناة المعتادة بين طهران وواشنطن.",
+   "source": {
+    "name": "SNN via Newsquawk",
+    "url": "https://www.newsquawk.com/headlines/iranian-foreign-minister-araghchi-met-omani-counterpart-in-muscat-according-to-snn"
    }
   },
   {
@@ -35,6 +47,18 @@
    "source": {
     "name": "AFP via Gulf News",
     "url": "https://gulfnews.com/world/europe/russian-strikes-hit-major-bridges-in-kyiv-mayor-1.500749826"
+   }
+  },
+  {
+   "id": "20261117-0030-duyuk-settler-gunfire-woman-killed",
+   "time": "2026-11-17T00:30:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "A Palestinian woman is killed and 10 others wounded by settler gunfire in Duyuk al-Tahta, west of Jericho, Palestinian official TV says; the Israeli army says it is investigating an 'attempted attack'.",
+   "ar": "مقتل فلسطينية وإصابة 10 آخرين برصاص مستوطنين في دوك التحتا غرب أريحا، بحسب التلفزيون الفلسطيني الرسمي؛ والجيش الإسرائيلي يقول إنه يحقق في «محاولة هجوم».",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/palestinian-woman-killed-10-wounded-in-settler-gunfire-official-tv-says/3100550/"
    }
   },
   {
@@ -1409,18 +1433,6 @@
    "source": {
     "name": "AP via Yahoo News",
     "url": "https://www.yahoo.com/news/politics/articles/alaska-voters-reject-ballot-measure-051258685.html"
-   }
-  },
-  {
-   "id": "20261114-0507-alaska-governor-democrat",
-   "time": "2026-11-14T05:07:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Jonathan Kreiss-Tomkins, 37, wins Alaska's governorship, flipping the seat held by term-limited Republican Mike Dunleavy; it is the first Democratic win there in over 20 years.",
-   "ar": "الديمقراطي جوناثان كرايس-تومكينز (37 عاماً) يفوز بمنصب حاكم ألاسكا وينتزع المقعد من الجمهوري مايك دنليفي، في أول فوز ديمقراطي بالمنصب منذ أكثر من 20 عاماً.",
-   "source": {
-    "name": "NPR",
-    "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
    }
   }
  ]
