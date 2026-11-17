@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T15:09:34Z",
+ "updated": "2026-11-17T16:09:42Z",
  "items": [
+  {
+   "id": "20261117-1551-nsa-network-down",
+   "time": "2026-11-17T15:51:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The NSA's highly classified internal communications network, NSA Net, is down, CNN reports citing people familiar with the matter; it is unclear whether a cyberattack caused it.",
+   "ar": "الشبكة الداخلية فائقة السرية لاتصالات وكالة الأمن القومي الأميركية «NSA Net» متوقفة عن العمل، بحسب «سي إن إن» نقلاً عن مطّلعين؛ ولم يتّضح إن كان السبب هجوماً سيبرانياً.",
+   "source": {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+   }
+  },
+  {
+   "id": "20261117-1539-russia-an12-crash-kemerovo",
+   "time": "2026-11-17T15:39:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "A Russian military An-12 transport plane crashes near Yagunovo in Siberia's Kemerovo region, killing all 17 aboard according to preliminary reports, per Militarnyi; the governor confirms an 'aviation incident'.",
+   "ar": "تحطّم طائرة نقل عسكرية روسية من طراز «أنتونوف-12» قرب ياغونوفو في منطقة كيميروفو السيبيرية، ومقتل 17 كانوا على متنها وفق تقارير أولية، بحسب «ميليتارني»؛ والحاكم يؤكد وقوع «حادث جوي».",
+   "source": {
+    "name": "Militarnyi",
+    "url": "https://militarnyi.com/en/news/an-12-aircraft-crashes-in-russia-killing-17/"
+   }
+  },
   {
    "id": "20261117-1359-gaza-four-killed-child",
    "time": "2026-11-17T13:59:00Z",
@@ -221,11 +245,11 @@
    "time": "2026-11-17T07:36:00Z",
    "theater": "ukraine",
    "status": "reported",
-   "en": "A Russian missile and drone attack hits Kyiv, Zaporizhzhia, Kharkiv and Smila on Tuesday, killing 1 person in Zaporizhzhia and injuring at least 5, per 112 Ukraine.",
-   "ar": "هجوم روسي بالصواريخ والمسيّرات يضرب كييف وزابوريجيا وخاركيف وسميلا الثلاثاء، ويقتل شخصاً في زابوريجيا ويصيب 5 على الأقل، بحسب «112 أوكرانيا».",
+   "en": "A Russian missile and drone attack on Kyiv, Zaporizhzhia, Kharkiv and Smila on Tuesday kills 2 people and injures 38 in Zaporizhzhia, where industrial sites caught fire, per Ukrainska Pravda.",
+   "ar": "هجوم روسي بالصواريخ والمسيّرات على كييف وزابوريجيا وخاركيف وسميلا الثلاثاء يقتل شخصين ويصيب 38 في زابوريجيا حيث اندلعت حرائق في منشآت صناعية، بحسب «أوكراينسكا برافدا».",
    "source": {
-    "name": "112 Ukraine",
-    "url": "https://112.ua/en/masovana-raketna-ta-dronova-ataka-17-listopada-postrazdali-kiiv-zaporizza-harkiv-i-cerkasi-198688"
+    "name": "Ukrainska Pravda",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/"
    }
   },
   {
@@ -1456,18 +1480,6 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-914872"
-   }
-  },
-  {
-   "id": "20261114-1525-eu-gaza-crossings-aid",
-   "time": "2026-11-14T15:25:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "The EU, in a statement by foreign policy chief Kaja Kallas for all 27 members, demands Israel reopen all Gaza crossings and allow immediate, unimpeded aid access amid floods.",
-   "ar": "الاتحاد الأوروبي، في بيان لمسؤولة السياسة الخارجية كايا كالاس باسم الدول الـ27، يطالب إسرائيل بإعادة فتح كل معابر غزة والسماح بوصول المساعدات فوراً ومن دون عوائق وسط الفيضانات.",
-   "source": {
-    "name": "EU statement via Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
    }
   }
  ]
