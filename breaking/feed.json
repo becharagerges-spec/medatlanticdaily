@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-17T12:09:06Z",
+ "updated": "2026-11-17T13:10:30Z",
  "items": [
+  {
+   "id": "20261117-1304-waltz-aoun-trilateral-talks",
+   "time": "2026-11-17T13:04:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "US envoy Mike Waltz calls his meeting with President Joseph Aoun 'productive' and praises Aoun's 'courageous decision' to enter trilateral talks with the US and Israel.",
+   "ar": "المبعوث الأميركي مايك والتز يصف لقاءه بالرئيس جوزاف عون بـ«المثمر» ويشيد بـ«قراره الشجاع» دخول محادثات ثلاثية مع الولايات المتحدة وإسرائيل.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323840-waltz-praises-aoun-s-courageous-decision-to-enter-trilateral-israel-talks"
+   }
+  },
+  {
+   "id": "20261117-1231-trump-thailand-trade-deal",
+   "time": "2026-11-17T12:31:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump signs a trade deal with Thailand in Manila on the sidelines of the ASEAN summit, Fox News reports; Thai PM Anutin Charnvirakul was set to sign a joint reciprocal-trade statement.",
+   "ar": "ترامب يوقّع اتفاقاً تجارياً مع تايلاند في مانيلا على هامش قمة آسيان، بحسب «فوكس نيوز»، وكان رئيس الوزراء التايلاندي أنوتين تشارنفيراكول سيوقّع بياناً مشتركاً للتجارة المتبادلة.",
+   "source": {
+    "name": "Fox News"
+   }
+  },
   {
    "id": "20261117-1144-yemen-forces-reinforce-aden",
    "time": "2026-11-17T11:44:00Z",
@@ -47,6 +70,18 @@
    "source": {
     "name": "Shafaq News",
     "url": "https://shafaq.com/en/World/Supertanker-gas-carrier-hit-mines-in-Hormuz-IRGC-says"
+   }
+  },
+  {
+   "id": "20261117-1003-dahr-baidar-objections-rejected",
+   "time": "2026-11-17T10:03:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Military investigating judge Ghada Abou Alwan rejects procedural objections by 5 fugitive Hezbollah members charged in the Dahr al-Baidar explosives case, postponing their questioning, per the National News Agency.",
+   "ar": "قاضية التحقيق العسكري غادة أبو علوان ترد الدفوع الشكلية لخمسة عناصر فارّين من «حزب الله» ملاحقين في قضية متفجرات ضهر البيدر، ما يرجئ استجوابهم، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Safir al-Chamal",
+    "url": "https://safiralchamal.com/2026/11/17/741038/"
    }
   },
   {
