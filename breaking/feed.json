@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-17T06:09:57Z",
+ "updated": "2026-11-17T08:09:16Z",
  "items": [
+  {
+   "id": "20261117-0753-turkey-sozcu-tv-raid",
+   "time": "2026-11-17T07:53:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Turkish police raid the Istanbul headquarters of pro-opposition Sözcü TV, detain board chair Funda Tuncer Sıdalı and install a government-appointed trustee under a court order, Sözcü says.",
+   "ar": "الشرطة التركية تداهم مقرّ قناة «سوزجو» المعارضة في إسطنبول، وتوقف رئيسة مجلس إدارتها فوندا تونجر سيدالي، وتعيّن وصياً حكومياً بقرار قضائي، بحسب «سوزجو».",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/17/police-raid-turkish-pro-opposition-broadcaster-sozcu-tv-carry-out-arrests"
+   }
+  },
+  {
+   "id": "20261117-0736-russia-strikes-zaporizhzhia-smila",
+   "time": "2026-11-17T07:36:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "A Russian missile and drone attack hits Kyiv, Zaporizhzhia, Kharkiv and Smila on Tuesday, killing 1 person in Zaporizhzhia and injuring at least 5, per 112 Ukraine.",
+   "ar": "هجوم روسي بالصواريخ والمسيّرات يضرب كييف وزابوريجيا وخاركيف وسميلا الثلاثاء، ويقتل شخصاً في زابوريجيا ويصيب 5 على الأقل، بحسب «112 أوكرانيا».",
+   "source": {
+    "name": "112 Ukraine",
+    "url": "https://112.ua/en/masovana-raketna-ta-dronova-ataka-17-listopada-postrazdali-kiiv-zaporizza-harkiv-i-cerkasi-198688"
+   }
+  },
+  {
+   "id": "20261117-0511-canada-china-tariff-cuts",
+   "time": "2026-11-17T05:11:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Carney and Xi agree further Canada-China tariff cuts in Shenzhen: about C$400 million of Canadian exports get extra relief, and Canada extends remissions on Chinese steel and aluminium for 2 years.",
+   "ar": "كارني وشي يتفقان في شنجن على خفض إضافي للرسوم بين كندا والصين: صادرات كندية بنحو 400 مليون دولار كندي تحصل على إعفاءات إضافية، وكندا تمدّد إعفاءات الصلب والألمنيوم الصينيين سنتين.",
+   "source": {
+    "name": "AFP via France 24",
+    "url": "https://www.france24.com/en/live-news/20261117-canada-china-agree-further-tariff-cuts-pm-carney-at-apec"
+   }
+  },
   {
    "id": "20261117-0403-asia-shares-fall-ai-chips",
    "time": "2026-11-17T04:03:00Z",
@@ -17,12 +53,12 @@
    "id": "20261117-0348-araghchi-meets-oman-fm",
    "time": "2026-11-17T03:48:00Z",
    "theater": "iran",
-   "status": "reported",
-   "en": "Iranian Foreign Minister Abbas Araghchi, arriving from Islamabad, meets Omani Foreign Minister Badr Albusaidi in Muscat, Iran's SNN reports; Oman is the usual channel between Tehran and Washington.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي، القادم من إسلام آباد، يلتقي نظيره العُماني بدر البوسعيدي في مسقط، بحسب وكالة «إس إن إن» الإيرانية؛ وتُعدّ عُمان القناة المعتادة بين طهران وواشنطن.",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi meets Omani Foreign Minister Badr Albusaidi in Muscat; Oman's foreign ministry says they discussed safeguarding maritime corridors and reviving negotiation channels to prevent escalation.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يلتقي نظيره العُماني بدر البوسعيدي في مسقط؛ والخارجية العُمانية تقول إنهما بحثا حماية الممرات البحرية وإحياء قنوات التفاوض لمنع التصعيد.",
    "source": {
-    "name": "SNN via Newsquawk",
-    "url": "https://www.newsquawk.com/headlines/iranian-foreign-minister-araghchi-met-omani-counterpart-in-muscat-according-to-snn"
+    "name": "Oman foreign ministry via Asharq Al-Awsat",
+    "url": "https://english.aawsat.com/gulf/5342183-oman-iran-discuss-safeguarding-maritime-corridors"
    }
   },
   {
@@ -1385,54 +1421,6 @@
    "source": {
     "name": "AFP via Euronews",
     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
-   }
-  },
-  {
-   "id": "20261114-0753-russia-nato-1997-demands",
-   "time": "2026-11-14T07:53:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Russia demanded NATO pull eastern-flank forces back to 1997 lines, end Western military aid to Ukraine and nuclear sharing, in Kremlin talks with US envoys on 12 November, per The New York Times.",
-   "ar": "روسيا طالبت بسحب قوات الناتو على الجناح الشرقي إلى خطوط 1997 ووقف المساعدات العسكرية الغربية لأوكرانيا والمشاركة النووية، خلال محادثات الكرملين مع المبعوثَين الأميركيَّين في 12 تشرين الثاني، بحسب «نيويورك تايمز».",
-   "source": {
-    "name": "The New York Times via Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90105"
-   }
-  },
-  {
-   "id": "20261114-0725-iran-navy-tanker-mine-east-hormuz",
-   "time": "2026-11-14T07:25:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says an unnamed tanker hit a naval mine and caught fire east of the Strait of Hormuz early Saturday after entering a prohibited zone with its tracking systems off.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة لم تُسمَّ اصطدمت بلغم بحري واشتعلت فيها النيران شرق مضيق هرمز فجر السبت بعد دخولها منطقة محظورة وأنظمة تتبّعها مطفأة.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal"
-   }
-  },
-  {
-   "id": "20261114-0659-odesa-energy-50000-outage",
-   "time": "2026-11-14T06:59:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "A Russian attack on an energy facility in northern Odesa region leaves almost 50,000 households without power, energy firm DTEK says; governor Oleh Kiper confirms the attack.",
-   "ar": "هجوم روسي على منشأة للطاقة في شمال منطقة أوديسا يترك نحو 50,000 منزل بلا كهرباء، بحسب شركة «دي تي إي كي»، والحاكم أوليه كيبر يؤكد الهجوم.",
-   "source": {
-    "name": "UNN",
-    "url": "https://unn.ua/en/news/russian-attacks-on-the-energy-infrastructure-continue-where-power-outages-are-occurring-on-november-14"
-   }
-  },
-  {
-   "id": "20261114-0638-russia-96-drones-ukraine",
-   "time": "2026-11-14T06:38:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's air force says Russia launched 96 attack drones overnight, 81 were downed or suppressed, and hits were recorded at 8 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 96 مسيّرة هجومية ليلاً، أُسقطت أو حُيّدت 81 منها، وسُجّلت إصابات في 8 مواقع.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4184585-air-defenses-neutralize-81-of-96-drones-launched-by-russia-against-ukraine-since-evening.html"
    }
   }
  ]
