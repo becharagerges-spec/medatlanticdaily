@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-17T20:08:23Z",
+ "updated": "2026-11-17T22:08:37Z",
  "items": [
+  {
+   "id": "20261117-2128-nvidia-forecast-beats",
+   "time": "2026-11-17T21:28:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia forecasts fourth-quarter revenue of $130 billion, plus or minus 3%, above the $125.25 billion analysts expected, in its first report since Jensen Huang's exit as CEO.",
+   "ar": "«إنفيديا» تتوقع إيرادات بقيمة 130 مليار دولار للربع الرابع، بزيادة أو نقصان 3%، فوق توقعات المحللين البالغة 125.25 مليار دولار، في أول تقرير لها منذ خروج جنسن هوانغ من رئاستها التنفيذية.",
+   "source": {
+    "name": "Reuters via CP24",
+    "url": "https://www.cp24.com/news/money/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/"
+   }
+  },
+  {
+   "id": "20261117-2118-kahana-elected-speaker",
+   "time": "2026-11-17T21:18:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "The Knesset elects Yashar's Matan Kahana, the Eisenkot bloc's nominee, as speaker by 66 votes to 52 after a six-hour filibuster by Netanyahu's bloc.",
+   "ar": "الكنيست ينتخب ماتان كاهانا من حزب «ياشار»، مرشّح كتلة آيزنكوت، رئيساً له بـ66 صوتاً مقابل 52، بعد عرقلة استمرت ست ساعات من كتلة نتنياهو.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-after-six-hour-filibuster-by-netanyahu-bloc/"
+   }
+  },
+  {
+   "id": "20261117-2044-ag-freezes-e1-tender",
+   "time": "2026-11-17T20:44:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's attorney general freezes the tender process for the controversial E1 settlement project east of Jerusalem until a new government is sworn in, per Times of Israel.",
+   "ar": "المستشارة القضائية للحكومة الإسرائيلية تجمّد إجراءات مناقصة مشروع مستوطنة E1 المثير للجدل شرق القدس إلى حين أداء حكومة جديدة اليمين، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/attorney-general-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/"
+   }
+  },
+  {
+   "id": "20261117-2017-state-itar-reform",
+   "time": "2026-11-17T20:17:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The State Department announces sweeping arms-export reforms, trimming the US Munitions List, creating a general licence pre-approving some transfers to trusted partners, and cutting decision times to 50 days.",
+   "ar": "وزارة الخارجية الأميركية تعلن إصلاحات واسعة لقواعد تصدير السلاح، تقلّص قائمة الذخائر الأميركية وتستحدث ترخيصاً عاماً يُجيز مسبقاً بعض الصفقات للشركاء الموثوقين وتخفض مهلة البتّ إلى 50 يوماً.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/department-of-state-completes-90-day-itar-reform-sprint-delivering-historic-reforms-to-strengthen-american-export-dominance/"
+   }
+  },
   {
    "id": "20261117-1929-israel-strikes-mansouri",
    "time": "2026-11-17T19:29:00Z",
@@ -166,6 +214,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/"
+   }
+  },
+  {
+   "id": "20261117-1409-france-troops-lebanon-patrols",
+   "time": "2026-11-17T14:09:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "France is advancing a plan to send hundreds, possibly thousands, of troops to Lebanon for joint patrols with the army outside any UN mandate, three sources tell The Jerusalem Post.",
+   "ar": "فرنسا تدفع بخطة لإرسال مئات وربما آلاف الجنود إلى لبنان لتسيير دوريات مشتركة مع الجيش خارج أي تفويض أممي، بحسب ثلاثة مصادر لـ«جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323850-france-to-send-troops-to-lebanon-for-joint-patrols-with-army"
    }
   },
   {
@@ -496,8 +556,8 @@
    "time": "2026-11-16T23:20:00Z",
    "theater": "usa",
    "status": "reported",
-   "en": "New US intelligence indicates Iran is developing plans to target senior Trump officials in Washington with a dirty bomb or chemical weapon, CNN reports citing 7 US officials; no attack is said imminent.",
-   "ar": "معلومات استخباراتية أميركية جديدة تشير إلى أن إيران تُعدّ خططاً لاستهداف كبار مسؤولي إدارة ترامب في واشنطن بقنبلة قذرة أو سلاح كيميائي، بحسب «سي إن إن» نقلاً عن 7 مسؤولين أميركيين، من دون هجوم وشيك.",
+   "en": "New US intelligence indicates Iran is developing plans to target senior Trump officials in Washington with a dirty bomb or chemical weapon, CNN reports citing 7 US officials; Iran calls the report fabricated.",
+   "ar": "معلومات استخباراتية أميركية جديدة تشير إلى أن إيران تُعدّ خططاً لاستهداف كبار مسؤولي إدارة ترامب في واشنطن بقنبلة قذرة أو سلاح كيميائي، بحسب «سي إن إن» نقلاً عن 7 مسؤولين أميركيين؛ وإيران تصف التقرير بالملفّق.",
    "source": {
     "name": "CNN",
     "url": "https://edition.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb"
