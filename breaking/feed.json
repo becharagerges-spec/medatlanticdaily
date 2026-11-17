@@ -1,16 +1,40 @@
 {
- "updated": "2026-11-17T17:08:51Z",
+ "updated": "2026-11-17T18:09:09Z",
  "items": [
+  {
+   "id": "20261117-1615-huang-ready-to-return-nvidia",
+   "time": "2026-11-17T16:15:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Jensen Huang, who resigned as Nvidia CEO last week over reported affairs, says he would be 'honored' to return if the board asks and will cooperate with its independent investigation.",
+   "ar": "جنسن هوانغ، الذي استقال الأسبوع الماضي من رئاسة «إنفيديا» التنفيذية على خلفية علاقات خارج الزواج، يقول إنه «سيتشرّف» بالعودة إذا طلب مجلس الإدارة ذلك، وسيتعاون مع تحقيقه المستقل.",
+   "source": {
+    "name": "Fox Business",
+    "url": "https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely"
+   }
+  },
+  {
+   "id": "20261117-1558-somalia-president-accuses-uae",
+   "time": "2026-11-17T15:58:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Somali President Hassan Sheikh Mohamud says in a televised address that the UAE is interfering in Somalia's affairs, waging a proxy war and establishing armed militias in the country.",
+   "ar": "الرئيس الصومالي حسن شيخ محمود يقول في كلمة متلفزة إن الإمارات تتدخل في شؤون الصومال الداخلية وتخوض حرباً بالوكالة وتنشئ ميليشيات مسلحة في البلاد.",
+   "source": {
+    "name": "SONNA",
+    "url": "https://x.com/SONNALIVE/status/2122721139814215915"
+   }
+  },
   {
    "id": "20261117-1551-nsa-network-down",
    "time": "2026-11-17T15:51:00Z",
    "theater": "usa",
-   "status": "reported",
-   "en": "The NSA's highly classified internal communications network, NSA Net, is down, CNN reports citing people familiar with the matter; it is unclear whether a cyberattack caused it.",
-   "ar": "الشبكة الداخلية فائقة السرية لاتصالات وكالة الأمن القومي الأميركية «NSA Net» متوقفة عن العمل، بحسب «سي إن إن» نقلاً عن مطّلعين؛ ولم يتّضح إن كان السبب هجوماً سيبرانياً.",
+   "status": "confirmed",
+   "en": "The NSA's highly classified internal network, NSANet, goes down; US officials tell The Wall Street Journal it is temporarily offline for a software patch, with no evidence of a cyberattack.",
+   "ar": "الشبكة الداخلية فائقة السرية لوكالة الأمن القومي الأميركية «NSANet» تتوقف عن العمل؛ ومسؤولون أميركيون يقولون لـ«وول ستريت جورنال» إنها متوقفة مؤقتاً لتحديث برمجي، ولا دليل على هجوم سيبراني.",
    "source": {
-    "name": "CNN",
-    "url": "https://edition.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+    "name": "The Wall Street Journal via The Jerusalem Post",
+    "url": "https://www.jpost.com/international/article-915216"
    }
   },
   {
@@ -23,6 +47,18 @@
    "source": {
     "name": "Militarnyi",
     "url": "https://militarnyi.com/en/news/an-12-aircraft-crashes-in-russia-killing-17/"
+   }
+  },
+  {
+   "id": "20261117-1508-danon-rejects-peacekeepers",
+   "time": "2026-11-17T15:08:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israel's UN ambassador Danny Danon, touring the Lebanese border with UN envoys, says Israel will rely on no international force after UNIFIL's mandate ends on 31 December, per The National.",
+   "ar": "سفير إسرائيل لدى الأمم المتحدة داني دانون يقول، خلال جولة مع سفراء أمميين على الحدود اللبنانية، إن إسرائيل لن تعتمد على أي قوة دولية بعد انتهاء ولاية «اليونيفيل» في 31 كانون الأول، بحسب «ذا ناشونال».",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/17/israel-repeats-rejection-of-peacekeepers-on-lebanon-border-as-unifil-withdrawal-looms/"
    }
   },
   {
@@ -1456,42 +1492,6 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-urgent-repairs-gazas-sewage-and-drainage-systems"
-   }
-  },
-  {
-   "id": "20261114-1744-houthis-72-coalition-strikes",
-   "time": "2026-11-14T17:44:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi military spokesman Yahya Saree says the Saudi-led coalition carried out 72 air strikes in 24 hours on Saada, Taiz, Lahij and al-Jawf, and 5,020 air and missile attacks since the summer.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن التحالف بقيادة السعودية شنّ 72 غارة جوية خلال 24 ساعة على صعدة وتعز ولحج والجوف، و5020 هجوماً جوياً وصاروخياً منذ الصيف.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-report-72-saudi-led-coalition-air-strikes-across-yemen"
-   }
-  },
-  {
-   "id": "20261114-1739-netanyahu-unity-appeal-eisenkot",
-   "time": "2026-11-14T17:39:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu urges Gadi Eisenkot to negotiate a national unity government 'without preconditions'; Eisenkot calls it 'another spin' and says Likud and Yashar teams already meet on Sunday.",
-   "ar": "نتنياهو يدعو غادي آيزنكوت إلى التفاوض «من دون شروط مسبقة» على حكومة وحدة وطنية، وآيزنكوت يصف الدعوة بأنها «مناورة أخرى» ويقول إن فريقَي الليكود و«يشار» يلتقيان الأحد أصلاً.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-calls-netanyahus-unity-offer-another-spin-says-talks-already-scheduled/"
-   }
-  },
-  {
-   "id": "20261114-1715-us-embassy-riyadh-caution",
-   "time": "2026-11-14T17:15:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The US Embassy in Riyadh urges Americans in the Middle East to exercise heightened caution, warning that Houthi attacks on Saudi Arabia could escalate rapidly beyond the immediate area.",
-   "ar": "السفارة الأميركية في الرياض تدعو الأميركيين في الشرق الأوسط إلى توخّي أقصى الحذر، محذّرة من أن هجمات الحوثيين على السعودية قد تتصاعد سريعاً خارج نطاقها المباشر.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914872"
    }
   }
  ]
