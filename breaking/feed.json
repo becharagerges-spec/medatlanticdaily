@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-17T14:10:49Z",
+ "updated": "2026-11-17T15:09:34Z",
  "items": [
+  {
+   "id": "20261117-1359-gaza-four-killed-child",
+   "time": "2026-11-17T13:59:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli attacks kill at least 4 Palestinians across Gaza on Tuesday, including a 6-year-old boy in Deir el-Balah, medics tell Reuters, despite the ceasefire.",
+   "ar": "هجمات إسرائيلية تقتل 4 فلسطينيين على الأقل في أنحاء غزة الثلاثاء، بينهم طفل في السادسة في دير البلح، بحسب مسعفين لـ«رويترز»، رغم وقف إطلاق النار.",
+   "source": {
+    "name": "Reuters via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-kills-least-five-gaza-tuesday-including-six-year-old"
+   }
+  },
+  {
+   "id": "20261117-1350-iran-army-lucas-drone",
+   "time": "2026-11-17T13:50:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army says its air defences struck and destroyed a US LUCAS drone over the Strait of Hormuz on Tuesday, state broadcaster IRIB reports; there is no US comment.",
+   "ar": "الجيش الإيراني يقول إن دفاعاته الجوية أصابت ودمّرت مسيّرة أميركية من طراز LUCAS فوق مضيق هرمز الثلاثاء، بحسب التلفزيون الرسمي، من دون تعليق أميركي.",
+   "source": {
+    "name": "Anadolu via A News",
+    "url": "https://www.anews.com.tr/middle-east/2026/11/17/iran-says-us-lucas-drone-intercepted-over-strait-of-hormuz"
+   }
+  },
+  {
+   "id": "20261117-1336-qeshm-blasts",
+   "time": "2026-11-17T13:36:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Several blasts are heard northwest of Qeshm city on Iran's Qeshm Island in the Strait of Hormuz, with smoke visible over the island, Fars news agency reports; no cause is given.",
+   "ar": "دويّ عدة انفجارات شمال غرب مدينة قشم في جزيرة قشم الإيرانية في مضيق هرمز، مع تصاعد الدخان فوق الجزيرة، بحسب وكالة «فارس»، من دون ذكر السبب.",
+   "source": {
+    "name": "Fars via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-blasts-heard-qeshm-island"
+   }
+  },
   {
    "id": "20261117-1321-kataeb-hezbollah-refuses-jurf-withdrawal",
    "time": "2026-11-17T13:21:00Z",
@@ -1432,30 +1468,6 @@
    "source": {
     "name": "EU statement via Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
-   }
-  },
-  {
-   "id": "20261114-1502-zaporizhzhia-strikes-22-wounded",
-   "time": "2026-11-14T15:02:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Russian strikes on Zaporizhzhia wound 22 people, including 3 children, and a drone kills a man in nearby Kushuhum, Ukrainian emergency services say; traffic over the DniproHES dam was closed.",
-   "ar": "ضربات روسية على زابوريجيا تجرح 22 شخصاً بينهم 3 أطفال، ومسيّرة تقتل رجلاً في كوشوغوم المجاورة، بحسب خدمة الطوارئ الأوكرانية؛ وأُغلق السير على سد دنيبرو للطاقة الكهرومائية.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90138"
-   }
-  },
-  {
-   "id": "20261114-1411-gaza-city-drone-strike-two",
-   "time": "2026-11-14T14:11:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "An Israeli drone strike in northern Gaza City kills 2 Palestinians, per Palestinian media; the Israeli army says it targeted 2 militants and is reviewing the results.",
-   "ar": "غارة بمسيّرة إسرائيلية في شمال مدينة غزة تقتل فلسطينيَّين اثنين بحسب وسائل إعلام فلسطينية، والجيش الإسرائيلي يقول إنه استهدف عنصرَين مسلّحَين وإن النتائج قيد المراجعة.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/2-palestinians-reportedly-killed-in-north-gaza-drone-strike-idf-says-it-targeted-2-terror-operatives/"
    }
   }
  ]
