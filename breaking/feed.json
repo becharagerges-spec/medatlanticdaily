@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-17T19:09:58Z",
+ "updated": "2026-11-17T20:08:23Z",
  "items": [
+  {
+   "id": "20261117-1929-israel-strikes-mansouri",
+   "time": "2026-11-17T19:29:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Israeli warplanes carry out two strikes on the town of Mansouri in south Lebanon on Tuesday evening, Lebanese media report.",
+   "ar": "الطيران الحربي الإسرائيلي يشنّ غارتين على بلدة المنصوري في جنوب لبنان مساء الثلاثاء، بحسب وسائل إعلام لبنانية.",
+   "source": {
+    "name": "Lebanon24",
+    "url": "https://www.lebanon24.com/news/breaking-news/1596353/%D9%84%D8%A8%D9%86%D8%A7%D9%8624-%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+   }
+  },
   {
    "id": "20261117-1901-faa-halts-router-installation",
    "time": "2026-11-17T19:01:00Z",
@@ -46,6 +58,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saar-vows-countermeasures-after-uk-announces-sanctions-on-companies-involved-in-west-bank-construction/"
+   }
+  },
+  {
+   "id": "20261117-1733-apple-services-outage",
+   "time": "2026-11-17T17:33:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Apple's iCloud, App Store, Apple Pay and Apple Music suffer a widespread outage, the latest in a string of major US tech failures; Apple has not explained the cause.",
+   "ar": "عطل واسع يضرب خدمات آبل «آي كلاود» ومتجر التطبيقات و«آبل باي» و«آبل ميوزك»، في أحدث حلقة من سلسلة أعطال تقنية كبرى في الولايات المتحدة، من دون أن توضح آبل السبب.",
+   "source": {
+    "name": "9to5Mac",
+    "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
    }
   },
   {
@@ -1504,53 +1528,6 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955"
-   }
-  },
-  {
-   "id": "20261114-1921-damascus-jaramana-car-bomb",
-   "time": "2026-11-14T19:21:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "A bomb hidden in a car explodes in Jaramana, a southern suburb of Damascus, killing 2 people including a child, Syrian state TV and the Interior Ministry say.",
-   "ar": "انفجار عبوة مزروعة في سيارة في جرمانا جنوبي دمشق يقتل شخصين بينهما طفل، بحسب التلفزيون السوري الرسمي ووزارة الداخلية.",
-   "source": {
-    "name": "AP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/a-bomb-rips-through-a-damascus-suburb-killing-2-including-a-child-3011937"
-   }
-  },
-  {
-   "id": "20261114-1920-kfar-tebnit-shelling",
-   "time": "2026-11-14T19:20:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli artillery shells the town of Kfar Tebnit in southern Lebanon, per Beirut 24; no casualties are reported.",
-   "ar": "قصف مدفعي إسرائيلي يستهدف بلدة كفرتبنيت في جنوب لبنان، بحسب «بيروت 24»، من دون الإبلاغ عن إصابات.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/14/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%81%D8%B1%D8%AA%D8%A8%D9%86%D9%8A%D8%AA-%D8%AC%D9%86-2/"
-   }
-  },
-  {
-   "id": "20261114-1919-israel-warns-us-iran-drone-plot",
-   "time": "2026-11-14T19:19:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Israel has warned the US of an alleged Iranian plan for drone attacks on President Trump and senior administration officials, with Mossad passing details to the CIA, per Israel Hayom.",
-   "ar": "إسرائيل حذّرت الولايات المتحدة من خطة إيرانية مزعومة لشنّ هجمات بالمسيّرات على الرئيس ترامب وكبار المسؤولين في إدارته، وقد نقل الموساد التفاصيل إلى وكالة الاستخبارات المركزية، بحسب «إسرائيل هيوم».",
-   "source": {
-    "name": "Israel Hayom"
-   }
-  },
-  {
-   "id": "20261114-1913-iraq-pm-sacks-nine-oil-smuggling",
-   "time": "2026-11-14T19:13:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraqi Prime Minister Ali al-Zaidi dismisses 9 security and oil officials after a probe into oil smuggling in Jurf al-Sakher, a Kataib Hezbollah stronghold, and refers suspects to the judiciary.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي يُقيل 9 مسؤولين أمنيين ونفطيين بعد تحقيق في تهريب النفط في جرف الصخر، معقل كتائب حزب الله، ويُحيل المتهمين إلى القضاء.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/iraqs-pm-sacks-officials-over-oil-smuggling-in-stronghold-of-iran-backed-terror-group/"
    }
   }
  ]
