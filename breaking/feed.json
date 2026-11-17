@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:08:46Z",
+ "updated": "2026-11-17T06:09:57Z",
  "items": [
   {
    "id": "20261117-0403-asia-shares-fall-ai-chips",
@@ -178,6 +178,18 @@
    "source": {
     "name": "IANS",
     "url": "https://ianslive.in/iran-says-another-violating-oiler-caught-fire-in-hormuz-denies-air-defence-activity-in-central-province--20261117070744"
+   }
+  },
+  {
+   "id": "20261116-1912-yemen-parliament-houthis-terror-bill",
+   "time": "2026-11-16T19:12:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Yemen's parliament unanimously approves a 55-article bill designating the Houthis a terrorist organisation, with penalties up to death; it now goes to Presidential Council chief Rashad al-Alimi, state agency Saba says.",
+   "ar": "البرلمان اليمني يقرّ بالإجماع مشروع قانون من 55 مادة يصنّف الحوثيين منظمة إرهابية مع عقوبات تصل إلى الإعدام، ويُحال إلى رئيس المجلس الرئاسي رشاد العليمي، بحسب وكالة سبأ الرسمية.",
+   "source": {
+    "name": "Anadolu",
+    "url": "https://www.anews.com.tr/middle-east/2026/11/16/yemeni-parliament-approves-bill-designating-houthis-as-terrorist-organization"
    }
   },
   {
@@ -1421,18 +1433,6 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4184585-air-defenses-neutralize-81-of-96-drones-launched-by-russia-against-ukraine-since-evening.html"
-   }
-  },
-  {
-   "id": "20261114-0520-alaska-keeps-ranked-choice",
-   "time": "2026-11-14T05:20:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Alaska voters reject a ballot measure to repeal the state's open primaries and ranked-choice voting in general elections, AP reports.",
-   "ar": "ناخبو ألاسكا يرفضون اقتراحاً لإلغاء الانتخابات التمهيدية المفتوحة ونظام التصويت بالاختيار المرتّب في الانتخابات العامة، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/alaska-voters-reject-ballot-measure-051258685.html"
    }
   }
  ]
