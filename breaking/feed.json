@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T10:09:56Z",
+ "updated": "2026-11-17T11:09:41Z",
  "items": [
+  {
+   "id": "20261117-1017-uk-sanctions-settlement-builders-tzav9",
+   "time": "2026-11-17T10:17:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Britain sanctions 8 Israeli companies building West Bank settlements and the activist group Tzav 9, which blocks aid trucks to Gaza, with asset freezes and director disqualifications.",
+   "ar": "بريطانيا تفرض عقوبات على 8 شركات إسرائيلية تبني مستوطنات في الضفة الغربية وعلى مجموعة «تساف 9» التي تعترض شاحنات المساعدات إلى غزة، تشمل تجميد أصول ومنع مديرين من مزاولة الإدارة.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/uk-sanctions-west-bank-settlement-construction-companies-activist-group-that-blocks-gaza-aid"
+   }
+  },
+  {
+   "id": "20261117-0945-japan-asian-iea-proposal",
+   "time": "2026-11-17T09:45:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Japanese PM Sanae Takaichi proposes 'an Asian version of the IEA' at the ASEAN summit in Manila, with shared emergency oil stockpiles and a joint Southeast Asian reserve system.",
+   "ar": "رئيسة الوزراء اليابانية ساناي تاكايتشي تقترح في قمة آسيان في مانيلا «نسخة آسيوية من وكالة الطاقة الدولية»، مع مخزونات نفط طارئة مشتركة ونظام احتياطي موحّد لجنوب شرق آسيا.",
+   "source": {
+    "name": "AP via ABC News",
+    "url": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916"
+   }
+  },
   {
    "id": "20261117-0939-stubb-europe-engage-putin",
    "time": "2026-11-17T09:39:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Financial Times via Kyiv Independent",
     "url": "https://kyivindependent.com/finlands-stubb-urges-europe-to-take-russia-talks-into-its-own-hands/"
+   }
+  },
+  {
+   "id": "20261117-0918-israel-strike-hula-south-lebanon",
+   "time": "2026-11-17T09:18:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli warplanes strike Hula in Marjayoun district and Israeli artillery shells Wadi al-Salouki and Wadi Zabqin in south Lebanon on Tuesday morning, per Egypt's MENA; no casualties are reported.",
+   "ar": "الطيران الحربي الإسرائيلي يشنّ غارة على حولا في قضاء مرجعيون، والمدفعية الإسرائيلية تقصف وادي السلوقي ووادي زبقين في جنوب لبنان صباح الثلاثاء، بحسب وكالة أنباء الشرق الأوسط؛ ولا إصابات معلنة.",
+   "source": {
+    "name": "MENA via Maspero",
+    "url": "https://www.maspero.eg/arab-and-world/2026/11/17/1006331/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
    }
   },
   {
@@ -114,11 +150,11 @@
    "time": "2026-11-17T00:40:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "A Ukrainian strike collapses a road section of the Crimea bridge, its second hit in two days, geolocated images show; Moscow-installed Crimea head Sergey Aksyonov says traffic is suspended.",
-   "ar": "ضربة أوكرانية تُسقط قسماً من الطريق البري لجسر القرم، في ثاني إصابة خلال يومين، بحسب صور جرى تحديد موقعها؛ ورئيس القرم المعيّن من موسكو سيرغي أكسيونوف يعلن تعليق حركة العبور.",
+   "en": "A Ukrainian strike collapses a road section of the Crimea bridge; Zelensky says Ukraine hit both its road and rail sections with drones and Neptune missiles in a weeks-long operation.",
+   "ar": "ضربة أوكرانية تُسقط قسماً من الطريق البري لجسر القرم؛ وزيلينسكي يقول إن أوكرانيا أصابت قسمَيه البري والحديدي بمسيّرات وصواريخ «نبتون» ضمن عملية استمرت أسابيع.",
    "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90332"
    }
   },
   {
@@ -1349,90 +1385,6 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/world/2026/11/14/zelenskyy-says-a-new-european-security-framework-floated-by-us-could-benefit-putin/"
-   }
-  },
-  {
-   "id": "20261114-1107-iran-second-tanker-mine-east-hormuz",
-   "time": "2026-11-14T11:07:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says a second tanker caught fire on Saturday after hitting a naval mine in the eastern Strait of Hormuz, the fifth vessel hit there in 24 hours.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة ثانية اشتعلت السبت بعد ارتطامها بلغم بحري في شرق مضيق هرمز، وهي السفينة الخامسة التي تُصاب هناك خلال 24 ساعة.",
-   "source": {
-    "name": "Tasnim via News.az",
-    "url": "https://news.az/news/second-tanker-reported-ablaze-in-strait-of-hormuz-iran-says"
-   }
-  },
-  {
-   "id": "20261114-1104-aoun-1701-unifil",
-   "time": "2026-11-14T11:04:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "President Joseph Aoun tells UN Deputy Secretary-General Amina Mohammed that Resolution 1701 must stay the legal basis for the south and asks that UNIFIL continue or be replaced by a UN alternative.",
-   "ar": "الرئيس جوزاف عون يبلغ نائبة الأمين العام للأمم المتحدة أمينة محمد أن القرار 1701 يجب أن يبقى المرجعية القانونية للجنوب، ويطالب باستمرار اليونيفيل أو ببديل أممي.",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1758272"
-   }
-  },
-  {
-   "id": "20261114-1100-irgc-claims-mq1-qeshm",
-   "time": "2026-11-14T11:00:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over Qeshm Island at about 2:30 pm local time, claiming it as the 17th MQ-1 downed.",
-   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق جزيرة قشم نحو الساعة 2:30 بعد الظهر بالتوقيت المحلي، ويقول إنها الـMQ-1 السابعة عشرة التي يسقطها.",
-   "source": {
-    "name": "Press TV",
-    "url": "https://www.presstv.co.uk/Detail/2026/11/14/780711/irgc-shoots-down-17th-us-mq-1-drone-over-qeshm-island"
-   }
-  },
-  {
-   "id": "20261114-1051-belgorod-drone-three-killed",
-   "time": "2026-11-14T10:51:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "A Ukrainian drone strike on a house in Proletarsky, Belgorod region, kills a couple and their 24-year-old daughter, Russian regional authorities say; 7 more are injured elsewhere in the region.",
-   "ar": "السلطات الإقليمية الروسية تقول إن مسيّرة أوكرانية أصابت منزلاً في بروليتارسكي بمنطقة بيلغورود فقتلت زوجين وابنتهما البالغة 24 عاماً، وأُصيب 7 آخرون في أنحاء المنطقة.",
-   "source": {
-    "name": "Anadolu via aNews",
-    "url": "https://www.anews.com.tr/world/2026/11/14/russia-ukraine-trade-deadly-overnight-strikes-leaving-5-killed-18-injured"
-   }
-  },
-  {
-   "id": "20261114-1041-imf-lebanon-banking-plan",
-   "time": "2026-11-14T10:41:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "The IMF says Lebanon still must agree a plan to restructure its banking sector before aid is released; Finance Minister Yassin Jaber hopes to sign a programme in early 2027.",
-   "ar": "صندوق النقد الدولي يقول إن على لبنان الاتفاق بعد على خطة لإعادة هيكلة القطاع المصرفي قبل الإفراج عن المساعدات، ووزير المال ياسين جابر يأمل توقيع برنامج مطلع 2027.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323779-imf-says-more-work-needed-on-lebanon-reforms"
-   }
-  },
-  {
-   "id": "20261114-1038-army-arms-depot-msharrafieh",
-   "time": "2026-11-14T10:38:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "The Lebanese army says it seized a large quantity of weapons and munitions at a depot in Msharrafieh, in Beirut's Hezbollah-dominated southern suburbs, and arrested 1 person.",
-   "ar": "الجيش اللبناني يعلن ضبط كمية كبيرة من الأسلحة والذخائر في مستودع في المشرفية بالضاحية الجنوبية لبيروت، وتوقيف شخص واحد.",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323778-army-seizes-arms-depot-in-beirut-southern-suburbs"
-   }
-  },
-  {
-   "id": "20261114-1013-eisenkot-haredi-coalition-priority",
-   "time": "2026-11-14T10:13:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Gadi Eisenkot has decided to prioritise a coalition with the ultra-Orthodox parties, as the four Jewish-led opposition parties hold only 48 of 120 seats, Israel's Channel 12 reports.",
-   "ar": "غادي آيزنكوت قرّر إعطاء الأولوية لائتلاف مع الأحزاب الحريدية، إذ لا تملك أحزاب المعارضة اليهودية الأربعة سوى 48 مقعداً من 120، بحسب القناة 12 الإسرائيلية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/"
    }
   }
  ]
