@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T09:08:36Z",
+ "updated": "2026-11-17T10:09:56Z",
  "items": [
+  {
+   "id": "20261117-0939-stubb-europe-engage-putin",
+   "time": "2026-11-17T09:39:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Finnish President Alexander Stubb tells the Financial Times that European leaders should engage Putin directly, calling reliance on the US for Russia talks 'irresponsible'.",
+   "ar": "الرئيس الفنلندي ألكسندر ستوب يقول لصحيفة «فايننشال تايمز» إن على القادة الأوروبيين التواصل مباشرة مع بوتين، واصفاً الاعتماد على واشنطن في المحادثات مع روسيا بأنه «غير مسؤول».",
+   "source": {
+    "name": "Financial Times via Kyiv Independent",
+    "url": "https://kyivindependent.com/finlands-stubb-urges-europe-to-take-russia-talks-into-its-own-hands/"
+   }
+  },
+  {
+   "id": "20261117-0916-mongolia-president-resigns",
+   "time": "2026-11-17T09:16:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Mongolian President Khurelsukh Ukhnaa announces his resignation over opposition allegations of bribery in a 2019 railway contract, which he denies; parliament must approve it.",
+   "ar": "الرئيس المنغولي خورلسوخ أوخنا يعلن استقالته على خلفية اتهامات المعارضة له بتلقي رشى في عقد سكك حديد عام 2019، وهو ينفيها؛ ويتعيّن على البرلمان إقرار الاستقالة.",
+   "source": {
+    "name": "The Independent",
+    "url": "https://sg.news.yahoo.com/mongolian-president-resigns-following-railway-092202168.html"
+   }
+  },
   {
    "id": "20261117-0753-turkey-sozcu-tv-raid",
    "time": "2026-11-17T07:53:00Z",
@@ -35,6 +59,18 @@
    "source": {
     "name": "AFP via France 24",
     "url": "https://www.france24.com/en/live-news/20261117-canada-china-agree-further-tariff-cuts-pm-carney-at-apec"
+   }
+  },
+  {
+   "id": "20261117-0505-ghalibaf-dual-use-rule",
+   "time": "2026-11-17T05:05:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says on X that any dam, port or power plant near a US or Israeli base is now 'dual-use', signalling such sites could be targeted.",
+   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول على «إكس» إن أي سدّ أو مرفأ أو محطة كهرباء قرب قاعدة أميركية أو إسرائيلية بات «مزدوج الاستخدام»، ملمّحاً إلى إمكان استهدافها.",
+   "source": {
+    "name": "Mohammad Bagher Ghalibaf (X)",
+    "url": "https://x.com/mb_ghalibaf/status/2122556761442058610"
    }
   },
   {
@@ -1397,30 +1433,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/"
-   }
-  },
-  {
-   "id": "20261114-1008-denmark-665m-ukraine-aid",
-   "time": "2026-11-14T10:08:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Denmark is giving Ukraine a new €645 million defence package and €20 million in energy support, €665 million in total.",
-   "ar": "زيلينسكي يعلن أن الدنمارك تقدّم لأوكرانيا حزمة دفاعية جديدة بقيمة 645 مليون يورو و20 مليون يورو دعماً للطاقة، أي 665 مليون يورو إجمالاً.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90117"
-   }
-  },
-  {
-   "id": "20261114-0941-zelensky-us-donbas-nato",
-   "time": "2026-11-14T09:41:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says US negotiators asked for the first time whether Ukraine would withdraw from Donbas in exchange for NATO membership, and says any final terms would be put to Ukrainians.",
-   "ar": "زيلينسكي يقول إن المفاوضين الأميركيين سألوا للمرة الأولى ما إذا كانت أوكرانيا ستنسحب من دونباس مقابل عضوية حلف الناتو، مؤكداً أن أي شروط نهائية ستُطرح على الأوكرانيين.",
-   "source": {
-    "name": "AFP via Euronews",
-    "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
    }
   }
  ]
