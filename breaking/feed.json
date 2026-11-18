@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-18T05:08:26Z",
+ "updated": "2026-11-18T06:10:48Z",
  "items": [
+  {
+   "id": "20261118-0456-krasnodar-refineries-drones",
+   "time": "2026-11-18T04:56:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian monitoring channels say drones targeted the Ilsky and Afipsky oil refineries in Russia's Krasnodar Krai overnight; neither Kyiv nor Moscow has confirmed the strikes.",
+   "ar": "قنوات رصد أوكرانية تقول إن مسيّرات استهدفت ليلاً مصفاتي إيلسكي وأفيبسكي في إقليم كراسنودار الروسي، من دون تأكيد من كييف أو موسكو.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/"
+   }
+  },
+  {
+   "id": "20261118-0446-iran-army-claims-ali-al-salem",
+   "time": "2026-11-18T04:46:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Iran's army says its drones struck US missile, drone-launch and air-defence systems at Kuwait's Ali Al Salem Air Base overnight, per state TV IRIB; no damage is confirmed.",
+   "ar": "الجيش الإيراني يقول إن مسيّراته استهدفت ليلاً منظومات صواريخ وإطلاق مسيّرات ودفاع جوي أميركية في قاعدة علي السالم الجوية في الكويت، وفق التلفزيون الرسمي، من دون تأكيد أي أضرار.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
+   }
+  },
+  {
+   "id": "20261118-0400-xi-putin-shenzhen-talks",
+   "time": "2026-11-18T04:00:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Xi Jinping and Vladimir Putin hold talks in Shenzhen on the eve of their three-way summit with Trump; Xi says China-Russia ties stand 'as firm as a mountain'.",
+   "ar": "شي جينبينغ وفلاديمير بوتين يعقدان محادثات في شنتشن عشية قمّتهما الثلاثية مع ترامب، وشي يقول إن العلاقات الصينية الروسية «راسخة كالجبل».",
+   "source": {
+    "name": "AFP via Euronews",
+    "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
+   }
+  },
   {
    "id": "20261118-0354-putin-apec-ceo",
    "time": "2026-11-18T03:54:00Z",
@@ -11,6 +47,18 @@
    "source": {
     "name": "CNBC",
     "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+   }
+  },
+  {
+   "id": "20261118-0354-pistorius-streeting-colby",
+   "time": "2026-11-18T03:54:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Germany's Boris Pistorius and Britain's Wes Streeting reject Pentagon official Elbridge Colby's claim that Ukraine's deep strikes into Russia are ineffective, per the Kyiv Independent.",
+   "ar": "وزير الدفاع الألماني بوريس بيستوريوس ونظيره البريطاني ويس ستريتينغ يرفضان قول المسؤول في البنتاغون إلبريدج كولبي إن الضربات الأوكرانية العميقة في روسيا غير فعّالة، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/germany-uk-push-back-after-us-criticizes-ukraines-deep-strikes-into-russia/"
    }
   },
   {
@@ -1634,54 +1682,6 @@
    "source": {
     "name": "Al-Araby Al-Jadeed",
     "url": "https://www.alaraby.co.uk/politics/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D9%83-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A"
-   }
-  },
-  {
-   "id": "20261115-0600-russia-132-drones-ukraine",
-   "time": "2026-11-15T06:00:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's air force says Russia launched 132 drones overnight, 106 were downed or suppressed, and hits were recorded at 20 locations.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 132 مسيّرة خلال الليل، أُسقطت أو عُطّلت 106 منها، وسُجّلت إصابات في 20 موقعاً.",
-   "source": {
-    "name": "Ukrainian Air Force via UNN",
-    "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-132-drones-air-defense-destroyed-and-suppressed-106"
-   }
-  },
-  {
-   "id": "20261115-0557-ghalibaf-seven-conditions",
-   "time": "2026-11-15T05:57:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says Iran will not stay in 'neither war nor peace' and an agreement is possible if the US accepts Iran's 7 conditions.",
-   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول إن إيران لن تبقى في حالة «لا حرب ولا سلم»، وإن الاتفاق ممكن إذا قبلت واشنطن شروط إيران السبعة.",
-   "source": {
-    "name": "Mehr via The Tribune",
-    "url": "https://tribuneindia.com/news/world/iran-not-remain-in-state-of-neither-war-nor-peace-parliament-speaker-ghalibaf"
-   }
-  },
-  {
-   "id": "20261115-0555-rostov-taganrog-drone-substations",
-   "time": "2026-11-15T05:55:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Rostov governor Yuri Slyusar says an overnight Ukrainian drone attack killed a substation chief engineer in Taganrog, injured 4, damaged 2 substations and halted rail traffic.",
-   "ar": "حاكم روستوف يوري سليوسار يقول إن هجوماً أوكرانياً بالمسيّرات ليلاً قتل كبير مهندسي محطة كهرباء في تاغانروغ وجرح 4 وألحق أضراراً بمحطتين وأوقف حركة القطارات.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/"
-   }
-  },
-  {
-   "id": "20261115-0536-us-intel-iran-2500-missiles",
-   "time": "2026-11-15T05:36:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "US intelligence believes Iran may still hold 1,500 to 2,500 missiles, a low-confidence estimate weighing on Trump's decision whether to strike again, per The Wall Street Journal.",
-   "ar": "الاستخبارات الأميركية تقدّر أن إيران ربما لا تزال تملك ما بين 1,500 و2,500 صاروخ، وهو تقدير منخفض الثقة يؤثر في قرار ترامب بشأن توجيه ضربات جديدة، بحسب «وول ستريت جورنال».",
-   "source": {
-    "name": "The Wall Street Journal via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-intelligence-believes-iran-could-still-have-up-to-2500-missiles-report/"
    }
   }
  ]
