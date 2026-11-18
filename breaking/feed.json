@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-18T04:09:06Z",
+ "updated": "2026-11-18T05:08:26Z",
  "items": [
+  {
+   "id": "20261118-0354-putin-apec-ceo",
+   "time": "2026-11-18T03:54:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Putin tells the APEC CEO Summit in Shenzhen that the EU is losing industrial capacity and falling behind competitors, ahead of his meeting with Trump and Xi, per CNBC.",
+   "ar": "بوتين يقول أمام قمة الرؤساء التنفيذيين لـ«أبيك» في شنتشن إن الاتحاد الأوروبي يخسر قدرته الصناعية ويتأخر عن منافسيه، قبيل لقائه ترامب وشي، بحسب «سي إن بي سي».",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+   }
+  },
   {
    "id": "20261118-0324-peltola-wins-alaska-senate",
    "time": "2026-11-18T03:24:00Z",
@@ -10,6 +22,18 @@
    "ar": "الديمقراطية ماري بيلتولا تهزم السيناتور الجمهوري دان سوليفان في ألاسكا، في آخر سباق محسوم لمجلس الشيوخ في الانتخابات النصفية، فتتّسع الأغلبية الديمقراطية الجديدة في المجلس.",
    "source": {
     "name": "AP"
+   }
+  },
+  {
+   "id": "20261118-0303-rubio-dirty-bomb",
+   "time": "2026-11-18T03:03:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Rubio says in Manila there is no imminent threat to Washington after a CNN report of a possible Iranian dirty-bomb plot, and no evidence recent US tech outages are linked or malicious.",
+   "ar": "روبيو يقول من مانيلا إنه لا تهديد وشيكاً لواشنطن بعد تقرير لـ«سي إن إن» عن مخطط إيراني محتمل لقنبلة قذرة، ولا دليل على ترابط الأعطال التقنية الأميركية الأخيرة أو على طابع عدائي لها.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/rubio-says-no-imminent-threat-to-washington-after-report-on-potential-iran-dirty-bomb-plot/"
    }
   },
   {
@@ -1658,18 +1682,6 @@
    "source": {
     "name": "The Wall Street Journal via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/us-intelligence-believes-iran-could-still-have-up-to-2500-missiles-report/"
-   }
-  },
-  {
-   "id": "20261115-0441-irgc-claims-riffa-radar-drones",
-   "time": "2026-11-15T04:41:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 6 of their drones struck a US air defence radar at Bahrain's Riffa helicopter base, per Iranian state media; the US has not confirmed the attack.",
-   "ar": "الحرس الثوري الإيراني يعلن أن 6 من مسيّراته استهدفت راداراً أميركياً للدفاع الجوي في قاعدة الرفاع للمروحيات في البحرين، وفق الإعلام الرسمي الإيراني، من دون تأكيد أميركي للهجوم.",
-   "source": {
-    "name": "Iranian state media via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-attacked-us-radar-system-at-a-base-in-bahrain"
    }
   }
  ]
