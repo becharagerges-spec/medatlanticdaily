@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-18T13:10:50Z",
+ "updated": "2026-11-18T14:10:31Z",
  "items": [
+  {
+   "id": "20261118-1313-bennett-netanyahu-meeting",
+   "time": "2026-11-18T13:13:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Naftali Bennett meets Netanyahu for about two and a half hours at the Knesset, their first meeting in five and a half years, without telling Eisenkot; the Eisenkot bloc's meeting is postponed.",
+   "ar": "نفتالي بينيت يلتقي نتنياهو نحو ساعتين ونصف في الكنيست، في أول لقاء بينهما منذ خمس سنوات ونصف، من دون إبلاغ آيزنكوت؛ وتأجيل اجتماع كتلة آيزنكوت.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/bj9l1morgg"
+   }
+  },
   {
    "id": "20261118-1256-cooper-meets-zamir",
    "time": "2026-11-18T12:56:00Z",
@@ -107,6 +119,18 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/3101871/"
+   }
+  },
+  {
+   "id": "20261118-0758-iran-abdanan-protest",
+   "time": "2026-11-18T07:58:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Hundreds protest in Iran's Abdanan after 13 workers died in a weekend bus crash, with videos showing 'death to the dictator' chants, among the first protests since this year's deadly crackdown.",
+   "ar": "المئات يتظاهرون في عبدانان الإيرانية بعد مقتل 13 عاملاً في حادث حافلة نهاية الأسبوع، ومقاطع تُظهر هتافات «الموت للديكتاتور»، في أول احتجاجات منذ حملة القمع الدامية هذا العام.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.clickorlando.com/news/world/2026/11/18/saudi-backed-forces-launch-major-attack-on-houthis-and-other-mideast-news/"
    }
   },
   {
@@ -1719,66 +1743,6 @@
    "source": {
     "name": "AFP via RTÉ",
     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
-   }
-  },
-  {
-   "id": "20261115-1404-zelensky-starshield-limits",
-   "time": "2026-11-15T14:04:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says SpaceX limits on Ukraine's Starshield system stop interceptor drones flying above 161 km/h from catching Russian Shaheds, threatening energy defences before winter.",
-   "ar": "زيلينسكي يقول إن قيود «سبيس إكس» على نظام «ستارشيلد» الأوكراني تمنع المسيّرات الاعتراضية التي تتجاوز سرعتها 161 كلم/ساعة من ملاحقة مسيّرات «شاهد» الروسية، ما يهدد حماية منشآت الطاقة قبل الشتاء.",
-   "source": {
-    "name": "AP via ABC News",
-    "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-starshield-restrictions-threaten-ukraines-energy-defenses-138156524"
-   }
-  },
-  {
-   "id": "20261115-1402-ukraine-hits-akhtubinsk-airfield",
-   "time": "2026-11-15T14:02:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's General Staff says its forces hit Russia's Akhtubinsk airfield, home of the 929th State Flight Test Center about 650 km from the front, triggering a blast at a missile-components store.",
-   "ar": "هيئة الأركان الأوكرانية تقول إن قواتها أصابت مطار أختوبينسك الروسي، مقر مركز اختبارات الطيران الحكومي 929 على بعد نحو 650 كلم من الجبهة، ما تسبب بانفجار في مستودع لمكوّنات الصواريخ.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4184885-defense-forces-strike-akhtubinsk-airfield-drone-launch-site-in-russias-oryol-region-overnight.html"
-   }
-  },
-  {
-   "id": "20261115-1349-yashar-likud-offer",
-   "time": "2026-11-15T13:49:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's Yashar party offers Likud a place in an Eisenkot-led government for a full four-year term, with no premiership rotation with Netanyahu, Walla reports.",
-   "ar": "حزب «يشار» بقيادة آيزنكوت يعرض على الليكود المشاركة في حكومة يرأسها آيزنكوت لولاية كاملة من 4 سنوات، من دون تناوب على رئاسة الحكومة مع نتنياهو، بحسب موقع «والا».",
-   "source": {
-    "name": "Walla via JFeed",
-    "url": "https://www.jfeed.com/news-israel/tojqwa"
-   }
-  },
-  {
-   "id": "20261115-1327-coalition-drones-makkah-madinah",
-   "time": "2026-11-15T13:27:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted 2 Houthi drones over the Makkah region on Sunday afternoon and, in a separate statement, more drones over the Madinah region.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض مسيّرتين حوثيتين فوق منطقة مكة المكرمة بعد ظهر الأحد، ومسيّرات أخرى فوق منطقة المدينة المنورة في بيان منفصل.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/two-houthi-drones-intercepted-in-makkah-region-coalition-says-3011963"
-   }
-  },
-  {
-   "id": "20261115-1314-houthi-missile-lahj-checkpoint",
-   "time": "2026-11-15T13:14:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "The toll from a Houthi missile attack on a checkpoint in Khor Omeira, Lahj province, near Aden, rises to 8 killed and 12 wounded, Yemeni military and government sources say.",
-   "ar": "حصيلة الهجوم الصاروخي للحوثيين على حاجز في خور عميرة بمحافظة لحج قرب عدن ترتفع إلى 8 قتلى و12 جريحاً، بحسب مصادر عسكرية وحكومية يمنية.",
-   "source": {
-    "name": "The New Arab",
-    "url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport"
    }
   }
  ]
