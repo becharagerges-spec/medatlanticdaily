@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-18T15:08:55Z",
+ "updated": "2026-11-18T16:09:41Z",
  "items": [
+  {
+   "id": "20261118-1532-jeffries-speaker-nomination",
+   "time": "2026-11-18T15:32:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "House Democrats nominate Hakeem Jeffries for speaker by 251 votes to 11 in a secret ballot, putting him on track to become the first Black speaker in January.",
+   "ar": "الديمقراطيون في مجلس النواب الأميركي يرشّحون حكيم جيفريز لرئاسة المجلس بـ251 صوتاً مقابل 11 في اقتراع سرّي، ما يضعه على طريق أن يصبح أول رئيس أسود للمجلس في كانون الثاني.",
+   "source": {
+    "name": "Politico"
+   }
+  },
+  {
+   "id": "20261118-1517-mullin-iran-us-infrastructure",
+   "time": "2026-11-18T15:17:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Homeland Security Secretary Markwayne Mullin tells Congress that Iran and Tehran-backed actors have targeted US energy, finance, transport, healthcare and water networks since February.",
+   "ar": "وزير الأمن الداخلي الأميركي ماركواين مولين يقول أمام الكونغرس إن إيران وجهات مدعومة منها استهدفت منذ شباط شبكات الطاقة والمال والنقل والصحة والمياه في الولايات المتحدة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says"
+   }
+  },
+  {
+   "id": "20261118-1420-gaza-central-ground-raid",
+   "time": "2026-11-18T14:20:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli tanks push west of Gaza's Yellow Line near Nuseirat in what residents call the first ground raid since the 2025 ceasefire; the army says it targets Hamas infrastructure.",
+   "ar": "دبابات إسرائيلية تتقدّم غرب «الخط الأصفر» قرب النصيرات وسط غزة، في ما يصفه السكان بأول توغّل بري منذ وقف النار عام 2025، والجيش يقول إنه يستهدف بنى تحتية لحماس.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/israeli-military-begins-new-thrust-gaza-witnesses-say"
+   }
+  },
   {
    "id": "20261118-1313-bennett-netanyahu-meeting",
    "time": "2026-11-18T13:13:00Z",
@@ -47,6 +82,18 @@
    "source": {
     "name": "Beirut 24",
     "url": "https://www.beirut24.org/2026/11/18/%D9%82%D8%A8%D9%84%D8%A7%D9%86-%D9%84%D8%B9%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D9%88%D9%84%D9%88/"
+   }
+  },
+  {
+   "id": "20261118-1133-waltz-berri-hezbollah-cancer",
+   "time": "2026-11-18T11:33:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "US envoy Mike Waltz says after meeting Speaker Nabih Berri that placing all arms under state control 'isn't optional' and calls Hezbollah a 'cancer' that must not continue.",
+   "ar": "المبعوث الأميركي مايك والتز يقول بعد لقائه رئيس المجلس نبيه بري إن حصر السلاح بيد الدولة «ليس خياراً» ويصف حزب الله بـ«السرطان» الذي يجب ألا يستمر.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323863-waltz-the-cancer-that-is-hezbollah-must-not-continue"
    }
   },
   {
@@ -1707,18 +1754,6 @@
    "source": {
     "name": "Lebanese Army statement via Daily Beirut",
     "url": "https://dailybeirut.com/en/lebanon-news/rockets-and-clash-with-lebanese-army-details-of-arresting-one-of-baalbeks-most-w/"
-   }
-  },
-  {
-   "id": "20261115-1523-nyt-israel-kidnapped-iranian-generals-arad",
-   "time": "2026-11-15T15:23:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Israel kidnapped Iranian generals in its search for missing airman Ron Arad and killed one, IRGC Quds Force general Alireza Asgari, after interrogation, The New York Times reports; Israel has denied involvement.",
-   "ar": "إسرائيل خطفت جنرالات إيرانيين في بحثها عن الطيار المفقود رون أراد وقتلت أحدهم، جنرال فيلق القدس علي رضا عسكري، بعد استجوابه، بحسب «نيويورك تايمز»؛ وإسرائيل نفت أي تورط.",
-   "source": {
-    "name": "The New York Times via Times of Israel",
-    "url": "https://www.timesofisrael.com/israel-kidnapped-iranian-generals-killed-one-in-effort-to-locate-ron-arad-nyt/"
    }
   }
  ]
