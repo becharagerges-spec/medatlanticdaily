@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T14:10:31Z",
+ "updated": "2026-11-18T15:08:55Z",
  "items": [
   {
    "id": "20261118-1313-bennett-netanyahu-meeting",
    "time": "2026-11-18T13:13:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "Naftali Bennett meets Netanyahu for about two and a half hours at the Knesset, their first meeting in five and a half years, without telling Eisenkot; the Eisenkot bloc's meeting is postponed.",
-   "ar": "نفتالي بينيت يلتقي نتنياهو نحو ساعتين ونصف في الكنيست، في أول لقاء بينهما منذ خمس سنوات ونصف، من دون إبلاغ آيزنكوت؛ وتأجيل اجتماع كتلة آيزنكوت.",
+   "en": "Naftali Bennett meets Netanyahu for about two hours at the Knesset without telling Eisenkot; afterwards his entourage says he will not serve in a government under Netanyahu.",
+   "ar": "نفتالي بينيت يلتقي نتنياهو نحو ساعتين في الكنيست من دون إبلاغ آيزنكوت؛ وبعد اللقاء يقول مقرّبون منه إنه لن يشارك في حكومة برئاسة نتنياهو.",
    "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/bj9l1morgg"
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/2026-11-18/live-updates-915259"
    }
   },
   {
@@ -1719,30 +1719,6 @@
    "source": {
     "name": "The New York Times via Times of Israel",
     "url": "https://www.timesofisrael.com/israel-kidnapped-iranian-generals-killed-one-in-effort-to-locate-ron-arad-nyt/"
-   }
-  },
-  {
-   "id": "20261115-1448-houthis-free-600-detainees",
-   "time": "2026-11-15T14:48:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Yemen's Houthis unilaterally free 600 conflict-related detainees in Sanaa, the Red Cross says, the largest such release of the war according to Houthi prisoner chief Abdul Qader al-Murtada.",
-   "ar": "الحوثيون في اليمن يفرجون من جانب واحد عن 600 محتجز مرتبطين بالنزاع في صنعاء، بحسب الصليب الأحمر، في أكبر إفراج من نوعه منذ بدء الحرب وفق رئيس لجنة الأسرى الحوثية عبد القادر المرتضى.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-unilaterally-release-600-detainees-red-cross/4125877"
-   }
-  },
-  {
-   "id": "20261115-1430-irgc-supertanker-sinks-hormuz",
-   "time": "2026-11-15T14:30:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say a supertanker carrying over 2 million barrels of crude sank after hitting a mine in the southern Strait of Hormuz, and a second tanker also hit a mine.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلة عملاقة تحمل أكثر من مليوني برميل من النفط الخام غرقت بعد اصطدامها بلغم جنوب مضيق هرمز، وإن ناقلة ثانية اصطدمت أيضاً بلغم.",
-   "source": {
-    "name": "AFP via RTÉ",
-    "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
    }
   }
  ]
