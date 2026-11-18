@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-18T06:10:48Z",
+ "updated": "2026-11-18T07:09:17Z",
  "items": [
+  {
+   "id": "20261118-0518-houthi-cruise-missile-riyadh",
+   "time": "2026-11-18T05:18:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a cruise missile launched by the Houthis toward the Riyadh area, spokesman Turki al-Maliki says.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض، بحسب المتحدث باسمه تركي المالكي.",
+   "source": {
+    "name": "Saudi-led coalition via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-intercepted-houthi-cruise-missile"
+   }
+  },
+  {
+   "id": "20261118-0503-xi-apec-free-trade",
+   "time": "2026-11-18T05:03:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "Xi Jinping tells business leaders at the APEC summit in Shenzhen that 'isolation inevitably leads to falling behind' and pledges to open China's market to more imports, per dpa.",
+   "ar": "شي جين بينغ يقول لرجال الأعمال في قمة «أبيك» في شنتشن إن «العزلة تؤدي حتماً إلى التخلّف»، ويتعهّد بفتح السوق الصينية أمام مزيد من الواردات، بحسب «د ب أ».",
+   "source": {
+    "name": "dpa",
+    "url": "https://www.yahoo.com/news/world/articles/xi-urges-free-trade-apec-050333853.html"
+   }
+  },
   {
    "id": "20261118-0456-krasnodar-refineries-drones",
    "time": "2026-11-18T04:56:00Z",
@@ -23,6 +47,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
+   }
+  },
+  {
+   "id": "20261118-0445-australia-sanctions-settlers",
+   "time": "2026-11-18T04:45:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Australia sanctions 3 Israeli individuals, including Nachala leader Daniella Weiss, and 4 organisations over West Bank settlement expansion, Foreign Minister Penny Wong announces.",
+   "ar": "أستراليا تفرض عقوبات على 3 أفراد إسرائيليين، بينهم زعيمة حركة «نحالا» دانييلا فايس، و4 منظمات بسبب التوسّع الاستيطاني في الضفة الغربية، بحسب وزيرة الخارجية بيني وونغ.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion"
    }
   },
   {
@@ -153,6 +189,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/"
+   }
+  },
+  {
+   "id": "20261117-2249-hezbollah-400-killed",
+   "time": "2026-11-17T22:49:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Some 400 Hezbollah members have been killed in Lebanon since the ceasefire took effect, according to a security briefing to the Knesset Foreign Affairs and Defence Committee, per The Jerusalem Post.",
+   "ar": "نحو 400 عنصر من «حزب الله» قُتلوا في لبنان منذ بدء وقف إطلاق النار، وفق إحاطة أمنية قُدّمت إلى لجنة الخارجية والأمن في الكنيست، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-915245"
    }
   },
   {
