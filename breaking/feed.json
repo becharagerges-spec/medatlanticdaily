@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-18T18:08:56Z",
+ "updated": "2026-11-18T19:08:52Z",
  "items": [
+  {
+   "id": "20261118-1901-us-venezuela-military-ties",
+   "time": "2026-11-18T19:01:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US Defense Secretary Pete Hegseth says the United States and Venezuela have signed a deal to reestablish military ties, calling Venezuela 'a compliant security partner' since Maduro's capture in January.",
+   "ar": "وزير الدفاع الأميركي بيت هيغسيث يعلن أن الولايات المتحدة وفنزويلا وقّعتا اتفاقاً لإعادة العلاقات العسكرية، واصفاً فنزويلا بـ«شريك أمني ممتثل» منذ القبض على مادورو في كانون الثاني.",
+   "source": {
+    "name": "AP via CTV News",
+    "url": "https://www.ctvnews.ca/world/article/hegseth-visiting-venezuela-says-the-nations-have-signed-a-deal-to-re-establish-military-ties/"
+   }
+  },
+  {
+   "id": "20261118-1835-lebanon-charges-five-hezbollah",
+   "time": "2026-11-18T18:35:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's judiciary charges 5 Hezbollah members, arrested earlier this month in the north, with forming an armed group, recruiting members and supplying them with weapons, a judicial source tells AFP.",
+   "ar": "القضاء اللبناني يدّعي على 5 عناصر من حزب الله أوقفوا مطلع الشهر في الشمال بتهمة تأليف مجموعة مسلحة وتجنيد عناصر وتزويدهم بالسلاح، بحسب مصدر قضائي لوكالة فرانس برس.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/lebanon-charges-five-hezbollah-members-with-recruiting-arming-others-judicial-source-3012782"
+   }
+  },
+  {
+   "id": "20261118-1826-us-sanctions-hezbollah-wataawanu",
+   "time": "2026-11-18T18:26:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "The US sanctions the Wa Ta'awanu Association, which it calls a Hezbollah front posing as a south Lebanon relief group, and the Khechen brothers' gold network moving IRGC-Qods Force funds.",
+   "ar": "واشنطن تفرض عقوبات على «جمعية وتعاونوا» التي تصفها بواجهة لحزب الله تتستّر بالإغاثة في الجنوب، وعلى شبكة الأخوين خشن للذهب التي تنقل أموال فيلق القدس.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-hizballah-front-organization-and-iran-backed-financial-network/"
+   }
+  },
+  {
+   "id": "20261118-1740-israel-weighing-iran-action",
+   "time": "2026-11-18T17:40:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel is considering military action against Iran in the coming days and Netanyahu is meeting top security aides, Channel 12 reports without citing a source, per Times of Israel.",
+   "ar": "إسرائيل تدرس عملاً عسكرياً ضد إيران في الأيام المقبلة ونتنياهو يجتمع بكبار مساعديه الأمنيين، بحسب القناة 12 من دون ذكر مصدر، وفق «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Channel 12 via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/israel-weighing-military-action-against-iran-in-near-future-says-unsourced-tv-report/"
+   }
+  },
+  {
+   "id": "20261118-1657-trump-putin-separate-meeting",
+   "time": "2026-11-18T16:57:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Trump will hold a separate meeting with Putin in Shenzhen on Thursday, in addition to their three-way talks with Xi, a US official tells AP.",
+   "ar": "ترامب سيعقد لقاءً منفصلاً مع بوتين في شنتشن الخميس، إضافة إلى القمة الثلاثية مع شي، بحسب مسؤول أميركي لوكالة أسوشيتد برس.",
+   "source": {
+    "name": "AP via PBS NewsHour",
+    "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
+   }
+  },
   {
    "id": "20261118-1542-mossad-chief-lobbied-iran-strikes",
    "time": "2026-11-18T15:42:00Z",
@@ -591,11 +651,11 @@
    "time": "2026-11-17T21:30:00Z",
    "theater": "ukraine",
    "status": "reported",
-   "en": "The European Commission is set to propose an extra €45 billion in loans to Ukraine for 2027, guaranteed by EU budget headroom, according to a draft seen by the Kyiv Independent.",
-   "ar": "المفوضية الأوروبية تستعد لاقتراح قروض إضافية لأوكرانيا بقيمة 45 مليار يورو لعام 2027 بضمان هامش الموازنة الأوروبية، بحسب مسودة اطّلعت عليها «كييف إندبندنت».",
+   "en": "Commission President Ursula von der Leyen proposes a €45 billion EU loan to Ukraine for 2027, covering about two-thirds of Kyiv's financing needs, to be repaid by Russia, per France 24.",
+   "ar": "رئيسة المفوضية أورسولا فون دير لاين تقترح قرضاً أوروبياً لأوكرانيا بقيمة 45 مليار يورو لعام 2027 يغطي نحو ثلثي حاجات كييف التمويلية وتسدّده روسيا، بحسب «فرانس 24».",
    "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/exclusive-eu-proposes-additional-45-billion-euros-for-ukraine-seeks-to-incentivize-allies-to-step-up/"
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261118-eu-proposes-new-€45-billion-ukraine-loan-to-be-repaid-by-russia"
    }
   },
   {
@@ -1730,66 +1790,6 @@
    "source": {
     "name": "Reuters via 102.7 WBOW",
     "url": "https://1027wbow.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
-   }
-  },
-  {
-   "id": "20261116-0132-iran-navy-tanker-fire-east-hormuz",
-   "time": "2026-11-16T01:32:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says another unnamed oil tanker caught fire after hitting a naval mine in the restricted zone east of the Strait of Hormuz with its navigation systems off, per IRIB; no independent confirmation.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة نفط أخرى لم تُسمَّ اشتعلت بعد اصطدامها بلغم بحري في المنطقة المحظورة شرق مضيق هرمز وأنظمة ملاحتها مطفأة، بحسب التلفزيون الإيراني؛ ولا تأكيد مستقلاً.",
-   "source": {
-    "name": "IRIB via ANI",
-    "url": "https://www.aninews.in/news/world/middle-east/oil-tanker-catches-fire-after-hitting-naval-mine-in-hormuz-says-iranian-navy20261116070243/"
-   }
-  },
-  {
-   "id": "20261116-0001-eisenkot-netanyahu-vote-probe",
-   "time": "2026-11-16T00:01:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Gadi Eisenkot says Netanyahu cannot stay in office 'for even one more minute' and demands a probe after Channel 12 reports a warrantless police raid on 3 Ra'am members before the vote.",
-   "ar": "غادي آيزنكوت يقول إن نتنياهو لا يمكن أن يبقى في منصبه «دقيقة واحدة إضافية» ويطالب بتحقيق بعد تقرير للقناة 12 عن مداهمة الشرطة منازل 3 أعضاء في «القائمة العربية الموحدة» من دون مذكرة قبيل الانتخابات.",
-   "source": {
-    "name": "AFP via Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
-   }
-  },
-  {
-   "id": "20261115-2353-japan-q3-gdp-contracts",
-   "time": "2026-11-15T23:53:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Japan's economy shrinks at an annualised 0.1% in July–September, the Cabinet Office's preliminary data show, with output edging down 0.02% from the previous quarter.",
-   "ar": "الاقتصاد الياباني ينكمش بمعدل سنوي 0.1% في الفترة بين تموز وأيلول، بحسب البيانات الأولية لمكتب مجلس الوزراء، مع تراجع الناتج 0.02% عن الفصل السابق.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261116/3fd985793e7941dda99b129e265dd98c/c.html"
-   }
-  },
-  {
-   "id": "20261115-2224-roosevelt-enters-centcom",
-   "time": "2026-11-15T22:24:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "The USS Theodore Roosevelt enters the US Central Command area, bringing the number of US carrier strike groups in the region to 3, alongside the George Washington and George H.W. Bush, a US official says.",
-   "ar": "حاملة الطائرات الأميركية «ثيودور روزفلت» تدخل منطقة القيادة المركزية الأميركية، ليرتفع عدد مجموعات حاملات الطائرات الأميركية في المنطقة إلى 3 إلى جانب «جورج واشنطن» و«جورج بوش الأب»، بحسب مسؤول أميركي.",
-   "source": {
-    "name": "Axios via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-915003"
-   }
-  },
-  {
-   "id": "20261115-2157-bennett-unity-eisenkot-first",
-   "time": "2026-11-15T21:57:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Naftali Bennett privately urges partners in his bloc to consider a unity government with Netanyahu in which Eisenkot serves first as prime minister, per Israel's Channel 12.",
-   "ar": "نفتالي بينيت يحثّ شركاءه في الكتلة سرّاً على درس حكومة وحدة مع نتنياهو يتولى فيها آيزنكوت رئاسة الحكومة أولاً، بحسب القناة 12 الإسرائيلية.",
-   "source": {
-    "name": "Channel 12 via VIN News",
-    "url": "https://vinnews.com/2026/11/15/bennett-urges-bloc-partners-to-consider-unity-government-with-netanyahu-eisenkot-serving-first-as-pm/"
    }
   }
  ]
