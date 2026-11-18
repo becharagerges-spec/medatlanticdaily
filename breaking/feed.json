@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:09:17Z",
+ "updated": "2026-11-18T08:08:44Z",
  "items": [
   {
    "id": "20261118-0518-houthi-cruise-missile-riyadh",
@@ -285,6 +285,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/attorney-general-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/"
+   }
+  },
+  {
+   "id": "20261117-2019-zaidi-postpones-beirut-visit",
+   "time": "2026-11-17T20:19:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Iraq's embassy in Beirut says Prime Minister Ali al-Zaidi's visit to Lebanon is postponed until further notice; Iraqi sources tie it to the Kataib Hezbollah standoff at Jurf al-Sakhar.",
+   "ar": "السفارة العراقية في بيروت تعلن تأجيل زيارة رئيس الوزراء علي الزيدي إلى لبنان حتى إشعار آخر، ومصادر عراقية تربطه بالمواجهة مع كتائب حزب الله في جرف الصخر.",
+   "source": {
+    "name": "Shafaq News",
+    "url": "https://shafaq.com/en/Iraq/Iraqi-PM-Al-Zaidi-postpones-Lebanon-visit-indefinitely"
    }
   },
   {
@@ -1718,18 +1730,6 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611143682"
-   }
-  },
-  {
-   "id": "20261115-0808-jordan-karak-church-death-sentences",
-   "time": "2026-11-15T08:08:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Jordan's State Security Court sentences to death the 3 men convicted of the 23 October terrorist attack on a church in Hamoud, Karak governorate.",
-   "ar": "محكمة أمن الدولة في الأردن تقضي بإعدام المدانين الثلاثة بتنفيذ الهجوم الإرهابي على كنيسة بلدة حمود في محافظة الكرك في 23 تشرين الأول.",
-   "source": {
-    "name": "Al-Araby Al-Jadeed",
-    "url": "https://www.alaraby.co.uk/politics/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D9%83-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A"
    }
   }
  ]
