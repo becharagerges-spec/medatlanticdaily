@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-18T08:08:44Z",
+ "updated": "2026-11-18T09:08:32Z",
  "items": [
+  {
+   "id": "20261118-0858-trump-lands-shenzhen",
+   "time": "2026-11-18T08:58:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Trump lands in Shenzhen for the APEC summit; he holds talks with Xi on Thursday, then a first three-way meeting with Xi and Putin before flying home.",
+   "ar": "ترامب يصل إلى شنتشن للمشاركة في قمة «أبيك»، ويلتقي شي الخميس ثم يعقد أول لقاء ثلاثي مع شي وبوتين قبل عودته إلى واشنطن.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261118-0846-iraq-reinforcements-jurf",
+   "time": "2026-11-18T08:46:00Z",
+   "theater": "iraq",
+   "status": "reported",
+   "en": "Iraqi military reinforcements keep arriving in Babil province on Wednesday to deploy around Kataeb Hezbollah's Jurf al-Sakher stronghold, ahead of a Friday deadline, per AFP.",
+   "ar": "تعزيزات عسكرية عراقية تواصل الوصول إلى محافظة بابل الأربعاء للانتشار حول معقل كتائب حزب الله في جرف الصخر قبل مهلة الجمعة، وفق «فرانس برس».",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/military-reinforcements-mass-outside-kataeb-hezbollah-stronghold-in-iraq-as-standoff-escalates-3012500"
+   }
+  },
+  {
+   "id": "20261118-0800-adnoc-vessel-hormuz-attack",
+   "time": "2026-11-18T08:00:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "ADNOC L&S says one of its vessels was attacked in the Strait of Hormuz on Tuesday, leaving 1 crew member missing and 11 injured; it did not name the attacker.",
+   "ar": "شركة «أدنوك للإمداد والخدمات» تعلن تعرّض إحدى سفنها لهجوم في مضيق هرمز الثلاثاء، ما أدى إلى فقدان أحد أفراد الطاقم وإصابة 11، من دون تحديد الجهة المهاجمة.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/3101871/"
+   }
+  },
   {
    "id": "20261118-0518-houthi-cruise-missile-riyadh",
    "time": "2026-11-18T05:18:00Z",
@@ -137,11 +172,11 @@
    "time": "2026-11-18T02:09:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says it struck 60 Houthi military targets in Sanaa, Amran, Saada and Hodeidah early Wednesday, destroying ballistic-missile storage tunnels and drone workshops, spokesman Turki al-Maliki says.",
-   "ar": "التحالف بقيادة السعودية يعلن ضرب 60 هدفاً عسكرياً للحوثيين في صنعاء وعمران وصعدة والحديدة فجر الأربعاء، مدمّراً أنفاقاً لتخزين الصواريخ الباليستية وورشاً للمسيّرات، وفق المتحدث تركي المالكي.",
+   "en": "The Saudi-led coalition says it struck 60 Houthi military targets in Sanaa, Amran, Saada and Hodeidah; the Houthi health ministry says at least 17 were killed, 15 at a Hodeidah factory.",
+   "ar": "التحالف بقيادة السعودية يعلن ضرب 60 هدفاً عسكرياً للحوثيين في صنعاء وعمران وصعدة والحديدة، ووزارة الصحة الحوثية تقول إن 17 شخصاً على الأقل قُتلوا، بينهم 15 في مصنع بالحديدة.",
    "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
+    "name": "AP via Yahoo News",
+    "url": "https://ca.news.yahoo.com/saudi-backed-forces-launch-major-080148833.html"
    }
   },
   {
@@ -1694,42 +1729,6 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4184809-russian-attack-on-chornomorsk-leaves-six-injured-damages-energy-infrastructure.html"
-   }
-  },
-  {
-   "id": "20261115-0839-yemen-forces-quit-bab-el-mandeb",
-   "time": "2026-11-15T08:39:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Southern Yemeni forces backing the Saudi-supported government withdraw from the Bab el-Mandeb area and Dhubab airport to Aden, leaving the Houthis in control of the strait.",
-   "ar": "القوات الجنوبية اليمنية الداعمة للحكومة المدعومة سعودياً تنسحب من منطقة باب المندب ومطار ذباب نحو عدن، تاركةً الحوثيين مسيطرين على المضيق.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-914920"
-   }
-  },
-  {
-   "id": "20261115-0839-bahrain-condemns-iran",
-   "time": "2026-11-15T08:39:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Bahrain's Foreign Ministry condemns Iran's attacks as aggression on its sovereignty, says air defences destroyed drones on Sunday and 2 more on Friday, and asks the UN Security Council to act.",
-   "ar": "وزارة الخارجية البحرينية تدين الهجمات الإيرانية بوصفها عدواناً على سيادتها، وتقول إن الدفاعات الجوية دمّرت مسيّرات الأحد ومسيّرتين أخريين الجمعة، وتطالب مجلس الأمن بالتحرّك.",
-   "source": {
-    "name": "Arab Times",
-    "url": "https://www.arabtimesonline.com/news/bahrain-condemns-iranian-attacks-reserves-right-to-self-defense-under-un-charter/"
-   }
-  },
-  {
-   "id": "20261115-0820-baghaei-retaliate",
-   "time": "2026-11-15T08:20:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Foreign Ministry spokesman Esmail Baghaei says Iran will retaliate for every attack and rejects making any nuclear commitments, per Iran International.",
-   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن إيران سترد على كل هجوم ويرفض تقديم أي التزامات نووية، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611143682"
    }
   }
  ]
