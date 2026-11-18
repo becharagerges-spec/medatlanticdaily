@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T22:08:37Z",
+ "updated": "2026-11-18T00:09:13Z",
  "items": [
+  {
+   "id": "20261117-2240-kuwait-drone-attacks",
+   "time": "2026-11-17T22:40:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Kuwait's army says its air defences are engaging hostile drone attacks early Wednesday, without naming their origin, hours after US strikes on Iran's Qeshm Island.",
+   "ar": "الجيش الكويتي يعلن أن دفاعاته الجوية تتصدى لهجمات بطائرات مسيّرة معادية فجر الأربعاء من دون تحديد مصدرها، بعد ساعات من ضربات أميركية على جزيرة قشم الإيرانية.",
+   "source": {
+    "name": "Kuwaiti Armed Forces via Anadolu",
+    "url": "https://www.anews.com.tr/middle-east/2026/11/18/kuwaits-air-defenses-responding-to-hostile-drone-attacks-army"
+   }
+  },
+  {
+   "id": "20261117-2236-nvidia-board-rules-out-huang",
+   "time": "2026-11-17T22:36:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia Chairman Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO, hours after Huang said he would return if invited.",
+   "ar": "رئيس مجلس إدارة إنفيديا هارفي جونز يعلن أن المجلس لا ينوي إعادة جنسن هوانغ إلى منصب الرئيس التنفيذي، بعد ساعات من قول هوانغ إنه سيعود إذا دُعي.",
+   "source": {
+    "name": "AP",
+    "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+   }
+  },
   {
    "id": "20261117-2128-nvidia-forecast-beats",
    "time": "2026-11-17T21:28:00Z",
@@ -59,6 +83,18 @@
    "source": {
     "name": "Lebanon24",
     "url": "https://www.lebanon24.com/news/breaking-news/1596353/%D9%84%D8%A8%D9%86%D8%A7%D9%8624-%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+   }
+  },
+  {
+   "id": "20261117-1912-putin-arrives-shenzhen",
+   "time": "2026-11-17T19:12:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Putin lands in Shenzhen for the APEC summit, ahead of his first trilateral meeting with Trump and Xi on 19 November, Xinhua reports.",
+   "ar": "بوتين يصل إلى شنتشن للمشاركة في قمة آبيك، قبل أول لقاء ثلاثي له مع ترامب وشي في 19 تشرين الثاني، وفق «شينخوا».",
+   "source": {
+    "name": "Xinhua via The Standard",
+    "url": "https://www.thestandard.com.hk/china/article/348809/Russias-Putin-arrives-in-Shenzhen-for-APEC-summit-Xinhua-reports"
    }
   },
   {
@@ -1576,18 +1612,6 @@
    "source": {
     "name": "News of Bahrain",
     "url": "https://www.newsofbahrain.com/en/article/bahrain-issues-early-morning-alert"
-   }
-  },
-  {
-   "id": "20261114-2306-hamas-rafah-commander-killed",
-   "time": "2026-11-14T23:06:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "An Israeli strike in al-Mawasi, Khan Younis, kills Samir Abu Younis, commander of Hamas's Rafah brigade; Israel's military says it targeted a senior Hamas commander and Hamas confirms his death.",
-   "ar": "غارة إسرائيلية في المواصي بخان يونس تقتل سمير أبو يونس، قائد لواء رفح في حماس؛ والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في الحركة، وحماس تؤكد مقتله.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955"
    }
   }
  ]
