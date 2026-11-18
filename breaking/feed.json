@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-18T12:10:46Z",
+ "updated": "2026-11-18T13:10:50Z",
  "items": [
+  {
+   "id": "20261118-1256-cooper-meets-zamir",
+   "time": "2026-11-18T12:56:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "US Central Command chief Adm. Brad Cooper meets IDF Chief of Staff Eyal Zamir in Israel for a regional security assessment focused on Iran, per The Jerusalem Post.",
+   "ar": "قائد القيادة المركزية الأميركية الأدميرال براد كوبر يلتقي رئيس أركان الجيش الإسرائيلي إيال زامير في إسرائيل لتقييم أمني إقليمي يتمحور حول إيران، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-915314"
+   }
+  },
+  {
+   "id": "20261118-1239-trump-putin-meet-shenzhen",
+   "time": "2026-11-18T12:39:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Trump and Putin shake hands in Shenzhen at the APEC summit, their first in-person meeting since the August 2025 Alaska summit, ahead of Thursday's three-way talks with Xi.",
+   "ar": "ترامب وبوتين يتصافحان في شنجن على هامش قمة «أبيك»، في أول لقاء مباشر بينهما منذ قمة ألاسكا في آب 2025، قبل القمة الثلاثية مع شي يوم الخميس.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/world/putin-and-trump-meet-in-shenzhen-their-first-talks-since-alaska-summit-3012642"
+   }
+  },
   {
    "id": "20261118-1152-qabalan-letter-aoun",
    "time": "2026-11-18T11:52:00Z",
@@ -62,6 +86,18 @@
    }
   },
   {
+   "id": "20261118-0830-katz-security-zones-indefinite",
+   "time": "2026-11-18T08:30:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israeli Defence Minister Israel Katz says Israel will keep its security zones in Gaza, Lebanon and Syria indefinitely and seize more territory after any attack, conditioning withdrawal on Hezbollah's full disarmament.",
+   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن إسرائيل ستُبقي مناطقها الأمنية في غزة ولبنان وسوريا إلى أجل غير مسمّى وستسيطر على أراضٍ إضافية بعد أي هجوم، ويربط الانسحاب بنزع سلاح حزب الله كاملاً.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-915274"
+   }
+  },
+  {
    "id": "20261118-0800-adnoc-vessel-hormuz-attack",
    "time": "2026-11-18T08:00:00Z",
    "theater": "gulf",
@@ -71,6 +107,18 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/3101871/"
+   }
+  },
+  {
+   "id": "20261118-0730-likud-rotation-eisenkot-first",
+   "time": "2026-11-18T07:30:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "A Likud source tells Maariv that Netanyahu could agree to serve second in a unity-government rotation with Gadi Eisenkot taking the premiership first.",
+   "ar": "مصدر في الليكود يقول لصحيفة «معاريف» إن نتنياهو قد يقبل أن يكون الثاني في تناوب ضمن حكومة وحدة يتولى فيه غادي آيزنكوت رئاسة الحكومة أولاً.",
+   "source": {
+    "name": "Maariv via The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915269"
    }
   },
   {
@@ -1731,54 +1779,6 @@
    "source": {
     "name": "The New Arab",
     "url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport"
-   }
-  },
-  {
-   "id": "20261115-1256-waltz-lebanon-visit-unifil",
-   "time": "2026-11-15T12:56:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "US Ambassador to the UN Mike Waltz arrives in Lebanon and meets UNIFIL leaders in the south, to discuss ending the mission and handing security to the Lebanese state.",
-   "ar": "السفير الأميركي لدى الأمم المتحدة مايك والتز يصل إلى لبنان ويلتقي قيادة اليونيفيل في الجنوب، لبحث إنهاء مهمتها وتسليم الأمن إلى الدولة اللبنانية.",
-   "source": {
-    "name": "LBCI",
-    "url": "https://www.lbcgroup.tv/news/lebanon-news-intro/968103/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-15-11-2026/ar"
-   }
-  },
-  {
-   "id": "20261115-1240-salam-doha-qatar-energy",
-   "time": "2026-11-15T12:40:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Prime Minister Nawaf Salam holds talks in Doha with Qatar's prime minister on electricity cooperation, including a possible 20-year Qatari LNG supply deal and new power plants, per MTV.",
-   "ar": "رئيس الحكومة نواف سلام يجري محادثات في الدوحة مع رئيس الوزراء القطري حول التعاون الكهربائي، بينها اتفاق محتمل لتزويد لبنان بالغاز المسال القطري لعشرين عاماً ومعامل جديدة، بحسب «MTV».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/en/news/1758543"
-   }
-  },
-  {
-   "id": "20261115-1239-beirut-bar-council-election",
-   "time": "2026-11-15T12:39:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Elie Kleimos (1,819 votes), Wissam Bou Tayea, Maya Chehab and Wissam Eid win the 4 open seats on the Beirut Bar Association council, with Kataeb and Lebanese Forces candidates losing.",
-   "ar": "إيلي قليموس (1819 صوتاً) ووسيم بو طايع ومايا شهاب ووسام عيد يفوزون بالمقاعد الأربعة في مجلس نقابة المحامين في بيروت، فيما يخسر مرشحو الكتائب والقوات اللبنانية.",
-   "source": {
-    "name": "Safir al-Chamal",
-    "url": "https://safiralchamal.com/2026/11/15/740683/"
-   }
-  },
-  {
-   "id": "20261115-1215-araghchi-muscat",
-   "time": "2026-11-15T12:15:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi will travel to Muscat on Tuesday for talks with Oman's foreign minister, IRNA reports, citing ministry spokesman Esmail Baghaei.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يتوجّه إلى مسقط الثلاثاء لإجراء محادثات مع نظيره العُماني، بحسب وكالة «إرنا» نقلاً عن المتحدث باسم الخارجية إسماعيل بقائي.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-914945"
    }
   }
  ]
