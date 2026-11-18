@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-18T00:09:13Z",
+ "updated": "2026-11-18T03:08:39Z",
  "items": [
+  {
+   "id": "20261118-0209-coalition-strikes-60-houthi-targets",
+   "time": "2026-11-18T02:09:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it struck 60 Houthi military targets in Sanaa, Amran, Saada and Hodeidah early Wednesday, destroying ballistic-missile storage tunnels and drone workshops, spokesman Turki al-Maliki says.",
+   "ar": "التحالف بقيادة السعودية يعلن ضرب 60 هدفاً عسكرياً للحوثيين في صنعاء وعمران وصعدة والحديدة فجر الأربعاء، مدمّراً أنفاقاً لتخزين الصواريخ الباليستية وورشاً للمسيّرات، وفق المتحدث تركي المالكي.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
+   }
+  },
+  {
+   "id": "20261118-0048-romania-vrancea-earthquake",
+   "time": "2026-11-18T00:48:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "A magnitude 5.3 earthquake strikes near Vidra in Romania's Vrancea zone at 02:48 local time, felt by about 25 million people in Romania, Moldova, Bulgaria, Ukraine and Serbia, EMSC says.",
+   "ar": "زلزال بقوة 5.3 درجات يضرب قرب فيدرا في منطقة فرانتشيا الرومانية عند الساعة 02:48 بالتوقيت المحلي، وشعر به نحو 25 مليون شخص في رومانيا ومولدوفا وبلغاريا وأوكرانيا وصربيا، وفق المركز الأوروبي المتوسطي لرصد الزلازل.",
+   "source": {
+    "name": "EMSC",
+    "url": "https://x.com/LastQuake/status/2122858590541115594"
+   }
+  },
+  {
+   "id": "20261118-0046-white-house-pulls-overton-fda",
+   "time": "2026-11-18T00:46:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The White House withdraws Heidi Overton's nomination to lead the FDA ahead of a Senate confirmation vote, after wavering support from Senate Republicans.",
+   "ar": "البيت الأبيض يسحب ترشيح هايدي أوفرتون لرئاسة إدارة الغذاء والدواء الأميركية قبل تصويت مجلس الشيوخ على تثبيتها، بعد تراجع دعم الجمهوريين في المجلس.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261118-0045-bahrain-intercepts-iran-wednesday",
+   "time": "2026-11-18T00:45:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "The Bahrain Defence Force says it intercepted several aerial attacks from Iran early Wednesday, as the Interior Ministry issued 2 shelter alerts overnight before giving the all-clear.",
+   "ar": "قوة دفاع البحرين تعلن اعتراض عدة هجمات جوية من إيران فجر الأربعاء، فيما أطلقت وزارة الداخلية إنذارين للاحتماء خلال الليل قبل إعلان زوال الخطر.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/kuwait-under-hostile-drone-attacks-says-army-3012614"
+   }
+  },
+  {
+   "id": "20261118-0007-ukraine-protests-iaea-ferapontov",
+   "time": "2026-11-18T00:07:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Foreign Ministry protests IAEA chief Rafael Grossi's plan to name Alexey Ferapontov, a sanctioned Russian nuclear regulator, as deputy director general, calling it acquiescence to Russia's seizure of Zaporizhzhia.",
+   "ar": "وزارة الخارجية الأوكرانية تحتجّ على خطة مدير الوكالة الدولية للطاقة الذرية رافاييل غروسي تعيين الروسي أليكسي فيرابونتوف، الخاضع لعقوبات كييف، نائباً للمدير العام، معتبرةً ذلك رضوخاً لاستيلاء روسيا على محطة زابوريجيا.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/"
+   }
+  },
   {
    "id": "20261117-2240-kuwait-drone-attacks",
    "time": "2026-11-17T22:40:00Z",
@@ -1576,42 +1635,6 @@
    "source": {
     "name": "Saudi-led coalition via Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
-   }
-  },
-  {
-   "id": "20261115-0300-south-lebanon-demolitions-hujeir",
-   "time": "2026-11-15T03:00:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "The Israeli army blows up buildings in al-Qantara, near Kunin and in Bani Hayyan, and its jets strike Wadi al-Hujeir in south Lebanon, per Egypt's MENA agency; no casualties are reported.",
-   "ar": "الجيش الإسرائيلي ينفّذ تفجيرات في القنطرة ومحيط كونين وبني حيان، وطائراته تغير على وادي الحجير في جنوب لبنان، وفق وكالة أنباء الشرق الأوسط؛ ولا إصابات مُعلنة.",
-   "source": {
-    "name": "MENA via Youm7",
-    "url": "https://www.youm7.com/story/2026/11/15/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%86%D9%8A%D9%81%D8%A9-%D9%81%D9%89-%D9%83%D9%88%D9%86%D9%8A%D9%86-%D9%88%D8%A8%D9%86%D9%89-%D8%AD%D9%8A%D8%A7%D9%86-%D9%88%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9/7618661"
-   }
-  },
-  {
-   "id": "20261115-0149-coalition-two-missiles-riyadh",
-   "time": "2026-11-15T01:49:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences intercepted 2 Houthi ballistic missiles fired at Riyadh early Sunday, after downing 2 drones over the Eastern Province; no damage is reported.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية اعترضت صاروخين باليستيين أطلقهما الحوثيون نحو الرياض فجر الأحد، بعد إسقاط مسيّرتين فوق المنطقة الشرقية، من دون الإبلاغ عن أضرار.",
-   "source": {
-    "name": "Saudi-led coalition via Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-ballistic-missiles-shot-down-over-riyadh-coalition-spokesman"
-   }
-  },
-  {
-   "id": "20261115-0132-bahrain-threat-alert-sirens",
-   "time": "2026-11-15T01:32:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Bahrain's Interior Ministry sounds sirens and warns of a potential threat at about 4:32 am local time, telling residents to move to the nearest safe location; the alert is lifted around 5:00 am.",
-   "ar": "وزارة الداخلية البحرينية تطلق صفارات الإنذار وتحذّر من تهديد محتمل نحو الساعة 4:32 فجراً بالتوقيت المحلي، داعيةً السكان إلى التوجّه لأقرب مكان آمن؛ ورُفع الإنذار قرابة الخامسة فجراً.",
-   "source": {
-    "name": "News of Bahrain",
-    "url": "https://www.newsofbahrain.com/en/article/bahrain-issues-early-morning-alert"
    }
   }
  ]
