@@ -1,15 +1,28 @@
 {
- "updated": "2026-11-18T09:08:32Z",
+ "updated": "2026-11-18T10:08:48Z",
  "items": [
+  {
+   "id": "20261118-0906-ukraine-141-drones",
+   "time": "2026-11-18T09:06:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 141 attack drones overnight and 126 were downed; Russian attacks killed 5 and injured 15 over the past day, hitting energy sites in 3 regions.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 141 مسيّرة هجومية ليلاً أُسقطت منها 126، فيما قتلت الهجمات الروسية 5 أشخاص وأصابت 15 خلال يوم، مستهدفة منشآت طاقة في 3 مقاطعات.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-15-across-ukraine-over-past-day-as-russia-continues-energy-assault/"
+   }
+  },
   {
    "id": "20261118-0858-trump-lands-shenzhen",
    "time": "2026-11-18T08:58:00Z",
    "theater": "china",
    "status": "confirmed",
-   "en": "Trump lands in Shenzhen for the APEC summit; he holds talks with Xi on Thursday, then a first three-way meeting with Xi and Putin before flying home.",
-   "ar": "ترامب يصل إلى شنتشن للمشاركة في قمة «أبيك»، ويلتقي شي الخميس ثم يعقد أول لقاء ثلاثي مع شي وبوتين قبل عودته إلى واشنطن.",
+   "en": "Xi Jinping greets Trump at Shenzhen airport, the first time he has received a visiting US president on arrival; the two hold talks Thursday before a three-way meeting with Putin.",
+   "ar": "شي جينبينغ يستقبل ترامب في مطار شنتشن، في سابقة هي الأولى لاستقباله رئيساً أميركياً لدى وصوله، على أن يتباحثا الخميس قبل لقاء ثلاثي مع بوتين.",
    "source": {
-    "name": "AP"
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
    }
   },
   {
@@ -260,6 +273,18 @@
    "source": {
     "name": "AP",
     "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+   }
+  },
+  {
+   "id": "20261117-2223-merchant-sentenced-330-months",
+   "time": "2026-11-17T22:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A US federal court in Brooklyn sentences Pakistani national Asif Merchant to 330 months in prison for an Iran-linked plot to recruit hitmen to target Trump and other politicians, the Justice Department says.",
+   "ar": "محكمة فدرالية أميركية في بروكلين تحكم على الباكستاني آصف مرشنت بالسجن 330 شهراً بتهمة التخطيط، بصلة مع إيران، لتجنيد قتلة لاستهداف ترامب وسياسيين آخرين، بحسب وزارة العدل.",
+   "source": {
+    "name": "US Justice Department via CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
    }
   },
   {
@@ -1717,18 +1742,6 @@
    "ar": "وزارة الخارجية القطرية تدين استمرار الهجمات الإيرانية على البحرين وتعدّها انتهاكاً صارخاً لسيادتها وتصعيداً خطيراً، والسعودية تدين الهجمات أيضاً وتطالب بوقفها فوراً.",
    "source": {
     "name": "The Peninsula"
-   }
-  },
-  {
-   "id": "20261115-0909-chornomorsk-attack-six-injured",
-   "time": "2026-11-15T09:09:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "An overnight Russian attack on Chornomorsk in Odesa region injures 6 people and damages energy infrastructure, Ukraine's State Emergency Service says; DTEK says 41,000 families lost power.",
-   "ar": "هجوم روسي ليلي على تشورنومورسك في منطقة أوديسا يجرح 6 أشخاص ويلحق أضراراً بالبنية التحتية للطاقة، بحسب خدمة الطوارئ الأوكرانية؛ وDTEK تقول إن 41 ألف عائلة انقطعت عنها الكهرباء.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4184809-russian-attack-on-chornomorsk-leaves-six-injured-damages-energy-infrastructure.html"
    }
   }
  ]
