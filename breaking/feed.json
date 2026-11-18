@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:08:48Z",
+ "updated": "2026-11-18T11:11:06Z",
  "items": [
   {
    "id": "20261118-0906-ukraine-141-drones",
@@ -47,6 +47,18 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/3101871/"
+   }
+  },
+  {
+   "id": "20261118-0612-kuwait-mofa-condemns-iran",
+   "time": "2026-11-18T06:12:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Kuwait's Foreign Ministry condemns repeated Iranian attacks on the country, the latest with drones on Wednesday, as 'criminal' and a direct threat to its security and stability.",
+   "ar": "وزارة الخارجية الكويتية تدين الاعتداءات الإيرانية المتكررة على البلاد، وآخرها بالمسيّرات يوم الأربعاء، وتصفها بـ«الآثمة» وبأنها تهديد مباشر لأمنها واستقرارها.",
+   "source": {
+    "name": "Kuwait Foreign Ministry",
+    "url": "https://x.com/MOFAKuwait/status/2122936033251618905"
    }
   },
   {
@@ -122,6 +134,18 @@
    }
   },
   {
+   "id": "20261118-0400-centcom-two-carriers-arabian-sea",
+   "time": "2026-11-18T04:00:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US Central Command releases images of the carriers USS Theodore Roosevelt and USS George Washington sailing together in the Arabian Sea.",
+   "ar": "القيادة المركزية الأميركية تنشر صوراً لحاملتَي الطائرات «ثيودور روزفلت» و«جورج واشنطن» تبحران معاً في بحر العرب.",
+   "source": {
+    "name": "US Central Command, per Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
+   }
+  },
+  {
    "id": "20261118-0354-putin-apec-ceo",
    "time": "2026-11-18T03:54:00Z",
    "theater": "russia",
@@ -193,6 +217,18 @@
    }
   },
   {
+   "id": "20261118-0138-nvidia-halts-hopper-china",
+   "time": "2026-11-18T01:38:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Nvidia interim CEO Colette Kress says the company is no longer shipping licensed Hopper data-centre chips to China, after about $2.4 billion in H200 sales there last quarter.",
+   "ar": "الرئيسة التنفيذية المؤقتة لـ«إنفيديا» كوليت كريس تقول إن الشركة أوقفت شحن رقائق «هوبر» المرخّصة لمراكز البيانات إلى الصين، بعد مبيعات «إتش 200» بنحو 2.4 مليار دولار هناك في الربع الماضي.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+   }
+  },
+  {
    "id": "20261118-0048-romania-vrancea-earthquake",
    "time": "2026-11-18T00:48:00Z",
    "theater": "europe",
@@ -225,6 +261,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/middle-east/kuwait-under-hostile-drone-attacks-says-army-3012614"
+   }
+  },
+  {
+   "id": "20261118-0034-gcc-condemns-iran-bahrain-unsc",
+   "time": "2026-11-18T00:34:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "GCC Secretary General Jasem Albudaiwi condemns repeated Iranian attacks on Bahrain, the second on its radar positions in 2 days, and urges the UN Security Council to act.",
+   "ar": "الأمين العام لمجلس التعاون الخليجي جاسم البديوي يدين الاعتداءات الإيرانية المتكررة على البحرين، وهي الثانية على مواقع راداراتها خلال يومين، ويدعو مجلس الأمن إلى التحرك.",
+   "source": {
+    "name": "GCC, per Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
    }
   },
   {
@@ -1719,29 +1767,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1758501"
-   }
-  },
-  {
-   "id": "20261115-1045-likud-yashar-coalition-talks",
-   "time": "2026-11-15T10:45:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "The first Likud–Yashar unity talks end after about an hour with no breakthrough; both parties say the meeting was businesslike and talks will continue.",
-   "ar": "الجولة الأولى من محادثات الوحدة بين الليكود و«يشار» تنتهي بعد نحو ساعة من دون اختراق، والطرفان يصفان الاجتماع بأنه عملي ويؤكدان مواصلة المحادثات.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/concluding-first-unity-talks-yashar-and-likud-agree-to-continue-discussions"
-   }
-  },
-  {
-   "id": "20261115-1044-qatar-saudi-condemn-iran-bahrain",
-   "time": "2026-11-15T10:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Qatar's Foreign Ministry condemns Iran's continued attacks on Bahrain as a flagrant violation of its sovereignty and a dangerous escalation; Saudi Arabia also condemns the attacks and demands they stop immediately.",
-   "ar": "وزارة الخارجية القطرية تدين استمرار الهجمات الإيرانية على البحرين وتعدّها انتهاكاً صارخاً لسيادتها وتصعيداً خطيراً، والسعودية تدين الهجمات أيضاً وتطالب بوقفها فوراً.",
-   "source": {
-    "name": "The Peninsula"
    }
   }
  ]
