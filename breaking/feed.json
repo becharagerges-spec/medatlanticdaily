@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:08:52Z",
+ "updated": "2026-11-18T20:09:11Z",
  "items": [
   {
    "id": "20261118-1901-us-venezuela-military-ties",
@@ -50,6 +50,42 @@
    }
   },
   {
+   "id": "20261118-1737-riyadh-blast-two-cruise-missiles",
+   "time": "2026-11-18T17:37:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "A loud blast is heard in Riyadh as the Saudi-led coalition says it intercepted 2 Houthi cruise missiles and later 2 drones, per AFP.",
+   "ar": "دويّ انفجار قوي يُسمع في الرياض فيما يعلن التحالف بقيادة السعودية اعتراض صاروخَي كروز حوثيين ثم مسيّرتين، بحسب وكالة الصحافة الفرنسية.",
+   "source": {
+    "name": "AFP via CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+   }
+  },
+  {
+   "id": "20261118-1736-us-alerts-bahrain-saudi",
+   "time": "2026-11-18T17:36:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "The US State Department reissues security alerts urging Americans in Bahrain and Saudi Arabia to exercise heightened vigilance after attacks by Iran and Iran-backed Houthis.",
+   "ar": "وزارة الخارجية الأميركية تعيد إصدار تحذيرات أمنية تدعو الأميركيين في البحرين والسعودية إلى توخّي أقصى درجات الحذر بعد هجمات إيران والحوثيين المدعومين منها.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://x.com/TravelGov/status/2123108059782463701"
+   }
+  },
+  {
+   "id": "20261118-1702-clayton-iran-threats-increased",
+   "time": "2026-11-18T17:02:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US Director of National Intelligence Jay Clayton tells the House Homeland Security Committee that Iranian threats inside and outside the United States have 'dramatically increased'.",
+   "ar": "مدير الاستخبارات الوطنية الأميركية جاي كلايتون يقول أمام لجنة الأمن الداخلي في مجلس النواب إن التهديدات الإيرانية داخل الولايات المتحدة وخارجها «ازدادت بشكل كبير».",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+   }
+  },
+  {
    "id": "20261118-1657-trump-putin-separate-meeting",
    "time": "2026-11-18T16:57:00Z",
    "theater": "russia",
@@ -59,6 +95,30 @@
    "source": {
     "name": "AP via PBS NewsHour",
     "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
+   }
+  },
+  {
+   "id": "20261118-1642-pakistan-smw5-cable-fault",
+   "time": "2026-11-18T16:42:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Pakistan's telecom regulator says a fault on the SEA-ME-WE 5 undersea cable about 11 km off its shore may disrupt internet service; no cause is given.",
+   "ar": "هيئة الاتصالات الباكستانية تقول إن عطلاً في كابل SEA-ME-WE 5 البحري على بعد نحو 11 كلم من سواحلها قد يعطّل خدمة الإنترنت، من دون ذكر السبب.",
+   "source": {
+    "name": "Pakistan Telecommunication Authority via Insider Paper",
+    "url": "https://insiderpaper.com/internet-slow-or-down-in-pakistan-submarine-cable-fault/"
+   }
+  },
+  {
+   "id": "20261118-1620-gold-oil-slide",
+   "time": "2026-11-18T16:20:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Spot gold falls 2.7% to $3,744.04 an ounce and WTI crude 2.1% to $84.17 a barrel, as the S&P 500 drops 0.7% toward a fifth straight decline.",
+   "ar": "الذهب الفوري يتراجع 2.7% إلى 3,744.04 دولاراً للأونصة وخام غرب تكساس 2.1% إلى 84.17 دولاراً للبرميل، فيما ينخفض مؤشر S&P 500 بنسبة 0.7% نحو خامس تراجع متتالٍ.",
+   "source": {
+    "name": "Bloomberg via Swissinfo",
+    "url": "https://www.swissinfo.ch/eng/stocks-fall-as-nvidias-earnings-rally-sputters:-markets-wrap/92397458"
    }
   },
   {
@@ -1730,66 +1790,6 @@
    "source": {
     "name": "UKMTO via Anadolu",
     "url": "https://www.aa.com.tr/en/middle-east/4-armed-men-aboard-boat-approach-oil-tanker-east-of-yemens-socotra-uk-maritime-agency/4126143"
-   }
-  },
-  {
-   "id": "20261116-0534-dnipro-strike-one-killed",
-   "time": "2026-11-16T05:34:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian morning strike on Dnipro kills 1 person and injures 10, 2 seriously, damaging high-rise buildings and setting cars ablaze, regional governor Oleksandr Hanzha says.",
-   "ar": "ضربة روسية صباحية على دنيبرو تقتل شخصاً وتصيب 10 بينهم 2 بحالة خطرة، وتلحق أضراراً بأبنية شاهقة وتُحرق سيارات، بحسب حاكم المنطقة أولكسندر هانجا.",
-   "source": {
-    "name": "UNN",
-    "url": "https://unn.ua/en/news/russia-struck-dnipro-in-the-morning-one-person-was-killed-10-injured"
-   }
-  },
-  {
-   "id": "20261116-0527-israeli-troops-seize-shebaa-brothers",
-   "time": "2026-11-16T05:27:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Israeli troops seize brothers Mohammad and Asaad Hamdan from a house near Shebaa, south Lebanon; the Israeli army says 2 men it arrested there overnight belong to Hezbollah-backed Resistance Brigades.",
-   "ar": "قوة إسرائيلية تخطف الشقيقين محمد وأسعد حمدان من منزل عند أطراف شبعا في جنوب لبنان، والجيش الإسرائيلي يقول إن رجلين اعتقلهما هناك ليلاً ينتميان إلى «سرايا المقاومة» المدعومة من حزب الله.",
-   "source": {
-    "name": "An-Nahar",
-    "url": "https://www.annahar.com/lebanon/society/366799/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%85%D9%86-%D9%85%D9%86%D8%B2%D9%84%D9%87%D9%85%D8%A7-%D9%81%D9%8A-%D8%B4%D8%A8%D8%B9%D8%A7-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
-   }
-  },
-  {
-   "id": "20261116-0446-irgc-two-tankers-mines-hormuz",
-   "time": "2026-11-16T04:46:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say 2 more oil tankers hit mines and exploded in the Strait of Hormuz on Monday, and 6 tankers caught fire there on Sunday and Monday; no independent confirmation.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط إضافيتين اصطدمتا بألغام وانفجرتا في مضيق هرمز يوم الإثنين، وإن 6 ناقلات اشتعلت هناك يومي الأحد والإثنين؛ ولا تأكيد مستقلاً.",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/two-oil-tankers-hit-mines-in-the-strait-of-hormuz-irgc-says-3012180"
-   }
-  },
-  {
-   "id": "20261116-0255-us-pax-silica-sf-declaration",
-   "time": "2026-11-16T02:55:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The United States and 9 Pax Silica partners sign the San Francisco Declaration, pledging to jointly safeguard the technologies and infrastructure behind superintelligence supply chains and to set up working groups, the State Department says.",
-   "ar": "الولايات المتحدة و9 شركاء في «باكس سيليكا» يوقّعون «إعلان سان فرانسيسكو» ويتعهدون حماية مشتركة للتقنيات والبنى التحتية لسلاسل إمداد الذكاء الفائق وإنشاء مجموعات عمل، بحسب وزارة الخارجية الأميركية.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/"
-   }
-  },
-  {
-   "id": "20261116-0200-china-october-data-miss",
-   "time": "2026-11-16T02:00:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's industrial output grows 4.8% year on year in October and retail sales 0.4%, both below forecasts, while fixed-asset investment falls 8.1% in January–October, official data show.",
-   "ar": "الإنتاج الصناعي في الصين ينمو 4.8% على أساس سنوي في تشرين الأول ومبيعات التجزئة 0.4%، وكلاهما دون التوقعات، فيما يتراجع الاستثمار في الأصول الثابتة 8.1% بين كانون الثاني وتشرين الأول، بحسب البيانات الرسمية.",
-   "source": {
-    "name": "Reuters via 102.7 WBOW",
-    "url": "https://1027wbow.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
    }
   }
  ]
