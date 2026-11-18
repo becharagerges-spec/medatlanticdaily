@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-18T16:09:41Z",
+ "updated": "2026-11-18T17:08:20Z",
  "items": [
+  {
+   "id": "20261118-1542-mossad-chief-lobbied-iran-strikes",
+   "time": "2026-11-18T15:42:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Mossad chief Roman Gofman pressed US officials, including CIA Director John Ratcliffe, for joint US-Israeli strikes on Iran during last week's Washington visit, two people briefed tell Reuters.",
+   "ar": "رئيس الموساد رومان غوفمان ضغط على مسؤولين أميركيين، بينهم مدير الـCIA جون راتكليف، لشنّ ضربات أميركية-إسرائيلية مشتركة على إيران خلال زيارته واشنطن الأسبوع الماضي، بحسب مصدرين مطّلعين لـ«رويترز».",
+   "source": {
+    "name": "Reuters via SRN News",
+    "url": "https://srnnews.com/israeli-spy-chief-lobbied-for-joint-iran-strikes-on-us-visit-sources-say/"
+   }
+  },
   {
    "id": "20261118-1532-jeffries-speaker-nomination",
    "time": "2026-11-18T15:32:00Z",
@@ -37,6 +49,18 @@
    }
   },
   {
+   "id": "20261118-1339-iaea-saudi-nuclear-deal",
+   "time": "2026-11-18T13:39:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "IAEA chief Rafael Grossi calls the planned US-Saudi nuclear agreement 'very satisfactory' on inspections, saying the agency will get access to Saudi conversion, enrichment, fuel and reprocessing sites.",
+   "ar": "المدير العام للوكالة الدولية للطاقة الذرية رافاييل غروسي يصف الاتفاق النووي الأميركي-السعودي المرتقب بأنه «مُرضٍ جداً» على صعيد التفتيش، مؤكداً أن الوكالة ستدخل مواقع التحويل والتخصيب والوقود وإعادة المعالجة السعودية.",
+   "source": {
+    "name": "AFP via Dawn",
+    "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory"
+   }
+  },
+  {
    "id": "20261118-1313-bennett-netanyahu-meeting",
    "time": "2026-11-18T13:13:00Z",
    "theater": "israel",
@@ -46,6 +70,18 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-election-2026/2026-11-18/live-updates-915259"
+   }
+  },
+  {
+   "id": "20261118-1310-saudi-yemen-war-2027",
+   "time": "2026-11-18T13:10:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia is preparing for its war against the Houthis to last up to six more months, into 2027, and wants ground gains by its Yemeni allies before talks, three sources tell Reuters.",
+   "ar": "السعودية تستعد لاستمرار حربها على الحوثيين حتى ستة أشهر إضافية، أي إلى عام 2027، وتريد مكاسب ميدانية لحلفائها اليمنيين قبل أي تفاوض، بحسب ثلاثة مصادر لـ«رويترز».",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/commodities-news/exclusivesaudis-preparing-for-yemen-campaign-to-last-well-into-2027-5035986"
    }
   },
   {
@@ -1730,30 +1766,6 @@
    "source": {
     "name": "Shafaq News via The New Arab",
     "url": "https://www.newarab.com/news/iraq-threatens-military-action-kataib-hezbollah-stronghold"
-   }
-  },
-  {
-   "id": "20261115-1641-gofman-returns-security-cabinet",
-   "time": "2026-11-15T16:41:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Mossad chief Roman Gofman returns from talks on Iran with CIA Director Ratcliffe and envoy Witkoff and joins Israel's first security cabinet meeting since the election, per Maariv and Ynet.",
-   "ar": "رئيس الموساد رومان غوفمان يعود من محادثات حول إيران مع مدير الـCIA راتكليف والمبعوث ويتكوف، ويشارك في أول اجتماع للمجلس الوزاري الأمني الإسرائيلي منذ الانتخابات، بحسب «معاريف» و«يديعوت».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/mossad-chief-returns-from-us-after-meeting-ratcliffe-witkoff-on-iran-will-update-security-cabinet"
-   }
-  },
-  {
-   "id": "20261115-1638-army-sharawneh-baalbek-raid",
-   "time": "2026-11-15T16:38:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's army says a Baalbek raid wounded and held a top wanted man in a gunfight, arrested 4 others and seized rockets, arms and about 1 million Captagon pills.",
-   "ar": "الجيش اللبناني يعلن أن مداهمة في حي الشراونة في بعلبك أدّت إلى إصابة أحد أخطر المطلوبين وتوقيفه بعد تبادل لإطلاق النار، وتوقيف 4 آخرين وضبط صواريخ وأسلحة ونحو مليون حبة كبتاغون.",
-   "source": {
-    "name": "Lebanese Army statement via Daily Beirut",
-    "url": "https://dailybeirut.com/en/lebanon-news/rockets-and-clash-with-lebanese-army-details-of-arresting-one-of-baalbeks-most-w/"
    }
   }
  ]
