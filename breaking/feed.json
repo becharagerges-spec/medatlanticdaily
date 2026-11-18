@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:08:20Z",
+ "updated": "2026-11-18T18:08:56Z",
  "items": [
   {
    "id": "20261118-1542-mossad-chief-lobbied-iran-strikes",
@@ -73,6 +73,18 @@
    }
   },
   {
+   "id": "20261118-1313-amal-hezbollah-joint-statement",
+   "time": "2026-11-18T13:13:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Amal and Hezbollah call for national unity in a joint statement, reject direct negotiations with Israel and urge the government to confront Israeli attacks and speed reconstruction.",
+   "ar": "«أمل» و«حزب الله» يدعوان في بيان مشترك إلى الوحدة الوطنية، ويرفضان المفاوضات المباشرة مع إسرائيل، ويطالبان الحكومة بالتصدي للاعتداءات الإسرائيلية وتسريع إعادة الإعمار.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323867-amal-and-hezbollah-call-for-national-unity-in-joint-statement"
+   }
+  },
+  {
    "id": "20261118-1310-saudi-yemen-war-2027",
    "time": "2026-11-18T13:10:00Z",
    "theater": "saudi",
@@ -106,6 +118,30 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/world/putin-and-trump-meet-in-shenzhen-their-first-talks-since-alaska-summit-3012642"
+   }
+  },
+  {
+   "id": "20261118-1218-yazeed-bin-farhan-no-support",
+   "time": "2026-11-18T12:18:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Saudi envoy Prince Yazeed bin Farhan tells Sunni MPs from the North and Akkar that Saudi support for Lebanon will come only after Hezbollah is disarmed, per Nidaa al-Watan.",
+   "ar": "الموفد السعودي الأمير يزيد بن فرحان يبلغ نواباً سنّة من الشمال وعكار أن الدعم السعودي للبنان لن يأتي إلا بعد نزع سلاح «حزب الله»، بحسب «نداء الوطن».",
+   "source": {
+    "name": "Nidaa al-Watan via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323864-bin-farhan-no-saudi-support-before-disarmament"
+   }
+  },
+  {
+   "id": "20261118-1204-aoun-hezbollah-hand-over-weapons",
+   "time": "2026-11-18T12:04:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "President Joseph Aoun tells Hezbollah to 'come forward and hand over your weapons', saying the state will see its arms monopoly through and confiscate any Hezbollah weapons shipment.",
+   "ar": "الرئيس جوزاف عون يدعو «حزب الله» إلى «التقدّم وتسليم سلاحه»، مؤكداً أن الدولة ماضية في حصر السلاح حتى النهاية وستصادر أي شحنة أسلحة للحزب.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323859-aoun-says-hezbollah-must-disarm-if-it-truly-cares-about-lebanon-shiites"
    }
   },
   {
@@ -1754,18 +1790,6 @@
    "source": {
     "name": "Channel 12 via VIN News",
     "url": "https://vinnews.com/2026/11/15/bennett-urges-bloc-partners-to-consider-unity-government-with-netanyahu-eisenkot-serving-first-as-pm/"
-   }
-  },
-  {
-   "id": "20261115-1756-iraq-ultimatum-kataib-hezbollah",
-   "time": "2026-11-15T17:56:00Z",
-   "theater": "iraq",
-   "status": "reported",
-   "en": "Iraqi PM Ali al-Zaidi gives Kataib Hezbollah until the end of next week to hand Jurf al-Sakhar to state forces or face military action, per Shafaq News.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي يمهل كتائب حزب الله حتى نهاية الأسبوع المقبل لتسليم جرف الصخر للقوات الحكومية وإلا واجهت عملاً عسكرياً، بحسب «شفق نيوز».",
-   "source": {
-    "name": "Shafaq News via The New Arab",
-    "url": "https://www.newarab.com/news/iraq-threatens-military-action-kataib-hezbollah-stronghold"
    }
   }
  ]
