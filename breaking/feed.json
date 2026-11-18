@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-18T03:08:39Z",
+ "updated": "2026-11-18T04:09:06Z",
  "items": [
+  {
+   "id": "20261118-0324-peltola-wins-alaska-senate",
+   "time": "2026-11-18T03:24:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrat Mary Peltola defeats two-term Republican Senator Dan Sullivan in Alaska, the last undecided Senate race of the midterms, widening the Democrats' new Senate majority.",
+   "ar": "الديمقراطية ماري بيلتولا تهزم السيناتور الجمهوري دان سوليفان في ألاسكا، في آخر سباق محسوم لمجلس الشيوخ في الانتخابات النصفية، فتتّسع الأغلبية الديمقراطية الجديدة في المجلس.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261118-0235-murban-falls-4pct",
+   "time": "2026-11-18T02:35:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Murban crude falls 4.2% to $91.39 a barrel in Asian trade while Brent slips 0.6% to $92.61, as US stockpiles rise and Gulf exports recover, per Gulf News.",
+   "ar": "خام مربان يتراجع 4.2% إلى 91.39 دولاراً للبرميل في التداولات الآسيوية، وبرنت ينخفض 0.6% إلى 92.61 دولاراً، مع ارتفاع المخزونات الأميركية وتعافي الصادرات الخليجية، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/business/energy/oil-slips-in-asia-led-by-murban-brent-wti-what-to-know-on-nov-18-2026-1.500751476"
+   }
+  },
   {
    "id": "20261118-0209-coalition-strikes-60-houthi-targets",
    "time": "2026-11-18T02:09:00Z",
@@ -85,6 +108,30 @@
    }
   },
   {
+   "id": "20261117-2221-norway-sweden-370m-ukraine",
+   "time": "2026-11-17T22:21:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Norway pledges $300 million to NATO's PURL scheme for US weapons for Ukraine and Sweden 720 million kronor, about $71 million, per the Kyiv Independent.",
+   "ar": "النرويج تتعهد بـ300 مليون دولار لآلية «بورل» التابعة للناتو لشراء أسلحة أميركية لأوكرانيا، والسويد بـ720 مليون كرونة (نحو 71 مليون دولار)، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/"
+   }
+  },
+  {
+   "id": "20261117-2130-eu-45bn-ukraine-loans",
+   "time": "2026-11-17T21:30:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The European Commission is set to propose an extra €45 billion in loans to Ukraine for 2027, guaranteed by EU budget headroom, according to a draft seen by the Kyiv Independent.",
+   "ar": "المفوضية الأوروبية تستعد لاقتراح قروض إضافية لأوكرانيا بقيمة 45 مليار يورو لعام 2027 بضمان هامش الموازنة الأوروبية، بحسب مسودة اطّلعت عليها «كييف إندبندنت».",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/exclusive-eu-proposes-additional-45-billion-euros-for-ukraine-seeks-to-incentivize-allies-to-step-up/"
+   }
+  },
+  {
    "id": "20261117-2128-nvidia-forecast-beats",
    "time": "2026-11-17T21:28:00Z",
    "theater": "markets",
@@ -154,6 +201,18 @@
    "source": {
     "name": "Xinhua via The Standard",
     "url": "https://www.thestandard.com.hk/china/article/348809/Russias-Putin-arrives-in-Shenzhen-for-APEC-summit-Xinhua-reports"
+   }
+  },
+  {
+   "id": "20261117-1907-houthis-claim-pipeline-drones",
+   "time": "2026-11-17T19:07:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Houthis claim 5 drones hit pumping stations 8 and 9 of Saudi Arabia's East-West oil pipeline; the coalition says only that it downed a drone heading toward Riyadh.",
+   "ar": "الحوثيون يزعمون أن 5 مسيّرات أصابت محطتي الضخ 8 و9 على خط أنابيب النفط شرق–غرب السعودي، فيما يكتفي التحالف بالإعلان عن إسقاط مسيّرة كانت متجهة نحو منطقة الرياض.",
+   "source": {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20261118/3807b5e44dcb4685bfde3efa1a0efdd8/c.html"
    }
   },
   {
@@ -351,12 +410,12 @@
    "id": "20261117-1336-qeshm-blasts",
    "time": "2026-11-17T13:36:00Z",
    "theater": "iran",
-   "status": "reported",
-   "en": "Iranian officials say the US struck several locations on Qeshm Island in the Strait of Hormuz; Hormozgan's deputy governor says there was no damage to residential, commercial or infrastructure areas.",
-   "ar": "مسؤولون إيرانيون يقولون إن الولايات المتحدة قصفت عدة مواقع في جزيرة قشم في مضيق هرمز، ونائب محافظ هرمزغان يؤكد عدم وقوع أضرار في المناطق السكنية والتجارية والبنى التحتية.",
+   "status": "confirmed",
+   "en": "US fighter jets strike an IRGC missile launch site on Iran's Qeshm Island in what a US official calls self-defence after drone attacks on Bahrain; Iranian officials report no serious damage.",
+   "ar": "مقاتلات أميركية تقصف موقع إطلاق صواريخ تابعاً للحرس الثوري في جزيرة قشم الإيرانية، في ما وصفه مسؤول أميركي بالدفاع عن النفس بعد هجمات بمسيّرات على البحرين؛ ومسؤولون إيرانيون يقولون إن الأضرار ليست جسيمة.",
    "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499"
+    "name": "AFP via Prothom Alo",
+    "url": "https://en.prothomalo.com/international/middle-east/r4gvwsrqb8"
    }
   },
   {
@@ -1611,30 +1670,6 @@
    "source": {
     "name": "Iranian state media via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-attacked-us-radar-system-at-a-base-in-bahrain"
-   }
-  },
-  {
-   "id": "20261115-0320-houthis-claim-saudi-recon-aircraft",
-   "time": "2026-11-15T03:20:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi spokesman Yahya Saree claims his forces shot down a Saudi armed reconnaissance aircraft over al-Jawf, as the Saudi-led coalition says it downed a third Houthi drone over the Eastern Region.",
-   "ar": "المتحدث باسم الحوثيين يحيى سريع يزعم إسقاط طائرة استطلاع مسلحة سعودية في أجواء الجوف، فيما يعلن التحالف بقيادة السعودية إسقاط مسيّرة حوثية ثالثة فوق المنطقة الشرقية.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
-   }
-  },
-  {
-   "id": "20261115-0320-coalition-third-drone-eastern-region",
-   "time": "2026-11-15T03:20:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi-led coalition spokesman Turki al-Malki says its forces shot down a third Houthi drone over Saudi Arabia's Eastern Region within 3 hours.",
-   "ar": "المتحدث باسم التحالف بقيادة السعودية تركي المالكي يقول إن قواته أسقطت مسيّرة حوثية ثالثة فوق المنطقة الشرقية في السعودية خلال 3 ساعات.",
-   "source": {
-    "name": "Saudi-led coalition via Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing"
    }
   }
  ]
