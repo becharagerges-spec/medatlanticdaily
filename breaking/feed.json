@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-18T20:09:11Z",
+ "updated": "2026-11-18T22:09:03Z",
  "items": [
+  {
+   "id": "20261118-2034-israeli-strike-kfar-tebnit",
+   "time": "2026-11-18T20:34:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli airstrike hits the town of Kfar Tebnit in south Lebanon's Nabatieh district, per Beirut 24; no casualties are reported.",
+   "ar": "غارة جوية إسرائيلية تستهدف بلدة كفرتبنيت في قضاء النبطية جنوب لبنان، بحسب «بيروت 24»، من دون الإبلاغ عن إصابات.",
+   "source": {
+    "name": "Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/18/%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%81%D8%B1%D8%AA%D8%A8%D9%86%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AC%D9%86%D9%88/"
+   }
+  },
   {
    "id": "20261118-1901-us-venezuela-military-ties",
    "time": "2026-11-18T19:01:00Z",
@@ -54,8 +66,8 @@
    "time": "2026-11-18T17:37:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "A loud blast is heard in Riyadh as the Saudi-led coalition says it intercepted 2 Houthi cruise missiles and later 2 drones, per AFP.",
-   "ar": "دويّ انفجار قوي يُسمع في الرياض فيما يعلن التحالف بقيادة السعودية اعتراض صاروخَي كروز حوثيين ثم مسيّرتين، بحسب وكالة الصحافة الفرنسية.",
+   "en": "A loud blast is heard in Riyadh as the Saudi-led coalition says it intercepted 2 Houthi cruise missiles and 2 drones; the Houthis claim they targeted King Khalid airport and the financial centre.",
+   "ar": "دويّ انفجار قوي يُسمع في الرياض فيما يعلن التحالف بقيادة السعودية اعتراض صاروخَي كروز حوثيين ومسيّرتين؛ والحوثيون يزعمون أنهم استهدفوا مطار الملك خالد والمركز المالي.",
    "source": {
     "name": "AFP via CBS News",
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
@@ -436,12 +448,12 @@
    "id": "20261118-0456-krasnodar-refineries-drones",
    "time": "2026-11-18T04:56:00Z",
    "theater": "russia",
-   "status": "reported",
-   "en": "Ukrainian monitoring channels say drones targeted the Ilsky and Afipsky oil refineries in Russia's Krasnodar Krai overnight; neither Kyiv nor Moscow has confirmed the strikes.",
-   "ar": "قنوات رصد أوكرانية تقول إن مسيّرات استهدفت ليلاً مصفاتي إيلسكي وأفيبسكي في إقليم كراسنودار الروسي، من دون تأكيد من كييف أو موسكو.",
+   "status": "confirmed",
+   "en": "Ukraine's General Staff says it struck the Ilsky and Afipsky oil refineries in Russia's Krasnodar region overnight; Russian officials report attacks on 2 industrial enterprises without details.",
+   "ar": "هيئة الأركان الأوكرانية تقول إنها ضربت ليلاً مصفاتي إيلسكي وأفيبسكي في إقليم كراسنودار الروسي؛ ومسؤولون روس يتحدثون عن هجمات على منشأتين صناعيتين من دون تفاصيل.",
    "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/"
+    "name": "AP via ClickOnDetroit",
+    "url": "https://www.clickondetroit.com/business/2026/11/18/ukraine-says-it-hit-2-russian-oil-refineries-as-zelenskyy-hails-weapons-produced-in-the-country/"
    }
   },
   {
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "Al Arabiya via Daily Beirut",
     "url": "https://dailybeirut.com/en/lebanon-news/fewer-than-100-observers-washington-seeks-alternative-to-unifil-in-beirut/"
-   }
-  },
-  {
-   "id": "20261116-0539-ukmto-armed-skiff-socotra",
-   "time": "2026-11-16T05:39:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "UKMTO says a possible mothership and a skiff carrying 4 armed men and a ladder approached an oil tanker about 430 nautical miles east of Yemen's Socotra.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن سفينة أمّ محتملة وزورقاً يقلّ 4 مسلحين وسُلّماً اقتربا من ناقلة نفط على بعد نحو 430 ميلاً بحرياً شرق سقطرى اليمنية.",
-   "source": {
-    "name": "UKMTO via Anadolu",
-    "url": "https://www.aa.com.tr/en/middle-east/4-armed-men-aboard-boat-approach-oil-tanker-east-of-yemens-socotra-uk-maritime-agency/4126143"
    }
   }
  ]
