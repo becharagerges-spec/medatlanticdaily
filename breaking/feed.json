@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:09:27Z",
+ "updated": "2026-11-19T13:10:41Z",
  "items": [
   {
    "id": "20261119-1146-icj-myanmar-genocide",
@@ -26,6 +26,18 @@
    }
   },
   {
+   "id": "20261119-1127-netanyahu-iran-op-unavoidable",
+   "time": "2026-11-19T11:27:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu told a security meeting that an operation against Iran is 'unavoidable', and a senior IDF officer says Israeli and CENTCOM plans are approved, awaiting Trump's decision, per Channel 13.",
+   "ar": "نتنياهو قال في اجتماع أمني إن عملية ضد إيران «لا مفرّ منها»، وضابط إسرائيلي كبير يقول إن خطط الجيش والقيادة المركزية الأميركية مُقرّة بانتظار قرار ترامب، بحسب القناة 13.",
+   "source": {
+    "name": "Channel 13 via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-reported-to-tell-aides-iran-op-unavoidable"
+   }
+  },
+  {
    "id": "20261119-1124-shenzhen-peace-declaration",
    "time": "2026-11-19T11:24:00Z",
    "theater": "china",
@@ -46,6 +58,18 @@
    "ar": "«تي إس إم سي» و«سامسونغ» تعلّقان بعض شحنات الرقائق إلى زبائن صينيين بعد فرض وزارة التجارة الأميركية ضوابط تصدير جديدة، بحسب «فايننشال تايمز».",
    "source": {
     "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261119-1038-berri-independence-south-not-buffer",
+   "time": "2026-11-19T10:38:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Speaker Nabih Berri says Lebanon's independence stays incomplete while Israel occupies any Lebanese land, rejects campaigns against the army and says the south will not become a buffer zone.",
+   "ar": "رئيس المجلس نبيه بري يقول إن استقلال لبنان يبقى منقوصاً ما دام الاحتلال الإسرائيلي قائماً على أي أرض لبنانية، ويرفض حملات التشكيك بالجيش، ويؤكد أن الجنوب لن يكون منطقة عازلة.",
+   "source": {
+    "name": "Grand LB",
+    "url": "https://www.grandlb.com/highlights/164803/"
    }
   },
   {
@@ -528,11 +552,11 @@
    "time": "2026-11-18T14:20:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "Israeli tanks push west of Gaza's Yellow Line near Nuseirat in what residents call the first ground raid since the 2025 ceasefire; the army says it targets Hamas infrastructure.",
-   "ar": "دبابات إسرائيلية تتقدّم غرب «الخط الأصفر» قرب النصيرات وسط غزة، في ما يصفه السكان بأول توغّل بري منذ وقف النار عام 2025، والجيش يقول إنه يستهدف بنى تحتية لحماس.",
+   "en": "Israel's army says its tank-led ground operation west of Gaza's Yellow Line near Nuseirat and Bureij, the first since the 2025 ceasefire, ended Thursday; Hamas calls it a blatant ceasefire violation.",
+   "ar": "الجيش الإسرائيلي يعلن انتهاء عمليته البرية بالدبابات غرب «الخط الأصفر» قرب النصيرات والبريج وسط غزة، الأولى منذ وقف النار عام 2025، الخميس، وحماس تصفها بخرق فاضح لوقف النار.",
    "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/israeli-military-begins-new-thrust-gaza-witnesses-say"
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.pk/middle-east/israel-army-says-completed-central-gaza-ground-operation-3007478"
    }
   },
   {
@@ -1764,30 +1788,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
-   }
-  },
-  {
-   "id": "20261116-2015-zelensky-europe-joins-talks",
-   "time": "2026-11-16T20:15:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Ukrainian, US and European negotiating teams held a new round of talks, with Europe fully represented for the first time, and agreed a follow-up meeting in Berlin.",
-   "ar": "زيلينسكي يقول إن فرق التفاوض الأوكرانية والأميركية والأوروبية عقدت جولة محادثات جديدة، بتمثيل أوروبي كامل للمرة الأولى، واتُّفق على اجتماع متابعة في برلين.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.anews.com.tr/world/2026/11/16/zelensky-says-europe-joins-ukraine-settlement-negotiations-for-1st-time"
-   }
-  },
-  {
-   "id": "20261116-1918-isfahan-air-defences",
-   "time": "2026-11-16T19:18:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Air defences are activated in Isfahan, home to Iran's main enrichment plants, Mehr reports; Isfahan's deputy governor for security later tells IRIB no hostile aircraft was detected.",
-   "ar": "تفعيل الدفاعات الجوية في أصفهان، حيث أبرز منشآت التخصيب الإيرانية، بحسب وكالة «مهر»؛ ونائب محافظ أصفهان للشؤون الأمنية يقول لاحقاً للتلفزيون الإيراني إنه لم تُرصد أي طائرة معادية.",
-   "source": {
-    "name": "IANS",
-    "url": "https://ianslive.in/iran-says-another-violating-oiler-caught-fire-in-hormuz-denies-air-defence-activity-in-central-province--20261117070744"
    }
   }
  ]
