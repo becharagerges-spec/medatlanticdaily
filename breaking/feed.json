@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-19T19:08:45Z",
+ "updated": "2026-11-19T20:08:42Z",
  "items": [
+  {
+   "id": "20261119-1953-senate-rejects-iran-war-powers",
+   "time": "2026-11-19T19:53:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Senate rejects, 51 to 48, a House-passed war powers resolution that would have required Trump to end the Iran war or obtain Congress's approval.",
+   "ar": "مجلس الشيوخ الأميركي يرفض بغالبية 51 صوتاً مقابل 48 قراراً لصلاحيات الحرب أقرّه مجلس النواب، كان سيُلزم ترامب بإنهاء الحرب على إيران أو نيل موافقة الكونغرس.",
+   "source": {
+    "name": "Reuters",
+    "url": "https://www.yahoo.com/news/politics/articles/us-senate-rejects-resolution-curbing-195349892.html"
+   }
+  },
+  {
+   "id": "20261119-1854-trump-not-rushing-iran-decision",
+   "time": "2026-11-19T18:54:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells Israel's Channel 12 he is 'not rushing' a decision on new Iran strikes and may wait until the new year, though he could change his mind.",
+   "ar": "ترامب يقول للقناة 12 الإسرائيلية إنه «لا يستعجل» قراراً بشأن ضربات جديدة على إيران وقد ينتظر حتى العام الجديد، مع إمكان أن يغيّر رأيه.",
+   "source": {
+    "name": "Channel 12 via CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+   }
+  },
+  {
+   "id": "20261119-1823-pentagon-iran-war-cost-48bn",
+   "time": "2026-11-19T18:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Pentagon budget official Arthur Miller tells the Senate Armed Services Committee the Iran war has cost an estimated $48.3 billion as of 13 November, excluding base damage.",
+   "ar": "المسؤول في موازنة البنتاغون آرثر ميلر يبلغ لجنة القوات المسلحة في مجلس الشيوخ أن كلفة الحرب على إيران بلغت نحو 48.3 مليار دولار حتى 13 تشرين الثاني، من دون أضرار القواعد.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.clickorlando.com/news/politics/2026/11/19/iran-war-costs-surpass-48b-as-lawmakers-demand-unreleased-estimates-on-base-damage/"
+   }
+  },
+  {
+   "id": "20261119-1806-iran-no-unlimited-iaea-cooperation",
+   "time": "2026-11-19T18:06:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's envoy to the UN in Vienna says Tehran will not offer 'unconditional and unlimited cooperation' with IAEA inspectors while under attack and will review requests case by case.",
+   "ar": "مندوب إيران لدى الأمم المتحدة في فيينا يقول إن طهران لن تقدّم «تعاوناً غير مشروط وغير محدود» مع مفتشي الوكالة الذرية ما دامت تتعرض للهجوم، وستدرس الطلبات كلاً على حدة.",
+   "source": {
+    "name": "Press TV",
+    "url": "https://www.presstv.co.uk/Detail/2026/11/19/781105/iran-rejects-unlimited-iaea-inspections-amid-continued-military-threats"
+   }
+  },
   {
    "id": "20261119-1804-idf-strike-janta-bekaa",
    "time": "2026-11-19T18:04:00Z",
@@ -1741,54 +1789,6 @@
    "source": {
     "name": "Reuters via Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611143682"
-   }
-  },
-  {
-   "id": "20261117-0511-canada-china-tariff-cuts",
-   "time": "2026-11-17T05:11:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Carney and Xi agree further Canada-China tariff cuts in Shenzhen: about C$400 million of Canadian exports get extra relief, and Canada extends remissions on Chinese steel and aluminium for 2 years.",
-   "ar": "كارني وشي يتفقان في شنجن على خفض إضافي للرسوم بين كندا والصين: صادرات كندية بنحو 400 مليون دولار كندي تحصل على إعفاءات إضافية، وكندا تمدّد إعفاءات الصلب والألمنيوم الصينيين سنتين.",
-   "source": {
-    "name": "AFP via France 24",
-    "url": "https://www.france24.com/en/live-news/20261117-canada-china-agree-further-tariff-cuts-pm-carney-at-apec"
-   }
-  },
-  {
-   "id": "20261117-0505-ghalibaf-dual-use-rule",
-   "time": "2026-11-17T05:05:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's parliament speaker Mohammad Bagher Ghalibaf says on X that any dam, port or power plant near a US or Israeli base is now 'dual-use', signalling such sites could be targeted.",
-   "ar": "رئيس البرلمان الإيراني محمد باقر قاليباف يقول على «إكس» إن أي سدّ أو مرفأ أو محطة كهرباء قرب قاعدة أميركية أو إسرائيلية بات «مزدوج الاستخدام»، ملمّحاً إلى إمكان استهدافها.",
-   "source": {
-    "name": "Mohammad Bagher Ghalibaf (X)",
-    "url": "https://x.com/mb_ghalibaf/status/2122556761442058610"
-   }
-  },
-  {
-   "id": "20261117-0403-asia-shares-fall-ai-chips",
-   "time": "2026-11-17T04:03:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Asian shares fall on Tuesday after new US curbs on China's access to AI chips: Nikkei down 1.2%, Australia's ASX down 1.5%, and Brent down 0.8% at $91.66 a barrel.",
-   "ar": "تراجع الأسهم الآسيوية الثلاثاء بعد قيود أميركية جديدة على وصول الصين إلى رقائق الذكاء الاصطناعي: نيكاي ينخفض 1.2% ومؤشر ASX الأسترالي 1.5%، وبرنت يتراجع 0.8% إلى 91.66 دولاراً للبرميل.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.wral.com/news/ap/4d5a3-asian-shares-decline-following-stocks-tumbled-on-wall-street/"
-   }
-  },
-  {
-   "id": "20261117-0348-araghchi-meets-oman-fm",
-   "time": "2026-11-17T03:48:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi meets Omani Foreign Minister Badr Albusaidi in Muscat; Oman's foreign ministry says they discussed safeguarding maritime corridors and reviving negotiation channels to prevent escalation.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يلتقي نظيره العُماني بدر البوسعيدي في مسقط؛ والخارجية العُمانية تقول إنهما بحثا حماية الممرات البحرية وإحياء قنوات التفاوض لمنع التصعيد.",
-   "source": {
-    "name": "Oman foreign ministry via Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/gulf/5342183-oman-iran-discuss-safeguarding-maritime-corridors"
    }
   }
  ]
