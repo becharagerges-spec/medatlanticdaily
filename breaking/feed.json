@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-19T14:09:56Z",
+ "updated": "2026-11-19T15:09:14Z",
  "items": [
+  {
+   "id": "20261119-1305-kyiv-dutch-embassy",
+   "time": "2026-11-19T13:05:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian drone crashes behind the Dutch embassy in Kyiv during a daytime attack, damaging its windows; Dutch Foreign Minister Tom Berendsen says all staff are safe.",
+   "ar": "مسيّرة روسية تسقط خلف السفارة الهولندية في كييف خلال هجوم نهاري وتحطّم نوافذها، ووزير الخارجية الهولندي توم بيرندسن يؤكد أن جميع الموظفين بخير.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
+   }
+  },
   {
    "id": "20261119-1146-icj-myanmar-genocide",
    "time": "2026-11-19T11:46:00Z",
@@ -1776,18 +1788,6 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/iran-news/article-915102"
-   }
-  },
-  {
-   "id": "20261116-2151-ukmto-tanker-khasab",
-   "time": "2026-11-16T21:51:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says a tanker disabled by an attack about 7 nautical miles north of Oman's Khasab is struck a second time, starting another fire; the crew is now unaccounted for.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة تعطّلت بهجوم على بُعد نحو 7 أميال بحرية شمال خصب العُمانية استُهدفت مرة ثانية فاشتعلت مجدداً؛ ومصير الطاقم مجهول.",
-   "source": {
-    "name": "UKMTO via Shafaq News",
-    "url": "https://shafaq.com/en/World/Supertanker-gas-carrier-hit-mines-in-Hormuz-IRGC-says"
    }
   }
  ]
