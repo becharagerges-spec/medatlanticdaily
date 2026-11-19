@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T17:08:32Z",
+ "updated": "2026-11-19T18:09:06Z",
  "items": [
+  {
+   "id": "20261119-1804-idf-strike-janta-bekaa",
+   "time": "2026-11-19T18:04:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israel's army says it struck the entrances of a former Hezbollah missile production and weapons storage site in Janta, in the Bekaa Valley, after operatives returned there.",
+   "ar": "الجيش الإسرائيلي يقول إنه استهدف مداخل موقع سابق لتصنيع الصواريخ وتخزين أسلحة حزب الله في جنتا في البقاع، بعد عودة عناصر من الحزب إليه.",
+   "source": {
+    "name": "Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-915527"
+   }
+  },
+  {
+   "id": "20261119-1731-pmf-replace-kataib-jurf",
+   "time": "2026-11-19T17:31:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraq's Popular Mobilization Forces say their 72nd and 79th brigades will replace Kataib Hezbollah-affiliated brigades in Jurf al-Sakhar from Friday morning, on Prime Minister al-Zaidi's orders.",
+   "ar": "الحشد الشعبي في العراق يعلن أن لواءيه 72 و79 سيحلّان مكان الألوية المرتبطة بكتائب حزب الله في جرف الصخر اعتباراً من صباح الجمعة، بأمر من رئيس الوزراء الزيدي.",
+   "source": {
+    "name": "964media",
+    "url": "https://en.964media.com/55641/"
+   }
+  },
   {
    "id": "20261119-1648-trump-calls-europeans-ukraine",
    "time": "2026-11-19T16:48:00Z",
@@ -47,6 +71,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
+   }
+  },
+  {
+   "id": "20261119-1148-houthis-saudi-strikes-11-killed",
+   "time": "2026-11-19T11:48:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi-run al-Masirah TV says Saudi airstrikes killed 11 people and wounded 36 in Taiz, Hodeidah, Saada, Hajjah and Ibb over 24 hours; the coalition reports destroying two launch platforms.",
+   "ar": "قناة المسيرة التابعة للحوثيين تقول إن غارات سعودية قتلت 11 شخصاً وجرحت 36 في تعز والحديدة وصعدة وحجة وإب خلال 24 ساعة، والتحالف يعلن تدمير منصّتَي إطلاق.",
+   "source": {
+    "name": "IANS via OMMCOM News",
+    "url": "https://ommcomnews.com/world-news/houthi-media-says-saudi-airstrikes-kill-11-saudi-led-coalition-reports-interception/"
    }
   },
   {
@@ -1753,42 +1789,6 @@
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/90332"
-   }
-  },
-  {
-   "id": "20261117-0030-duyuk-settler-gunfire-woman-killed",
-   "time": "2026-11-17T00:30:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "A Palestinian woman is killed and 10 others wounded by settler gunfire in Duyuk al-Tahta, west of Jericho, Palestinian official TV says; the Israeli army says it is investigating an 'attempted attack'.",
-   "ar": "مقتل فلسطينية وإصابة 10 آخرين برصاص مستوطنين في دوك التحتا غرب أريحا، بحسب التلفزيون الفلسطيني الرسمي؛ والجيش الإسرائيلي يقول إنه يحقق في «محاولة هجوم».",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/palestinian-woman-killed-10-wounded-in-settler-gunfire-official-tv-says/3100550/"
-   }
-  },
-  {
-   "id": "20261116-2320-iran-dirty-bomb-plans",
-   "time": "2026-11-16T23:20:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "New US intelligence indicates Iran is developing plans to target senior Trump officials in Washington with a dirty bomb or chemical weapon, CNN reports citing 7 US officials; Iran calls the report fabricated.",
-   "ar": "معلومات استخباراتية أميركية جديدة تشير إلى أن إيران تُعدّ خططاً لاستهداف كبار مسؤولي إدارة ترامب في واشنطن بقنبلة قذرة أو سلاح كيميائي، بحسب «سي إن إن» نقلاً عن 7 مسؤولين أميركيين؛ وإيران تصف التقرير بالملفّق.",
-   "source": {
-    "name": "CNN",
-    "url": "https://edition.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb"
-   }
-  },
-  {
-   "id": "20261116-2312-jericho-ramming-outpost",
-   "time": "2026-11-16T23:12:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Two Israelis are lightly wounded near Jericho in the West Bank when Palestinian assailants ram their car on the way to a new settler outpost, per Times of Israel citing Hebrew media.",
-   "ar": "إصابة إسرائيليَّين بجروح طفيفة قرب أريحا في الضفة الغربية بعدما صدم مهاجمون فلسطينيون سيارتهما في طريقهما إلى بؤرة استيطانية جديدة، بحسب «تايمز أوف إسرائيل» نقلاً عن وسائل إعلام عبرية.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/two-israelis-wounded-in-suspected-terror-attack-while-driving-to-new-outpost-on-jerichos-outskirts/"
    }
   }
  ]
