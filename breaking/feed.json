@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-19T09:08:42Z",
+ "updated": "2026-11-19T10:09:10Z",
  "items": [
+  {
+   "id": "20261119-1001-denmark-greenland-us-security-deal",
+   "time": "2026-11-19T10:01:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Denmark's parliament approves the security deal with Greenland and the United States, after months of pressure from President Trump seeking control of Greenland, AP reports.",
+   "ar": "البرلمان الدنماركي يقرّ الاتفاق الأمني مع غرينلاند والولايات المتحدة، بعد أشهر من ضغوط الرئيس ترامب للسيطرة على غرينلاند، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261119-0953-germany-ukraine-aid-veto-proof",
+   "time": "2026-11-19T09:53:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Germany is pressing to lock future increases in EU aid to Ukraine into a budget framework that no single member state can veto, per Politico Europe.",
+   "ar": "ألمانيا تضغط لإدراج أي زيادات مستقبلية في مساعدات الاتحاد الأوروبي لأوكرانيا ضمن إطار موازنة لا يمكن لأي دولة عضو منفردة تعطيله، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/"
+   }
+  },
+  {
+   "id": "20261119-0946-xi-no-cold-war-decoupling",
+   "time": "2026-11-19T09:46:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Xi tells Trump and Putin that major powers must not cross each other's bottom lines, urging them to abandon Cold War thinking, reject decoupling and coordinate on energy supply stability.",
+   "ar": "شي يقول لترامب وبوتين إن على القوى الكبرى ألّا تمسّ خطوط بعضها الحمراء، داعياً إلى التخلي عن عقلية الحرب الباردة ورفض فكّ الارتباط والتنسيق لاستقرار إمدادات الطاقة.",
+   "source": {
+    "name": "Xinhua via Outlook India",
+    "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
+   }
+  },
+  {
+   "id": "20261119-0915-xi-ban-destroy-nuclear-weapons",
+   "time": "2026-11-19T09:15:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Xi Jinping calls at the Shenzhen trilateral for nuclear weapons to be comprehensively banned and destroyed, saying a nuclear war cannot be won, Xinhua reports.",
+   "ar": "شي جينبينغ يدعو في القمة الثلاثية في شنتشن إلى حظر الأسلحة النووية وتدميرها بالكامل، مؤكداً أن الحرب النووية لا يمكن كسبها، بحسب وكالة شينخوا.",
+   "source": {
+    "name": "Xinhua via Nasha Niva",
+    "url": "https://nashaniva.com/en/409612"
+   }
+  },
+  {
+   "id": "20261119-0909-trump-icc-out-of-control",
+   "time": "2026-11-19T09:09:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells Xi and Putin at their trilateral that the International Criminal Court is 'out of control'; the court holds an arrest warrant for Putin.",
+   "ar": "ترامب يقول لشي وبوتين خلال قمتهم الثلاثية إن المحكمة الجنائية الدولية «خارجة عن السيطرة»، علماً أن المحكمة أصدرت مذكرة توقيف بحق بوتين.",
+   "source": {
+    "name": "Business Upturn",
+    "url": "https://businessupturn.com/usa/news/trump-says-us-russia-and-china-uniquely-positioned-to-discuss-nuclear-weapons-criticises-icc/"
+   }
+  },
   {
    "id": "20261119-0836-trump-xi-putin-trilateral-opens",
    "time": "2026-11-19T08:36:00Z",
@@ -74,6 +133,18 @@
    }
   },
   {
+   "id": "20261119-0622-trump-xi-hormuz-iran-nuclear",
+   "time": "2026-11-19T06:22:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump says after talks with Xi that the US and China both want energy flows through the Strait of Hormuz resumed and that China believes Iran must not build a nuclear weapon.",
+   "ar": "ترامب يقول بعد محادثاته مع شي إن الولايات المتحدة والصين تريدان استئناف تدفق الطاقة عبر مضيق هرمز، وإن الصين ترى أنه لا يجوز لإيران امتلاك سلاح نووي.",
+   "source": {
+    "name": "Outlook India",
+    "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
+   }
+  },
+  {
    "id": "20261119-0348-xi-trump-stable-relations",
    "time": "2026-11-19T03:48:00Z",
    "theater": "china",
@@ -107,6 +178,17 @@
    "source": {
     "name": "Reuters via The National",
     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
+   }
+  },
+  {
+   "id": "20261119-0135-lebanese-army-chief-south-deployment",
+   "time": "2026-11-19T01:35:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Lebanon's army commander says troops are completing their deployment in the south, weapons must be held by the state alone, and maximum readiness is needed as UNIFIL's mandate ends, per Lebanon24.",
+   "ar": "قائد الجيش اللبناني يقول إن الجيش يعمل على استكمال انتشاره في الجنوب وإن السلاح يجب أن يكون بيد الدولة وحدها، ويدعو إلى أقصى الجهوزية مع اقتراب انتهاء ولاية اليونيفيل، بحسب «لبنان 24».",
+   "source": {
+    "name": "Lebanese Army via Lebanon24"
    }
   },
   {
@@ -1707,88 +1789,6 @@
    "source": {
     "name": "LaPresse",
     "url": "https://uk.lapresse.it/world-en/2026/11/16/israel-herzog-now-is-the-time-for-unity-and-compromise/"
-   }
-  },
-  {
-   "id": "20261116-1404-berri-occupation-obstacle",
-   "time": "2026-11-16T14:04:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Speaker Nabih Berri says Israel's continuing occupation and strikes are the only violation of Lebanese sovereignty and the real obstacle to army deployment and residents' return.",
-   "ar": "رئيس مجلس النواب نبيه بري يقول إن استمرار الاحتلال الإسرائيلي واعتداءاته هو الانتهاك الوحيد للسيادة والعائق الفعلي أمام انتشار الجيش وعودة الأهالي.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/16/%D8%A8%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%82-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7/"
-   }
-  },
-  {
-   "id": "20261116-1401-eu-clears-unicredit-commerzbank",
-   "time": "2026-11-16T14:01:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission unconditionally clears UniCredit's takeover of Commerzbank, finding no competition concerns, after the ECB and the US Federal Reserve also approved the deal.",
-   "ar": "المفوضية الأوروبية توافق من دون شروط على استحواذ «يونيكريديت» على «كومرتس بنك»، معتبرةً أنه لا يثير مخاوف تنافسية، بعد موافقة البنك المركزي الأوروبي والاحتياطي الفيدرالي الأميركي.",
-   "source": {
-    "name": "Bloomberg"
-   }
-  },
-  {
-   "id": "20261116-1353-illinois-ethanol-plant-arrest",
-   "time": "2026-11-16T13:53:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "A suspect is arrested over an explosive device found on Friday at a central Illinois ethanol plant, a law enforcement official tells CNN.",
-   "ar": "توقيف مشتبه به في قضية عبوة ناسفة عُثر عليها يوم الجمعة في مصنع للإيثانول وسط ولاية إلينوي، بحسب مسؤول أمني تحدث لشبكة CNN.",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261116-1346-us-rule-remote-ai-chip-access",
-   "time": "2026-11-16T13:46:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Commerce Department issues a rule restricting remote access to advanced AI chips, so export curbs cannot be bypassed through remote computing, a step that could limit China's access.",
-   "ar": "وزارة التجارة الأميركية تصدر قاعدة تقيّد الوصول عن بُعد إلى رقائق الذكاء الاصطناعي المتقدمة، كي لا يُلتفّ على قيود التصدير عبر الحوسبة عن بُعد، في خطوة قد تحدّ من وصول الصين إليها.",
-   "source": {
-    "name": "Reuters via Investing.com",
-    "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988"
-   }
-  },
-  {
-   "id": "20261116-1309-coalition-drones-makkah-riyadh",
-   "time": "2026-11-16T13:09:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed 2 Houthi drones launched towards Makkah and Riyadh; no damage or casualties are reported.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرتين حوثيتين أُطلقتا باتجاه مكة المكرمة والرياض، من دون الإبلاغ عن أضرار أو إصابات.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.pk/saudi-arabia/coalition-intercepts-two-houthi-drones-launched-towards-makkah-and-riyadh-3007194"
-   }
-  },
-  {
-   "id": "20261116-1302-iraq-army-ordered-jurf-al-sakhar",
-   "time": "2026-11-16T13:02:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraqi PM Ali al-Zaidi orders the armed forces to enter Jurf al-Sakhar, a Kataib Hezbollah stronghold, government spokesman Haidar al-Aboudi tells INA; a security source says the faction has until Friday.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي يأمر القوات المسلحة بدخول جرف الصخر، معقل كتائب حزب الله، وفق المتحدث الحكومي حيدر العبودي لوكالة الأنباء العراقية، ومصدر أمني يقول إن المهلة للفصيل تنتهي الجمعة.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iraq-orders-army-to-enter-stronghold-of-iran-backed-group-3012279"
-   }
-  },
-  {
-   "id": "20261116-1225-kallas-russian-demands-absurd",
-   "time": "2026-11-16T12:25:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "EU foreign policy chief Kaja Kallas calls Russia's peace demands 'absurd' at the Foreign Affairs Council and says talks must start with a ceasefire.",
-   "ar": "مسؤولة السياسة الخارجية في الاتحاد الأوروبي كايا كالاس تصف مطالب روسيا للسلام بـ«العبثية» خلال مجلس الشؤون الخارجية، وتؤكد أن أي محادثات يجب أن تبدأ بوقف لإطلاق النار.",
-   "source": {
-    "name": "Eunews",
-    "url": "https://www.eunews.it/en/2026/11/16/ukraine-kallas-a-ceasefire-is-needed-to-begin-talks-but-moscow-isnt-serious/"
    }
   }
  ]
