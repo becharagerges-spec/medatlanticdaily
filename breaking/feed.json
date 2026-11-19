@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:09:14Z",
+ "updated": "2026-11-19T16:09:53Z",
  "items": [
   {
    "id": "20261119-1305-kyiv-dutch-embassy",
@@ -35,6 +35,18 @@
    "source": {
     "name": "This is Beirut",
     "url": "https://thisisbeirut.com.lb/news/politics/putin-reaffirms-russias-support-for-lebanons-sovereignty-in-letter-to-president-aoun"
+   }
+  },
+  {
+   "id": "20261119-1135-zelensky-berlin-coalition",
+   "time": "2026-11-19T11:35:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky arrives in Berlin for Coalition of the Willing talks hosted by Merz and separate meetings with US envoys Witkoff and Kushner, hours after the Shenzhen trilateral.",
+   "ar": "زيلينسكي يصل إلى برلين لمحادثات «تحالف الراغبين» التي يستضيفها ميرتس ولقاءات منفصلة مع المبعوثَين الأميركيَّين ويتكوف وكوشنر، بعد ساعات من القمة الثلاثية في شنتشن.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-arrives-in-berlin-for-talks-with-european-officials-trumps-envoys/"
    }
   },
   {
@@ -1304,12 +1316,12 @@
    "id": "20261117-1705-zaidi-qaani-jurf-deal",
    "time": "2026-11-17T17:05:00Z",
    "theater": "iraq",
-   "status": "reported",
-   "en": "Iraqi PM Ali al-Zaidi and Quds Force commander Esmail Qaani reportedly agree that Kataib Hezbollah will leave Jurf al-Sakhar for a joint PMF-government force, per Alhurra; no side has confirmed.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي وقائد فيلق القدس إسماعيل قاآني يتفقان على انسحاب كتائب حزب الله من جرف الصخر لصالح قوة مشتركة من الحشد والقوات الحكومية، بحسب «الحرة»؛ ولم يؤكد أي طرف ذلك.",
+   "status": "confirmed",
+   "en": "Iraqi security officials say a deal brokered by Shi'ite leaders will move Kataib Hezbollah forces out of Jurf al-Sakhar, with government troops expected to enter the town on Friday, per Reuters.",
+   "ar": "مسؤولون أمنيون عراقيون يقولون إن اتفاقاً رعاه قادة شيعة سيُخرج قوات كتائب حزب الله من جرف الصخر، على أن تدخل القوات الحكومية البلدة يوم الجمعة، بحسب رويترز.",
    "source": {
-    "name": "Alhurra via Kurdistan24",
-    "url": "https://www.kurdistan24.net/en/story/953763/iraqi-pm-irgc-commander-reportedly-reach-deal-on-kh-withdrawal-from-jurf-al-sakhar"
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/iraqi-forces-strike-compromise-powerful-pro-iran-militia-security-officials-say"
    }
   },
   {
@@ -1776,18 +1788,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack-3012359"
-   }
-  },
-  {
-   "id": "20261116-2204-iran-navy-fourth-tanker",
-   "time": "2026-11-16T22:04:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says a fourth oil tanker in 24 hours caught fire after hitting a naval mine in a restricted area east of the Strait of Hormuz; it did not name the ship.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة نفط رابعة خلال 24 ساعة اشتعلت بعد اصطدامها بلغم بحري في منطقة محظورة شرق مضيق هرمز، من دون تسمية السفينة.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-915102"
    }
   }
  ]
