@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-19T11:08:23Z",
+ "updated": "2026-11-19T12:09:27Z",
  "items": [
+  {
+   "id": "20261119-1146-icj-myanmar-genocide",
+   "time": "2026-11-19T11:46:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "The International Court of Justice rules that Myanmar committed genocide against the Rohingya, the first time the court has found a state guilty of genocide, in a case brought by The Gambia.",
+   "ar": "محكمة العدل الدولية تقضي بأن ميانمار ارتكبت إبادة جماعية بحق الروهينغا، في أول حكم للمحكمة يدين دولةً بالإبادة، في دعوى رفعتها غامبيا.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+   }
+  },
+  {
+   "id": "20261119-1138-putin-letter-aoun",
+   "time": "2026-11-19T11:38:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Russian Ambassador Alexander Rudakov delivers a letter from Putin to President Aoun reaffirming Russia's support for Lebanon's sovereignty, territorial integrity and national unity.",
+   "ar": "السفير الروسي ألكسندر روداكوف يسلّم الرئيس عون رسالة من بوتين تؤكد دعم روسيا لسيادة لبنان ووحدة أراضيه ووحدته الوطنية.",
+   "source": {
+    "name": "This is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/putin-reaffirms-russias-support-for-lebanons-sovereignty-in-letter-to-president-aoun"
+   }
+  },
+  {
+   "id": "20261119-1124-shenzhen-peace-declaration",
+   "time": "2026-11-19T11:24:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "A Shenzhen 'peace declaration' released by Xinhua and the Kremlin says Trump, Xi and Putin agree a nuclear war must never be fought, pledge nuclear-risk talks and more refined-fuel supplies.",
+   "ar": "«إعلان سلام» من شنتشن نشرته «شينخوا» والكرملين: ترامب وشي وبوتين يتفقون على أن الحرب النووية يجب ألا تُخاض أبداً، ويتعهدون بمحادثات لخفض المخاطر النووية وزيادة إمدادات المشتقات النفطية.",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting"
+   }
+  },
   {
    "id": "20261119-1100-tsmc-samsung-halt-china-chips",
    "time": "2026-11-19T11:00:00Z",
@@ -1752,42 +1788,6 @@
    "source": {
     "name": "IANS",
     "url": "https://ianslive.in/iran-says-another-violating-oiler-caught-fire-in-hormuz-denies-air-defence-activity-in-central-province--20261117070744"
-   }
-  },
-  {
-   "id": "20261116-1912-yemen-parliament-houthis-terror-bill",
-   "time": "2026-11-16T19:12:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Yemen's parliament unanimously approves a 55-article bill designating the Houthis a terrorist organisation, with penalties up to death; it now goes to Presidential Council chief Rashad al-Alimi, state agency Saba says.",
-   "ar": "البرلمان اليمني يقرّ بالإجماع مشروع قانون من 55 مادة يصنّف الحوثيين منظمة إرهابية مع عقوبات تصل إلى الإعدام، ويُحال إلى رئيس المجلس الرئاسي رشاد العليمي، بحسب وكالة سبأ الرسمية.",
-   "source": {
-    "name": "Anadolu",
-    "url": "https://www.anews.com.tr/middle-east/2026/11/16/yemeni-parliament-approves-bill-designating-houthis-as-terrorist-organization"
-   }
-  },
-  {
-   "id": "20261116-1850-us-bank-outages",
-   "time": "2026-11-16T18:50:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Customers of Chase, Wells Fargo, Bank of America and US Bank report trouble accessing accounts; Chase says a technical bug, not a cyber issue, caused it and funds stayed accessible.",
-   "ar": "عملاء «تشيس» و«ويلز فارغو» و«بنك أوف أميركا» و«يو إس بنك» يبلغون عن صعوبة في الوصول إلى حساباتهم، و«تشيس» تقول إن السبب خلل تقني لا هجوم إلكتروني وإن الأموال بقيت متاحة.",
-   "source": {
-    "name": "AP via Yahoo Finance",
-    "url": "https://ca.finance.yahoo.com/news/customers-nations-largest-banks-reporting-190456050.html"
-   }
-  },
-  {
-   "id": "20261116-1811-ghalibaf-berri-call",
-   "time": "2026-11-16T18:11:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Iran's parliament speaker Ghalibaf tells Speaker Nabih Berri by phone that calm cannot return to the region without ending the war in Lebanon, Berri's office says; Berri demands Israeli withdrawal.",
-   "ar": "رئيس مجلس الشورى الإيراني قاليباف يقول لرئيس مجلس النواب نبيه بري هاتفياً إن الهدوء لن يعود إلى المنطقة من دون إنهاء الحرب في لبنان، بحسب مكتب بري، وبري يطالب بانسحاب إسرائيل.",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1758906"
    }
   }
  ]
