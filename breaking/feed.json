@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T05:08:32Z",
+ "updated": "2026-11-19T07:09:16Z",
  "items": [
+  {
+   "id": "20261119-0652-trump-incredible-meeting-xi",
+   "time": "2026-11-19T06:52:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump calls his talks with Xi 'an incredible meeting' and says 'something will come out', adding that his meeting with Putin 'set the stage' for the three-way talks, per ABC News.",
+   "ar": "ترامب يصف محادثاته مع شي بأنها «اجتماع مذهل» ويقول إنّ «شيئاً ما سيخرج منها»، مضيفاً أنّ لقاءه مع بوتين «مهّد الطريق» للمحادثات الثلاثية، بحسب «إيه بي سي نيوز».",
+   "source": {
+    "name": "ABC News",
+    "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+   }
+  },
+  {
+   "id": "20261119-0348-xi-trump-stable-relations",
+   "time": "2026-11-19T03:48:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Xi Jinping tells Trump at talks in Shenzhen that US-China relations are 'stable and improved' and that he wants a strategically stable relationship, ahead of their three-way meeting with Putin.",
+   "ar": "شي جين بينغ يقول لترامب خلال محادثاتهما في شنتشن إنّ العلاقات الأميركية-الصينية «مستقرة وتحسّنت» وإنه يريد علاقة مستقرة استراتيجياً، قبيل لقائهما الثلاثي مع بوتين.",
+   "source": {
+    "name": "AFP via Dawn",
+    "url": "https://www.dawn.com/news/2045630/xi-trump-meet-in-china-ahead-of-trilateral-with-putin"
+   }
+  },
   {
    "id": "20261119-0315-trump-iran-gas-bio",
    "time": "2026-11-19T03:15:00Z",
@@ -35,6 +59,30 @@
    "source": {
     "name": "Saudi Press Agency",
     "url": "https://spa.gov.sa/w2731137"
+   }
+  },
+  {
+   "id": "20261119-0047-russia-refineries-45pct",
+   "time": "2026-11-19T00:47:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Ukrainian strikes over the past 20 days have disrupted or halted 15 of Russia's 35 major oil refineries, cutting processing by 45%, Reuters reports citing two industry sources.",
+   "ar": "الضربات الأوكرانية خلال الأيام العشرين الماضية عطّلت أو أوقفت 15 من أصل 35 مصفاة نفط رئيسية في روسيا، ما خفّض التكرير بنسبة 45%، بحسب «رويترز» نقلاً عن مصدرين في القطاع.",
+   "source": {
+    "name": "Reuters via Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/"
+   }
+  },
+  {
+   "id": "20261119-0004-crimean-bridge-rail-halted",
+   "time": "2026-11-19T00:04:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Russia's Transport Ministry suspends train traffic on the Crimean Bridge after an overnight drone attack, the third in four days; it says no one was hurt and damage is being assessed.",
+   "ar": "وزارة النقل الروسية تعلّق حركة القطارات على جسر القرم بعد هجوم بالمسيّرات ليلاً، هو الثالث خلال أربعة أيام، وتقول إنّ أحداً لم يُصب وإنّ الأضرار قيد التقييم.",
+   "source": {
+    "name": "TASS",
+    "url": "https://tass.com/emergencies/2220945"
    }
   },
   {
@@ -1741,54 +1789,6 @@
    "source": {
     "name": "The New Arab",
     "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
-   }
-  },
-  {
-   "id": "20261116-0958-on-phoenix-projectile-oman",
-   "time": "2026-11-16T09:58:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "UKMTO and the monitor Vanguard say the Panama-flagged tanker ON PHOENIX was hit by an unknown projectile about 3 nautical miles off Oman and caught fire; all crew are safe.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية ومرصد «فانغارد» يقولان إن ناقلة النفط «أون فينيكس» التي ترفع علم بنما أُصيبت بمقذوف مجهول على بُعد نحو 3 أميال بحرية من سواحل عُمان واشتعلت فيها النيران، وطاقمها بأمان.",
-   "source": {
-    "name": "UKMTO via The New Arab",
-    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
-   }
-  },
-  {
-   "id": "20261116-0951-idf-janta-weapons-strike",
-   "time": "2026-11-16T09:51:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli army says its aircraft struck a weapons shipment moving from Syria to Hezbollah in the Janta area on the Lebanon–Syria border overnight; no casualties were reported.",
-   "ar": "الجيش الإسرائيلي يقول إن طائراته استهدفت ليلاً شحنة أسلحة منقولة من سوريا إلى حزب الله في منطقة جنتا على الحدود اللبنانية السورية، من دون الإعلان عن إصابات.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-915038"
-   }
-  },
-  {
-   "id": "20261116-0945-aoun-waltz-baabda-unifil",
-   "time": "2026-11-16T09:45:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "President Joseph Aoun meets US Ambassador to the UN Mike Waltz at Baabda on the end of UNIFIL's mission and, his office says, continued Israeli attacks and breaches of the framework agreement.",
-   "ar": "الرئيس جوزاف عون يستقبل في بعبدا السفير الأميركي لدى الأمم المتحدة مايك والتز ويبحث معه انتهاء مهمة اليونيفيل، ووفق مكتبه، استمرار الاعتداءات الإسرائيلية وخرق بنود الاتفاق الإطاري.",
-   "source": {
-    "name": "Lebanese Presidency via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-and-lebanese-president-discuss-end-of-unifil-mandate-and-continued-israeli-attacks/"
-   }
-  },
-  {
-   "id": "20261116-0934-liberman-summons-security-chiefs",
-   "time": "2026-11-16T09:34:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Avigdor Liberman, new chair of the Knesset defence committee, seeks to summon the IDF, Mossad, Shin Bet and police chiefs over alleged election interference by Netanyahu's office; Defence Minister Katz objects, per Ynet.",
-   "ar": "أفيغدور ليبرمان، الرئيس الجديد للجنة الخارجية والأمن في الكنيست، يسعى لاستدعاء قادة الجيش والموساد والشاباك والشرطة بشأن تدخل مزعوم لمكتب نتنياهو في الانتخابات، ووزير الدفاع كاتس يعترض، بحسب «يديعوت».",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/hk11tvho0mg"
    }
   }
  ]
