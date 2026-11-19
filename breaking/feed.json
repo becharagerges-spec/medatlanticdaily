@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:08:17Z",
+ "updated": "2026-11-19T05:08:32Z",
  "items": [
   {
    "id": "20261119-0315-trump-iran-gas-bio",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Washington Examiner",
     "url": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/"
+   }
+  },
+  {
+   "id": "20261119-0220-houthi-missile-riyadh-damage",
+   "time": "2026-11-19T02:20:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it dealt with a Houthi missile fired at Riyadh before dawn; falling debris caused material damage that is still being assessed.",
+   "ar": "التحالف بقيادة السعودية يعلن تصدّيه لصاروخ حوثي أُطلق نحو الرياض فجراً، وسقوط شظايا أوقع أضراراً مادية لا تزال قيد التقييم.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says/3102678/"
    }
   },
   {
@@ -34,6 +46,18 @@
    "ar": "ترامب يدرس جولة جديدة من الضربات الواسعة على إيران من دون أن يحسم قراره، فيما تضغط إسرائيل لحملة جوية مشتركة تمتد 4 إلى 7 أيام، بحسب «نيويورك تايمز».",
    "source": {
     "name": "The New York Times"
+   }
+  },
+  {
+   "id": "20261118-2312-tanker-projectile-khasab",
+   "time": "2026-11-18T23:12:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says an outbound tanker was struck in the engine room by an unknown projectile about 6 nautical miles north of Oman's Khasab; the crew is safe.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن إصابة ناقلة نفط خارجة من المضيق بمقذوف مجهول في غرفة المحركات على بعد 6 أميال بحرية شمال خصب العُمانية، والطاقم بخير.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/tanker-struck-by-projectile-near-omans-khasab-as-attacks-in-hormuz-continue-3012815"
    }
   },
   {
@@ -1765,30 +1789,6 @@
    "source": {
     "name": "Ynet",
     "url": "https://www.ynetnews.com/article/hk11tvho0mg"
-   }
-  },
-  {
-   "id": "20261116-0900-bahrain-64-life-sentences",
-   "time": "2026-11-16T09:00:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "A Bahraini court sentences 64 Shia Muslims, 57 of them clerics, to life in prison on terrorism charges and 5 others to 15 years, per the Bahrain Institute for Rights and Democracy.",
-   "ar": "محكمة بحرينية تحكم بالسجن المؤبد على 64 مسلماً شيعياً، بينهم 57 رجل دين، بتهم إرهاب، وعلى 5 آخرين بالسجن 15 عاماً، وفق معهد البحرين للحقوق والديمقراطية.",
-   "source": {
-    "name": "The New Arab",
-    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
-   }
-  },
-  {
-   "id": "20261116-0821-crimea-bridge-hit",
-   "time": "2026-11-16T08:21:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukrainian drones hit the Crimea bridge overnight; Kremlin spokesman Dmitry Peskov says the damage is minor and traffic across the bridge continues, after Sergey Aksyonov had restricted it until midday.",
-   "ar": "مسيّرات أوكرانية أصابت جسر القرم ليلاً؛ والناطق باسم الكرملين دميتري بيسكوف يقول إن الأضرار طفيفة وإن حركة العبور مستمرة، بعدما كان سيرغي أكسيونوف قد قيّدها حتى الظهر.",
-   "source": {
-    "name": "ThePrint",
-    "url": "https://theprint.in/world/ukraine-hits-bridge-linking-russia-and-crimea-kremlin-says-damage-is-minor/3100081/"
    }
   }
  ]
