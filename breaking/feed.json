@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-19T08:10:20Z",
+ "updated": "2026-11-19T09:08:42Z",
  "items": [
+  {
+   "id": "20261119-0836-trump-xi-putin-trilateral-opens",
+   "time": "2026-11-19T08:36:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump, Xi and Putin open their first three-way talks in Shenzhen, with Trump saying 'we are really making history' and nuclear arms cuts, Ukraine and Iran on the agenda.",
+   "ar": "ترامب وشي وبوتين يفتتحون أول محادثات ثلاثية بينهم في شنتشن، وترامب يقول «نحن نصنع التاريخ حقاً»، وعلى جدول الأعمال خفض الأسلحة النووية وحربا أوكرانيا وإيران.",
+   "source": {
+    "name": "AP via The Irish News",
+    "url": "https://www.irishnews.com/news/world/we-are-really-making-history-says-trump-as-meeting-with-xi-and-putin-begins-WLCJJ6O2DVJS7OEVV56ETW2MTE/"
+   }
+  },
   {
    "id": "20261119-0713-trump-putin-40-minutes",
    "time": "2026-11-19T07:13:00Z",
@@ -47,6 +59,18 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4186225-air-defense-downs-69-drones-launched-by-russia-in-overnight-attack-on-ukraine.html"
+   }
+  },
+  {
+   "id": "20261119-0639-coalition-four-houthi-missiles-south",
+   "time": "2026-11-19T06:39:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says its air defences destroyed 4 Houthi ballistic missiles fired at the kingdom's south, as civil defence alerts in Abha and Khamis Mushait were later lifted.",
+   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية دمّرت 4 صواريخ باليستية أطلقها الحوثيون نحو جنوب المملكة، فيما رُفعت لاحقاً إنذارات الدفاع المدني في أبها وخميس مشيط.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-downed-houthi-missiles-alerts-lifted-khamis"
    }
   },
   {
@@ -1765,30 +1789,6 @@
    "source": {
     "name": "Eunews",
     "url": "https://www.eunews.it/en/2026/11/16/ukraine-kallas-a-ceasefire-is-needed-to-begin-talks-but-moscow-isnt-serious/"
-   }
-  },
-  {
-   "id": "20261116-1220-eu-113-russia-listings",
-   "time": "2026-11-16T12:20:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "EU foreign ministers finalise 113 new Russia sanctions listings targeting almost 50 banks, St Petersburg's oil terminal, shadow-fleet ships and Wildberries owner Tatyana Kim, per the Kyiv Independent.",
-   "ar": "وزراء خارجية الاتحاد الأوروبي يقرّون 113 إدراجاً جديداً في العقوبات على روسيا تطال نحو 50 مصرفاً ومحطة نفط سان بطرسبرغ وسفناً من «أسطول الظل» ومالكة «وايلدبيريز» تاتيانا كيم، بحسب «كييف إندبندنت».",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/eu-clamps-down-on-russias-wildberries-owner-50-banks-oil-and-shadow-fleet-with-new-sanctions/"
-   }
-  },
-  {
-   "id": "20261116-1058-waltz-hezbollah-disarm",
-   "time": "2026-11-16T10:58:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "US Ambassador to the UN Mike Waltz says in Beirut that 'no country can have two armies' and Hezbollah should disarm voluntarily, with the Lebanese army restoring sovereignty.",
-   "ar": "السفير الأميركي لدى الأمم المتحدة مايك والتز يقول في بيروت إن «لا دولة يمكن أن يكون لها جيشان» وعلى حزب الله نزع سلاحه طوعاً ليستعيد الجيش اللبناني السيادة.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/us-envoy-presses-hezbollah-to-disarm-voluntarily-as-lebanon-weighs-security-after-unifil-3012226"
    }
   }
  ]
