@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-19T03:07:49Z",
+ "updated": "2026-11-19T04:08:17Z",
  "items": [
+  {
+   "id": "20261119-0315-trump-iran-gas-bio",
+   "time": "2026-11-19T03:15:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells Fox News in Shenzhen that Iran is 'looking at gases, looking at bio' because the US has blocked its nuclear path, while downplaying the threat.",
+   "ar": "ترامب يقول لـ«فوكس نيوز» في شنتشن إن إيران «تبحث في الغازات والأسلحة البيولوجية» لأن واشنطن أغلقت أمامها الطريق النووي، مع تقليله من حجم التهديد.",
+   "source": {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/"
+   }
+  },
   {
    "id": "20261119-0100-mbs-receives-cooper",
    "time": "2026-11-19T01:00:00Z",
@@ -1777,18 +1789,6 @@
    "source": {
     "name": "ThePrint",
     "url": "https://theprint.in/world/ukraine-hits-bridge-linking-russia-and-crimea-kremlin-says-damage-is-minor/3100081/"
-   }
-  },
-  {
-   "id": "20261116-0736-iran-no-iaea-access",
-   "time": "2026-11-16T07:36:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's deputy foreign minister Kazem Gharibabadi says UN nuclear inspectors will not visit its bombed sites until Iran's conditions are met and the war has permanently ended.",
-   "ar": "نائب وزير الخارجية الإيراني كاظم غريب آبادي يقول إن مفتشي الأمم المتحدة النوويين لن يزوروا المواقع المقصوفة قبل تلبية شروط إيران وانتهاء الحرب نهائياً.",
-   "source": {
-    "name": "AFP via Khaleej Times",
-    "url": "https://www.khaleejtimes.com/world/mena/iran-not-allow-un-inspections-damaged-nuclear-sites-until-war-ends"
    }
   }
  ]
