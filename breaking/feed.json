@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T10:09:10Z",
+ "updated": "2026-11-19T11:08:23Z",
  "items": [
+  {
+   "id": "20261119-1100-tsmc-samsung-halt-china-chips",
+   "time": "2026-11-19T11:00:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "TSMC and Samsung suspend some chip shipments to Chinese customers after the US Commerce Department introduces new export controls, per the Financial Times.",
+   "ar": "«تي إس إم سي» و«سامسونغ» تعلّقان بعض شحنات الرقائق إلى زبائن صينيين بعد فرض وزارة التجارة الأميركية ضوابط تصدير جديدة، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
   {
    "id": "20261119-1001-denmark-greenland-us-security-deal",
    "time": "2026-11-19T10:01:00Z",
@@ -13,6 +24,41 @@
    }
   },
   {
+   "id": "20261119-1001-israeli-strikes-zawtar-qantara",
+   "time": "2026-11-19T10:01:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli strikes hit Zawtar-Mayfadoun and al-Qantara in south Lebanon on Thursday after overnight strikes and shelling on Beit Yahoun, Hadatha and Harees, per Naharnet; no casualties are reported.",
+   "ar": "غارات إسرائيلية تستهدف زوطر-ميفدون والقنطرة في جنوب لبنان الخميس، بعد غارات وقصف ليلي على بيت ياحون وحداثا وحاريص، بحسب «نهارنت»؛ ولا إصابات مُعلنة.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323887-south-lebanon-latest-developments"
+   }
+  },
+  {
+   "id": "20261119-1000-eu-methane-rules-delay",
+   "time": "2026-11-19T10:00:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The EU reaches a tentative deal to delay methane rules for oil and gas importers by two years, beyond the one-year reprieve proposed, after Iran-war supply disruptions.",
+   "ar": "الاتحاد الأوروبي يتوصّل إلى اتفاق مبدئي لتأجيل قواعد الميثان على مستوردي النفط والغاز سنتين، أبعد من مهلة السنة المقترحة، بعد اضطرابات الإمدادات بسبب حرب إيران.",
+   "source": {
+    "name": "Bloomberg"
+   }
+  },
+  {
+   "id": "20261119-0954-irgc-two-supertankers-mines",
+   "time": "2026-11-19T09:54:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy claims two supertankers carrying over 4 million barrels of crude hit a naval mine and exploded on a restricted route in Hormuz; unverified.",
+   "ar": "بحرية الحرس الثوري الإيراني تزعم أن ناقلتين عملاقتين تحملان أكثر من 4 ملايين برميل من النفط الخام اصطدمتا بلغم بحري وانفجرتا على مسار محظور في هرمز؛ من دون تأكيد مستقل.",
+   "source": {
+    "name": "Mehr News Agency",
+    "url": "https://en.mehrnews.com/news/249538/Two-violating-supertankers-explode-in-Strait-of-Hormuz"
+   }
+  },
+  {
    "id": "20261119-0953-germany-ukraine-aid-veto-proof",
    "time": "2026-11-19T09:53:00Z",
    "theater": "europe",
@@ -22,6 +68,18 @@
    "source": {
     "name": "Politico Europe",
     "url": "https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/"
+   }
+  },
+  {
+   "id": "20261119-0951-aoun-berri-dahr-baidar-deal",
+   "time": "2026-11-19T09:51:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "President Aoun and Speaker Berri reach a settlement keeping the Dahr al-Baidar explosives case at the Military Court under Judge Claude Ghanem, with Hezbollah's consent, per Ad-Diyar.",
+   "ar": "الرئيس عون ورئيس المجلس بري يتوصّلان إلى تسوية تُبقي ملف متفجرات ضهر البيدر أمام المحكمة العسكرية برئاسة القاضي كلود غانم، بموافقة حزب الله، بحسب «الديار».",
+   "source": {
+    "name": "Ad-Diyar via Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/323884-aoun-berri-reach-settlement-on-dahr-al-baidar-explosives-report-says"
    }
   },
   {
@@ -1730,65 +1788,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1758906"
-   }
-  },
-  {
-   "id": "20261116-1802-lebanon-finance-banks-strike",
-   "time": "2026-11-16T18:02:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's Finance Ministry says it will apply tax law to banks without exception, after the Association of Banks announced a warning strike over amended 2020–24 tax returns.",
-   "ar": "وزارة المالية اللبنانية تؤكد أنها ستطبّق القوانين الضريبية على المصارف من دون استثناء، بعدما أعلنت جمعية المصارف إضراباً تحذيرياً احتجاجاً على تعديل التصاريح الضريبية للأعوام 2020–2024.",
-   "source": {
-    "name": "Annahar",
-    "url": "https://annahar.com/lebanon/367056/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D9%84%D8%A7-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86"
-   }
-  },
-  {
-   "id": "20261116-1637-eu-syria-association-deal",
-   "time": "2026-11-16T16:37:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "EU foreign ministers back moving ahead with an EU-Syria Association Agreement, Kaja Kallas says, seeking 'a major upgrade' in ties covering trade, political dialogue and cooperation.",
-   "ar": "وزراء خارجية الاتحاد الأوروبي يؤيّدون المضيّ في اتفاق شراكة بين الاتحاد وسوريا، بحسب كايا كالاس التي تتحدث عن «ترقية كبرى» للعلاقات تشمل التجارة والحوار السياسي والتعاون.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/"
-   }
-  },
-  {
-   "id": "20261116-1523-saudi-ruwaili-joint-forces",
-   "time": "2026-11-16T15:23:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "A Saudi royal decree names Chief of the General Staff Lt Gen Fayyad Al Ruwaili commander of the Joint Forces fighting the Houthis, replacing Lt Gen Fahad Al Salman, who becomes a defence adviser.",
-   "ar": "مرسوم ملكي سعودي يعيّن رئيس هيئة الأركان العامة الفريق أول فياض الرويلي قائداً للقوات المشتركة التي تقاتل الحوثيين خلفاً للفريق فهد بن حمد السلمان الذي يصبح مستشاراً لوزير الدفاع.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/saudi-arabia-replaces-joint-forces-commander-overseeing-fight-with-houthis/"
-   }
-  },
-  {
-   "id": "20261116-1456-trump-xi-putin-ukraine-kim",
-   "time": "2026-11-16T14:56:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says he will raise Russia's war in Ukraine at his meeting with Xi and Putin in China and may also meet North Korea's Kim Jong Un.",
-   "ar": "ترامب يقول إنه سيطرح الحرب الروسية على أوكرانيا في لقائه مع شي وبوتين في الصين، وقد يلتقي أيضاً زعيم كوريا الشمالية كيم جونغ أون.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261116-1436-herzog-unity-call",
-   "time": "2026-11-16T14:36:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "President Isaac Herzog says 'Israel is greater than any political faction, bloc or leader' and urges compromise as Eisenkot leads coalition talks, per LaPresse.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يقول إن «إسرائيل أكبر من أي فصيل أو كتلة أو زعيم» ويدعو إلى التسوية فيما يقود آيزنكوت مشاورات تشكيل الحكومة، بحسب «لابريسي».",
-   "source": {
-    "name": "LaPresse",
-    "url": "https://uk.lapresse.it/world-en/2026/11/16/israel-herzog-now-is-the-time-for-unity-and-compromise/"
    }
   }
  ]
