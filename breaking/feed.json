@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:09:06Z",
+ "updated": "2026-11-19T19:08:45Z",
  "items": [
   {
    "id": "20261119-1804-idf-strike-janta-bekaa",
@@ -11,6 +11,30 @@
    "source": {
     "name": "Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/defense-news/article-915527"
+   }
+  },
+  {
+   "id": "20261119-1757-berlin-four-way-format",
+   "time": "2026-11-19T17:57:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "After Berlin talks with US envoys Witkoff and Kushner, Zelensky says the next round will use a four-way format with the US, Russia and Europe; Merz says Europe wants to negotiate alongside Kyiv and Washington, per Kyiv Post.",
+   "ar": "بعد محادثات برلين مع المبعوثَين الأميركيَّين ويتكوف وكوشنر، زيلينسكي يقول إن الجولة المقبلة ستُعقد بصيغة رباعية تضم الولايات المتحدة وروسيا وأوروبا، وميرتس يقول إن أوروبا تريد التفاوض إلى جانب كييف وواشنطن، بحسب «كييف بوست».",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90635"
+   }
+  },
+  {
+   "id": "20261119-1746-eisenkot-minority-government-vote",
+   "time": "2026-11-19T17:46:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot plans to put a government to a Knesset vote before his mandate expires on 6 December, even as a minority government, possibly on 28 or 29 November, per Haaretz and Ynet.",
+   "ar": "آيزنكوت يعتزم عرض حكومة على تصويت الكنيست قبل انتهاء تكليفه في 6 كانون الأول، ولو كحكومة أقلية، وربما في 28 أو 29 تشرين الثاني، بحسب «هآرتس» و«واينت».",
+   "source": {
+    "name": "Haaretz",
+    "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-19/ty-article/.premium/eisenkot-plans-knesset-vote-on-govt-led-by-him-even-if-coalition-talks-fail/000001a1-f454-d287-adbb-f65e3bfb0000"
    }
   },
   {
@@ -1765,30 +1789,6 @@
    "source": {
     "name": "Oman foreign ministry via Asharq Al-Awsat",
     "url": "https://english.aawsat.com/gulf/5342183-oman-iran-discuss-safeguarding-maritime-corridors"
-   }
-  },
-  {
-   "id": "20261117-0307-trump-asia-trip-manila",
-   "time": "2026-11-17T03:07:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump flies to Asia with Rubio and Bessent for the ASEAN summit in Manila, then the APEC summit in Shenzhen, where he plans nuclear talks with Xi and Putin.",
-   "ar": "ترامب يتوجّه إلى آسيا برفقة روبيو وبيسنت لحضور قمة آسيان في مانيلا، ثم قمة أبيك في شنتشن حيث يعتزم إجراء محادثات نووية مع شي وبوتين.",
-   "source": {
-    "name": "AP via France 24",
-    "url": "https://sg.news.yahoo.com/trump-heads-asia-historic-nuclear-030759928.html"
-   }
-  },
-  {
-   "id": "20261117-0040-crimea-bridge-hit-again",
-   "time": "2026-11-17T00:40:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Ukrainian strike collapses a road section of the Crimea bridge; Zelensky says Ukraine hit both its road and rail sections with drones and Neptune missiles in a weeks-long operation.",
-   "ar": "ضربة أوكرانية تُسقط قسماً من الطريق البري لجسر القرم؛ وزيلينسكي يقول إن أوكرانيا أصابت قسمَيه البري والحديدي بمسيّرات وصواريخ «نبتون» ضمن عملية استمرت أسابيع.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90332"
    }
   }
  ]
