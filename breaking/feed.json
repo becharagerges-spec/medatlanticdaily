@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:09:03Z",
+ "updated": "2026-11-19T00:07:50Z",
  "items": [
   {
    "id": "20261118-2034-israeli-strike-kfar-tebnit",
@@ -11,6 +11,18 @@
    "source": {
     "name": "Beirut 24",
     "url": "https://www.beirut24.org/2026/11/18/%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%81%D8%B1%D8%AA%D8%A8%D9%86%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AC%D9%86%D9%88/"
+   }
+  },
+  {
+   "id": "20261118-2026-iran-navy-three-tankers-mines",
+   "time": "2026-11-18T20:26:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says three oil tankers sailing east of the Strait of Hormuz hit naval mines, caught fire and were disabled, per Press TV; it named no ships and gave no casualties.",
+   "ar": "البحرية الإيرانية تقول إن ثلاث ناقلات نفط كانت تبحر شرق مضيق هرمز اصطدمت بألغام بحرية فاشتعلت فيها النيران وتعطّلت، بحسب «برس تي في»؛ ولم تسمِّ السفن ولم تذكر إصابات.",
+   "source": {
+    "name": "Reuters via Cyprus Mail",
+    "url": "https://cyprus-mail.com/2026/11/18/three-oil-tankers-catch-fire-after-hitting-naval-mines-east-of-strait-of-hormuz"
    }
   },
   {
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/emergencies/2218527"
-   }
-  },
-  {
-   "id": "20261116-0552-us-post-unifil-observers",
-   "time": "2026-11-16T05:52:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Washington proposes replacing UNIFIL after 2026 with a UN-covered observer mission of fewer than 100 personnel, operating north and south of the Litani, per Al Arabiya citing a diplomatic source.",
-   "ar": "واشنطن تقترح استبدال «اليونيفيل» بعد 2026 ببعثة مراقبين بغطاء أممي تضمّ أقل من 100 عنصر وتعمل شمال الليطاني وجنوبه، بحسب «العربية» نقلاً عن مصدر دبلوماسي.",
-   "source": {
-    "name": "Al Arabiya via Daily Beirut",
-    "url": "https://dailybeirut.com/en/lebanon-news/fewer-than-100-observers-washington-seeks-alternative-to-unifil-in-beirut/"
    }
   }
  ]
