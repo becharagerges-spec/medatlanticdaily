@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:10:41Z",
+ "updated": "2026-11-19T14:09:56Z",
  "items": [
   {
    "id": "20261119-1146-icj-myanmar-genocide",
@@ -152,6 +152,18 @@
    "source": {
     "name": "Xinhua via Outlook India",
     "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
+   }
+  },
+  {
+   "id": "20261119-0925-eu-commission-cyberattack",
+   "time": "2026-11-19T09:25:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Commission says hackers targeted individual staff systems in an attack running about ten days, forcing payroll, leave and medical-reimbursement tools offline, per Politico.",
+   "ar": "المفوضية الأوروبية تقول إن قراصنة استهدفوا أنظمة فردية لموظفيها في هجوم استمر نحو عشرة أيام، ما أخرج أدوات الرواتب والإجازات واسترداد النفقات الطبية من الخدمة، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/"
    }
   },
   {
@@ -1776,18 +1788,6 @@
    "source": {
     "name": "UKMTO via Shafaq News",
     "url": "https://shafaq.com/en/World/Supertanker-gas-carrier-hit-mines-in-Hormuz-IRGC-says"
-   }
-  },
-  {
-   "id": "20261116-2145-kyiv-bridges-missile-strike",
-   "time": "2026-11-16T21:45:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian ballistic missile attack hits Kyiv's North and South bridges over the Dnipro, Mayor Vitali Klitschko says, cutting water and heating in parts of the capital.",
-   "ar": "هجوم روسي بالصواريخ الباليستية يصيب جسرَي الشمال والجنوب فوق نهر دنيبرو في كييف، بحسب رئيس البلدية فيتالي كليتشكو، ويقطع المياه والتدفئة عن أجزاء من العاصمة.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
    }
   }
  ]
