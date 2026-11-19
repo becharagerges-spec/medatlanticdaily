@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T07:09:16Z",
+ "updated": "2026-11-19T08:10:20Z",
  "items": [
+  {
+   "id": "20261119-0713-trump-putin-40-minutes",
+   "time": "2026-11-19T07:13:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Trump and Putin hold about 40 minutes of talks in Shenzhen, their first meeting since the August 2025 Alaska summit, including on Ukraine, before three-way talks with Xi.",
+   "ar": "ترامب وبوتين يعقدان محادثات استمرت نحو 40 دقيقة في شنجن، في أول لقاء بينهما منذ قمة ألاسكا في آب 2025، وتناولت أوكرانيا، قبل المحادثات الثلاثية مع شي.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year"
+   }
+  },
+  {
+   "id": "20261119-0658-iea-largest-energy-threat",
+   "time": "2026-11-19T06:58:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The IEA's World Energy Outlook calls the Middle East crisis the largest threat to energy security in history, with Gulf losses of 2.8 billion barrels of oil and 60 bcm of gas.",
+   "ar": "تقرير «آفاق الطاقة العالمية» الصادر عن وكالة الطاقة الدولية يصف أزمة الشرق الأوسط بأنها أكبر تهديد لأمن الطاقة في التاريخ، مع خسائر خليجية بلغت 2.8 مليار برميل نفط و60 مليار متر مكعب غاز.",
+   "source": {
+    "name": "AFP via Prothom Alo",
+    "url": "https://en.prothomalo.com/international/middle-east/nb2utr8svu"
+   }
+  },
   {
    "id": "20261119-0652-trump-incredible-meeting-xi",
    "time": "2026-11-19T06:52:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "ABC News",
     "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+   }
+  },
+  {
+   "id": "20261119-0640-ukraine-98-drones-oniks",
+   "time": "2026-11-19T06:40:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 98 drones and Oniks missiles overnight; 69 drones were downed and strikes hit 18 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 98 مسيّرة وصواريخ «أونيكس» خلال الليل؛ أُسقطت 69 مسيّرة وأصابت الضربات 18 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4186225-air-defense-downs-69-drones-launched-by-russia-in-overnight-attack-on-ukraine.html"
    }
   },
   {
@@ -42,11 +78,11 @@
    "time": "2026-11-19T02:20:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says it dealt with a Houthi missile fired at Riyadh before dawn; falling debris caused material damage that is still being assessed.",
-   "ar": "التحالف بقيادة السعودية يعلن تصدّيه لصاروخ حوثي أُطلق نحو الرياض فجراً، وسقوط شظايا أوقع أضراراً مادية لا تزال قيد التقييم.",
+   "en": "A Houthi missile strike on Riyadh's financial district damages the Public Investment Fund Tower, three sources tell Reuters; the Saudi-led coalition says falling debris caused material damage still being assessed.",
+   "ar": "ضربة صاروخية حوثية على الحي المالي في الرياض تُلحق أضراراً ببرج صندوق الاستثمارات العامة، بحسب ثلاثة مصادر لـ«رويترز»؛ والتحالف بقيادة السعودية يقول إن سقوط الشظايا أوقع أضراراً مادية لا تزال قيد التقييم.",
    "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says/3102678/"
+    "name": "Reuters via The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
    }
   },
   {
@@ -1753,42 +1789,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.com/middle-east/us-envoy-presses-hezbollah-to-disarm-voluntarily-as-lebanon-weighs-security-after-unifil-3012226"
-   }
-  },
-  {
-   "id": "20261116-1043-araghchi-eco-hormuz-plan",
-   "time": "2026-11-16T10:43:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian Foreign Minister Abbas Araghchi says the 10-nation Economic Cooperation Organization backs Iran's two-day plan to reopen the Strait of Hormuz, which he says could lead to a ceasefire.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن منظمة التعاون الاقتصادي التي تضم 10 دول تدعم خطة إيران لإعادة فتح مضيق هرمز خلال يومين، معتبراً أنها قد تمهّد لوقف إطلاق النار.",
-   "source": {
-    "name": "The New Arab",
-    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
-   }
-  },
-  {
-   "id": "20261116-1033-police-probe-election-arrests",
-   "time": "2026-11-16T10:33:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's police chief Daniel Levy orders an internal review of Election Day arrests of 3 Bedouin men, after reports a complaint by Netanyahu's chief of staff triggered them.",
-   "ar": "قائد الشرطة الإسرائيلية داني ليفي يأمر بمراجعة داخلية لاعتقال 3 رجال بدو يوم الانتخابات، بعد تقارير عن أن شكوى من مدير مكتب نتنياهو أطلقتها.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/police-chief-launches-internal-probe-after-reports-of-pmo-involvement-in-election-day-arrests"
-   }
-  },
-  {
-   "id": "20261116-1024-yemen-strikes-three-killed",
-   "time": "2026-11-16T10:24:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Houthi health authorities say 3 people, including a child, were killed in two strikes in Yemen and blame Saudi Arabia, which has not commented.",
-   "ar": "السلطات الصحية التابعة للحوثيين تقول إن 3 أشخاص بينهم طفل قُتلوا في غارتين في اليمن، وتحمّل السعودية المسؤولية، فيما لم تعلّق الرياض.",
-   "source": {
-    "name": "The New Arab",
-    "url": "https://newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines"
    }
   }
  ]
