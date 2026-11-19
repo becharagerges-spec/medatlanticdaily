@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-19T16:09:53Z",
+ "updated": "2026-11-19T17:08:32Z",
  "items": [
+  {
+   "id": "20261119-1648-trump-calls-europeans-ukraine",
+   "time": "2026-11-19T16:48:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Trump calls Ukraine's European allies after the Shenzhen summit, telling them his meeting with Putin went well and cited progress on Ukraine, while questioning them about their aid to Kyiv.",
+   "ar": "ترامب يتصل بحلفاء أوكرانيا الأوروبيين بعد قمة شنجن، ويبلغهم أن لقاءه مع بوتين كان جيداً وحقق تقدماً بشأن أوكرانيا، مستفسراً عن مساعداتهم لكييف.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-calls-ukraine-s-european-allies-to-tout-his-putin-meeting"
+   }
+  },
+  {
+   "id": "20261119-1555-us-sanctions-ndrangheta-comancheros",
+   "time": "2026-11-19T15:55:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US sanctions Italy's 'Ndrangheta and Australia's Comanchero motorcycle gang, saying both give logistical support to the Sinaloa Cartel, CJNG and Clan del Golfo, designated terrorist organizations.",
+   "ar": "الولايات المتحدة تفرض عقوبات على «ندرانغيتا» الإيطالية وعصابة «كومانتشيرو» الأسترالية، قائلةً إنهما تقدّمان دعماً لوجستياً لكارتلات سينالوا وخاليسكو و«كلان ديل غولفو» المصنّفة إرهابية.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-major-international-drug-trafficking-organizations-linked-to-foreign-terrorist-organizations/"
+   }
+  },
+  {
+   "id": "20261119-1549-likud-yashar-unity-talks",
+   "time": "2026-11-19T15:49:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud says negotiating teams of Netanyahu's bloc and Eisenkot's Yashar will meet Sunday to continue unity-government talks, while accusing Eisenkot of negotiating 'only for appearances' sake', per the Jerusalem Post.",
+   "ar": "الليكود يقول إن فريقَي التفاوض عن كتلة نتنياهو وحزب «يشار» بقيادة آيزنكوت سيجتمعان الأحد لمواصلة محادثات حكومة الوحدة، متهماً آيزنكوت بالتفاوض «للمظاهر فقط»، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915505"
+   }
+  },
   {
    "id": "20261119-1305-kyiv-dutch-embassy",
    "time": "2026-11-19T13:05:00Z",
@@ -1753,41 +1789,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/two-israelis-wounded-in-suspected-terror-attack-while-driving-to-new-outpost-on-jerichos-outskirts/"
-   }
-  },
-  {
-   "id": "20261116-2244-rubio-bahrain-call",
-   "time": "2026-11-16T22:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio condemns Iran's attacks on Bahrain in a call with Foreign Minister Abdullatif Al Zayani and reaffirms US commitment to the security of Bahrain and Gulf partners.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يدين الهجمات الإيرانية على البحرين في اتصال مع وزير خارجيتها عبد اللطيف الزياني، ويؤكد التزام واشنطن بأمن البحرين وشركائها الخليجيين.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-bahraini-foreign-minister-al-zayani/"
-   }
-  },
-  {
-   "id": "20261116-2219-united-airlines-outage",
-   "time": "2026-11-16T22:19:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "United Airlines reports a systemwide outage days after an FAA network fault forced a nationwide ground stop, then says it has resolved the technology issue that affected departing flights.",
-   "ar": "شركة «يونايتد إيرلاينز» تعلن عطلاً شاملاً في أنظمتها بعد أيام من خلل في شبكة إدارة الطيران الفدرالية فرض وقفاً للرحلات على مستوى البلاد، ثم تقول إنها عالجت المشكلة التي أثّرت على الرحلات المغادرة.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261116-2208-russia-claims-1336-drones",
-   "time": "2026-11-16T22:08:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Russia's Defence Ministry says it downed 1,336 Ukrainian drones, which it calls the largest single aerial attack since the full-scale invasion; 6 are wounded in Krasnodar region.",
-   "ar": "وزارة الدفاع الروسية تقول إنها أسقطت 1336 مسيّرة أوكرانية، وتصفه بأكبر هجوم جوي منذ بدء الغزو الشامل؛ وإصابة 6 أشخاص في إقليم كراسنودار.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack-3012359"
    }
   }
  ]
