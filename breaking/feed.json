@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-19T22:08:53Z",
+ "updated": "2026-11-20T03:08:11Z",
  "items": [
+  {
+   "id": "20261120-0148-asia-stocks-worst-week",
+   "time": "2026-11-20T01:48:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian shares head for their worst week since March 2020 as the AI sell-off deepens: Japan's Nikkei falls 4.1%, South Korea's KOSPI 4.7% and MSCI Asia-Pacific 2.5%; Brent holds at $91.98.",
+   "ar": "الأسهم الآسيوية تتجه إلى أسوأ أسبوع منذ آذار 2020 مع تعمّق موجة بيع أسهم الذكاء الاصطناعي: نيكاي الياباني يتراجع 4.1% وكوسبي الكوري 4.7% ومؤشر MSCI لآسيا والمحيط الهادئ 2.5%، وبرنت عند 91.98 دولاراً.",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-head-worst-week-014854250.html"
+   }
+  },
+  {
+   "id": "20261120-0143-us-cyber-director-replaced",
+   "time": "2026-11-20T01:43:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "National Cyber Director Sean Cairncross is being replaced as the US reels from a string of cyber outages, a source close to the White House tells CNN.",
+   "ar": "مصدر مقرّب من البيت الأبيض يقول لـ«سي إن إن» إن مدير الأمن السيبراني الوطني شون كيرنكروس سيُستبدل، فيما تعاني الولايات المتحدة سلسلة أعطال سيبرانية.",
+   "source": {
+    "name": "CNN"
+   }
+  },
+  {
+   "id": "20261119-2325-kyiv-missile-attack",
+   "time": "2026-11-19T23:25:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Explosions hit Kyiv at about 01:25 local time as Russia launches a mass missile attack on cities across Ukraine, after Putin vowed revenge for the Crimean Bridge strike, per Kyiv Independent.",
+   "ar": "انفجارات تهزّ كييف نحو الساعة 01:25 بالتوقيت المحلي مع إطلاق روسيا هجوماً صاروخياً واسعاً على مدن في أنحاء أوكرانيا، بعد توعّد بوتين بالانتقام لضرب جسر القرم، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+   }
+  },
   {
    "id": "20261119-2100-dow-plunges-1100",
    "time": "2026-11-19T21:00:00Z",
@@ -1753,42 +1788,6 @@
    "source": {
     "name": "MENA via Maspero",
     "url": "https://www.maspero.eg/arab-and-world/2026/11/17/1006331/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
-   }
-  },
-  {
-   "id": "20261117-0916-mongolia-president-resigns",
-   "time": "2026-11-17T09:16:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Mongolian President Khurelsukh Ukhnaa announces his resignation over opposition allegations of bribery in a 2019 railway contract, which he denies; parliament must approve it.",
-   "ar": "الرئيس المنغولي خورلسوخ أوخنا يعلن استقالته على خلفية اتهامات المعارضة له بتلقي رشى في عقد سكك حديد عام 2019، وهو ينفيها؛ ويتعيّن على البرلمان إقرار الاستقالة.",
-   "source": {
-    "name": "The Independent",
-    "url": "https://sg.news.yahoo.com/mongolian-president-resigns-following-railway-092202168.html"
-   }
-  },
-  {
-   "id": "20261117-0753-turkey-sozcu-tv-raid",
-   "time": "2026-11-17T07:53:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Turkish police raid the Istanbul headquarters of pro-opposition Sözcü TV, detain board chair Funda Tuncer Sıdalı and install a government-appointed trustee under a court order, Sözcü says.",
-   "ar": "الشرطة التركية تداهم مقرّ قناة «سوزجو» المعارضة في إسطنبول، وتوقف رئيسة مجلس إدارتها فوندا تونجر سيدالي، وتعيّن وصياً حكومياً بقرار قضائي، بحسب «سوزجو».",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/17/police-raid-turkish-pro-opposition-broadcaster-sozcu-tv-carry-out-arrests"
-   }
-  },
-  {
-   "id": "20261117-0736-russia-strikes-zaporizhzhia-smila",
-   "time": "2026-11-17T07:36:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "A Russian missile and drone attack on Kyiv, Zaporizhzhia, Kharkiv and Smila on Tuesday kills 2 people and injures 38 in Zaporizhzhia, where industrial sites caught fire, per Ukrainska Pravda.",
-   "ar": "هجوم روسي بالصواريخ والمسيّرات على كييف وزابوريجيا وخاركيف وسميلا الثلاثاء يقتل شخصين ويصيب 38 في زابوريجيا حيث اندلعت حرائق في منشآت صناعية، بحسب «أوكراينسكا برافدا».",
-   "source": {
-    "name": "Ukrainska Pravda",
-    "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/"
    }
   }
  ]
