@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-20T17:08:58Z",
+ "updated": "2026-11-20T18:09:00Z",
  "items": [
+  {
+   "id": "20261120-1753-nasdaq-wipes-2026-gains",
+   "time": "2026-11-20T17:53:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The Nasdaq Composite wipes out all its gains for 2026 as the sell-off in technology and AI stocks intensifies on Wall Street on Friday.",
+   "ar": "مؤشر ناسداك المركّب يمحو كل مكاسبه لعام 2026 مع اشتداد موجة بيع أسهم التكنولوجيا والذكاء الاصطناعي في وول ستريت يوم الجمعة.",
+   "source": {
+    "name": "CNN"
+   }
+  },
+  {
+   "id": "20261120-1747-trump-iran-deal",
+   "time": "2026-11-20T17:47:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "At a White House news conference, Trump says Iran wants a deal but not one 'acceptable to me', accusing Tehran of 'bullshitting people for 51 years'.",
+   "ar": "ترامب يقول في مؤتمر صحافي في البيت الأبيض إن إيران تريد اتفاقاً لكن ليس اتفاقاً «مقبولاً بالنسبة إليّ»، متّهماً طهران بـ«خداع الناس منذ 51 عاماً».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/international/article-915604"
+   }
+  },
   {
    "id": "20261120-1657-houthis-say-41-killed",
    "time": "2026-11-20T16:57:00Z",
@@ -11,6 +34,18 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-41-killed-saudi-led-coalition-launches-special-operation"
+   }
+  },
+  {
+   "id": "20261120-1653-davies-cyber-director",
+   "time": "2026-11-20T16:53:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The White House names Pentagon chief information officer Kirsten Davies as national cyber director, replacing the departing Sean Cairncross; the post requires Senate confirmation.",
+   "ar": "البيت الأبيض يسمّي كبيرة مسؤولي المعلومات في البنتاغون كيرستن ديفيس مديرةً وطنية للأمن السيبراني خلفاً لشون كيرنكروس المغادر، والمنصب يتطلّب مصادقة مجلس الشيوخ.",
+   "source": {
+    "name": "The White House",
+    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/"
    }
   },
   {
@@ -93,6 +128,18 @@
    "source": {
     "name": "This is Beirut",
     "url": "https://thisisbeirut.com.lb/news/politics/saudi-led-coalition-launches-military-operation-targeting-houthi-capabilities-across-yemen"
+   }
+  },
+  {
+   "id": "20261120-1351-iraq-zaidi-no-arms",
+   "time": "2026-11-20T13:51:00Z",
+   "theater": "iraq",
+   "status": "reported",
+   "en": "Iraqi Prime Minister Ali al-Zaidi tells troops who entered Jurf al-Nasr that the government's decision is firm: 'no weapons outside the authority of the state', per MTV Lebanon.",
+   "ar": "رئيس الوزراء العراقي علي الزيدي يقول للقوات التي دخلت جرف النصر إن قرار الحكومة حاسم: «لا سلاح خارج سلطة الدولة»، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1760310"
    }
   },
   {
@@ -1738,53 +1785,6 @@
    "source": {
     "name": "Xinhua",
     "url": "https://english.news.cn/20261118/3807b5e44dcb4685bfde3efa1a0efdd8/c.html"
-   }
-  },
-  {
-   "id": "20261117-1901-faa-halts-router-installation",
-   "time": "2026-11-17T19:01:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The FAA pauses installation of the routers linked to last week's nationwide ground stop and switches off those already installed, relying on 25-year-old routers while it investigates.",
-   "ar": "إدارة الطيران الفدرالية الأميركية تعلّق تركيب أجهزة التوجيه المرتبطة بتوقف الرحلات على مستوى البلاد الأسبوع الماضي وتطفئ ما رُكّب منها، معتمدةً على أجهزة عمرها 25 عاماً ريثما ينتهي التحقيق.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261117-1901-herzog-pahlavi-regime",
-   "time": "2026-11-17T19:01:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli President Isaac Herzog and Iran's exiled crown prince Reza Pahlavi discuss in a joint webinar the need to bring down Iran's regime, per Times of Israel.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ وولي عهد إيران المنفي رضا بهلوي يبحثان في ندوة مشتركة عبر الإنترنت ضرورة إسقاط النظام الإيراني، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-exiled-crown-prince-herzog-discuss-need-to-bring-down-regime-free-iranian-people/"
-   }
-  },
-  {
-   "id": "20261117-1850-netanyahu-unity-government-haredim",
-   "time": "2026-11-17T18:50:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu, citing unspecified security threats, renews his call for a 'national unity government' including Haredi parties but excluding Arab parties, per Times of Israel.",
-   "ar": "نتنياهو، متذرّعاً بتهديدات أمنية لم يحددها، يجدّد دعوته إلى «حكومة وحدة وطنية» تضم الأحزاب الحريدية وتستثني الأحزاب العربية، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/citing-unspecified-security-threats-netanyahu-calls-again-for-national-unity-government-with-haredim-without-arabs/"
-   }
-  },
-  {
-   "id": "20261117-1750-saar-countermeasures-uk-sanctions",
-   "time": "2026-11-17T17:50:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli Foreign Minister Gideon Sa'ar vows 'countermeasures' after Britain sanctions 8 Israeli companies involved in West Bank settlement construction, per Times of Israel.",
-   "ar": "وزير الخارجية الإسرائيلي جدعون ساعر يتوعّد بـ«إجراءات مضادة» بعد فرض بريطانيا عقوبات على 8 شركات إسرائيلية تعمل في بناء المستوطنات في الضفة الغربية، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saar-vows-countermeasures-after-uk-announces-sanctions-on-companies-involved-in-west-bank-construction/"
    }
   }
  ]
