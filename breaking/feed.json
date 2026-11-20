@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T03:08:11Z",
+ "updated": "2026-11-20T04:07:54Z",
  "items": [
+  {
+   "id": "20261120-0340-coalition-houthi-missile-south",
+   "time": "2026-11-20T03:40:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says air defences destroyed a Houthi ballistic missile fired at southern Saudi Arabia, as Civil Defense reports drones intercepted after alerts in Jazan, Abha and Khamis Mushait.",
+   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية دمّرت صاروخاً باليستياً حوثياً أُطلق نحو جنوب المملكة، فيما يفيد الدفاع المدني باعتراض مسيّرات بعد إنذارات في جازان وأبها وخميس مشيط.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-915562"
+   }
+  },
   {
    "id": "20261120-0148-asia-stocks-worst-week",
    "time": "2026-11-20T01:48:00Z",
@@ -22,6 +34,17 @@
    "ar": "مصدر مقرّب من البيت الأبيض يقول لـ«سي إن إن» إن مدير الأمن السيبراني الوطني شون كيرنكروس سيُستبدل، فيما تعاني الولايات المتحدة سلسلة أعطال سيبرانية.",
    "source": {
     "name": "CNN"
+   }
+  },
+  {
+   "id": "20261120-0124-doj-drops-alaska-senate-suit",
+   "time": "2026-11-20T01:24:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The Trump administration moves to effectively drop its lawsuit seeking to block certification of Democrat Mary Peltola's victory in Alaska's US Senate race.",
+   "ar": "إدارة ترامب تتحرك لإسقاط دعواها الرامية إلى منع المصادقة على فوز الديمقراطية ماري بيلتولا بمقعد ألاسكا في مجلس الشيوخ الأميركي.",
+   "source": {
+    "name": "AP"
    }
   },
   {
@@ -1764,30 +1787,6 @@
    "source": {
     "name": "AP via ABC News",
     "url": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916"
-   }
-  },
-  {
-   "id": "20261117-0939-stubb-europe-engage-putin",
-   "time": "2026-11-17T09:39:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Finnish President Alexander Stubb tells the Financial Times that European leaders should engage Putin directly, calling reliance on the US for Russia talks 'irresponsible'.",
-   "ar": "الرئيس الفنلندي ألكسندر ستوب يقول لصحيفة «فايننشال تايمز» إن على القادة الأوروبيين التواصل مباشرة مع بوتين، واصفاً الاعتماد على واشنطن في المحادثات مع روسيا بأنه «غير مسؤول».",
-   "source": {
-    "name": "Financial Times via Kyiv Independent",
-    "url": "https://kyivindependent.com/finlands-stubb-urges-europe-to-take-russia-talks-into-its-own-hands/"
-   }
-  },
-  {
-   "id": "20261117-0918-israel-strike-hula-south-lebanon",
-   "time": "2026-11-17T09:18:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli warplanes strike Hula in Marjayoun district and Israeli artillery shells Wadi al-Salouki and Wadi Zabqin in south Lebanon on Tuesday morning, per Egypt's MENA; no casualties are reported.",
-   "ar": "الطيران الحربي الإسرائيلي يشنّ غارة على حولا في قضاء مرجعيون، والمدفعية الإسرائيلية تقصف وادي السلوقي ووادي زبقين في جنوب لبنان صباح الثلاثاء، بحسب وكالة أنباء الشرق الأوسط؛ ولا إصابات معلنة.",
-   "source": {
-    "name": "MENA via Maspero",
-    "url": "https://www.maspero.eg/arab-and-world/2026/11/17/1006331/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
    }
   }
  ]
