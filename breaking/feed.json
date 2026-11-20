@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T20:09:11Z",
+ "updated": "2026-11-20T22:09:11Z",
  "items": [
+  {
+   "id": "20261120-2037-us-treasury-iran-oil-trustees",
+   "time": "2026-11-20T20:37:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "The US Treasury sanctions four Iranian 'oil trustees' it accuses of collecting Iranian oil-sale proceeds to evade sanctions, as the State Department says economic pressure will rise in coming days.",
+   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على أربعة إيرانيين تصفهم بـ«أمناء النفط» وتتهمهم بجمع عائدات بيع النفط الإيراني للالتفاف على العقوبات، والخارجية الأميركية تقول إن الضغط الاقتصادي سيشتدّ في الأيام المقبلة.",
+   "source": {
+    "name": "US Treasury (OFAC)",
+    "url": "https://ofac.treasury.gov/recent-actions/20261120"
+   }
+  },
   {
    "id": "20261120-1947-zawtar-explosion",
    "time": "2026-11-20T19:47:00Z",
@@ -18,11 +30,11 @@
    "time": "2026-11-20T19:31:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "The S&P 500 falls 2.1% to 7,028 and the Nasdaq 3.4% to 23,068 in afternoon trade, putting the S&P 500 and the Dow on track to confirm corrections, Reuters reports.",
-   "ar": "مؤشر ستاندرد آند بورز 500 يتراجع 2.1% إلى 7,028 نقطة وناسداك 3.4% إلى 23,068 نقطة بعد الظهر، ما يضع ستاندرد آند بورز وداو جونز على طريق تأكيد دخولهما مرحلة التصحيح، بحسب رويترز.",
+   "en": "The S&P 500 closes down 3.7%, its worst weekly loss in more than 18 months, as it and the Dow enter correction territory and the Nasdaq turns negative for 2026.",
+   "ar": "مؤشر ستاندرد آند بورز 500 يُغلق منخفضاً 3.7% في أسوأ خسارة أسبوعية منذ أكثر من 18 شهراً، ويدخل مع مؤشر داو جونز مرحلة التصحيح، فيما يتحوّل ناسداك إلى الخسارة منذ بداية 2026.",
    "source": {
-    "name": "Reuters via GV Wire",
-    "url": "https://gvwire.com/2026/11/20/wall-street-slides-on-mounting-ai-selloff-sp-500-dow-set-to-confirm-corrections/"
+    "name": "AP",
+    "url": "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
    }
   },
   {
@@ -1736,54 +1748,6 @@
    "source": {
     "name": "The Kyiv Independent",
     "url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/"
-   }
-  },
-  {
-   "id": "20261117-2130-eu-45bn-ukraine-loans",
-   "time": "2026-11-17T21:30:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Commission President Ursula von der Leyen proposes a €45 billion EU loan to Ukraine for 2027, covering about two-thirds of Kyiv's financing needs, to be repaid by Russia, per France 24.",
-   "ar": "رئيسة المفوضية أورسولا فون دير لاين تقترح قرضاً أوروبياً لأوكرانيا بقيمة 45 مليار يورو لعام 2027 يغطي نحو ثلثي حاجات كييف التمويلية وتسدّده روسيا، بحسب «فرانس 24».",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/europe/20261118-eu-proposes-new-€45-billion-ukraine-loan-to-be-repaid-by-russia"
-   }
-  },
-  {
-   "id": "20261117-2128-nvidia-forecast-beats",
-   "time": "2026-11-17T21:28:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nvidia forecasts fourth-quarter revenue of $130 billion, plus or minus 3%, above the $125.25 billion analysts expected, in its first report since Jensen Huang's exit as CEO.",
-   "ar": "«إنفيديا» تتوقع إيرادات بقيمة 130 مليار دولار للربع الرابع، بزيادة أو نقصان 3%، فوق توقعات المحللين البالغة 125.25 مليار دولار، في أول تقرير لها منذ خروج جنسن هوانغ من رئاستها التنفيذية.",
-   "source": {
-    "name": "Reuters via CP24",
-    "url": "https://www.cp24.com/news/money/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/"
-   }
-  },
-  {
-   "id": "20261117-2118-kahana-elected-speaker",
-   "time": "2026-11-17T21:18:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "The Knesset elects Yashar's Matan Kahana, the Eisenkot bloc's nominee, as speaker by 66 votes to 52 after a six-hour filibuster by Netanyahu's bloc.",
-   "ar": "الكنيست ينتخب ماتان كاهانا من حزب «ياشار»، مرشّح كتلة آيزنكوت، رئيساً له بـ66 صوتاً مقابل 52، بعد عرقلة استمرت ست ساعات من كتلة نتنياهو.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-after-six-hour-filibuster-by-netanyahu-bloc/"
-   }
-  },
-  {
-   "id": "20261117-2044-ag-freezes-e1-tender",
-   "time": "2026-11-17T20:44:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel's attorney general freezes the tender process for the controversial E1 settlement project east of Jerusalem until a new government is sworn in, per Times of Israel.",
-   "ar": "المستشارة القضائية للحكومة الإسرائيلية تجمّد إجراءات مناقصة مشروع مستوطنة E1 المثير للجدل شرق القدس إلى حين أداء حكومة جديدة اليمين، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/attorney-general-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/"
    }
   }
  ]
