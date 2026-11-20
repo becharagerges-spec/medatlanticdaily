@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T06:08:33Z",
+ "updated": "2026-11-20T07:09:31Z",
  "items": [
+  {
+   "id": "20261120-0422-saudi-mfa-will-not-tolerate",
+   "time": "2026-11-20T04:22:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia's Foreign Ministry condemns Houthi attacks that damaged Riyadh's King Abdullah Financial District, saying the kingdom will not tolerate aggression on its territory and reserves the right to defend its sovereignty.",
+   "ar": "وزارة الخارجية السعودية تدين هجمات الحوثيين التي ألحقت أضراراً بمركز الملك عبدالله المالي في الرياض، وتؤكد أن المملكة لن تتهاون مع أي اعتداء على أراضيها وتحتفظ بحقها في الدفاع عن سيادتها.",
+   "source": {
+    "name": "Saudi Press Agency",
+    "url": "https://www.spa.gov.sa/en/N2731984"
+   }
+  },
   {
    "id": "20261120-0340-coalition-houthi-missile-south",
    "time": "2026-11-20T03:40:00Z",
@@ -1775,18 +1787,6 @@
    "source": {
     "name": "Reuters via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/uk-sanctions-west-bank-settlement-construction-companies-activist-group-that-blocks-gaza-aid"
-   }
-  },
-  {
-   "id": "20261117-1016-irgc-supertanker-gas-carrier-mines",
-   "time": "2026-11-17T10:16:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say a supertanker carrying over 2 million barrels of crude and a gas carrier hit naval mines in Hormuz while escorted by US aircraft, per Fars; unverified.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلة عملاقة تحمل أكثر من مليوني برميل من النفط الخام وناقلة غاز اصطدمتا بألغام بحرية في هرمز خلال مرافقة طائرات أميركية لهما، وفق «فارس»؛ من دون تأكيد مستقل.",
-   "source": {
-    "name": "Shafaq News",
-    "url": "https://shafaq.com/en/World/Supertanker-gas-carrier-hit-mines-in-Hormuz-IRGC-says"
    }
   }
  ]
