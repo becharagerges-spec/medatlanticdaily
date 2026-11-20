@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-20T11:10:05Z",
+ "updated": "2026-11-20T12:09:56Z",
  "items": [
+  {
+   "id": "20261120-1147-netanyahu-unity-warning",
+   "time": "2026-11-20T11:47:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu demands a 'responsible unity' government and says a narrow government relying on Arab parties' votes, possibly early next week, must be stopped immediately, per The Jerusalem Post.",
+   "ar": "نتنياهو يطالب بحكومة «وحدة مسؤولة» ويقول إن حكومة ضيّقة تستند إلى أصوات الأحزاب العربية، ربما مطلع الأسبوع المقبل، يجب وقفها فوراً، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915586"
+   }
+  },
+  {
+   "id": "20261120-1112-hodeidah-evacuation",
+   "time": "2026-11-20T11:12:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition's Joint Forces Command urges civilians to evacuate Yemen's Hodeidah port 'for their safety', a day after Houthi missiles and drones targeted Riyadh.",
+   "ar": "قيادة القوات المشتركة للتحالف بقيادة السعودية تدعو المدنيين إلى إخلاء ميناء الحديدة في اليمن «حفاظاً على سلامتهم»، غداة استهداف الحوثيين الرياض بصواريخ ومسيّرات.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/coalition-asks-civilians-to-evacuate-hodeidah-port-in-yemen-3013147"
+   }
+  },
   {
    "id": "20261120-1023-eu-uk-summit-tuition-impasse",
    "time": "2026-11-20T10:23:00Z",
@@ -1763,30 +1787,6 @@
    "source": {
     "name": "AFP via Prothom Alo",
     "url": "https://en.prothomalo.com/international/middle-east/r4gvwsrqb8"
-   }
-  },
-  {
-   "id": "20261117-1321-kataeb-hezbollah-refuses-jurf-withdrawal",
-   "time": "2026-11-17T13:21:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Kataeb Hezbollah commander Abu Taleb al-Saidi tells AFP the Iran-backed group will not let the Iraqi army enter Jurf al-Sakher, south of Baghdad, 'not even over our dead bodies'.",
-   "ar": "قائد في كتائب حزب الله أبو طالب الساعدي يقول لوكالة الصحافة الفرنسية إن الفصيل المدعوم من إيران لن يسمح للجيش العراقي بدخول جرف الصخر جنوب بغداد «ولو على جثثنا».",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323842-iraq-s-kataeb-hezbollah-refuses-to-withdraw-from-its-stronghold-near-baghdad"
-   }
-  },
-  {
-   "id": "20261117-1304-waltz-aoun-trilateral-talks",
-   "time": "2026-11-17T13:04:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "US envoy Mike Waltz calls his meeting with President Joseph Aoun 'productive' and praises Aoun's 'courageous decision' to enter trilateral talks with the US and Israel.",
-   "ar": "المبعوث الأميركي مايك والتز يصف لقاءه بالرئيس جوزاف عون بـ«المثمر» ويشيد بـ«قراره الشجاع» دخول محادثات ثلاثية مع الولايات المتحدة وإسرائيل.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323840-waltz-praises-aoun-s-courageous-decision-to-enter-trilateral-israel-talks"
    }
   }
  ]
