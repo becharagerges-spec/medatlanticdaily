@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T07:09:31Z",
+ "updated": "2026-11-20T08:08:59Z",
  "items": [
+  {
+   "id": "20261120-0731-iraq-forces-deploy-jurf",
+   "time": "2026-11-20T07:31:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraqi security officials say government forces deploy in Kataib Hezbollah's Jurf al-Sakhar stronghold on Friday under a compromise deal that sends the group's members to other parts of Iraq, per Reuters.",
+   "ar": "مسؤولون أمنيون عراقيون يقولون إن القوات الحكومية تنتشر الجمعة في معقل كتائب حزب الله في جرف الصخر بموجب اتفاق تسوية يقضي بانتقال عناصر الكتائب إلى مناطق أخرى من العراق، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/iraqi-security-forces-deploy-iran-073132194.html"
+   }
+  },
   {
    "id": "20261120-0422-saudi-mfa-will-not-tolerate",
    "time": "2026-11-20T04:22:00Z",
@@ -88,11 +100,11 @@
    "time": "2026-11-19T23:25:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Russia's overnight ballistic missile attack on Kyiv kills 3 water-utility workers and injures about 15, damaging the Podilsko-Voskresenskyi and Darnytskyi bridges, the city's military administration and Mayor Klitschko say.",
-   "ar": "الهجوم الروسي الليلي بالصواريخ الباليستية على كييف يقتل 3 من موظفي شركة المياه ويصيب نحو 15، ويلحق أضراراً بجسرَي بودِلسكو-فوسكريسينسكي ودارنيتسكي، بحسب الإدارة العسكرية للمدينة ورئيس البلدية كليتشكو.",
+   "en": "Russia's overnight missile and drone attack on Kyiv kills 3 water-utility workers, injures about 15 and damages 3 bridges, the Podilsko-Voskresenskyi, Southern and Darnytskyi, officials say.",
+   "ar": "الهجوم الروسي الليلي بالصواريخ والمسيّرات على كييف يقتل 3 من موظفي شركة المياه ويصيب نحو 15 ويلحق أضراراً بثلاثة جسور هي بودِلسكو-فوسكريسينسكي والجنوبي ودارنيتسكي، بحسب المسؤولين.",
    "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4186645-three-killed-15-injured-in-russian-attack-on-kyiv.html"
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
    }
   },
   {
@@ -1775,18 +1787,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171"
-   }
-  },
-  {
-   "id": "20261117-1017-uk-sanctions-settlement-builders-tzav9",
-   "time": "2026-11-17T10:17:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Britain sanctions 8 Israeli companies building West Bank settlements and the activist group Tzav 9, which blocks aid trucks to Gaza, with asset freezes and director disqualifications.",
-   "ar": "بريطانيا تفرض عقوبات على 8 شركات إسرائيلية تبني مستوطنات في الضفة الغربية وعلى مجموعة «تساف 9» التي تعترض شاحنات المساعدات إلى غزة، تشمل تجميد أصول ومنع مديرين من مزاولة الإدارة.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/uk-sanctions-west-bank-settlement-construction-companies-activist-group-that-blocks-gaza-aid"
    }
   }
  ]
