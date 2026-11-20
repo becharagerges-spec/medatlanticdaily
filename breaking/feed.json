@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T18:09:00Z",
+ "updated": "2026-11-20T19:08:28Z",
  "items": [
+  {
+   "id": "20261120-1837-rubio-abz-sudan",
+   "time": "2026-11-20T18:37:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Secretary of State Rubio and UAE Foreign Minister Sheikh Abdullah bin Zayed discuss ending Sudan's war, with Rubio stressing a humanitarian truce and a transition to civilian government, the State Department says.",
+   "ar": "وزير الخارجية الأميركي روبيو ونظيره الإماراتي الشيخ عبدالله بن زايد يبحثان إنهاء الحرب في السودان، وروبيو يشدّد على هدنة إنسانية وانتقال إلى حكومة مدنية، بحسب الخارجية الأميركية.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/"
+   }
+  },
   {
    "id": "20261120-1753-nasdaq-wipes-2026-gains",
    "time": "2026-11-20T17:53:00Z",
@@ -1773,18 +1785,6 @@
    "source": {
     "name": "Xinhua via The Standard",
     "url": "https://www.thestandard.com.hk/china/article/348809/Russias-Putin-arrives-in-Shenzhen-for-APEC-summit-Xinhua-reports"
-   }
-  },
-  {
-   "id": "20261117-1907-houthis-claim-pipeline-drones",
-   "time": "2026-11-17T19:07:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "The Houthis claim 5 drones hit pumping stations 8 and 9 of Saudi Arabia's East-West oil pipeline; the coalition says only that it downed a drone heading toward Riyadh.",
-   "ar": "الحوثيون يزعمون أن 5 مسيّرات أصابت محطتي الضخ 8 و9 على خط أنابيب النفط شرق–غرب السعودي، فيما يكتفي التحالف بالإعلان عن إسقاط مسيّرة كانت متجهة نحو منطقة الرياض.",
-   "source": {
-    "name": "Xinhua",
-    "url": "https://english.news.cn/20261118/3807b5e44dcb4685bfde3efa1a0efdd8/c.html"
    }
   }
  ]
