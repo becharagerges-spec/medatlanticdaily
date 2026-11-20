@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T10:09:33Z",
+ "updated": "2026-11-20T11:10:05Z",
  "items": [
+  {
+   "id": "20261120-1023-eu-uk-summit-tuition-impasse",
+   "time": "2026-11-20T10:23:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "EU-UK summit talks in Brussels hit an impasse over tuition fees, as EU capitals take a hard line with British negotiators, per Politico Europe.",
+   "ar": "محادثات القمة الأوروبية البريطانية في بروكسل تصطدم بطريق مسدود حول رسوم التعليم الجامعي، مع تشدّد العواصم الأوروبية مع المفاوضين البريطانيين، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe"
+   }
+  },
   {
    "id": "20261120-0918-araghchi-break-blockade",
    "time": "2026-11-20T09:18:00Z",
@@ -148,11 +159,11 @@
    "time": "2026-11-19T23:25:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Russia's overnight missile and drone attack kills 8 people, 6 of them in Kyiv, and injures 28 across Kyiv and nine regions, Ukrainian Prime Minister Serhiy Koretsky says; 3 Kyiv bridges were damaged.",
-   "ar": "الهجوم الروسي الليلي بالصواريخ والمسيّرات يقتل 8 أشخاص، بينهم 6 في كييف، ويصيب 28 في كييف وتسع مقاطعات، بحسب رئيس الوزراء الأوكراني سيرهي كوريتسكي؛ وتضرّرت 3 جسور في كييف.",
+   "en": "Russia's overnight attack with up to 80 cruise missiles, 20 ballistic missiles and about 400 drones kills 8 people, 6 of them in Kyiv, and damages 3 Kyiv bridges, Ukrainian officials say.",
+   "ar": "الهجوم الروسي الليلي بما يصل إلى 80 صاروخاً مجنّحاً و20 صاروخاً بالستياً ونحو 400 مسيّرة يقتل 8 أشخاص، بينهم 6 في كييف، ويصيب 3 جسور في العاصمة، وفق مسؤولين أوكرانيين.",
    "source": {
-    "name": "Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1239720.html"
+    "name": "Ukrainian Air Force via LIGA.net",
+    "url": "https://news.liga.net/en/war/news/80-cruise-missiles-20-ballistic-missiles-and-400-drones-ignat-revealed-details-of-the-nighttime-attack"
    }
   },
   {
@@ -1776,17 +1787,6 @@
    "source": {
     "name": "Naharnet",
     "url": "https://www.naharnet.com/stories/en/323840-waltz-praises-aoun-s-courageous-decision-to-enter-trilateral-israel-talks"
-   }
-  },
-  {
-   "id": "20261117-1231-trump-thailand-trade-deal",
-   "time": "2026-11-17T12:31:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump signs a trade deal with Thailand in Manila on the sidelines of the ASEAN summit, Fox News reports; Thai PM Anutin Charnvirakul was set to sign a joint reciprocal-trade statement.",
-   "ar": "ترامب يوقّع اتفاقاً تجارياً مع تايلاند في مانيلا على هامش قمة آسيان، بحسب «فوكس نيوز»، وكان رئيس الوزراء التايلاندي أنوتين تشارنفيراكول سيوقّع بياناً مشتركاً للتجارة المتبادلة.",
-   "source": {
-    "name": "Fox News"
    }
   }
  ]
