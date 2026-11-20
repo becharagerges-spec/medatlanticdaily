@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T09:08:56Z",
+ "updated": "2026-11-20T10:09:33Z",
  "items": [
+  {
+   "id": "20261120-0918-araghchi-break-blockade",
+   "time": "2026-11-20T09:18:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi tells ILNA that Iran will make every effort to export oil and pursue negotiations, saying 'the blockade must be broken', per Iran International.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول لوكالة «إيلنا» إن إيران ستبذل كل جهد لتصدير النفط ومواصلة المفاوضات، مضيفاً أن «الحصار يجب أن يُكسر»، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611143682"
+   }
+  },
+  {
+   "id": "20261120-0903-vahidi-doctrine-review",
+   "time": "2026-11-20T09:03:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC commander Ahmad Vahidi says enemy actions may lead Iran to revisit its military doctrine, per Iran International.",
+   "ar": "قائد الحرس الثوري أحمد وحيدي يقول إن تصرفات الأعداء قد تدفع إيران إلى إعادة النظر في عقيدتها العسكرية، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611143682"
+   }
+  },
+  {
+   "id": "20261120-0842-poland-airspace-violation",
+   "time": "2026-11-20T08:42:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Poland reports a suspected airspace violation during Russia's attack on Ukraine; an unidentified object falls and burns near Chmielek in Lublin region, and Tusk convenes ministers and security chiefs.",
+   "ar": "بولندا تعلن خرقاً محتملاً لأجوائها خلال الهجوم الروسي على أوكرانيا؛ جسم مجهول يسقط ويحترق قرب تشميليك في منطقة لوبلين، وتوسك يجمع الوزراء وقادة الأجهزة الأمنية.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+   }
+  },
   {
    "id": "20261120-0805-europe-stocks-weekly-drop",
    "time": "2026-11-20T08:05:00Z",
@@ -18,11 +54,11 @@
    "time": "2026-11-20T07:31:00Z",
    "theater": "iraq",
    "status": "confirmed",
-   "en": "Iraqi security officials say government forces deploy in Kataib Hezbollah's Jurf al-Sakhar stronghold on Friday under a compromise deal that sends the group's members to other parts of Iraq, per Reuters.",
-   "ar": "مسؤولون أمنيون عراقيون يقولون إن القوات الحكومية تنتشر الجمعة في معقل كتائب حزب الله في جرف الصخر بموجب اتفاق تسوية يقضي بانتقال عناصر الكتائب إلى مناطق أخرى من العراق، بحسب رويترز.",
+   "en": "Iraqi tanks and armoured vehicles enter Kataib Hezbollah's Jurf al-Sakhar stronghold under a compromise deal, and a joint army, police and PMF command starts operating there, Iraq's government says.",
+   "ar": "دبابات ومدرّعات عراقية تدخل معقل كتائب حزب الله في جرف الصخر بموجب تسوية، وقيادة مشتركة للجيش والشرطة والحشد الشعبي تبدأ عملها هناك، بحسب الحكومة العراقية.",
    "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/world/articles/iraqi-security-forces-deploy-iran-073132194.html"
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/20/iraqi-security-forces-move-into-iran-backed-militia-stronghold-of-jurf-al-sakhar/"
    }
   },
   {
@@ -1751,42 +1787,6 @@
    "ar": "ترامب يوقّع اتفاقاً تجارياً مع تايلاند في مانيلا على هامش قمة آسيان، بحسب «فوكس نيوز»، وكان رئيس الوزراء التايلاندي أنوتين تشارنفيراكول سيوقّع بياناً مشتركاً للتجارة المتبادلة.",
    "source": {
     "name": "Fox News"
-   }
-  },
-  {
-   "id": "20261117-1144-yemen-forces-reinforce-aden",
-   "time": "2026-11-17T11:44:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Saudi-backed Yemeni forces deploy more troops and equipment around Tur al-Baha, about 85 km from Aden, to halt a weeks-long Houthi push, two Yemeni military officials tell AP.",
-   "ar": "القوات اليمنية المدعومة سعودياً تدفع بمزيد من الجنود والعتاد حول طور الباحة، على بُعد نحو 85 كلم من عدن، لصدّ هجوم حوثي مستمر منذ أسابيع، بحسب مسؤولَين عسكريين يمنيين لوكالة أسوشيتد برس.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.clickondetroit.com/news/world/2026/11/17/saudi-backed-forces-in-yemen-beef-up-defenses-outside-aden-to-thwart-houthis-and-other-mideast-news/"
-   }
-  },
-  {
-   "id": "20261117-1140-trump-warns-iran-washington",
-   "time": "2026-11-17T11:40:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump, in the Philippines, warns Iran would 'pay a price the likes of which no other country has ever paid' if it acts on threats against Washington, saying 'they happen to be crazy'.",
-   "ar": "ترامب يحذّر من الفيليبين أن إيران «ستدفع ثمناً لم تدفعه أي دولة من قبل» إذا نفّذت تهديداتها ضد واشنطن، قائلاً: «إنهم مجانين».",
-   "source": {
-    "name": "AP via Asharq Al-Awsat",
-    "url": "https://english.aawsat.com/world/5342277-trump-says-takes-%E2%80%98very-seriously%E2%80%99-possible-iran-threat-washington"
-   }
-  },
-  {
-   "id": "20261117-1118-eu-autumn-forecast-growth-inflation",
-   "time": "2026-11-17T11:18:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission raises its 2026 euro-area growth forecast to 1.2% from 0.9% and sees EU inflation at 3.3% this year, easing to 2.3% in 2028.",
-   "ar": "المفوضية الأوروبية ترفع توقعاتها لنمو منطقة اليورو في 2026 إلى 1.2% من 0.9%، وتتوقع تضخماً في الاتحاد الأوروبي بنسبة 3.3% هذا العام يتراجع إلى 2.3% في 2028.",
-   "source": {
-    "name": "European Commission",
-    "url": "https://economy-finance.ec.europa.eu/document/download/e6bb4d2e-5c46-44e6-a716-6624a57494f3_en?filename=ip348_en.pdf"
    }
   }
  ]
