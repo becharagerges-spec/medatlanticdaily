@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-20T04:07:54Z",
+ "updated": "2026-11-20T05:09:27Z",
  "items": [
   {
    "id": "20261120-0340-coalition-houthi-missile-south",
    "time": "2026-11-20T03:40:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says air defences destroyed a Houthi ballistic missile fired at southern Saudi Arabia, as Civil Defense reports drones intercepted after alerts in Jazan, Abha and Khamis Mushait.",
-   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية دمّرت صاروخاً باليستياً حوثياً أُطلق نحو جنوب المملكة، فيما يفيد الدفاع المدني باعتراض مسيّرات بعد إنذارات في جازان وأبها وخميس مشيط.",
+   "en": "The Saudi-led coalition says air defences destroyed a Houthi ballistic missile and shot down 2 drones fired at southern Saudi Arabia, after civil defence alerts in Jazan, Abha and Khamis Mushait.",
+   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية دمّرت صاروخاً باليستياً حوثياً وأسقطت مسيّرتين أُطلقت نحو جنوب المملكة، بعد إنذارات الدفاع المدني في جازان وأبها وخميس مشيط.",
    "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-915562"
+    "name": "AFP via Free Malaysia Today",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/20/saudi-coalition-says-intercepted-houthi-missile-drones"
    }
   },
   {
@@ -34,6 +34,18 @@
    "ar": "مصدر مقرّب من البيت الأبيض يقول لـ«سي إن إن» إن مدير الأمن السيبراني الوطني شون كيرنكروس سيُستبدل، فيما تعاني الولايات المتحدة سلسلة أعطال سيبرانية.",
    "source": {
     "name": "CNN"
+   }
+  },
+  {
+   "id": "20261120-0137-irgc-iran-international-target",
+   "time": "2026-11-20T01:37:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC spokesman Hossein Mohebbi says the London-based broadcaster Iran International is among the military targets of Iran's armed forces, renewing an earlier threat, per Iran International.",
+   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن قناة «إيران إنترناشونال» ومقرّها لندن من بين الأهداف العسكرية للقوات المسلحة الإيرانية، مجدّداً تهديداً سابقاً، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/202611201108"
    }
   },
   {
@@ -1775,18 +1787,6 @@
    "source": {
     "name": "National News Agency via Safir al-Chamal",
     "url": "https://safiralchamal.com/2026/11/17/741038/"
-   }
-  },
-  {
-   "id": "20261117-0945-japan-asian-iea-proposal",
-   "time": "2026-11-17T09:45:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Japanese PM Sanae Takaichi proposes 'an Asian version of the IEA' at the ASEAN summit in Manila, with shared emergency oil stockpiles and a joint Southeast Asian reserve system.",
-   "ar": "رئيسة الوزراء اليابانية ساناي تاكايتشي تقترح في قمة آسيان في مانيلا «نسخة آسيوية من وكالة الطاقة الدولية»، مع مخزونات نفط طارئة مشتركة ونظام احتياطي موحّد لجنوب شرق آسيا.",
-   "source": {
-    "name": "AP via ABC News",
-    "url": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916"
    }
   }
  ]
