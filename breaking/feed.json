@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T14:09:42Z",
+ "updated": "2026-11-20T15:09:50Z",
  "items": [
+  {
+   "id": "20261120-1359-coalition-hodeidah-operation",
+   "time": "2026-11-20T13:59:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition announces a military operation against Houthi capabilities across Yemen, striking Hodeidah port facilities it says were used to smuggle missiles, with strikes continuing in Sanaa, Saada and Taiz.",
+   "ar": "التحالف بقيادة السعودية يعلن إطلاق عملية عسكرية ضد قدرات الحوثيين في أنحاء اليمن، ويضرب منشآت في ميناء الحديدة يقول إنها استُخدمت لتهريب الصواريخ، مع استمرار الضربات في صنعاء وصعدة وتعز.",
+   "source": {
+    "name": "This is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/saudi-led-coalition-launches-military-operation-targeting-houthi-capabilities-across-yemen"
+   }
+  },
   {
    "id": "20261120-1229-houthis-threaten-saudi-ports",
    "time": "2026-11-20T12:29:00Z",
@@ -1721,12 +1733,11 @@
    "id": "20261117-1551-nsa-network-down",
    "time": "2026-11-17T15:51:00Z",
    "theater": "usa",
-   "status": "confirmed",
-   "en": "The NSA's highly classified internal network, NSANet, goes down; US officials tell The Wall Street Journal it is temporarily offline for a software patch, with no evidence of a cyberattack.",
-   "ar": "الشبكة الداخلية فائقة السرية لوكالة الأمن القومي الأميركية «NSANet» تتوقف عن العمل؛ ومسؤولون أميركيون يقولون لـ«وول ستريت جورنال» إنها متوقفة مؤقتاً لتحديث برمجي، ولا دليل على هجوم سيبراني.",
+   "status": "reported",
+   "en": "The outage of the NSA's highly classified internal network, which locked out large numbers of employees for more than three days, has been resolved, a source tells CNN.",
+   "ar": "انقطاع الشبكة الداخلية فائقة السرية لوكالة الأمن القومي الأميركية، الذي حرم أعداداً كبيرة من الموظفين من الوصول إليها لأكثر من ثلاثة أيام، قد عولج، وفق مصدر تحدّث لـ«سي إن إن».",
    "source": {
-    "name": "The Wall Street Journal via The Jerusalem Post",
-    "url": "https://www.jpost.com/international/article-915216"
+    "name": "CNN"
    }
   },
   {
@@ -1739,30 +1750,6 @@
    "source": {
     "name": "Militarnyi",
     "url": "https://militarnyi.com/en/news/an-12-aircraft-crashes-in-russia-killing-17/"
-   }
-  },
-  {
-   "id": "20261117-1508-danon-rejects-peacekeepers",
-   "time": "2026-11-17T15:08:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israel's UN ambassador Danny Danon, touring the Lebanese border with UN envoys, says Israel will rely on no international force after UNIFIL's mandate ends on 31 December, per The National.",
-   "ar": "سفير إسرائيل لدى الأمم المتحدة داني دانون يقول، خلال جولة مع سفراء أمميين على الحدود اللبنانية، إن إسرائيل لن تعتمد على أي قوة دولية بعد انتهاء ولاية «اليونيفيل» في 31 كانون الأول، بحسب «ذا ناشونال».",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/us/2026/11/17/israel-repeats-rejection-of-peacekeepers-on-lebanon-border-as-unifil-withdrawal-looms/"
-   }
-  },
-  {
-   "id": "20261117-1427-zelensky-pow-exchange-1300",
-   "time": "2026-11-17T14:27:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky says Ukraine is preparing a prisoner-of-war exchange with Russia that could involve up to 1,300 people, the only concrete outcome of the US-brokered Abu Dhabi talks, per Kyiv Independent.",
-   "ar": "زيلينسكي يقول إن أوكرانيا تُعدّ لتبادل أسرى حرب مع روسيا قد يشمل حتى 1300 شخص، وهو النتيجة الملموسة الوحيدة لمحادثات أبوظبي برعاية أميركية، بحسب «كييف إندبندنت».",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/"
    }
   }
  ]
