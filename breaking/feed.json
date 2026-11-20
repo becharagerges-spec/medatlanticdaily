@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-20T15:09:50Z",
+ "updated": "2026-11-20T16:09:59Z",
  "items": [
+  {
+   "id": "20261120-1506-eisenkot-emergency-government",
+   "time": "2026-11-20T15:06:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot says he will form a 'national emergency government' if efforts to build a broad coalition fail, adding he has 'no intention of stalling' and every MK must vote by conscience, per Times of Israel.",
+   "ar": "آيزنكوت يقول إنه سيشكّل «حكومة طوارئ وطنية» إذا فشلت مساعي تشكيل ائتلاف واسع، مؤكداً أنه «لا ينوي المماطلة» وأن على كل نائب التصويت وفق ضميره، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-ill-form-emergency-govt-if-efforts-to-establish-broad-coalition-dont-succeed/"
+   }
+  },
+  {
+   "id": "20261120-1453-tusk-missile-provocation",
+   "time": "2026-11-20T14:53:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Polish PM Donald Tusk calls the Russian Kh-101 missile that crashed in Poland 'an intentional provocation' timed with European troop drills there; NATO's Rutte calls it a 'grave violation'.",
+   "ar": "رئيس الوزراء البولندي دونالد توسك يصف الصاروخ الروسي «Kh-101» الذي سقط في بولندا بأنه «استفزاز متعمّد» تزامن مع مناورات قوات أوروبية هناك، والأمين العام للناتو روته يعتبره «انتهاكاً خطيراً».",
+   "source": {
+    "name": "AP via Spectrum News",
+    "url": "https://spectrumlocalnews.com/nys/central-ny/international/2026/11/20/russian-missile-crash-poland-"
+   }
+  },
+  {
+   "id": "20261120-1436-nasdaq-opens-lower",
+   "time": "2026-11-20T14:36:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Wall Street opens lower as the AI sell-off continues: the Nasdaq falls 1.2% to 23,592, the S&P 500 0.35% to 7,150 and the Dow 0.05% to 49,072.",
+   "ar": "وول ستريت تفتتح على تراجع مع استمرار موجة بيع أسهم الذكاء الاصطناعي: ناسداك يهبط 1.2% إلى 23,592، وإس آند بي 500 بنسبة 0.35% إلى 7,150، وداو جونز 0.05% إلى 49,072.",
+   "source": {
+    "name": "Reuters via The Detroit News",
+    "url": "https://www.detroitnews.com/story/business/2026/11/20/stocks-wall-street/92876492007/"
+   }
+  },
+  {
+   "id": "20261120-1420-nsa-outage-resolved",
+   "time": "2026-11-20T14:20:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "An outage of a key classified internal communications network at the US National Security Agency, which locked out large numbers of staff for more than three days, has been resolved, sources tell CNN.",
+   "ar": "مصادر تقول لـ«سي إن إن» إن عطلاً في شبكة اتصالات داخلية سرية رئيسية لدى وكالة الأمن القومي الأميركية، حرم أعداداً كبيرة من الموظفين من الوصول لأكثر من ثلاثة أيام، قد جرى إصلاحه.",
+   "source": {
+    "name": "CNN"
+   }
+  },
+  {
+   "id": "20261120-1413-iran-tankers-run-blockade",
+   "time": "2026-11-20T14:13:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC-linked media, lawmakers and Friday prayer leaders signal Iran is readying tankers to run the US naval blockade and warn any attack on them would bring strikes on Gulf oil facilities, per Iran International.",
+   "ar": "وسائل إعلام مقرّبة من الحرس الثوري ونواب وأئمة جمعة يلمّحون إلى أن إيران تجهّز ناقلات لكسر الحصار البحري الأميركي، محذّرين من أن أي هجوم عليها سيقابَل بضرب منشآت النفط في الخليج، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/202611204873"
+   }
+  },
   {
    "id": "20261120-1359-coalition-hodeidah-operation",
    "time": "2026-11-20T13:59:00Z",
@@ -85,6 +144,18 @@
    }
   },
   {
+   "id": "20261120-0907-israel-shelling-south-strikes-janta",
+   "time": "2026-11-20T09:07:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli artillery shells al-Mansouri and Majdal Zoun in south Lebanon and five Israeli airstrikes hit the al-Sheara area near Janta in the eastern mountain range, Lebanon's National News Agency reports.",
+   "ar": "المدفعية الإسرائيلية تقصف المنصوري ومجدل زون في جنوب لبنان، وخمس غارات إسرائيلية تستهدف محلة الشعرة قرب جنتا في السلسلة الشرقية، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Youm7",
+    "url": "https://www.youm7.com/story/2026/11/20/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86/7625462"
+   }
+  },
+  {
    "id": "20261120-0903-vahidi-doctrine-review",
    "time": "2026-11-20T09:03:00Z",
    "theater": "iran",
@@ -118,6 +189,18 @@
    "source": {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936"
+   }
+  },
+  {
+   "id": "20261120-0805-trump-message-aoun-independence",
+   "time": "2026-11-20T08:05:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Trump congratulates President Aoun on Independence Day, saying Lebanon has a chance to launch 'a new renaissance' under his leadership and praising his government's 'brave decisions', per LBCI.",
+   "ar": "ترامب يهنئ الرئيس عون بعيد الاستقلال، معتبراً أن أمام لبنان فرصة لإطلاق «نهضة جديدة» بقيادته، ومشيداً بـ«القرارات الشجاعة» لحكومته، بحسب LBCI.",
+   "source": {
+    "name": "LBCI",
+    "url": "https://www.lbcgroup.tv/news/lebanon/968916/ترامب-يهنئ-الرئيس-عون-بعيد-الاستقلال-لبنان-أمام-فرصة-لإطلاق-نهضة-جديدة/ar"
    }
   },
   {
@@ -1703,53 +1786,6 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/iraqi-forces-strike-compromise-powerful-pro-iran-militia-security-officials-say"
-   }
-  },
-  {
-   "id": "20261117-1615-huang-ready-to-return-nvidia",
-   "time": "2026-11-17T16:15:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Jensen Huang, who resigned as Nvidia CEO last week over reported affairs, says he would be 'honored' to return if the board asks and will cooperate with its independent investigation.",
-   "ar": "جنسن هوانغ، الذي استقال الأسبوع الماضي من رئاسة «إنفيديا» التنفيذية على خلفية علاقات خارج الزواج، يقول إنه «سيتشرّف» بالعودة إذا طلب مجلس الإدارة ذلك، وسيتعاون مع تحقيقه المستقل.",
-   "source": {
-    "name": "Fox Business",
-    "url": "https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely"
-   }
-  },
-  {
-   "id": "20261117-1558-somalia-president-accuses-uae",
-   "time": "2026-11-17T15:58:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Somali President Hassan Sheikh Mohamud says in a televised address that the UAE is interfering in Somalia's affairs, waging a proxy war and establishing armed militias in the country.",
-   "ar": "الرئيس الصومالي حسن شيخ محمود يقول في كلمة متلفزة إن الإمارات تتدخل في شؤون الصومال الداخلية وتخوض حرباً بالوكالة وتنشئ ميليشيات مسلحة في البلاد.",
-   "source": {
-    "name": "SONNA",
-    "url": "https://x.com/SONNALIVE/status/2122721139814215915"
-   }
-  },
-  {
-   "id": "20261117-1551-nsa-network-down",
-   "time": "2026-11-17T15:51:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The outage of the NSA's highly classified internal network, which locked out large numbers of employees for more than three days, has been resolved, a source tells CNN.",
-   "ar": "انقطاع الشبكة الداخلية فائقة السرية لوكالة الأمن القومي الأميركية، الذي حرم أعداداً كبيرة من الموظفين من الوصول إليها لأكثر من ثلاثة أيام، قد عولج، وفق مصدر تحدّث لـ«سي إن إن».",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261117-1539-russia-an12-crash-kemerovo",
-   "time": "2026-11-17T15:39:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "A Russian military An-12 transport plane crashes near Yagunovo in Siberia's Kemerovo region, killing all 17 aboard according to preliminary reports, per Militarnyi; the governor confirms an 'aviation incident'.",
-   "ar": "تحطّم طائرة نقل عسكرية روسية من طراز «أنتونوف-12» قرب ياغونوفو في منطقة كيميروفو السيبيرية، ومقتل 17 كانوا على متنها وفق تقارير أولية، بحسب «ميليتارني»؛ والحاكم يؤكد وقوع «حادث جوي».",
-   "source": {
-    "name": "Militarnyi",
-    "url": "https://militarnyi.com/en/news/an-12-aircraft-crashes-in-russia-killing-17/"
    }
   }
  ]
