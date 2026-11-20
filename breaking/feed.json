@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:10:27Z",
+ "updated": "2026-11-20T14:09:42Z",
  "items": [
   {
    "id": "20261120-1229-houthis-threaten-saudi-ports",
@@ -23,6 +23,18 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915586"
+   }
+  },
+  {
+   "id": "20261120-1120-eu-uk-reset-deal-done",
+   "time": "2026-11-20T11:20:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The UK and EU conclude their post-Brexit reset deal at the Brussels summit, covering food and farm trade, a youth mobility scheme for 100,000 people and linked carbon markets; Downing Street says 'the deal is done'.",
+   "ar": "بريطانيا والاتحاد الأوروبي يختتمان اتفاق إعادة ضبط العلاقات بعد «بريكست» في قمة بروكسل، ويشمل تجارة الأغذية والزراعة وبرنامج تنقّل لـ100 ألف شاب وربط سوقَي الكربون؛ و«داونينغ ستريت» تقول «الاتفاق أُنجز».",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
    }
   },
   {
@@ -77,11 +89,11 @@
    "time": "2026-11-20T08:42:00Z",
    "theater": "europe",
    "status": "confirmed",
-   "en": "Poland reports a suspected airspace violation during Russia's attack on Ukraine; an unidentified object falls and burns near Chmielek in Lublin region, and Tusk convenes ministers and security chiefs.",
-   "ar": "بولندا تعلن خرقاً محتملاً لأجوائها خلال الهجوم الروسي على أوكرانيا؛ جسم مجهول يسقط ويحترق قرب تشميليك في منطقة لوبلين، وتوسك يجمع الوزراء وقادة الأجهزة الأمنية.",
+   "en": "Poland's defence minister says three Russian objects, two likely cruise missiles including a Kh-101 and one drone, fell in south-eastern Poland during Russia's attack on Ukraine, injuring no one.",
+   "ar": "وزير الدفاع البولندي يعلن سقوط ثلاثة أجسام روسية في جنوب شرق بولندا خلال الهجوم الروسي على أوكرانيا، اثنان منها صاروخا كروز على الأرجح بينهما «Kh-101» وثالث مسيّرة، من دون إصابات.",
    "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    "name": "dpa",
+    "url": "https://www.yahoo.com/news/world/articles/three-russian-flying-objects-entered-121835400.html"
    }
   },
   {
@@ -1751,42 +1763,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/"
-   }
-  },
-  {
-   "id": "20261117-1409-france-troops-lebanon-patrols",
-   "time": "2026-11-17T14:09:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "France is advancing a plan to send hundreds, possibly thousands, of troops to Lebanon for joint patrols with the army outside any UN mandate, three sources tell The Jerusalem Post.",
-   "ar": "فرنسا تدفع بخطة لإرسال مئات وربما آلاف الجنود إلى لبنان لتسيير دوريات مشتركة مع الجيش خارج أي تفويض أممي، بحسب ثلاثة مصادر لـ«جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323850-france-to-send-troops-to-lebanon-for-joint-patrols-with-army"
-   }
-  },
-  {
-   "id": "20261117-1359-gaza-four-killed-child",
-   "time": "2026-11-17T13:59:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli attacks kill at least 4 Palestinians across Gaza on Tuesday, including a 6-year-old boy in Deir el-Balah, medics tell Reuters, despite the ceasefire.",
-   "ar": "هجمات إسرائيلية تقتل 4 فلسطينيين على الأقل في أنحاء غزة الثلاثاء، بينهم طفل في السادسة في دير البلح، بحسب مسعفين لـ«رويترز»، رغم وقف إطلاق النار.",
-   "source": {
-    "name": "Reuters via Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-kills-least-five-gaza-tuesday-including-six-year-old"
-   }
-  },
-  {
-   "id": "20261117-1350-iran-army-lucas-drone",
-   "time": "2026-11-17T13:50:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army says its air defences struck and destroyed a US LUCAS drone over the Strait of Hormuz on Tuesday, state broadcaster IRIB reports; there is no US comment.",
-   "ar": "الجيش الإيراني يقول إن دفاعاته الجوية أصابت ودمّرت مسيّرة أميركية من طراز LUCAS فوق مضيق هرمز الثلاثاء، بحسب التلفزيون الرسمي، من دون تعليق أميركي.",
-   "source": {
-    "name": "Anadolu via A News",
-    "url": "https://www.anews.com.tr/middle-east/2026/11/17/iran-says-us-lucas-drone-intercepted-over-strait-of-hormuz"
    }
   }
  ]
