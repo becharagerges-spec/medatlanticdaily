@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T12:09:56Z",
+ "updated": "2026-11-20T13:10:27Z",
  "items": [
+  {
+   "id": "20261120-1229-houthis-threaten-saudi-ports",
+   "time": "2026-11-20T12:29:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Yemen's Houthis threaten to strike Jeddah and all Saudi Red Sea ports if the Saudi-led coalition hits Hodeidah, urging workers to evacuate and warning airlines to avoid Saudi airspace.",
+   "ar": "الحوثيون في اليمن يهدّدون بضرب جدة وكل الموانئ السعودية على البحر الأحمر إذا استهدف التحالف بقيادة السعودية الحديدة، ويدعون العاملين إلى الإخلاء ويحذّرون شركات الطيران من الأجواء السعودية.",
+   "source": {
+    "name": "Reuters via The Daily Star",
+    "url": "https://www.thedailystar.net/news/world/middle-east/news/yemens-houthis-threaten-strike-saudi-red-sea-ports-4328901"
+   }
+  },
   {
    "id": "20261120-1147-netanyahu-unity-warning",
    "time": "2026-11-20T11:47:00Z",
@@ -1775,18 +1787,6 @@
    "source": {
     "name": "Anadolu via A News",
     "url": "https://www.anews.com.tr/middle-east/2026/11/17/iran-says-us-lucas-drone-intercepted-over-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261117-1336-qeshm-blasts",
-   "time": "2026-11-17T13:36:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "US fighter jets strike an IRGC missile launch site on Iran's Qeshm Island in what a US official calls self-defence after drone attacks on Bahrain; Iranian officials report no serious damage.",
-   "ar": "مقاتلات أميركية تقصف موقع إطلاق صواريخ تابعاً للحرس الثوري في جزيرة قشم الإيرانية، في ما وصفه مسؤول أميركي بالدفاع عن النفس بعد هجمات بمسيّرات على البحرين؛ ومسؤولون إيرانيون يقولون إن الأضرار ليست جسيمة.",
-   "source": {
-    "name": "AFP via Prothom Alo",
-    "url": "https://en.prothomalo.com/international/middle-east/r4gvwsrqb8"
    }
   }
  ]
