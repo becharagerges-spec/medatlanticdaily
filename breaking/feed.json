@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-20T16:09:59Z",
+ "updated": "2026-11-20T17:08:58Z",
  "items": [
+  {
+   "id": "20261120-1657-houthis-say-41-killed",
+   "time": "2026-11-20T16:57:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's Houthis say Saudi-led coalition strikes on Hodeidah, Sanaa, Saada and Taiz killed 41 people in 24 hours; the coalition says it hit weapons-smuggling and missile sites.",
+   "ar": "الحوثيون يقولون إن غارات التحالف بقيادة السعودية على الحديدة وصنعاء وصعدة وتعز قتلت 41 شخصاً خلال 24 ساعة، والتحالف يقول إنه استهدف مواقع تهريب أسلحة وصواريخ.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-41-killed-saudi-led-coalition-launches-special-operation"
+   }
+  },
+  {
+   "id": "20261120-1647-us-ukraine-deal-by-january",
+   "time": "2026-11-20T16:47:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The Trump administration wants Ukraine and Russia to reach a peace agreement by early January 2027, the Financial Times reports, citing four people briefed on the talks.",
+   "ar": "إدارة ترامب تريد أن تتوصل أوكرانيا وروسيا إلى اتفاق سلام بحلول مطلع كانون الثاني 2027، بحسب «فايننشال تايمز» نقلاً عن أربعة مطّلعين على المحادثات.",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
   {
    "id": "20261120-1506-eisenkot-emergency-government",
    "time": "2026-11-20T15:06:00Z",
@@ -70,6 +93,18 @@
    "source": {
     "name": "This is Beirut",
     "url": "https://thisisbeirut.com.lb/news/politics/saudi-led-coalition-launches-military-operation-targeting-houthi-capabilities-across-yemen"
+   }
+  },
+  {
+   "id": "20261120-1305-us-israel-weigh-iran-attack",
+   "time": "2026-11-20T13:05:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Israel and the US are weighing a new attack on Iran in the near future over its rebuilding of ballistic missile production, CBS News reports, citing sources.",
+   "ar": "إسرائيل والولايات المتحدة تدرسان شنّ هجوم جديد على إيران في المدى القريب بسبب إعادة بنائها إنتاج الصواريخ الباليستية، بحسب «سي بي إس نيوز» نقلاً عن مصادر.",
+   "source": {
+    "name": "CBS News via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/israel-us-weighing-attack-on-iran-in-coming-days-report"
    }
   },
   {
@@ -1750,42 +1785,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saar-vows-countermeasures-after-uk-announces-sanctions-on-companies-involved-in-west-bank-construction/"
-   }
-  },
-  {
-   "id": "20261117-1733-apple-services-outage",
-   "time": "2026-11-17T17:33:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Apple's iCloud, App Store, Apple Pay and Apple Music suffer a widespread outage, the latest in a string of major US tech failures; Apple has not explained the cause.",
-   "ar": "عطل واسع يضرب خدمات آبل «آي كلاود» ومتجر التطبيقات و«آبل باي» و«آبل ميوزك»، في أحدث حلقة من سلسلة أعطال تقنية كبرى في الولايات المتحدة، من دون أن توضح آبل السبب.",
-   "source": {
-    "name": "9to5Mac",
-    "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
-   }
-  },
-  {
-   "id": "20261117-1720-sohlberg-shin-bet-no-evidence",
-   "time": "2026-11-17T17:20:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Central Elections Committee chairman Noam Sohlberg says the Shin Bet has so far found no evidence of vote-buying on a scale that could affect the election results.",
-   "ar": "رئيس لجنة الانتخابات المركزية نوعام سولبرغ يعلن أن الشاباك لم يعثر حتى الآن على أي دليل على شراء أصوات بحجم قد يؤثر في نتائج الانتخابات.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/shin-bet-probe-into-vote-buying-claims-has-found-no-evidence-so-far-of-activity-that-could-affect-results-sohlberg-says/"
-   }
-  },
-  {
-   "id": "20261117-1705-zaidi-qaani-jurf-deal",
-   "time": "2026-11-17T17:05:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraqi security officials say a deal brokered by Shi'ite leaders will move Kataib Hezbollah forces out of Jurf al-Sakhar, with government troops expected to enter the town on Friday, per Reuters.",
-   "ar": "مسؤولون أمنيون عراقيون يقولون إن اتفاقاً رعاه قادة شيعة سيُخرج قوات كتائب حزب الله من جرف الصخر، على أن تدخل القوات الحكومية البلدة يوم الجمعة، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/iraqi-forces-strike-compromise-powerful-pro-iran-militia-security-officials-say"
    }
   }
  ]
