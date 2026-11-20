@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:09:27Z",
+ "updated": "2026-11-20T06:08:33Z",
  "items": [
   {
    "id": "20261120-0340-coalition-houthi-missile-south",
@@ -11,6 +11,18 @@
    "source": {
     "name": "AFP via Free Malaysia Today",
     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/20/saudi-coalition-says-intercepted-houthi-missile-drones"
+   }
+  },
+  {
+   "id": "20261120-0247-mohebbi-neither-war-nor-peace",
+   "time": "2026-11-20T02:47:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "IRGC spokesman Hossein Mohebbi says Iran does not accept a situation of 'neither war nor peace' and will 'settle the matter of the war once and for all', per Press TV.",
+   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن إيران لا تقبل بحالة «لا حرب ولا سلم» وإنها ستحسم «مسألة الحرب نهائياً»، بحسب «برس تي في».",
+   "source": {
+    "name": "Press TV via ANI",
+    "url": "https://www.tribuneindia.com/news/hossein-mohebbi/we-will-settle-the-war-once-and-for-all-iran-tells-us-to-accept-its-terms-or-face-battlefield-decision"
    }
   },
   {
@@ -63,12 +75,12 @@
    "id": "20261119-2325-kyiv-missile-attack",
    "time": "2026-11-19T23:25:00Z",
    "theater": "ukraine",
-   "status": "reported",
-   "en": "Explosions hit Kyiv at about 01:25 local time as Russia launches a mass missile attack on cities across Ukraine, after Putin vowed revenge for the Crimean Bridge strike, per Kyiv Independent.",
-   "ar": "انفجارات تهزّ كييف نحو الساعة 01:25 بالتوقيت المحلي مع إطلاق روسيا هجوماً صاروخياً واسعاً على مدن في أنحاء أوكرانيا، بعد توعّد بوتين بالانتقام لضرب جسر القرم، بحسب «كييف إندبندنت».",
+   "status": "confirmed",
+   "en": "Russia's overnight ballistic missile attack on Kyiv kills 3 water-utility workers and injures about 15, damaging the Podilsko-Voskresenskyi and Darnytskyi bridges, the city's military administration and Mayor Klitschko say.",
+   "ar": "الهجوم الروسي الليلي بالصواريخ الباليستية على كييف يقتل 3 من موظفي شركة المياه ويصيب نحو 15، ويلحق أضراراً بجسرَي بودِلسكو-فوسكريسينسكي ودارنيتسكي، بحسب الإدارة العسكرية للمدينة ورئيس البلدية كليتشكو.",
    "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4186645-three-killed-15-injured-in-russian-attack-on-kyiv.html"
    }
   },
   {
@@ -1775,18 +1787,6 @@
    "source": {
     "name": "Shafaq News",
     "url": "https://shafaq.com/en/World/Supertanker-gas-carrier-hit-mines-in-Hormuz-IRGC-says"
-   }
-  },
-  {
-   "id": "20261117-1003-dahr-baidar-objections-rejected",
-   "time": "2026-11-17T10:03:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Military investigating judge Ghada Abou Alwan rejects procedural objections by 5 fugitive Hezbollah members charged in the Dahr al-Baidar explosives case, postponing their questioning, per the National News Agency.",
-   "ar": "قاضية التحقيق العسكري غادة أبو علوان ترد الدفوع الشكلية لخمسة عناصر فارّين من «حزب الله» ملاحقين في قضية متفجرات ضهر البيدر، ما يرجئ استجوابهم، بحسب الوكالة الوطنية للإعلام.",
-   "source": {
-    "name": "National News Agency via Safir al-Chamal",
-    "url": "https://safiralchamal.com/2026/11/17/741038/"
    }
   }
  ]
