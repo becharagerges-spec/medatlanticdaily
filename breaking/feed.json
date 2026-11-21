@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T07:07:51Z",
+ "updated": "2026-11-21T08:07:58Z",
  "items": [
+  {
+   "id": "20261121-0631-kharkiv-solonytsivka-drone",
+   "time": "2026-11-21T06:31:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian drone hits a five-storey apartment block in Solonytsivka, Kharkiv region, injuring 11 people including 2 children, Ukraine's State Emergency Service says.",
+   "ar": "مسيّرة روسية تصيب مبنى سكنياً من خمس طبقات في سولونيتسيفكا بمنطقة خاركيف، ما أدى إلى إصابة 11 شخصاً بينهم طفلان، بحسب خدمة الطوارئ الأوكرانية.",
+   "source": {
+    "name": "State Emergency Service of Ukraine via Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90783"
+   }
+  },
   {
    "id": "20261121-0500-russia-275-ukrainian-drones",
    "time": "2026-11-21T05:00:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/defense/2222839"
+   }
+  },
+  {
+   "id": "20261121-0347-kyiv-ballistic-strike-podil",
+   "time": "2026-11-21T03:47:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian ballistic missile attack on Kyiv sets two residential buildings ablaze in the Podil district, the Kyiv City Military Administration says, a day after a strike killed 7 people.",
+   "ar": "هجوم صاروخي باليستي روسي على كييف يشعل النار في مبنيين سكنيين في حي بوديل، بحسب الإدارة العسكرية لمدينة كييف، غداة ضربة أودت بحياة 7 أشخاص.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90780"
    }
   },
   {
@@ -47,6 +71,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
+   }
+  },
+  {
+   "id": "20261120-2220-araghchi-uranium-red-line",
+   "time": "2026-11-20T22:20:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says enriched uranium leaving Iran is a red line in talks with the US, but believes 'a fair solution' can be reached.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن خروج اليورانيوم المخصّب من إيران خطّ أحمر في المفاوضات مع الولايات المتحدة، لكنه يرى أن «حلاً عادلاً» ممكن.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-sets-red-line-on-enriched-uranium-while-claiming-fair-solution-can-be-reached-with-us/"
    }
   },
   {
@@ -1486,42 +1522,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/defense-news/article-915274"
-   }
-  },
-  {
-   "id": "20261118-0800-adnoc-vessel-hormuz-attack",
-   "time": "2026-11-18T08:00:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "ADNOC L&S says one of its vessels was attacked in the Strait of Hormuz on Tuesday, leaving 1 crew member missing and 11 injured; it did not name the attacker.",
-   "ar": "شركة «أدنوك للإمداد والخدمات» تعلن تعرّض إحدى سفنها لهجوم في مضيق هرمز الثلاثاء، ما أدى إلى فقدان أحد أفراد الطاقم وإصابة 11، من دون تحديد الجهة المهاجمة.",
-   "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/3101871/"
-   }
-  },
-  {
-   "id": "20261118-0758-iran-abdanan-protest",
-   "time": "2026-11-18T07:58:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Hundreds protest in Iran's Abdanan after 13 workers died in a weekend bus crash, with videos showing 'death to the dictator' chants, among the first protests since this year's deadly crackdown.",
-   "ar": "المئات يتظاهرون في عبدانان الإيرانية بعد مقتل 13 عاملاً في حادث حافلة نهاية الأسبوع، ومقاطع تُظهر هتافات «الموت للديكتاتور»، في أول احتجاجات منذ حملة القمع الدامية هذا العام.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.clickorlando.com/news/world/2026/11/18/saudi-backed-forces-launch-major-attack-on-houthis-and-other-mideast-news/"
-   }
-  },
-  {
-   "id": "20261118-0730-likud-rotation-eisenkot-first",
-   "time": "2026-11-18T07:30:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "A Likud source tells Maariv that Netanyahu could agree to serve second in a unity-government rotation with Gadi Eisenkot taking the premiership first.",
-   "ar": "مصدر في الليكود يقول لصحيفة «معاريف» إن نتنياهو قد يقبل أن يكون الثاني في تناوب ضمن حكومة وحدة يتولى فيه غادي آيزنكوت رئاسة الحكومة أولاً.",
-   "source": {
-    "name": "Maariv via The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915269"
    }
   }
  ]
