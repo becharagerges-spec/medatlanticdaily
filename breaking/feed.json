@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T18:08:23Z",
+ "updated": "2026-11-21T19:08:10Z",
  "items": [
+  {
+   "id": "20261121-1825-bahrain-threat-alert",
+   "time": "2026-11-21T18:25:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Bahrain's Interior Ministry issues a potential-threat alert, urging citizens and residents to stay calm and move to the nearest safe location; it did not name the threat.",
+   "ar": "وزارة الداخلية البحرينية تُصدر تنبيهاً من تهديد محتمل وتدعو المواطنين والمقيمين إلى التزام الهدوء والتوجّه إلى أقرب مكان آمن، من دون أن تحدّد طبيعة التهديد.",
+   "source": {
+    "name": "Bahrain Interior Ministry via The Peninsula",
+    "url": "https://thepeninsulaqatar.com/article/21/11/2026/bahrain-issues-urgent-public-safety-alert-over-potential-threat"
+   }
+  },
+  {
+   "id": "20261121-1815-bennett-backs-eisenkot-unity",
+   "time": "2026-11-21T18:15:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Naftali Bennett backs a unity government with Likud led by Gadi Eisenkot, says Netanyahu must not be the next prime minister and rules out joining his bloc 'under any circumstances'.",
+   "ar": "نفتالي بينيت يؤيّد حكومة وحدة مع الليكود برئاسة غادي آيزنكوت، ويقول إن نتنياهو يجب ألّا يكون رئيس الحكومة المقبل، مستبعداً الانضمام إلى كتلته «تحت أي ظرف».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/in-first-statement-since-netanyahu-meeting-bennett-backs-unity-government-under-eisenkot-rules-out-defection-under-any-circumstances"
+   }
+  },
   {
    "id": "20261121-1750-eisenkot-marathon-talks-likud",
    "time": "2026-11-21T17:50:00Z",
@@ -1546,42 +1570,6 @@
    "source": {
     "name": "Reuters via Cyprus Mail",
     "url": "https://cyprus-mail.com/2026/11/18/three-oil-tankers-catch-fire-after-hitting-naval-mines-east-of-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261118-1901-us-venezuela-military-ties",
-   "time": "2026-11-18T19:01:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Defense Secretary Pete Hegseth says the United States and Venezuela have signed a deal to reestablish military ties, calling Venezuela 'a compliant security partner' since Maduro's capture in January.",
-   "ar": "وزير الدفاع الأميركي بيت هيغسيث يعلن أن الولايات المتحدة وفنزويلا وقّعتا اتفاقاً لإعادة العلاقات العسكرية، واصفاً فنزويلا بـ«شريك أمني ممتثل» منذ القبض على مادورو في كانون الثاني.",
-   "source": {
-    "name": "AP via CTV News",
-    "url": "https://www.ctvnews.ca/world/article/hegseth-visiting-venezuela-says-the-nations-have-signed-a-deal-to-re-establish-military-ties/"
-   }
-  },
-  {
-   "id": "20261118-1835-lebanon-charges-five-hezbollah",
-   "time": "2026-11-18T18:35:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's judiciary charges 5 Hezbollah members, arrested earlier this month in the north, with forming an armed group, recruiting members and supplying them with weapons, a judicial source tells AFP.",
-   "ar": "القضاء اللبناني يدّعي على 5 عناصر من حزب الله أوقفوا مطلع الشهر في الشمال بتهمة تأليف مجموعة مسلحة وتجنيد عناصر وتزويدهم بالسلاح، بحسب مصدر قضائي لوكالة فرانس برس.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/lebanon-charges-five-hezbollah-members-with-recruiting-arming-others-judicial-source-3012782"
-   }
-  },
-  {
-   "id": "20261118-1826-us-sanctions-hezbollah-wataawanu",
-   "time": "2026-11-18T18:26:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "The US sanctions the Wa Ta'awanu Association, which it calls a Hezbollah front posing as a south Lebanon relief group, and the Khechen brothers' gold network moving IRGC-Qods Force funds.",
-   "ar": "واشنطن تفرض عقوبات على «جمعية وتعاونوا» التي تصفها بواجهة لحزب الله تتستّر بالإغاثة في الجنوب، وعلى شبكة الأخوين خشن للذهب التي تنقل أموال فيلق القدس.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-hizballah-front-organization-and-iran-backed-financial-network/"
    }
   }
  ]
