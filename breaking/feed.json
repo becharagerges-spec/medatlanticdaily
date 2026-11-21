@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T15:07:19Z",
+ "updated": "2026-11-21T16:08:27Z",
  "items": [
+  {
+   "id": "20261121-1524-trump-fox-iran-leadership",
+   "time": "2026-11-21T15:24:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump tells Fox News that Iran's current leaders are 'probably more reasonable, but very, very difficult', and that he wants a permanent deal barring Iranian nuclear weapons, per The Jerusalem Post.",
+   "ar": "ترامب يقول لـ«فوكس نيوز» إن القادة الحاليين في إيران «ربما أكثر عقلانية، لكنهم صعبون جداً جداً»، وإنه يريد اتفاقاً دائماً يمنع إيران من امتلاك سلاح نووي، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/international/article-915640"
+   }
+  },
   {
    "id": "20261121-1350-zelensky-no-written-guarantees",
    "time": "2026-11-21T13:50:00Z",
@@ -49,6 +61,30 @@
    }
   },
   {
+   "id": "20261121-1259-pezeshkian-silent-economic-war",
+   "time": "2026-11-21T12:59:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian President Masoud Pezeshkian says Iran is in a 'silent economic war' harder than a missile war and that Tehran is working to avoid winter power cuts, per IRNA.",
+   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن إيران تخوض «حرباً اقتصادية صامتة» أصعب من حرب الصواريخ، وإن طهران تعمل لتفادي انقطاع الكهرباء في الشتاء، بحسب «إرنا».",
+   "source": {
+    "name": "IRNA via A News",
+    "url": "https://www.anews.com.tr/world/2026/11/21/iran-facing-silent-economic-war-that-is-tougher-than-missile-war-says-pezeshkian"
+   }
+  },
+  {
+   "id": "20261121-1254-israeli-strike-qantara-khiam",
+   "time": "2026-11-21T12:54:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli airstrike hits Qantara in south Lebanon as the Israeli army carries out three detonations in the Wata al-Khiam area, per Lebanon's National News Agency.",
+   "ar": "غارة إسرائيلية تستهدف بلدة القنطرة في جنوب لبنان، فيما ينفّذ الجيش الإسرائيلي ثلاثة تفجيرات في منطقة وطى الخيام، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Hawar News",
+    "url": "https://hawarnews.com/ar/149418"
+   }
+  },
+  {
    "id": "20261121-1218-gaza-city-strike-three",
    "time": "2026-11-21T12:18:00Z",
    "theater": "israel",
@@ -58,6 +94,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/"
+   }
+  },
+  {
+   "id": "20261121-1207-iran-navy-tanker-mine-fire",
+   "time": "2026-11-21T12:07:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy says an oil tanker caught fire after hitting a naval mine in a restricted area east of the Strait of Hormuz, claiming it ignored warnings with its tracking systems off; unverified.",
+   "ar": "البحرية الإيرانية تقول إن ناقلة نفط اشتعلت بعد اصطدامها بلغم بحري في منطقة محظورة شرق مضيق هرمز، وتزعم أنها تجاهلت التحذيرات وأطفأت أنظمة التعريف؛ ولم يتسنَّ التحقق.",
+   "source": {
+    "name": "WANA",
+    "url": "https://wanaen.com/oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-strait-of-hormuz/"
    }
   },
   {
@@ -214,6 +262,18 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/defense/2222839"
+   }
+  },
+  {
+   "id": "20261121-0408-israeli-force-shebaa-valley",
+   "time": "2026-11-21T04:08:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "A mechanised Israeli force advances toward the valley of Shebaa in Hasbaya district along a newly built military road from the Sadana heights, per Al Jadeed.",
+   "ar": "قوة إسرائيلية مؤلّلة تتوغّل باتجاه وادي شبعا في قضاء حاصبيا عبر طريق عسكري مستحدث انطلاقاً من مرتفعات السدانة، بحسب «الجديد».",
+   "source": {
+    "name": "Al Jadeed",
+    "url": "https://www.aljadeed.tv/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86/596530/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D9%88%D8%BA%D9%84-%D9%82%D9%88%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B4%D8%A8%D8%B9%D8%A7/ar"
    }
   },
   {
@@ -1522,41 +1582,6 @@
    "source": {
     "name": "Bloomberg via Swissinfo",
     "url": "https://www.swissinfo.ch/eng/stocks-fall-as-nvidias-earnings-rally-sputters:-markets-wrap/92397458"
-   }
-  },
-  {
-   "id": "20261118-1542-mossad-chief-lobbied-iran-strikes",
-   "time": "2026-11-18T15:42:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Mossad chief Roman Gofman pressed US officials, including CIA Director John Ratcliffe, for joint US-Israeli strikes on Iran during last week's Washington visit, two people briefed tell Reuters.",
-   "ar": "رئيس الموساد رومان غوفمان ضغط على مسؤولين أميركيين، بينهم مدير الـCIA جون راتكليف، لشنّ ضربات أميركية-إسرائيلية مشتركة على إيران خلال زيارته واشنطن الأسبوع الماضي، بحسب مصدرين مطّلعين لـ«رويترز».",
-   "source": {
-    "name": "Reuters via SRN News",
-    "url": "https://srnnews.com/israeli-spy-chief-lobbied-for-joint-iran-strikes-on-us-visit-sources-say/"
-   }
-  },
-  {
-   "id": "20261118-1532-jeffries-speaker-nomination",
-   "time": "2026-11-18T15:32:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "House Democrats nominate Hakeem Jeffries for speaker by 251 votes to 11 in a secret ballot, putting him on track to become the first Black speaker in January.",
-   "ar": "الديمقراطيون في مجلس النواب الأميركي يرشّحون حكيم جيفريز لرئاسة المجلس بـ251 صوتاً مقابل 11 في اقتراع سرّي، ما يضعه على طريق أن يصبح أول رئيس أسود للمجلس في كانون الثاني.",
-   "source": {
-    "name": "Politico"
-   }
-  },
-  {
-   "id": "20261118-1517-mullin-iran-us-infrastructure",
-   "time": "2026-11-18T15:17:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Homeland Security Secretary Markwayne Mullin tells Congress that Iran and Tehran-backed actors have targeted US energy, finance, transport, healthcare and water networks since February.",
-   "ar": "وزير الأمن الداخلي الأميركي ماركواين مولين يقول أمام الكونغرس إن إيران وجهات مدعومة منها استهدفت منذ شباط شبكات الطاقة والمال والنقل والصحة والمياه في الولايات المتحدة.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says"
    }
   }
  ]
