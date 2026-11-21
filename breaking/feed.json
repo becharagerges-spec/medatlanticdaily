@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T08:07:58Z",
+ "updated": "2026-11-21T09:07:44Z",
  "items": [
+  {
+   "id": "20261121-0828-usda-fbi-hacked",
+   "time": "2026-11-21T08:28:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Hackers breached systems at the US Agriculture Department as well as the FBI, US media report, amid a wave of major technology disruptions across the country.",
+   "ar": "قراصنة اخترقوا أنظمة وزارة الزراعة الأميركية إضافة إلى مكتب التحقيقات الفدرالي، بحسب وسائل إعلام أميركية، وسط موجة من الأعطال التقنية الكبرى في البلاد.",
+   "source": {
+    "name": "AFP via France 24",
+    "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
+   }
+  },
   {
    "id": "20261121-0631-kharkiv-solonytsivka-drone",
    "time": "2026-11-21T06:31:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "State Emergency Service of Ukraine via Kyiv Post",
     "url": "https://www.kyivpost.com/post/90783"
+   }
+  },
+  {
+   "id": "20261121-0550-two-tankers-hit-khasab",
+   "time": "2026-11-21T05:50:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO says two outbound tankers were hit by unidentified projectiles within an hour, 11 and 17 nautical miles from Oman's Khasab in the Strait of Hormuz, with no casualties reported.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن إصابة ناقلتين مغادرتين بمقذوفات مجهولة خلال ساعة واحدة، على بُعد 11 و17 ميلاً بحرياً من خصب العُمانية في مضيق هرمز، من دون إصابات.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-915628"
    }
   },
   {
@@ -95,6 +119,18 @@
    "source": {
     "name": "APA",
     "url": "https://en.apa.az/asia/araghchi-tehran-ready-to-reopen-strait-of-hormuz-if-us-fulfills-its-commitments-537573"
+   }
+  },
+  {
+   "id": "20261120-2128-kryvyi-rih-double-tap",
+   "time": "2026-11-20T21:28:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian ballistic missile and drone double-tap strike on central Kryvyi Rih kills a 7-year-old boy and a paramedic and injures 58 people, Ukrainian officials say.",
+   "ar": "ضربة روسية مزدوجة بصواريخ باليستية ومسيّرات على وسط كريفي ريه تقتل طفلاً في السابعة ومسعفة وتصيب 58 شخصاً، بحسب مسؤولين أوكرانيين.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
    }
   },
   {
@@ -1474,54 +1510,6 @@
    "source": {
     "name": "Ynet",
     "url": "https://www.ynetnews.com/article/hjmw6xirgx"
-   }
-  },
-  {
-   "id": "20261118-0906-ukraine-141-drones",
-   "time": "2026-11-18T09:06:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's air force says Russia launched 141 attack drones overnight and 126 were downed; Russian attacks killed 5 and injured 15 over the past day, hitting energy sites in 3 regions.",
-   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 141 مسيّرة هجومية ليلاً أُسقطت منها 126، فيما قتلت الهجمات الروسية 5 أشخاص وأصابت 15 خلال يوم، مستهدفة منشآت طاقة في 3 مقاطعات.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-15-across-ukraine-over-past-day-as-russia-continues-energy-assault/"
-   }
-  },
-  {
-   "id": "20261118-0858-trump-lands-shenzhen",
-   "time": "2026-11-18T08:58:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi Jinping greets Trump at Shenzhen airport, the first time he has received a visiting US president on arrival; the two hold talks Thursday before a three-way meeting with Putin.",
-   "ar": "شي جينبينغ يستقبل ترامب في مطار شنتشن، في سابقة هي الأولى لاستقباله رئيساً أميركياً لدى وصوله، على أن يتباحثا الخميس قبل لقاء ثلاثي مع بوتين.",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
-   }
-  },
-  {
-   "id": "20261118-0846-iraq-reinforcements-jurf",
-   "time": "2026-11-18T08:46:00Z",
-   "theater": "iraq",
-   "status": "reported",
-   "en": "Iraqi military reinforcements keep arriving in Babil province on Wednesday to deploy around Kataeb Hezbollah's Jurf al-Sakher stronghold, ahead of a Friday deadline, per AFP.",
-   "ar": "تعزيزات عسكرية عراقية تواصل الوصول إلى محافظة بابل الأربعاء للانتشار حول معقل كتائب حزب الله في جرف الصخر قبل مهلة الجمعة، وفق «فرانس برس».",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/military-reinforcements-mass-outside-kataeb-hezbollah-stronghold-in-iraq-as-standoff-escalates-3012500"
-   }
-  },
-  {
-   "id": "20261118-0830-katz-security-zones-indefinite",
-   "time": "2026-11-18T08:30:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israeli Defence Minister Israel Katz says Israel will keep its security zones in Gaza, Lebanon and Syria indefinitely and seize more territory after any attack, conditioning withdrawal on Hezbollah's full disarmament.",
-   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن إسرائيل ستُبقي مناطقها الأمنية في غزة ولبنان وسوريا إلى أجل غير مسمّى وستسيطر على أراضٍ إضافية بعد أي هجوم، ويربط الانسحاب بنزع سلاح حزب الله كاملاً.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-915274"
    }
   }
  ]
