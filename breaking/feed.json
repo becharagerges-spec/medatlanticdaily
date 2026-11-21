@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:08:27Z",
+ "updated": "2026-11-21T17:08:48Z",
  "items": [
   {
    "id": "20261121-1524-trump-fox-iran-leadership",
@@ -11,6 +11,30 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/international/article-915640"
+   }
+  },
+  {
+   "id": "20261121-1442-unifil-abagnara-vacuum",
+   "time": "2026-11-21T14:42:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "UNIFIL commander Maj. Gen. Diodato Abagnara warns against any security vacuum in south Lebanon after the force's mandate ends, and calls handing occupied positions to Israel a clear breach of Resolution 1701.",
+   "ar": "قائد اليونيفيل اللواء ديوداتو أبانيارا يحذّر من أي فراغ أمني في جنوب لبنان بعد انتهاء ولاية القوة، ويعتبر تسليم المواقع الواقعة تحت الاحتلال لإسرائيل خرقاً واضحاً للقرار 1701.",
+   "source": {
+    "name": "Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/21/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84-%D8%AA%D8%AD%D8%B0%D9%91%D8%B1-%D9%85%D9%86-%D9%81%D8%B1%D8%A7%D8%BA-%D8%A3%D9%85%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8/"
+   }
+  },
+  {
+   "id": "20261121-1419-zelensky-next-round-us",
+   "time": "2026-11-21T14:19:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky says the next round of Ukraine-Europe-Russia-US talks depends on Washington, accusing Russia of seeking delay and pressing for an all-for-all prisoner exchange, per Ukrinform.",
+   "ar": "زيلينسكي يقول إن الجولة المقبلة من المحادثات بين أوكرانيا وأوروبا وروسيا والولايات المتحدة رهن بواشنطن، متّهماً روسيا بالسعي إلى التأجيل ومطالباً بتبادل شامل للأسرى، بحسب «أوكرينفورم».",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-polytics/4187172-next-round-of-peace-talks-depends-on-us-zelensky-says.html"
    }
   },
   {
@@ -133,6 +157,18 @@
    }
   },
   {
+   "id": "20261121-1115-macron-new-level-aggression",
+   "time": "2026-11-21T11:15:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "French President Emmanuel Macron says incidents against European allies over the past 24 hours signal 'a new level of aggression' by Russia, calling it an 'irresponsible gamble'.",
+   "ar": "الرئيس الفرنسي إيمانويل ماكرون يقول إن حوادث استهدفت حلفاء أوروبيين خلال الساعات الـ24 الماضية تشير إلى «مستوى جديد من العدوان» الروسي، واصفاً ذلك بـ«رهان غير مسؤول».",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression"
+   }
+  },
+  {
    "id": "20261121-1051-costa-eu-budget-cut-44bn",
    "time": "2026-11-21T10:51:00Z",
    "theater": "europe",
@@ -202,6 +238,18 @@
    "source": {
     "name": "National News Agency via Anadolu",
     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-renewed-attacks-on-southern-lebanese-towns/4132847"
+   }
+  },
+  {
+   "id": "20261121-0830-iran-mp-14-tankers-blockade",
+   "time": "2026-11-21T08:30:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian MP Vahid Ahmadi says 14 tankers are being prepared to break the US naval blockade and threatens regional oil facilities if any is attacked, per Iran International.",
+   "ar": "النائب الإيراني وحيد أحمدي يقول إن 14 ناقلة تُجهَّز لكسر الحصار البحري الأميركي، ويهدّد منشآت النفط في المنطقة إذا تعرّضت أي منها لهجوم، بحسب «إيران إنترناشونال».",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611214578"
    }
   },
   {
@@ -1534,54 +1582,6 @@
    "source": {
     "name": "US State Department",
     "url": "https://x.com/TravelGov/status/2123108059782463701"
-   }
-  },
-  {
-   "id": "20261118-1702-clayton-iran-threats-increased",
-   "time": "2026-11-18T17:02:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Director of National Intelligence Jay Clayton tells the House Homeland Security Committee that Iranian threats inside and outside the United States have 'dramatically increased'.",
-   "ar": "مدير الاستخبارات الوطنية الأميركية جاي كلايتون يقول أمام لجنة الأمن الداخلي في مجلس النواب إن التهديدات الإيرانية داخل الولايات المتحدة وخارجها «ازدادت بشكل كبير».",
-   "source": {
-    "name": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261118-1657-trump-putin-separate-meeting",
-   "time": "2026-11-18T16:57:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Trump will hold a separate meeting with Putin in Shenzhen on Thursday, in addition to their three-way talks with Xi, a US official tells AP.",
-   "ar": "ترامب سيعقد لقاءً منفصلاً مع بوتين في شنتشن الخميس، إضافة إلى القمة الثلاثية مع شي، بحسب مسؤول أميركي لوكالة أسوشيتد برس.",
-   "source": {
-    "name": "AP via PBS NewsHour",
-    "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
-   }
-  },
-  {
-   "id": "20261118-1642-pakistan-smw5-cable-fault",
-   "time": "2026-11-18T16:42:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Pakistan's telecom regulator says a fault on the SEA-ME-WE 5 undersea cable about 11 km off its shore may disrupt internet service; no cause is given.",
-   "ar": "هيئة الاتصالات الباكستانية تقول إن عطلاً في كابل SEA-ME-WE 5 البحري على بعد نحو 11 كلم من سواحلها قد يعطّل خدمة الإنترنت، من دون ذكر السبب.",
-   "source": {
-    "name": "Pakistan Telecommunication Authority via Insider Paper",
-    "url": "https://insiderpaper.com/internet-slow-or-down-in-pakistan-submarine-cable-fault/"
-   }
-  },
-  {
-   "id": "20261118-1620-gold-oil-slide",
-   "time": "2026-11-18T16:20:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Spot gold falls 2.7% to $3,744.04 an ounce and WTI crude 2.1% to $84.17 a barrel, as the S&P 500 drops 0.7% toward a fifth straight decline.",
-   "ar": "الذهب الفوري يتراجع 2.7% إلى 3,744.04 دولاراً للأونصة وخام غرب تكساس 2.1% إلى 84.17 دولاراً للبرميل، فيما ينخفض مؤشر S&P 500 بنسبة 0.7% نحو خامس تراجع متتالٍ.",
-   "source": {
-    "name": "Bloomberg via Swissinfo",
-    "url": "https://www.swissinfo.ch/eng/stocks-fall-as-nvidias-earnings-rally-sputters:-markets-wrap/92397458"
    }
   }
  ]
