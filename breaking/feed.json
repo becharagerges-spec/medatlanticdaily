@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T17:08:48Z",
+ "updated": "2026-11-21T18:08:23Z",
  "items": [
+  {
+   "id": "20261121-1750-eisenkot-marathon-talks-likud",
+   "time": "2026-11-21T17:50:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot instructs his negotiators to invite Likud to a marathon round of coalition talks starting Sunday in a bid to form a broad government, per Times of Israel.",
+   "ar": "آيزنكوت يوعز إلى مفاوضيه بدعوة الليكود إلى جولة مفاوضات ائتلافية ماراثونية تبدأ الأحد سعياً لتشكيل حكومة واسعة، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-invites-likud-to-marathon-coalition-talks-in-bid-to-form-broad-government/"
+   }
+  },
+  {
+   "id": "20261121-1718-aoun-iran-interference",
+   "time": "2026-11-21T17:18:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "In his Independence Day address, President Aoun tells Iran to stop interfering in Lebanon's decisions, declares 'the era of weapons outside the state is over' and demands full Israeli withdrawal.",
+   "ar": "في كلمته لمناسبة عيد الاستقلال، الرئيس عون يدعو إيران إلى الكفّ عن التدخل في قرارات لبنان، ويعلن أنّ «زمن السلاح خارج الدولة انتهى»، ويطالب بانسحاب إسرائيلي كامل.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace/"
+   }
+  },
   {
    "id": "20261121-1524-trump-fox-iran-leadership",
    "time": "2026-11-21T15:24:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/international/article-915640"
+   }
+  },
+  {
+   "id": "20261121-1503-qatari-delegation-tehran",
+   "time": "2026-11-21T15:03:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's deputy foreign minister says a Qatari delegation held a two-hour meeting with Iranian officials in Tehran on Friday night, and that Tehran remains in contact with mediators.",
+   "ar": "نائب وزير الخارجية الإيراني يقول إن وفداً قطرياً عقد اجتماعاً استمر ساعتين مع مسؤولين إيرانيين في طهران ليل الجمعة، وإن طهران لا تزال على تواصل مع الوسطاء.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/qatari-delegation-visits-tehran-for-talks-iranian-official-says-3013368"
    }
   },
   {
@@ -66,10 +102,10 @@
    "time": "2026-11-21T13:40:00Z",
    "theater": "iran",
    "status": "reported",
-   "en": "Iran's army says its air defences fired a missile that damaged a US F-16 over the Gulf on Friday evening, forcing an emergency landing; the US military has not confirmed it.",
-   "ar": "الجيش الإيراني يقول إنّ دفاعاته الجوية أطلقت صاروخاً ألحق أضراراً بمقاتلة أميركية من طراز F-16 فوق الخليج مساء الجمعة وأجبرها على هبوط اضطراري، والجيش الأميركي لم يؤكّد ذلك.",
+   "en": "Iran's army says its air defences fired a missile that damaged a US F-16 over the Gulf on Friday evening, forcing an emergency landing; US Central Command calls the claim 'false'.",
+   "ar": "الجيش الإيراني يقول إنّ دفاعاته الجوية أطلقت صاروخاً ألحق أضراراً بمقاتلة أميركية من طراز F-16 فوق الخليج مساء الجمعة وأجبرها على هبوط اضطراري، والقيادة المركزية الأميركية تصف الادعاء بأنه «كاذب».",
    "source": {
-    "name": "Reuters via The Jerusalem Post",
+    "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/iran-news/article-915637"
    }
   },
@@ -113,11 +149,11 @@
    "time": "2026-11-21T12:18:00Z",
    "theater": "israel",
    "status": "reported",
-   "en": "An Israeli airstrike on Gaza City kills 3 Palestinians and injures several on Saturday, per Palestinian media; Israel's army has not commented.",
-   "ar": "غارة إسرائيلية على مدينة غزة تقتل 3 فلسطينيين وتجرح آخرين السبت، بحسب وسائل إعلام فلسطينية؛ ولم يعلّق الجيش الإسرائيلي.",
+   "en": "An Israeli airstrike on Gaza City kills 3 Palestinians in a vehicle witnesses say carried food aid; Israel's army says they were Islamic Jihad operatives falsely presented as aid workers.",
+   "ar": "غارة إسرائيلية على مدينة غزة تقتل 3 فلسطينيين في مركبة يقول شهود إنها كانت تنقل مساعدات غذائية، والجيش الإسرائيلي يقول إنهم عناصر في «الجهاد الإسلامي» قُدّموا زوراً كعمّال إغاثة.",
    "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/"
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-targets-of-earlier-gaza-city-strike-were-pij-operatives-falsely-presented-as-aid-workers/"
    }
   },
   {
@@ -1546,42 +1582,6 @@
    "source": {
     "name": "US State Department",
     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-hizballah-front-organization-and-iran-backed-financial-network/"
-   }
-  },
-  {
-   "id": "20261118-1740-israel-weighing-iran-action",
-   "time": "2026-11-18T17:40:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israel is considering military action against Iran in the coming days and Netanyahu is meeting top security aides, Channel 12 reports without citing a source, per Times of Israel.",
-   "ar": "إسرائيل تدرس عملاً عسكرياً ضد إيران في الأيام المقبلة ونتنياهو يجتمع بكبار مساعديه الأمنيين، بحسب القناة 12 من دون ذكر مصدر، وفق «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Channel 12 via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-weighing-military-action-against-iran-in-near-future-says-unsourced-tv-report/"
-   }
-  },
-  {
-   "id": "20261118-1737-riyadh-blast-two-cruise-missiles",
-   "time": "2026-11-18T17:37:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "A loud blast is heard in Riyadh as the Saudi-led coalition says it intercepted 2 Houthi cruise missiles and 2 drones; the Houthis claim they targeted King Khalid airport and the financial centre.",
-   "ar": "دويّ انفجار قوي يُسمع في الرياض فيما يعلن التحالف بقيادة السعودية اعتراض صاروخَي كروز حوثيين ومسيّرتين؛ والحوثيون يزعمون أنهم استهدفوا مطار الملك خالد والمركز المالي.",
-   "source": {
-    "name": "AFP via CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261118-1736-us-alerts-bahrain-saudi",
-   "time": "2026-11-18T17:36:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "The US State Department reissues security alerts urging Americans in Bahrain and Saudi Arabia to exercise heightened vigilance after attacks by Iran and Iran-backed Houthis.",
-   "ar": "وزارة الخارجية الأميركية تعيد إصدار تحذيرات أمنية تدعو الأميركيين في البحرين والسعودية إلى توخّي أقصى درجات الحذر بعد هجمات إيران والحوثيين المدعومين منها.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://x.com/TravelGov/status/2123108059782463701"
    }
   }
  ]
