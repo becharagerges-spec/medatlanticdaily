@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:08:19Z",
+ "updated": "2026-11-21T04:08:14Z",
  "items": [
   {
    "id": "20261121-0221-fbi-crime-database-breach",
@@ -23,6 +23,18 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
+   }
+  },
+  {
+   "id": "20261120-2141-araghchi-hormuz-two-day-plan",
+   "time": "2026-11-20T21:41:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi says Tehran is ready to reopen the Strait of Hormuz the day after the US fulfils its commitments, adding Iran has had no US reply to its proposal.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن طهران مستعدة لإعادة فتح مضيق هرمز في اليوم التالي لوفاء الولايات المتحدة بالتزاماتها، مضيفاً أن إيران لم تتلقَّ رداً أميركياً على اقتراحها.",
+   "source": {
+    "name": "APA",
+    "url": "https://en.apa.az/asia/araghchi-tehran-ready-to-reopen-strait-of-hormuz-if-us-fulfills-its-commitments-537573"
    }
   },
   {
@@ -1570,65 +1582,6 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion"
-   }
-  },
-  {
-   "id": "20261118-0400-xi-putin-shenzhen-talks",
-   "time": "2026-11-18T04:00:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi Jinping and Vladimir Putin hold talks in Shenzhen on the eve of their three-way summit with Trump; Xi says China-Russia ties stand 'as firm as a mountain'.",
-   "ar": "شي جينبينغ وفلاديمير بوتين يعقدان محادثات في شنتشن عشية قمّتهما الثلاثية مع ترامب، وشي يقول إن العلاقات الصينية الروسية «راسخة كالجبل».",
-   "source": {
-    "name": "AFP via Euronews",
-    "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
-   }
-  },
-  {
-   "id": "20261118-0400-centcom-two-carriers-arabian-sea",
-   "time": "2026-11-18T04:00:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Central Command releases images of the carriers USS Theodore Roosevelt and USS George Washington sailing together in the Arabian Sea.",
-   "ar": "القيادة المركزية الأميركية تنشر صوراً لحاملتَي الطائرات «ثيودور روزفلت» و«جورج واشنطن» تبحران معاً في بحر العرب.",
-   "source": {
-    "name": "US Central Command, per Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
-   }
-  },
-  {
-   "id": "20261118-0354-putin-apec-ceo",
-   "time": "2026-11-18T03:54:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Putin tells the APEC CEO Summit in Shenzhen that the EU is losing industrial capacity and falling behind competitors, ahead of his meeting with Trump and Xi, per CNBC.",
-   "ar": "بوتين يقول أمام قمة الرؤساء التنفيذيين لـ«أبيك» في شنتشن إن الاتحاد الأوروبي يخسر قدرته الصناعية ويتأخر عن منافسيه، قبيل لقائه ترامب وشي، بحسب «سي إن بي سي».",
-   "source": {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
-   }
-  },
-  {
-   "id": "20261118-0354-pistorius-streeting-colby",
-   "time": "2026-11-18T03:54:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Germany's Boris Pistorius and Britain's Wes Streeting reject Pentagon official Elbridge Colby's claim that Ukraine's deep strikes into Russia are ineffective, per the Kyiv Independent.",
-   "ar": "وزير الدفاع الألماني بوريس بيستوريوس ونظيره البريطاني ويس ستريتينغ يرفضان قول المسؤول في البنتاغون إلبريدج كولبي إن الضربات الأوكرانية العميقة في روسيا غير فعّالة، بحسب «كييف إندبندنت».",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/germany-uk-push-back-after-us-criticizes-ukraines-deep-strikes-into-russia/"
-   }
-  },
-  {
-   "id": "20261118-0324-peltola-wins-alaska-senate",
-   "time": "2026-11-18T03:24:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrat Mary Peltola defeats two-term Republican Senator Dan Sullivan in Alaska, the last undecided Senate race of the midterms, widening the Democrats' new Senate majority.",
-   "ar": "الديمقراطية ماري بيلتولا تهزم السيناتور الجمهوري دان سوليفان في ألاسكا، في آخر سباق محسوم لمجلس الشيوخ في الانتخابات النصفية، فتتّسع الأغلبية الديمقراطية الجديدة في المجلس.",
-   "source": {
-    "name": "AP"
    }
   }
  ]
