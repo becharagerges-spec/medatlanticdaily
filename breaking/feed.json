@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T12:08:56Z",
+ "updated": "2026-11-21T13:09:38Z",
  "items": [
+  {
+   "id": "20261121-1218-gaza-city-strike-three",
+   "time": "2026-11-21T12:18:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "An Israeli airstrike on Gaza City kills 3 Palestinians and injures several on Saturday, per Palestinian media; Israel's army has not commented.",
+   "ar": "غارة إسرائيلية على مدينة غزة تقتل 3 فلسطينيين وتجرح آخرين السبت، بحسب وسائل إعلام فلسطينية؛ ولم يعلّق الجيش الإسرائيلي.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/"
+   }
+  },
+  {
+   "id": "20261121-1134-denmark-eu-russia-visas",
+   "time": "2026-11-21T11:34:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Denmark asks EU states to halt tourist visas for Russians and tighten Schengen access over the alleged Russian plot to kill rapper Kyivstoner; von der Leyen calls it 'an attack on EU soil'.",
+   "ar": "الدنمارك تطلب من دول الاتحاد الأوروبي وقف التأشيرات السياحية للروس وتشديد دخولهم إلى منطقة شنغن بسبب مؤامرة روسية مزعومة لاغتيال مغني الراب «كييفستونر»، وفون دير لاين تصفها بـ«هجوم على أرض الاتحاد».",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://timesofisrael.com/liveblog_entry/denmark-urges-concrete-steps-against-moscow-over-alleged-plot-to-assassinate-us-ukrainian-rapper"
+   }
+  },
+  {
+   "id": "20261121-1123-irgc-mines-us-air-cover",
+   "time": "2026-11-21T11:23:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say two tankers near Khasab and off Oman's Ghanam Island exploded after hitting naval mines while transiting under US air cover; unverified.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتين قرب خصب وقبالة جزيرة الغنم العُمانية انفجرتا بعد اصطدامهما بألغام بحرية أثناء عبورهما تحت غطاء جوي أميركي؛ من دون تأكيد مستقل.",
+   "source": {
+    "name": "Tasnim News Agency",
+    "url": "https://www.tasnimnews.ir/en/news/2026/11/21/3754231/irgc-us-military-cover-for-tanker-transit-leads-to-mine-explosions-in-strait-of-hormuz"
+   }
+  },
   {
    "id": "20261121-1051-costa-eu-budget-cut-44bn",
    "time": "2026-11-21T10:51:00Z",
@@ -35,6 +71,18 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/2026-11-21/live-updates-915622"
+   }
+  },
+  {
+   "id": "20261121-0946-bdl-imf-work-plan",
+   "time": "2026-11-21T09:46:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Central Bank Governor Karim Souaid and the IMF's Jihad Azour agree in Washington on a work plan to year-end on the draft deposit-recovery law before it goes to parliament.",
+   "ar": "حاكم مصرف لبنان كريم سعيد ومدير صندوق النقد الدولي للشرق الأوسط جهاد أزعور يتّفقان في واشنطن على خطة عمل حتى نهاية العام بشأن مشروع قانون استرداد الودائع قبل إحالته إلى مجلس النواب.",
+   "source": {
+    "name": "Annahar",
+    "url": "https://www.annahar.com/economy/368592/%D8%AE%D8%B7%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D8%AA%D9%89-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A8%D9%8A%D9%86-%D9%85%D8%B5%D8%B1%D9%81-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A"
    }
   },
   {
@@ -1522,42 +1570,6 @@
    "source": {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/commodities-news/exclusivesaudis-preparing-for-yemen-campaign-to-last-well-into-2027-5035986"
-   }
-  },
-  {
-   "id": "20261118-1256-cooper-meets-zamir",
-   "time": "2026-11-18T12:56:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "US Central Command chief Adm. Brad Cooper meets IDF Chief of Staff Eyal Zamir in Israel for a regional security assessment focused on Iran, per The Jerusalem Post.",
-   "ar": "قائد القيادة المركزية الأميركية الأدميرال براد كوبر يلتقي رئيس أركان الجيش الإسرائيلي إيال زامير في إسرائيل لتقييم أمني إقليمي يتمحور حول إيران، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-915314"
-   }
-  },
-  {
-   "id": "20261118-1239-trump-putin-meet-shenzhen",
-   "time": "2026-11-18T12:39:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Trump and Putin shake hands in Shenzhen at the APEC summit, their first in-person meeting since the August 2025 Alaska summit, ahead of Thursday's three-way talks with Xi.",
-   "ar": "ترامب وبوتين يتصافحان في شنجن على هامش قمة «أبيك»، في أول لقاء مباشر بينهما منذ قمة ألاسكا في آب 2025، قبل القمة الثلاثية مع شي يوم الخميس.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/world/putin-and-trump-meet-in-shenzhen-their-first-talks-since-alaska-summit-3012642"
-   }
-  },
-  {
-   "id": "20261118-1218-yazeed-bin-farhan-no-support",
-   "time": "2026-11-18T12:18:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Saudi envoy Prince Yazeed bin Farhan tells Sunni MPs from the North and Akkar that Saudi support for Lebanon will come only after Hezbollah is disarmed, per Nidaa al-Watan.",
-   "ar": "الموفد السعودي الأمير يزيد بن فرحان يبلغ نواباً سنّة من الشمال وعكار أن الدعم السعودي للبنان لن يأتي إلا بعد نزع سلاح «حزب الله»، بحسب «نداء الوطن».",
-   "source": {
-    "name": "Nidaa al-Watan via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323864-bin-farhan-no-saudi-support-before-disarmament"
    }
   }
  ]
