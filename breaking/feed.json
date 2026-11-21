@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T04:08:14Z",
+ "updated": "2026-11-21T07:07:51Z",
  "items": [
+  {
+   "id": "20261121-0500-russia-275-ukrainian-drones",
+   "time": "2026-11-21T05:00:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia's Defence Ministry says its air defences destroyed 275 Ukrainian drones overnight over 11 Russian regions, Crimea and the Black Sea.",
+   "ar": "وزارة الدفاع الروسية تقول إن دفاعاتها الجوية دمّرت 275 مسيّرة أوكرانية خلال الليل فوق 11 منطقة روسية والقرم والبحر الأسود.",
+   "source": {
+    "name": "TASS",
+    "url": "https://tass.com/defense/2222839"
+   }
+  },
+  {
+   "id": "20261121-0254-irgc-claims-mq9-hormuz",
+   "time": "2026-11-21T02:54:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say their aerospace force shot down a US MQ-9 drone over the Strait of Hormuz, which they call the 58th downed; there is no US comment.",
+   "ar": "الحرس الثوري الإيراني يقول إن قوته الجوفضائية أسقطت مسيّرة أميركية من طراز MQ-9 فوق مضيق هرمز، ويصفها بالـ58 التي يُسقطها؛ ولا تعليق أميركياً.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz"
+   }
+  },
   {
    "id": "20261121-0221-fbi-crime-database-breach",
    "time": "2026-11-21T02:21:00Z",
@@ -1498,90 +1522,6 @@
    "source": {
     "name": "Maariv via The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915269"
-   }
-  },
-  {
-   "id": "20261118-0700-uk-inflation-october",
-   "time": "2026-11-18T07:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "UK consumer price inflation rises to 3.6% in October from 3.5% in September, a one-year high, as motor fuel prices jump 33.2% year on year, the ONS says.",
-   "ar": "التضخم في بريطانيا يرتفع إلى 3.6% في تشرين الأول من 3.5% في أيلول، وهو الأعلى منذ عام، مع قفزة أسعار وقود السيارات 33.2% على أساس سنوي، بحسب مكتب الإحصاءات الوطنية.",
-   "source": {
-    "name": "Office for National Statistics",
-    "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
-   }
-  },
-  {
-   "id": "20261118-0612-kuwait-mofa-condemns-iran",
-   "time": "2026-11-18T06:12:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Kuwait's Foreign Ministry condemns repeated Iranian attacks on the country, the latest with drones on Wednesday, as 'criminal' and a direct threat to its security and stability.",
-   "ar": "وزارة الخارجية الكويتية تدين الاعتداءات الإيرانية المتكررة على البلاد، وآخرها بالمسيّرات يوم الأربعاء، وتصفها بـ«الآثمة» وبأنها تهديد مباشر لأمنها واستقرارها.",
-   "source": {
-    "name": "Kuwait Foreign Ministry",
-    "url": "https://x.com/MOFAKuwait/status/2122936033251618905"
-   }
-  },
-  {
-   "id": "20261118-0518-houthi-cruise-missile-riyadh",
-   "time": "2026-11-18T05:18:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a cruise missile launched by the Houthis toward the Riyadh area, spokesman Turki al-Maliki says.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض، بحسب المتحدث باسمه تركي المالكي.",
-   "source": {
-    "name": "Saudi-led coalition via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-intercepted-houthi-cruise-missile"
-   }
-  },
-  {
-   "id": "20261118-0503-xi-apec-free-trade",
-   "time": "2026-11-18T05:03:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "Xi Jinping tells business leaders at the APEC summit in Shenzhen that 'isolation inevitably leads to falling behind' and pledges to open China's market to more imports, per dpa.",
-   "ar": "شي جين بينغ يقول لرجال الأعمال في قمة «أبيك» في شنتشن إن «العزلة تؤدي حتماً إلى التخلّف»، ويتعهّد بفتح السوق الصينية أمام مزيد من الواردات، بحسب «د ب أ».",
-   "source": {
-    "name": "dpa",
-    "url": "https://www.yahoo.com/news/world/articles/xi-urges-free-trade-apec-050333853.html"
-   }
-  },
-  {
-   "id": "20261118-0456-krasnodar-refineries-drones",
-   "time": "2026-11-18T04:56:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Ukraine's General Staff says it struck the Ilsky and Afipsky oil refineries in Russia's Krasnodar region overnight; Russian officials report attacks on 2 industrial enterprises without details.",
-   "ar": "هيئة الأركان الأوكرانية تقول إنها ضربت ليلاً مصفاتي إيلسكي وأفيبسكي في إقليم كراسنودار الروسي؛ ومسؤولون روس يتحدثون عن هجمات على منشأتين صناعيتين من دون تفاصيل.",
-   "source": {
-    "name": "AP via ClickOnDetroit",
-    "url": "https://www.clickondetroit.com/business/2026/11/18/ukraine-says-it-hit-2-russian-oil-refineries-as-zelenskyy-hails-weapons-produced-in-the-country/"
-   }
-  },
-  {
-   "id": "20261118-0446-iran-army-claims-ali-al-salem",
-   "time": "2026-11-18T04:46:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Iran's army says its drones struck US missile, drone-launch and air-defence systems at Kuwait's Ali Al Salem Air Base overnight, per state TV IRIB; no damage is confirmed.",
-   "ar": "الجيش الإيراني يقول إن مسيّراته استهدفت ليلاً منظومات صواريخ وإطلاق مسيّرات ودفاع جوي أميركية في قاعدة علي السالم الجوية في الكويت، وفق التلفزيون الرسمي، من دون تأكيد أي أضرار.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
-   }
-  },
-  {
-   "id": "20261118-0445-australia-sanctions-settlers",
-   "time": "2026-11-18T04:45:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Australia sanctions 3 Israeli individuals, including Nachala leader Daniella Weiss, and 4 organisations over West Bank settlement expansion, Foreign Minister Penny Wong announces.",
-   "ar": "أستراليا تفرض عقوبات على 3 أفراد إسرائيليين، بينهم زعيمة حركة «نحالا» دانييلا فايس، و4 منظمات بسبب التوسّع الاستيطاني في الضفة الغربية، بحسب وزيرة الخارجية بيني وونغ.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion"
    }
   }
  ]
