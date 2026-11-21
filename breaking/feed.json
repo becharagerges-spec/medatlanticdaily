@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-21T20:08:07Z",
+ "updated": "2026-11-21T22:09:00Z",
  "items": [
   {
    "id": "20261121-1944-bahrain-industrial-fire",
    "time": "2026-11-21T19:44:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "Bahrain's Interior Ministry says an Iranian attack hit a civilian industrial facility, sparking a fire with material damage and no injuries; Iran's Revolutionary Guards say they targeted two US bases.",
-   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أصاب منشأة صناعية مدنية وأشعل حريقاً خلّف أضراراً مادية من دون إصابات، فيما يقول الحرس الثوري إنه استهدف قاعدتين أميركيتين.",
+   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial facility ablaze, with no injuries; Iran's Revolutionary Guards claim they hit two US Patriot radars at Riffa and Awali.",
+   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في منشأة صناعية مدنية من دون إصابات، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين في الرفاع وعوالي.",
    "source": {
     "name": "Gulf News",
     "url": "https://gulfnews.com/world/gulf/bahrain/iranian-attack-sparks-fire-at-civilian-industrial-facility-in-bahrain-1.500756564"
@@ -1594,30 +1594,6 @@
    "source": {
     "name": "Arab News",
     "url": "https://www.arabnews.com/middle-east/tanker-struck-by-projectile-near-omans-khasab-as-attacks-in-hormuz-continue-3012815"
-   }
-  },
-  {
-   "id": "20261118-2034-israeli-strike-kfar-tebnit",
-   "time": "2026-11-18T20:34:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "An Israeli airstrike hits the town of Kfar Tebnit in south Lebanon's Nabatieh district, per Beirut 24; no casualties are reported.",
-   "ar": "غارة جوية إسرائيلية تستهدف بلدة كفرتبنيت في قضاء النبطية جنوب لبنان، بحسب «بيروت 24»، من دون الإبلاغ عن إصابات.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/18/%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%81%D8%B1%D8%AA%D8%A8%D9%86%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AC%D9%86%D9%88/"
-   }
-  },
-  {
-   "id": "20261118-2026-iran-navy-three-tankers-mines",
-   "time": "2026-11-18T20:26:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says three oil tankers sailing east of the Strait of Hormuz hit naval mines, caught fire and were disabled, per Press TV; it named no ships and gave no casualties.",
-   "ar": "البحرية الإيرانية تقول إن ثلاث ناقلات نفط كانت تبحر شرق مضيق هرمز اصطدمت بألغام بحرية فاشتعلت فيها النيران وتعطّلت، بحسب «برس تي في»؛ ولم تسمِّ السفن ولم تذكر إصابات.",
-   "source": {
-    "name": "Reuters via Cyprus Mail",
-    "url": "https://cyprus-mail.com/2026/11/18/three-oil-tankers-catch-fire-after-hitting-naval-mines-east-of-strait-of-hormuz"
    }
   }
  ]
