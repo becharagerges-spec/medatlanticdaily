@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:08:34Z",
+ "updated": "2026-11-21T12:08:56Z",
  "items": [
   {
    "id": "20261121-1051-costa-eu-budget-cut-44bn",
@@ -23,6 +23,18 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/emergencies/2222875"
+   }
+  },
+  {
+   "id": "20261121-0955-liberman-rejects-arab-backed",
+   "time": "2026-11-21T09:55:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yisrael Beytenu leader Avigdor Liberman rejects any coalition backed by Arab parties and says Netanyahu can only be replaced 'from the right', per The Jerusalem Post.",
+   "ar": "زعيم «يسرائيل بيتينو» أفيغدور ليبرمان يرفض أي ائتلاف مدعوم من الأحزاب العربية ويقول إن استبدال نتنياهو لا يكون إلا «من اليمين»، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/2026-11-21/live-updates-915622"
    }
   },
   {
@@ -59,6 +71,18 @@
    "source": {
     "name": "AFP via France 24",
     "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
+   }
+  },
+  {
+   "id": "20261121-0707-zelensky-putin-killer",
+   "time": "2026-11-21T07:07:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky tells CNN that Putin is 'an enemy' and 'a killer' for Ukrainians, responding to Trump calling the Russian leader his 'friend' after their Shenzhen meeting with Xi.",
+   "ar": "زيلينسكي يقول لشبكة CNN إن بوتين «عدو» و«قاتل» بالنسبة للأوكرانيين، ردّاً على وصف ترامب للرئيس الروسي بـ«الصديق» بعد لقائهما مع شي في شينجن.",
+   "source": {
+    "name": "CNN via Euronews",
+    "url": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend"
    }
   },
   {
@@ -1534,42 +1558,6 @@
    "source": {
     "name": "Nidaa al-Watan via Naharnet",
     "url": "https://www.naharnet.com/stories/en/323864-bin-farhan-no-saudi-support-before-disarmament"
-   }
-  },
-  {
-   "id": "20261118-1204-aoun-hezbollah-hand-over-weapons",
-   "time": "2026-11-18T12:04:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "President Joseph Aoun tells Hezbollah to 'come forward and hand over your weapons', saying the state will see its arms monopoly through and confiscate any Hezbollah weapons shipment.",
-   "ar": "الرئيس جوزاف عون يدعو «حزب الله» إلى «التقدّم وتسليم سلاحه»، مؤكداً أن الدولة ماضية في حصر السلاح حتى النهاية وستصادر أي شحنة أسلحة للحزب.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323859-aoun-says-hezbollah-must-disarm-if-it-truly-cares-about-lebanon-shiites"
-   }
-  },
-  {
-   "id": "20261118-1152-qabalan-letter-aoun",
-   "time": "2026-11-18T11:52:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Jaafari Mufti Sheikh Ahmad Qabalan tells President Aoun in a letter that he rejects any move against Hezbollah's weapons and accuses the government of failing to defend the south, per Beirut 24.",
-   "ar": "المفتي الجعفري الشيخ أحمد قبلان يبلغ الرئيس عون في رسالة رفضه أي مساس بسلاح حزب الله ويتّهم الحكومة بالتقصير في حماية الجنوب، بحسب «بيروت 24».",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/18/%D9%82%D8%A8%D9%84%D8%A7%D9%86-%D9%84%D8%B9%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D9%88%D9%84%D9%88/"
-   }
-  },
-  {
-   "id": "20261118-1133-waltz-berri-hezbollah-cancer",
-   "time": "2026-11-18T11:33:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "US envoy Mike Waltz says after meeting Speaker Nabih Berri that placing all arms under state control 'isn't optional' and calls Hezbollah a 'cancer' that must not continue.",
-   "ar": "المبعوث الأميركي مايك والتز يقول بعد لقائه رئيس المجلس نبيه بري إن حصر السلاح بيد الدولة «ليس خياراً» ويصف حزب الله بـ«السرطان» الذي يجب ألا يستمر.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323863-waltz-the-cancer-that-is-hezbollah-must-not-continue"
    }
   }
  ]
