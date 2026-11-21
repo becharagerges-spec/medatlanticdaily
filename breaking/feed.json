@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T19:08:10Z",
+ "updated": "2026-11-21T20:08:07Z",
  "items": [
+  {
+   "id": "20261121-1944-bahrain-industrial-fire",
+   "time": "2026-11-21T19:44:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Bahrain's Interior Ministry says an Iranian attack hit a civilian industrial facility, sparking a fire with material damage and no injuries; Iran's Revolutionary Guards say they targeted two US bases.",
+   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أصاب منشأة صناعية مدنية وأشعل حريقاً خلّف أضراراً مادية من دون إصابات، فيما يقول الحرس الثوري إنه استهدف قاعدتين أميركيتين.",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/gulf/bahrain/iranian-attack-sparks-fire-at-civilian-industrial-facility-in-bahrain-1.500756564"
+   }
+  },
+  {
+   "id": "20261121-1926-likud-unity-conditions",
+   "time": "2026-11-21T19:26:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud sets conditions for a unity coalition, demanding an end to boycotts of Netanyahu, no Palestinian state and security zones in Gaza, Lebanon and Syria, per Times of Israel.",
+   "ar": "الليكود يضع شروطاً لائتلاف وحدة، بينها إنهاء مقاطعة نتنياهو ورفض الدولة الفلسطينية والإبقاء على مناطق أمنية في غزة ولبنان وسوريا، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties/"
+   }
+  },
+  {
+   "id": "20261121-1854-golan-haredi-coalition",
+   "time": "2026-11-21T18:54:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Democrats leader Yair Golan says he will not block a coalition with the ultra-Orthodox parties, while Ra'am's Mansour Abbas says an Eisenkot-led government will be formed, per Times of Israel.",
+   "ar": "زعيم حزب الديمقراطيين يائير غولان يقول إنه لن يعرقل ائتلافاً مع الأحزاب الحريدية، فيما يؤكد منصور عباس من «راعم» أن حكومة برئاسة آيزنكوت ستتشكّل، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/golan-says-he-wont-block-coalition-with-haredi-parties-abbas-confident-eisenkot-will-form-government/"
+   }
+  },
   {
    "id": "20261121-1825-bahrain-threat-alert",
    "time": "2026-11-21T18:25:00Z",
@@ -47,6 +83,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace/"
+   }
+  },
+  {
+   "id": "20261121-1707-trump-contractors-order",
+   "time": "2026-11-21T17:07:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump signs an executive order requiring federal contractors to consult the White House before answering congressional inquiries, threatening contract termination for noncompliance.",
+   "ar": "ترامب يوقّع أمراً تنفيذياً يُلزم المتعاقدين الفدراليين بمراجعة البيت الأبيض قبل الرد على استفسارات الكونغرس، مهدداً بإلغاء العقود في حال عدم الامتثال.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.click2houston.com/news/politics/2026/11/21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress/"
    }
   },
   {
