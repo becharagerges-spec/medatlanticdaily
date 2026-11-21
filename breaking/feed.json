@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T14:08:59Z",
+ "updated": "2026-11-21T15:07:19Z",
  "items": [
+  {
+   "id": "20261121-1350-zelensky-no-written-guarantees",
+   "time": "2026-11-21T13:50:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Ukraine has seen no written commitment yet on NATO Article 5-style security guarantees, and that the next four-way talks with Russia and the US depend on Washington.",
+   "ar": "زيلينسكي يقول إن أوكرانيا لم تتلقَّ بعد أي التزام مكتوب بضمانات أمنية على غرار المادة الخامسة من ميثاق الناتو، وإن الجولة المقبلة من المحادثات الرباعية مع روسيا والولايات المتحدة رهن بواشنطن.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/"
+   }
+  },
   {
    "id": "20261121-1348-finland-russian-helicopter",
    "time": "2026-11-21T13:48:00Z",
@@ -1545,18 +1557,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says"
-   }
-  },
-  {
-   "id": "20261118-1420-gaza-central-ground-raid",
-   "time": "2026-11-18T14:20:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's army says its tank-led ground operation west of Gaza's Yellow Line near Nuseirat and Bureij, the first since the 2025 ceasefire, ended Thursday; Hamas calls it a blatant ceasefire violation.",
-   "ar": "الجيش الإسرائيلي يعلن انتهاء عمليته البرية بالدبابات غرب «الخط الأصفر» قرب النصيرات والبريج وسط غزة، الأولى منذ وقف النار عام 2025، الخميس، وحماس تصفها بخرق فاضح لوقف النار.",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.pk/middle-east/israel-army-says-completed-central-gaza-ground-operation-3007478"
    }
   }
  ]
