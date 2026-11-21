@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T00:09:21Z",
+ "updated": "2026-11-21T03:08:19Z",
  "items": [
+  {
+   "id": "20261121-0221-fbi-crime-database-breach",
+   "time": "2026-11-21T02:21:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The FBI is investigating an apparent breach of its nationwide criminal information database, used by federal, state and local police, two people briefed on the probe tell CNN.",
+   "ar": "مكتب التحقيقات الفدرالي الأميركي يحقّق في اختراق محتمل لقاعدة بيانات المعلومات الجنائية الوطنية التي تعتمدها الأجهزة الفدرالية والمحلية، بحسب مصدرين مطّلعين لـ«سي إن إن».",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database"
+   }
+  },
+  {
+   "id": "20261120-2253-riyadh-three-ballistic-missiles",
+   "time": "2026-11-20T22:53:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi civil defence warns Riyadh of an aerial threat as the Saudi-led coalition says it intercepted 3 Houthi ballistic missiles fired at the capital; witnesses hear 2 explosions.",
+   "ar": "الدفاع المدني السعودي يحذّر سكان الرياض من تهديد جوي، والتحالف بقيادة السعودية يعلن اعتراض 3 صواريخ باليستية أطلقها الحوثيون نحو العاصمة، وشهود يسمعون انفجارين.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
+   }
+  },
   {
    "id": "20261120-2037-us-treasury-iran-oil-trustees",
    "time": "2026-11-20T20:37:00Z",
@@ -35,6 +59,18 @@
    "source": {
     "name": "AP",
     "url": "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
+   }
+  },
+  {
+   "id": "20261120-1930-witkoff-kushner-qatar-berlin",
+   "time": "2026-11-20T19:30:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "US envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss restarting US-Iran negotiations, Axios reports, citing two sources.",
+   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر التقيا مسؤولين قطريين كباراً في برلين يوم الخميس لبحث استئناف المفاوضات الأميركية-الإيرانية، بحسب «أكسيوس» نقلاً عن مصدرين.",
+   "source": {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran"
    }
   },
   {
@@ -1593,113 +1629,6 @@
    "ar": "الديمقراطية ماري بيلتولا تهزم السيناتور الجمهوري دان سوليفان في ألاسكا، في آخر سباق محسوم لمجلس الشيوخ في الانتخابات النصفية، فتتّسع الأغلبية الديمقراطية الجديدة في المجلس.",
    "source": {
     "name": "AP"
-   }
-  },
-  {
-   "id": "20261118-0303-rubio-dirty-bomb",
-   "time": "2026-11-18T03:03:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Rubio says in Manila there is no imminent threat to Washington after a CNN report of a possible Iranian dirty-bomb plot, and no evidence recent US tech outages are linked or malicious.",
-   "ar": "روبيو يقول من مانيلا إنه لا تهديد وشيكاً لواشنطن بعد تقرير لـ«سي إن إن» عن مخطط إيراني محتمل لقنبلة قذرة، ولا دليل على ترابط الأعطال التقنية الأميركية الأخيرة أو على طابع عدائي لها.",
-   "source": {
-    "name": "Reuters via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/rubio-says-no-imminent-threat-to-washington-after-report-on-potential-iran-dirty-bomb-plot/"
-   }
-  },
-  {
-   "id": "20261118-0235-murban-falls-4pct",
-   "time": "2026-11-18T02:35:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Murban crude falls 4.2% to $91.39 a barrel in Asian trade while Brent slips 0.6% to $92.61, as US stockpiles rise and Gulf exports recover, per Gulf News.",
-   "ar": "خام مربان يتراجع 4.2% إلى 91.39 دولاراً للبرميل في التداولات الآسيوية، وبرنت ينخفض 0.6% إلى 92.61 دولاراً، مع ارتفاع المخزونات الأميركية وتعافي الصادرات الخليجية، بحسب «غلف نيوز».",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/business/energy/oil-slips-in-asia-led-by-murban-brent-wti-what-to-know-on-nov-18-2026-1.500751476"
-   }
-  },
-  {
-   "id": "20261118-0209-coalition-strikes-60-houthi-targets",
-   "time": "2026-11-18T02:09:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it struck 60 Houthi military targets in Sanaa, Amran, Saada and Hodeidah; the Houthi health ministry says at least 17 were killed, 15 at a Hodeidah factory.",
-   "ar": "التحالف بقيادة السعودية يعلن ضرب 60 هدفاً عسكرياً للحوثيين في صنعاء وعمران وصعدة والحديدة، ووزارة الصحة الحوثية تقول إن 17 شخصاً على الأقل قُتلوا، بينهم 15 في مصنع بالحديدة.",
-   "source": {
-    "name": "AP via Yahoo News",
-    "url": "https://ca.news.yahoo.com/saudi-backed-forces-launch-major-080148833.html"
-   }
-  },
-  {
-   "id": "20261118-0138-nvidia-halts-hopper-china",
-   "time": "2026-11-18T01:38:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Nvidia interim CEO Colette Kress says the company is no longer shipping licensed Hopper data-centre chips to China, after about $2.4 billion in H200 sales there last quarter.",
-   "ar": "الرئيسة التنفيذية المؤقتة لـ«إنفيديا» كوليت كريس تقول إن الشركة أوقفت شحن رقائق «هوبر» المرخّصة لمراكز البيانات إلى الصين، بعد مبيعات «إتش 200» بنحو 2.4 مليار دولار هناك في الربع الماضي.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
-   }
-  },
-  {
-   "id": "20261118-0124-idf-tunnel-jabal-rous",
-   "time": "2026-11-18T01:24:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "The Israeli army says its troops destroyed a Hezbollah underground tunnel with accommodation and command rooms in the Jabal al-Rous area of south Lebanon over the past 24 hours.",
-   "ar": "الجيش الإسرائيلي يقول إن قواته دمّرت خلال الساعات الـ24 الماضية نفقاً تحت الأرض لحزب الله يضم غرفاً للإقامة والقيادة في منطقة جبل الروس جنوب لبنان.",
-   "source": {
-    "name": "LBCI",
-    "url": "https://www.lbcgroup.tv/news/lebanon-news/968538/israeli-army-claims-it-destroyed-hezbollah-underground-tunnel-in-south/en"
-   }
-  },
-  {
-   "id": "20261118-0048-romania-vrancea-earthquake",
-   "time": "2026-11-18T00:48:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "A magnitude 5.3 earthquake strikes near Vidra in Romania's Vrancea zone at 02:48 local time, felt by about 25 million people in Romania, Moldova, Bulgaria, Ukraine and Serbia, EMSC says.",
-   "ar": "زلزال بقوة 5.3 درجات يضرب قرب فيدرا في منطقة فرانتشيا الرومانية عند الساعة 02:48 بالتوقيت المحلي، وشعر به نحو 25 مليون شخص في رومانيا ومولدوفا وبلغاريا وأوكرانيا وصربيا، وفق المركز الأوروبي المتوسطي لرصد الزلازل.",
-   "source": {
-    "name": "EMSC",
-    "url": "https://x.com/LastQuake/status/2122858590541115594"
-   }
-  },
-  {
-   "id": "20261118-0046-white-house-pulls-overton-fda",
-   "time": "2026-11-18T00:46:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The White House withdraws Heidi Overton's nomination to lead the FDA ahead of a Senate confirmation vote, after wavering support from Senate Republicans.",
-   "ar": "البيت الأبيض يسحب ترشيح هايدي أوفرتون لرئاسة إدارة الغذاء والدواء الأميركية قبل تصويت مجلس الشيوخ على تثبيتها، بعد تراجع دعم الجمهوريين في المجلس.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261118-0045-bahrain-intercepts-iran-wednesday",
-   "time": "2026-11-18T00:45:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "The Bahrain Defence Force says it intercepted several aerial attacks from Iran early Wednesday, as the Interior Ministry issued 2 shelter alerts overnight before giving the all-clear.",
-   "ar": "قوة دفاع البحرين تعلن اعتراض عدة هجمات جوية من إيران فجر الأربعاء، فيما أطلقت وزارة الداخلية إنذارين للاحتماء خلال الليل قبل إعلان زوال الخطر.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/kuwait-under-hostile-drone-attacks-says-army-3012614"
-   }
-  },
-  {
-   "id": "20261118-0034-gcc-condemns-iran-bahrain-unsc",
-   "time": "2026-11-18T00:34:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "GCC Secretary General Jasem Albudaiwi condemns repeated Iranian attacks on Bahrain, the second on its radar positions in 2 days, and urges the UN Security Council to act.",
-   "ar": "الأمين العام لمجلس التعاون الخليجي جاسم البديوي يدين الاعتداءات الإيرانية المتكررة على البحرين، وهي الثانية على مواقع راداراتها خلال يومين، ويدعو مجلس الأمن إلى التحرك.",
-   "source": {
-    "name": "GCC, per Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
    }
   }
  ]
