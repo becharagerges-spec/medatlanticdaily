@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T09:07:44Z",
+ "updated": "2026-11-21T10:08:17Z",
  "items": [
+  {
+   "id": "20261121-0940-ust-luga-drones-leningrad",
+   "time": "2026-11-21T09:40:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Leningrad Governor Alexander Drozdenko says 61 Ukrainian drones were downed over the region overnight, as explosions are reported near the Baltic oil export port of Ust-Luga, per Kyiv Post.",
+   "ar": "حاكم مقاطعة لينينغراد ألكسندر دروزدينكو يقول إن 61 مسيّرة أوكرانية أُسقطت فوق المقاطعة ليلاً، فيما تُفاد تقارير عن انفجارات قرب مرفأ أوست-لوغا لتصدير النفط على بحر البلطيق، بحسب «كييف بوست».",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/90796"
+   }
+  },
   {
    "id": "20261121-0828-usda-fbi-hacked",
    "time": "2026-11-21T08:28:00Z",
