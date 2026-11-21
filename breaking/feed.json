@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-21T13:09:38Z",
+ "updated": "2026-11-21T14:08:59Z",
  "items": [
+  {
+   "id": "20261121-1348-finland-russian-helicopter",
+   "time": "2026-11-21T13:48:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Finland's Defence Ministry says a Russian helicopter is suspected of violating Finnish airspace, possibly linked to operations around the cargo ship damaged earlier in the Gulf of Finland.",
+   "ar": "وزارة الدفاع الفنلندية تقول إنّ مروحية روسية يُشتبه في انتهاكها المجال الجوي الفنلندي، وربما يرتبط ذلك بعمليات حول سفينة الشحن التي تضرّرت في وقت سابق في خليج فنلندا.",
+   "source": {
+    "name": "Reuters via Devdiscourse",
+    "url": "https://www.devdiscourse.com/article/international/4010360-russian-helicopter-suspected-of-violating-finnish-airspace-finland-government-says"
+   }
+  },
+  {
+   "id": "20261121-1340-iran-claims-f16-hit",
+   "time": "2026-11-21T13:40:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army says its air defences fired a missile that damaged a US F-16 over the Gulf on Friday evening, forcing an emergency landing; the US military has not confirmed it.",
+   "ar": "الجيش الإيراني يقول إنّ دفاعاته الجوية أطلقت صاروخاً ألحق أضراراً بمقاتلة أميركية من طراز F-16 فوق الخليج مساء الجمعة وأجبرها على هبوط اضطراري، والجيش الأميركي لم يؤكّد ذلك.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-915637"
+   }
+  },
+  {
+   "id": "20261121-1334-mexico-el-chapo-isidro",
+   "time": "2026-11-21T13:34:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "Mexico detains Sinaloa cartel boss Fausto Isidro Meza Flores, 'El Chapo Isidro', one of the FBI's 10 most wanted, saying US intelligence helped the capture.",
+   "ar": "المكسيك تعتقل زعيم كارتل سينالوا فاوستو إيسيدرو ميزا فلوريس الملقّب «إل تشابو إيسيدرو»، أحد المطلوبين العشرة الأوائل لدى الـFBI، وتقول إنّ استخبارات أميركية ساعدت في القبض عليه.",
+   "source": {
+    "name": "AP"
+   }
+  },
   {
    "id": "20261121-1218-gaza-city-strike-three",
    "time": "2026-11-21T12:18:00Z",
@@ -1522,54 +1557,6 @@
    "source": {
     "name": "AFP via Arab News",
     "url": "https://www.arabnews.pk/middle-east/israel-army-says-completed-central-gaza-ground-operation-3007478"
-   }
-  },
-  {
-   "id": "20261118-1339-iaea-saudi-nuclear-deal",
-   "time": "2026-11-18T13:39:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "IAEA chief Rafael Grossi calls the planned US-Saudi nuclear agreement 'very satisfactory' on inspections, saying the agency will get access to Saudi conversion, enrichment, fuel and reprocessing sites.",
-   "ar": "المدير العام للوكالة الدولية للطاقة الذرية رافاييل غروسي يصف الاتفاق النووي الأميركي-السعودي المرتقب بأنه «مُرضٍ جداً» على صعيد التفتيش، مؤكداً أن الوكالة ستدخل مواقع التحويل والتخصيب والوقود وإعادة المعالجة السعودية.",
-   "source": {
-    "name": "AFP via Dawn",
-    "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory"
-   }
-  },
-  {
-   "id": "20261118-1313-bennett-netanyahu-meeting",
-   "time": "2026-11-18T13:13:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Naftali Bennett meets Netanyahu for about two hours at the Knesset without telling Eisenkot; afterwards his entourage says he will not serve in a government under Netanyahu.",
-   "ar": "نفتالي بينيت يلتقي نتنياهو نحو ساعتين في الكنيست من دون إبلاغ آيزنكوت؛ وبعد اللقاء يقول مقرّبون منه إنه لن يشارك في حكومة برئاسة نتنياهو.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/2026-11-18/live-updates-915259"
-   }
-  },
-  {
-   "id": "20261118-1313-amal-hezbollah-joint-statement",
-   "time": "2026-11-18T13:13:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Amal and Hezbollah call for national unity in a joint statement, reject direct negotiations with Israel and urge the government to confront Israeli attacks and speed reconstruction.",
-   "ar": "«أمل» و«حزب الله» يدعوان في بيان مشترك إلى الوحدة الوطنية، ويرفضان المفاوضات المباشرة مع إسرائيل، ويطالبان الحكومة بالتصدي للاعتداءات الإسرائيلية وتسريع إعادة الإعمار.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323867-amal-and-hezbollah-call-for-national-unity-in-joint-statement"
-   }
-  },
-  {
-   "id": "20261118-1310-saudi-yemen-war-2027",
-   "time": "2026-11-18T13:10:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia is preparing for its war against the Houthis to last up to six more months, into 2027, and wants ground gains by its Yemeni allies before talks, three sources tell Reuters.",
-   "ar": "السعودية تستعد لاستمرار حربها على الحوثيين حتى ستة أشهر إضافية، أي إلى عام 2027، وتريد مكاسب ميدانية لحلفائها اليمنيين قبل أي تفاوض، بحسب ثلاثة مصادر لـ«رويترز».",
-   "source": {
-    "name": "Reuters via Investing.com",
-    "url": "https://www.investing.com/news/commodities-news/exclusivesaudis-preparing-for-yemen-campaign-to-last-well-into-2027-5035986"
    }
   }
  ]
