@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T09:08:14Z",
+ "updated": "2026-11-22T10:07:44Z",
  "items": [
+  {
+   "id": "20261122-0916-iraq-isis-mass-trials",
+   "time": "2026-11-22T09:16:00Z",
+   "theater": "iraq",
+   "status": "reported",
+   "en": "Iraq opens mass trials of 5,704 ISIS suspects transferred from Syria, starting with six Syrians at Baghdad's Karkh court before adjourning to 7 December, per The National.",
+   "ar": "العراق يفتتح محاكمات جماعية لـ5,704 مشتبهين بالانتماء إلى داعش نُقلوا من سوريا، بدءاً بستة سوريين أمام محكمة الكرخ في بغداد، قبل تأجيلها إلى 7 كانون الأول، بحسب «ذا ناشونال».",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/trials-in-iraq-under-way-for-thousands-of-isis-suspects-transferred-from-syria/"
+   }
+  },
+  {
+   "id": "20261122-0844-dymer-drone-14-missing",
+   "time": "2026-11-22T08:44:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says 14 people are unaccounted for after a Russian drone hit a five-storey residential building in Dymer, Kyiv region, where 9 people were evacuated.",
+   "ar": "زيلينسكي يقول إن 14 شخصاً في عداد المفقودين بعد إصابة مسيّرة روسية مبنى سكنياً من خمس طبقات في ديمير بمنطقة كييف، حيث جرى إجلاء 9 أشخاص.",
+   "source": {
+    "name": "Censor.net",
+    "url": "https://censor.net/en/news/4034978/russian-strike-on-five-storey-building-in-dymer-14-people-are-unaccounted-for-zelenskyy"
+   }
+  },
   {
    "id": "20261122-0712-ukraine-186-drones",
    "time": "2026-11-22T07:12:00Z",
@@ -1442,124 +1466,6 @@
    "source": {
     "name": "Grand LB",
     "url": "https://www.grandlb.com/highlights/164803/"
-   }
-  },
-  {
-   "id": "20261119-1001-denmark-greenland-us-security-deal",
-   "time": "2026-11-19T10:01:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Denmark's parliament approves the security deal with Greenland and the United States, after months of pressure from President Trump seeking control of Greenland, AP reports.",
-   "ar": "البرلمان الدنماركي يقرّ الاتفاق الأمني مع غرينلاند والولايات المتحدة، بعد أشهر من ضغوط الرئيس ترامب للسيطرة على غرينلاند، بحسب أسوشيتد برس.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261119-1001-israeli-strikes-zawtar-qantara",
-   "time": "2026-11-19T10:01:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli strikes hit Zawtar-Mayfadoun and al-Qantara in south Lebanon on Thursday after overnight strikes and shelling on Beit Yahoun, Hadatha and Harees, per Naharnet; no casualties are reported.",
-   "ar": "غارات إسرائيلية تستهدف زوطر-ميفدون والقنطرة في جنوب لبنان الخميس، بعد غارات وقصف ليلي على بيت ياحون وحداثا وحاريص، بحسب «نهارنت»؛ ولا إصابات مُعلنة.",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323887-south-lebanon-latest-developments"
-   }
-  },
-  {
-   "id": "20261119-1000-eu-methane-rules-delay",
-   "time": "2026-11-19T10:00:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The EU reaches a tentative deal to delay methane rules for oil and gas importers by two years, beyond the one-year reprieve proposed, after Iran-war supply disruptions.",
-   "ar": "الاتحاد الأوروبي يتوصّل إلى اتفاق مبدئي لتأجيل قواعد الميثان على مستوردي النفط والغاز سنتين، أبعد من مهلة السنة المقترحة، بعد اضطرابات الإمدادات بسبب حرب إيران.",
-   "source": {
-    "name": "Bloomberg"
-   }
-  },
-  {
-   "id": "20261119-0954-irgc-two-supertankers-mines",
-   "time": "2026-11-19T09:54:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy claims two supertankers carrying over 4 million barrels of crude hit a naval mine and exploded on a restricted route in Hormuz; unverified.",
-   "ar": "بحرية الحرس الثوري الإيراني تزعم أن ناقلتين عملاقتين تحملان أكثر من 4 ملايين برميل من النفط الخام اصطدمتا بلغم بحري وانفجرتا على مسار محظور في هرمز؛ من دون تأكيد مستقل.",
-   "source": {
-    "name": "Mehr News Agency",
-    "url": "https://en.mehrnews.com/news/249538/Two-violating-supertankers-explode-in-Strait-of-Hormuz"
-   }
-  },
-  {
-   "id": "20261119-0953-germany-ukraine-aid-veto-proof",
-   "time": "2026-11-19T09:53:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Germany is pressing to lock future increases in EU aid to Ukraine into a budget framework that no single member state can veto, per Politico Europe.",
-   "ar": "ألمانيا تضغط لإدراج أي زيادات مستقبلية في مساعدات الاتحاد الأوروبي لأوكرانيا ضمن إطار موازنة لا يمكن لأي دولة عضو منفردة تعطيله، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/"
-   }
-  },
-  {
-   "id": "20261119-0951-aoun-berri-dahr-baidar-deal",
-   "time": "2026-11-19T09:51:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "President Aoun and Speaker Berri reach a settlement keeping the Dahr al-Baidar explosives case at the Military Court under Judge Claude Ghanem, with Hezbollah's consent, per Ad-Diyar.",
-   "ar": "الرئيس عون ورئيس المجلس بري يتوصّلان إلى تسوية تُبقي ملف متفجرات ضهر البيدر أمام المحكمة العسكرية برئاسة القاضي كلود غانم، بموافقة حزب الله، بحسب «الديار».",
-   "source": {
-    "name": "Ad-Diyar via Naharnet",
-    "url": "https://mobile.naharnet.com/stories/en/323884-aoun-berri-reach-settlement-on-dahr-al-baidar-explosives-report-says"
-   }
-  },
-  {
-   "id": "20261119-0946-xi-no-cold-war-decoupling",
-   "time": "2026-11-19T09:46:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi tells Trump and Putin that major powers must not cross each other's bottom lines, urging them to abandon Cold War thinking, reject decoupling and coordinate on energy supply stability.",
-   "ar": "شي يقول لترامب وبوتين إن على القوى الكبرى ألّا تمسّ خطوط بعضها الحمراء، داعياً إلى التخلي عن عقلية الحرب الباردة ورفض فكّ الارتباط والتنسيق لاستقرار إمدادات الطاقة.",
-   "source": {
-    "name": "Xinhua via Outlook India",
-    "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
-   }
-  },
-  {
-   "id": "20261119-0925-eu-commission-cyberattack",
-   "time": "2026-11-19T09:25:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission says hackers targeted individual staff systems in an attack running about ten days, forcing payroll, leave and medical-reimbursement tools offline, per Politico.",
-   "ar": "المفوضية الأوروبية تقول إن قراصنة استهدفوا أنظمة فردية لموظفيها في هجوم استمر نحو عشرة أيام، ما أخرج أدوات الرواتب والإجازات واسترداد النفقات الطبية من الخدمة، بحسب «بوليتيكو».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/"
-   }
-  },
-  {
-   "id": "20261119-0915-xi-ban-destroy-nuclear-weapons",
-   "time": "2026-11-19T09:15:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi Jinping calls at the Shenzhen trilateral for nuclear weapons to be comprehensively banned and destroyed, saying a nuclear war cannot be won, Xinhua reports.",
-   "ar": "شي جينبينغ يدعو في القمة الثلاثية في شنتشن إلى حظر الأسلحة النووية وتدميرها بالكامل، مؤكداً أن الحرب النووية لا يمكن كسبها، بحسب وكالة شينخوا.",
-   "source": {
-    "name": "Xinhua via Nasha Niva",
-    "url": "https://nashaniva.com/en/409612"
-   }
-  },
-  {
-   "id": "20261119-0909-trump-icc-out-of-control",
-   "time": "2026-11-19T09:09:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells Xi and Putin at their trilateral that the International Criminal Court is 'out of control'; the court holds an arrest warrant for Putin.",
-   "ar": "ترامب يقول لشي وبوتين خلال قمتهم الثلاثية إن المحكمة الجنائية الدولية «خارجة عن السيطرة»، علماً أن المحكمة أصدرت مذكرة توقيف بحق بوتين.",
-   "source": {
-    "name": "Business Upturn",
-    "url": "https://businessupturn.com/usa/news/trump-says-us-russia-and-china-uniquely-positioned-to-discuss-nuclear-weapons-criticises-icc/"
    }
   }
  ]
