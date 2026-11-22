@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T22:09:00Z",
+ "updated": "2026-11-22T00:09:00Z",
  "items": [
+  {
+   "id": "20261121-2300-iran-power-rationing",
+   "time": "2026-11-21T23:00:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's national electricity company chief Mohammad Allahdad says power distribution restrictions start Sunday, with outages of up to two hours a day, citing fuel supply conditions.",
+   "ar": "رئيس شركة الكهرباء الوطنية الإيرانية محمد اللهداد يعلن بدء تقنين توزيع الكهرباء الأحد، مع انقطاعات تصل إلى ساعتين يومياً، بسبب أوضاع إمدادات الوقود.",
+   "source": {
+    "name": "Iranian state TV via RFE/RL",
+    "url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html"
+   }
+  },
+  {
+   "id": "20261121-2219-houthi-missile-western-saudi",
+   "time": "2026-11-21T22:19:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a Houthi ballistic missile fired toward western Saudi Arabia, a day after three missiles targeted Riyadh.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الغربية في السعودية، بعد يوم على استهداف الرياض بثلاثة صواريخ.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region/"
+   }
+  },
   {
    "id": "20261121-1944-bahrain-industrial-fire",
    "time": "2026-11-21T19:44:00Z",
@@ -23,6 +47,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties/"
+   }
+  },
+  {
+   "id": "20261121-1901-baltiysk-explosions",
+   "time": "2026-11-21T19:01:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Residents report explosions and air defence fire near the Baltic Fleet base at Baltiysk in Kaliningrad, per the Kyiv Independent; Russian authorities confirm no strike.",
+   "ar": "سكان يفيدون بانفجارات ونشاط للدفاعات الجوية قرب قاعدة أسطول البلطيق في بالتييسك بمنطقة كالينينغراد، وفق «كييف إندبندنت»، فيما لم تؤكد السلطات الروسية أي ضربة.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://www.yahoo.com/news/world/articles/explosions-reported-near-russian-baltic-190153735.html"
    }
   },
   {
@@ -1559,41 +1595,6 @@
    "source": {
     "name": "Reuters via Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/"
-   }
-  },
-  {
-   "id": "20261119-0004-crimean-bridge-rail-halted",
-   "time": "2026-11-19T00:04:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Russia's Transport Ministry suspends train traffic on the Crimean Bridge after an overnight drone attack, the third in four days; it says no one was hurt and damage is being assessed.",
-   "ar": "وزارة النقل الروسية تعلّق حركة القطارات على جسر القرم بعد هجوم بالمسيّرات ليلاً، هو الثالث خلال أربعة أيام، وتقول إنّ أحداً لم يُصب وإنّ الأضرار قيد التقييم.",
-   "source": {
-    "name": "TASS",
-    "url": "https://tass.com/emergencies/2220945"
-   }
-  },
-  {
-   "id": "20261119-0002-nyt-trump-weighs-iran-strikes",
-   "time": "2026-11-19T00:02:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump is weighing another round of extensive strikes on Iran but has not decided, as Israel presses for a 4-to-7-day joint air campaign, per The New York Times.",
-   "ar": "ترامب يدرس جولة جديدة من الضربات الواسعة على إيران من دون أن يحسم قراره، فيما تضغط إسرائيل لحملة جوية مشتركة تمتد 4 إلى 7 أيام، بحسب «نيويورك تايمز».",
-   "source": {
-    "name": "The New York Times"
-   }
-  },
-  {
-   "id": "20261118-2312-tanker-projectile-khasab",
-   "time": "2026-11-18T23:12:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says an outbound tanker was struck in the engine room by an unknown projectile about 6 nautical miles north of Oman's Khasab; the crew is safe.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن إصابة ناقلة نفط خارجة من المضيق بمقذوف مجهول في غرفة المحركات على بعد 6 أميال بحرية شمال خصب العُمانية، والطاقم بخير.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/tanker-struck-by-projectile-near-omans-khasab-as-attacks-in-hormuz-continue-3012815"
    }
   }
  ]
