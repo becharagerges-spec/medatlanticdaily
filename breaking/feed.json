@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T05:07:55Z",
+ "updated": "2026-11-22T06:08:03Z",
  "items": [
+  {
+   "id": "20261122-0501-rubio-lebanon-sovereign",
+   "time": "2026-11-22T05:01:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Secretary of State Marco Rubio marks Lebanon's 83rd Independence Day by reaffirming US support for 'a fully sovereign Lebanon, at peace with its neighbors and accountable only to its own citizens'.",
+   "ar": "وزير الخارجية الأميركي ماركو روبيو يهنّئ لبنان بالذكرى الـ83 لاستقلاله، مجدّداً دعم واشنطن «للبنان كامل السيادة، يعيش بسلام مع جيرانه ولا يُحاسَب إلا أمام مواطنيه».",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/lebanon-national-day-2/"
+   }
+  },
   {
    "id": "20261122-0318-krasnodar-rosgvardia-hq",
    "time": "2026-11-22T03:18:00Z",
