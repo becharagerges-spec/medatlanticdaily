@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T15:08:51Z",
+ "updated": "2026-11-22T16:08:11Z",
  "items": [
+  {
+   "id": "20261122-1532-likud-yashar-talks-4h",
+   "time": "2026-11-22T15:32:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud and Eisenkot's Yashar negotiating teams end their first day of unity-government talks in Herzliya after about four hours, per Hebrew media reports cited by Times of Israel.",
+   "ar": "فريقا التفاوض عن الليكود وحزب «ياشار» بقيادة آيزنكوت ينهيان اليوم الأول من محادثات حكومة الوحدة في هرتسليا بعد نحو أربع ساعات، بحسب وسائل إعلام عبرية نقلت عنها «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/likud-yashar-negotiating-teams-conclude-unity-government-talks-after-four-hours"
+   }
+  },
   {
    "id": "20261122-1347-cop31-collapses",
    "time": "2026-11-22T13:47:00Z",
@@ -1467,30 +1479,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-calls-ukraine-s-european-allies-to-tout-his-putin-meeting"
-   }
-  },
-  {
-   "id": "20261119-1555-us-sanctions-ndrangheta-comancheros",
-   "time": "2026-11-19T15:55:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US sanctions Italy's 'Ndrangheta and Australia's Comanchero motorcycle gang, saying both give logistical support to the Sinaloa Cartel, CJNG and Clan del Golfo, designated terrorist organizations.",
-   "ar": "الولايات المتحدة تفرض عقوبات على «ندرانغيتا» الإيطالية وعصابة «كومانتشيرو» الأسترالية، قائلةً إنهما تقدّمان دعماً لوجستياً لكارتلات سينالوا وخاليسكو و«كلان ديل غولفو» المصنّفة إرهابية.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-major-international-drug-trafficking-organizations-linked-to-foreign-terrorist-organizations/"
-   }
-  },
-  {
-   "id": "20261119-1549-likud-yashar-unity-talks",
-   "time": "2026-11-19T15:49:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Likud says negotiating teams of Netanyahu's bloc and Eisenkot's Yashar will meet Sunday to continue unity-government talks, while accusing Eisenkot of negotiating 'only for appearances' sake', per the Jerusalem Post.",
-   "ar": "الليكود يقول إن فريقَي التفاوض عن كتلة نتنياهو وحزب «يشار» بقيادة آيزنكوت سيجتمعان الأحد لمواصلة محادثات حكومة الوحدة، متهماً آيزنكوت بالتفاوض «للمظاهر فقط»، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915505"
    }
   }
  ]
