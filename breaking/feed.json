@@ -1,16 +1,28 @@
 {
- "updated": "2026-11-22T16:08:11Z",
+ "updated": "2026-11-22T17:08:55Z",
  "items": [
+  {
+   "id": "20261122-1701-iran-twin-missile-launcher",
+   "time": "2026-11-22T17:01:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian state TV unveils a new launcher able to fire two liquid-fuel missiles at once, shown during a tour of an underground base by IRGC chief Ahmad Vahidi.",
+   "ar": "التلفزيون الرسمي الإيراني يكشف منصة إطلاق جديدة قادرة على إطلاق صاروخين بالوقود السائل في آن واحد، خلال جولة لقائد الحرس الثوري أحمد وحيدي في قاعدة تحت الأرض.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://arabnews.com/middle-east/iran-unveils-missile-launcher-as-commanders-tout-capabilities-in-war-with-us-3013578"
+   }
+  },
   {
    "id": "20261122-1532-likud-yashar-talks-4h",
    "time": "2026-11-22T15:32:00Z",
    "theater": "israel",
-   "status": "reported",
-   "en": "Likud and Eisenkot's Yashar negotiating teams end their first day of unity-government talks in Herzliya after about four hours, per Hebrew media reports cited by Times of Israel.",
-   "ar": "فريقا التفاوض عن الليكود وحزب «ياشار» بقيادة آيزنكوت ينهيان اليوم الأول من محادثات حكومة الوحدة في هرتسليا بعد نحو أربع ساعات، بحسب وسائل إعلام عبرية نقلت عنها «تايمز أوف إسرائيل».",
+   "status": "confirmed",
+   "en": "Likud and Eisenkot's Yashar end more than four hours of unity talks in Herzliya without agreement, split over Netanyahu serving first and Ben-Gvir's inclusion, and agree to meet again.",
+   "ar": "الليكود وحزب «ياشار» بقيادة آيزنكوت ينهيان أكثر من أربع ساعات من محادثات الوحدة في هرتسليا من دون اتفاق، وسط خلاف على تولّي نتنياهو الرئاسة أولاً وضمّ بن غفير، ويتفقان على جولة جديدة.",
    "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/likud-yashar-negotiating-teams-conclude-unity-government-talks-after-four-hours"
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/hj11rtyeyql"
    }
   },
   {
@@ -71,6 +83,18 @@
    "source": {
     "name": "Anadolu Agency",
     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-drone-targeting-riyadh-region/4133472"
+   }
+  },
+  {
+   "id": "20261122-0926-irgc-claims-mq1-hormuz",
+   "time": "2026-11-22T09:26:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over the eastern Strait of Hormuz, claiming it is the 20th of its type and the fourth in 24 hours.",
+   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق شرق مضيق هرمز، مدّعياً أنها العشرون من طرازها والرابعة خلال 24 ساعة.",
+   "source": {
+    "name": "IRNA",
+    "url": "https://en.irna.ir/news/86329157/IRGC-shoots-down-20th-US-MQ-1-drone-east-of-Strait-of-Hormuz"
    }
   },
   {
@@ -1467,18 +1491,6 @@
    "source": {
     "name": "964media",
     "url": "https://en.964media.com/55641/"
-   }
-  },
-  {
-   "id": "20261119-1648-trump-calls-europeans-ukraine",
-   "time": "2026-11-19T16:48:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Trump calls Ukraine's European allies after the Shenzhen summit, telling them his meeting with Putin went well and cited progress on Ukraine, while questioning them about their aid to Kyiv.",
-   "ar": "ترامب يتصل بحلفاء أوكرانيا الأوروبيين بعد قمة شنجن، ويبلغهم أن لقاءه مع بوتين كان جيداً وحقق تقدماً بشأن أوكرانيا، مستفسراً عن مساعداتهم لكييف.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-calls-ukraine-s-european-allies-to-tout-his-putin-meeting"
    }
   }
  ]
