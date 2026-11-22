@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:08:38Z",
+ "updated": "2026-11-22T13:08:53Z",
  "items": [
   {
    "id": "20261122-1101-zawtar-houses-rigged",
@@ -59,6 +59,18 @@
    "source": {
     "name": "Censor.net",
     "url": "https://censor.net/en/news/4034978/russian-strike-on-five-storey-building-in-dymer-14-people-are-unaccounted-for-zelenskyy"
+   }
+  },
+  {
+   "id": "20261122-0836-araghchi-hormuz-conditions",
+   "time": "2026-11-22T08:36:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says reopening the Strait of Hormuz 'is not difficult' if Washington accepts Iran's conditions, but is not on the agenda until they are met, per Tasnim.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن إعادة فتح مضيق هرمز «ليست صعبة» إذا قبلت واشنطن شروط إيران، لكنها ليست مطروحة قبل تلبيتها، بحسب «تسنيم».",
+   "source": {
+    "name": "Tasnim via Middle East Monitor",
+    "url": "https://www.middleeastmonitor.com/20261122-iran-says-reopening-hormuz-not-difficult-if-us-accepts-tehrans-conditions"
    }
   },
   {
@@ -222,11 +234,11 @@
    "time": "2026-11-21T19:44:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial facility ablaze, injuring a Bahraini and a Pakistani resident; Iran's Revolutionary Guards claim they hit two US Patriot radars at Riffa and Awali.",
-   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في منشأة صناعية مدنية وأصاب مواطناً بحرينياً ومقيماً باكستانياً، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين في الرفاع وعوالي.",
+   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial plant in Sitra ablaze, injuring a Bahraini and a Pakistani resident, now in critical condition; the IRGC claims it hit two US Patriot radars.",
+   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في مصنع مدني في سترة وأصاب مواطناً بحرينياً ومقيماً باكستانياً حالته حرجة، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين.",
    "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503"
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/"
    }
   },
   {
@@ -1407,18 +1419,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915505"
-   }
-  },
-  {
-   "id": "20261119-1305-kyiv-dutch-embassy",
-   "time": "2026-11-19T13:05:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian drone crashes behind the Dutch embassy in Kyiv during a daytime attack, damaging its windows; Dutch Foreign Minister Tom Berendsen says all staff are safe.",
-   "ar": "مسيّرة روسية تسقط خلف السفارة الهولندية في كييف خلال هجوم نهاري وتحطّم نوافذها، ووزير الخارجية الهولندي توم بيرندسن يؤكد أن جميع الموظفين بخير.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
    }
   }
  ]
