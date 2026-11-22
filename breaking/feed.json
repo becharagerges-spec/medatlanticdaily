@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:07:46Z",
+ "updated": "2026-11-22T15:08:51Z",
  "items": [
   {
    "id": "20261122-1347-cop31-collapses",
@@ -50,6 +50,30 @@
    }
   },
   {
+   "id": "20261122-0959-houthi-drone-riyadh",
+   "time": "2026-11-22T09:59:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a drone launched by Yemen's Houthis toward the Riyadh region.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرة أطلقها الحوثيون في اليمن باتجاه منطقة الرياض.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-drone-targeting-riyadh-region/4133472"
+   }
+  },
+  {
+   "id": "20261122-0924-saudi-warns-iran-bahrain",
+   "time": "2026-11-22T09:24:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi Arabia's Foreign Ministry condemns Iran's 'heinous' attack on a civilian industrial facility in Bahrain and says it holds Iran responsible for the consequences of continued attacks.",
+   "ar": "وزارة الخارجية السعودية تدين الاعتداء الإيراني «الآثم» على منشأة صناعية مدنية في البحرين، وتحمّل إيران مسؤولية تبعات استمرار هذه الاعتداءات.",
+   "source": {
+    "name": "Saudi Foreign Ministry via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-qatar-blast-heinous-iranian-attack-on-civilian-bahraini-site/"
+   }
+  },
+  {
    "id": "20261122-0916-iraq-isis-mass-trials",
    "time": "2026-11-22T09:16:00Z",
    "theater": "iraq",
@@ -83,6 +107,18 @@
    "source": {
     "name": "Tasnim via Middle East Monitor",
     "url": "https://www.middleeastmonitor.com/20261122-iran-says-reopening-hormuz-not-difficult-if-us-accepts-tehrans-conditions"
+   }
+  },
+  {
+   "id": "20261122-0715-benghazi-russian-ship-blast",
+   "time": "2026-11-22T07:15:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "Libya's eastern government says a suspected drone attack caused an explosion aboard a Russian ship refuelling at Benghazi's naval base; medical sources report injuries but no deaths.",
+   "ar": "الحكومة في شرق ليبيا تقول إنّ هجوماً مشتبهاً بمسيّرات تسبّب بانفجار على متن سفينة روسية كانت تتزوّد بالوقود في القاعدة البحرية في بنغازي، ومصادر طبية تفيد بإصابات من دون قتلى.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/libyas-eastern-government-suspects-drone-142529243.html"
    }
   },
   {
@@ -122,6 +158,18 @@
    }
   },
   {
+   "id": "20261122-0456-ghalibaf-neither-war-peace",
+   "time": "2026-11-22T04:56:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian parliament speaker Mohammad Bagher Ghalibaf says the state of 'neither war nor peace' cannot continue and that Iran needs lasting deterrence to avert the threat of war.",
+   "ar": "رئيس مجلس الشورى الإيراني محمد باقر قاليباف يقول إنّ حالة «اللا حرب واللا سلم» لا يمكن أن تستمر، وإنّ إيران تحتاج إلى ردع دائم لدرء خطر الحرب.",
+   "source": {
+    "name": "LBCI",
+    "url": "https://www.lbcgroup.tv/news/world/969178/قاليباف-حالة-اللا-حرب-واللا-سلم-لا-يمكن-أن-تستمر/ar"
+   }
+  },
+  {
    "id": "20261122-0451-settlers-ramallah-arson",
    "time": "2026-11-22T04:51:00Z",
    "theater": "israel",
@@ -131,6 +179,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/reports-settlers-set-fire-to-vehicles-and-homes-in-several-villages-near-ramallah"
+   }
+  },
+  {
+   "id": "20261122-0439-army-264kg-explosives-qaa",
+   "time": "2026-11-22T04:39:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "The Lebanese army seizes about 264 kg of explosives, 203 kg of C4 and 61 kg of TNT, smuggled from Syria near al-Qaa, and arrests 3 suspects.",
+   "ar": "الجيش اللبناني يضبط نحو 264 كلغ من المتفجرات، منها 203 كلغ من مادة C4 و61 كلغ من مادة TNT، مهرّبة من سوريا في مشاريع القاع، ويوقف 3 مشتبه بهم.",
+   "source": {
+    "name": "LBCI",
+    "url": "https://www.lbcgroup.tv/news/lebanon-security/969176/الجيش-يضبط-كمية-كبيرة-من-المواد-المتفجرة-ويوقف-ثلاثة/ar"
    }
   },
   {
