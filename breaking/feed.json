@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T10:07:44Z",
+ "updated": "2026-11-22T11:07:55Z",
  "items": [
+  {
+   "id": "20261122-1045-zelensky-weekly-patriot",
+   "time": "2026-11-22T10:45:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Russia fired about 2,700 attack drones, nearly 1,460 glide bombs and 165 missiles at Ukraine this week, and urges Washington to approve Patriot transfers allies already paid for.",
+   "ar": "زيلينسكي يقول إن روسيا أطلقت هذا الأسبوع نحو 2,700 مسيّرة هجومية وقرابة 1,460 قنبلة موجّهة و165 صاروخاً على أوكرانيا، ويحثّ واشنطن على الموافقة على نقل صواريخ «باتريوت» سدّد الحلفاء ثمنها.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/"
+   }
+  },
   {
    "id": "20261122-0916-iraq-isis-mass-trials",
    "time": "2026-11-22T09:16:00Z",
@@ -174,11 +186,11 @@
    "time": "2026-11-21T19:44:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial facility ablaze, with no injuries; Iran's Revolutionary Guards claim they hit two US Patriot radars at Riffa and Awali.",
-   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في منشأة صناعية مدنية من دون إصابات، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين في الرفاع وعوالي.",
+   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial facility ablaze, injuring a Bahraini and a Pakistani resident; Iran's Revolutionary Guards claim they hit two US Patriot radars at Riffa and Awali.",
+   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في منشأة صناعية مدنية وأصاب مواطناً بحرينياً ومقيماً باكستانياً، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين في الرفاع وعوالي.",
    "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/gulf/bahrain/iranian-attack-sparks-fire-at-civilian-industrial-facility-in-bahrain-1.500756564"
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503"
    }
   },
   {
@@ -1443,29 +1455,6 @@
    "source": {
     "name": "Reuters via Al-Monitor",
     "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting"
-   }
-  },
-  {
-   "id": "20261119-1100-tsmc-samsung-halt-china-chips",
-   "time": "2026-11-19T11:00:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "TSMC and Samsung suspend some chip shipments to Chinese customers after the US Commerce Department introduces new export controls, per the Financial Times.",
-   "ar": "«تي إس إم سي» و«سامسونغ» تعلّقان بعض شحنات الرقائق إلى زبائن صينيين بعد فرض وزارة التجارة الأميركية ضوابط تصدير جديدة، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261119-1038-berri-independence-south-not-buffer",
-   "time": "2026-11-19T10:38:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Speaker Nabih Berri says Lebanon's independence stays incomplete while Israel occupies any Lebanese land, rejects campaigns against the army and says the south will not become a buffer zone.",
-   "ar": "رئيس المجلس نبيه بري يقول إن استقلال لبنان يبقى منقوصاً ما دام الاحتلال الإسرائيلي قائماً على أي أرض لبنانية، ويرفض حملات التشكيك بالجيش، ويؤكد أن الجنوب لن يكون منطقة عازلة.",
-   "source": {
-    "name": "Grand LB",
-    "url": "https://www.grandlb.com/highlights/164803/"
    }
   }
  ]
