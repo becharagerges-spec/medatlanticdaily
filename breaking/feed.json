@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T13:08:53Z",
+ "updated": "2026-11-22T14:07:46Z",
  "items": [
+  {
+   "id": "20261122-1347-cop31-collapses",
+   "time": "2026-11-22T13:47:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "UN climate talks at COP31 in Antalya collapse without a deal after the EU and small island states reject a text from which Saudi Arabia and other oil producers kept out fossil fuels.",
+   "ar": "انهيار مفاوضات المناخ الأممية في مؤتمر COP31 في أنطاليا من دون اتفاق، بعد رفض الاتحاد الأوروبي والدول الجزرية الصغيرة نصاً أبقت السعودية ومنتجو نفط آخرون الوقود الأحفوري خارجه.",
+   "source": {
+    "name": "The Independent",
+    "url": "https://www.yahoo.com/news/science/articles/cop31-fails-reach-climate-deal-124907599.html"
+   }
+  },
   {
    "id": "20261122-1101-zawtar-houses-rigged",
    "time": "2026-11-22T11:01:00Z",
@@ -54,11 +66,11 @@
    "time": "2026-11-22T08:44:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Zelensky says 14 people are unaccounted for after a Russian drone hit a five-storey residential building in Dymer, Kyiv region, where 9 people were evacuated.",
-   "ar": "زيلينسكي يقول إن 14 شخصاً في عداد المفقودين بعد إصابة مسيّرة روسية مبنى سكنياً من خمس طبقات في ديمير بمنطقة كييف، حيث جرى إجلاء 9 أشخاص.",
+   "en": "Ukraine's State Emergency Service says 2 people were killed and 4 injured, including a child, after a Russian drone hit an apartment building in Dymer, Kyiv region; 11 remain missing.",
+   "ar": "خدمة الطوارئ الأوكرانية تقول إن شخصين قُتلا وأُصيب 4 بينهم طفل بعد إصابة مسيّرة روسية مبنى سكنياً في ديمير بمنطقة كييف، فيما لا يزال 11 شخصاً في عداد المفقودين.",
    "source": {
-    "name": "Censor.net",
-    "url": "https://censor.net/en/news/4034978/russian-strike-on-five-storey-building-in-dymer-14-people-are-unaccounted-for-zelenskyy"
+    "name": "UA.News",
+    "url": "https://ua.news/en/war-vs-rf/u-dimeri-na-kiyivshchini-zrosla-kilkist-zagiblikh-i-postrazhdalikh-pislia-udaru-rf"
    }
   },
   {
