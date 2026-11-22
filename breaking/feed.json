@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:08:03Z",
+ "updated": "2026-11-22T07:08:33Z",
  "items": [
   {
    "id": "20261122-0501-rubio-lebanon-sovereign",
@@ -11,6 +11,18 @@
    "source": {
     "name": "US State Department",
     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/lebanon-national-day-2/"
+   }
+  },
+  {
+   "id": "20261122-0451-settlers-ramallah-arson",
+   "time": "2026-11-22T04:51:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Settlers set fire to vehicles and homes overnight in Deir al-Sudan, Deir Abu Mash'al and Kafr Malik near Ramallah, with no injuries reported, per Palestinian media cited by Times of Israel.",
+   "ar": "مستوطنون يضرمون النار ليلاً في سيارات ومنازل في دير السودان ودير أبو مشعل وكفر مالك قرب رام الله، من دون إصابات، بحسب وسائل إعلام فلسطينية نقلت عنها «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/reports-settlers-set-fire-to-vehicles-and-homes-in-several-villages-near-ramallah"
    }
   },
   {
@@ -71,6 +83,18 @@
    "source": {
     "name": "AFP via Business Recorder",
     "url": "https://www.brecorder.com/news/40450179/iran-says-china-russia-oppose-change-in-nuclear-doctrine"
+   }
+  },
+  {
+   "id": "20261121-2009-zelensky-crimean-bridge",
+   "time": "2026-11-21T20:09:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Zelensky tells the BBC in Kyiv that Ukraine's strikes on the Crimean Bridge are a 'fair response' to 109 Russian attacks on Ukrainian bridges, before meeting UK Defence Secretary Wes Streeting.",
+   "ar": "زيلينسكي يقول لـ«بي بي سي» في كييف إن الضربات الأوكرانية على جسر القرم «ردّ عادل» على 109 هجمات روسية على جسور أوكرانية، قبيل لقائه وزير الدفاع البريطاني ويس ستريتينغ.",
+   "source": {
+    "name": "BBC via The Nation",
+    "url": "https://www.nation.com.pk/22-Nov-2026/zelensky-says-crimean-bridge-strikes-fair-response-meets-uk-s-streeting"
    }
   },
   {
@@ -1512,66 +1536,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year"
-   }
-  },
-  {
-   "id": "20261119-0658-iea-largest-energy-threat",
-   "time": "2026-11-19T06:58:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The IEA's World Energy Outlook calls the Middle East crisis the largest threat to energy security in history, with Gulf losses of 2.8 billion barrels of oil and 60 bcm of gas.",
-   "ar": "تقرير «آفاق الطاقة العالمية» الصادر عن وكالة الطاقة الدولية يصف أزمة الشرق الأوسط بأنها أكبر تهديد لأمن الطاقة في التاريخ، مع خسائر خليجية بلغت 2.8 مليار برميل نفط و60 مليار متر مكعب غاز.",
-   "source": {
-    "name": "AFP via Prothom Alo",
-    "url": "https://en.prothomalo.com/international/middle-east/nb2utr8svu"
-   }
-  },
-  {
-   "id": "20261119-0652-trump-incredible-meeting-xi",
-   "time": "2026-11-19T06:52:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump calls his talks with Xi 'an incredible meeting' and says 'something will come out', adding that his meeting with Putin 'set the stage' for the three-way talks, per ABC News.",
-   "ar": "ترامب يصف محادثاته مع شي بأنها «اجتماع مذهل» ويقول إنّ «شيئاً ما سيخرج منها»، مضيفاً أنّ لقاءه مع بوتين «مهّد الطريق» للمحادثات الثلاثية، بحسب «إيه بي سي نيوز».",
-   "source": {
-    "name": "ABC News",
-    "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
-   }
-  },
-  {
-   "id": "20261119-0640-ukraine-98-drones-oniks",
-   "time": "2026-11-19T06:40:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's air force says Russia launched 98 drones and Oniks missiles overnight; 69 drones were downed and strikes hit 18 locations.",
-   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 98 مسيّرة وصواريخ «أونيكس» خلال الليل؛ أُسقطت 69 مسيّرة وأصابت الضربات 18 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4186225-air-defense-downs-69-drones-launched-by-russia-in-overnight-attack-on-ukraine.html"
-   }
-  },
-  {
-   "id": "20261119-0639-coalition-four-houthi-missiles-south",
-   "time": "2026-11-19T06:39:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says its air defences destroyed 4 Houthi ballistic missiles fired at the kingdom's south, as civil defence alerts in Abha and Khamis Mushait were later lifted.",
-   "ar": "التحالف بقيادة السعودية يعلن أن دفاعاته الجوية دمّرت 4 صواريخ باليستية أطلقها الحوثيون نحو جنوب المملكة، فيما رُفعت لاحقاً إنذارات الدفاع المدني في أبها وخميس مشيط.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-downed-houthi-missiles-alerts-lifted-khamis"
-   }
-  },
-  {
-   "id": "20261119-0622-trump-xi-hormuz-iran-nuclear",
-   "time": "2026-11-19T06:22:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump says after talks with Xi that the US and China both want energy flows through the Strait of Hormuz resumed and that China believes Iran must not build a nuclear weapon.",
-   "ar": "ترامب يقول بعد محادثاته مع شي إن الولايات المتحدة والصين تريدان استئناف تدفق الطاقة عبر مضيق هرمز، وإن الصين ترى أنه لا يجوز لإيران امتلاك سلاح نووي.",
-   "source": {
-    "name": "Outlook India",
-    "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
    }
   }
  ]
