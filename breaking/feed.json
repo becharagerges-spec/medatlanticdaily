@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-22T18:08:14Z",
+ "updated": "2026-11-22T19:08:46Z",
  "items": [
+  {
+   "id": "20261122-1823-democrats-house-258",
+   "time": "2026-11-22T18:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Democrats clinch a House majority of at least 258 seats, the largest since 1992, after Chuck Hubbard defeats Republican Rep. Virginia Foxx in North Carolina; four races remain undecided.",
+   "ar": "الديمقراطيون يحسمون أغلبية في مجلس النواب الأميركي لا تقل عن 258 مقعداً، هي الأكبر منذ 1992، بعد فوز تشاك هابارد على النائبة الجمهورية فيرجينيا فوكس في كارولاينا الشمالية، فيما لم تُحسم أربعة سباقات بعد.",
+   "source": {
+    "name": "AP"
+   }
+  },
+  {
+   "id": "20261122-1808-houthis-rabigh-refinery",
+   "time": "2026-11-22T18:08:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's Houthis say they struck Saudi Arabia's Rabigh oil refinery on the Red Sea coast and claim a direct hit; Saudi authorities have not confirmed any attack.",
+   "ar": "الحوثيون في اليمن يعلنون استهداف مصفاة رابغ النفطية السعودية على ساحل البحر الأحمر ويزعمون إصابتها مباشرة، فيما لم تؤكد السلطات السعودية أي هجوم.",
+   "source": {
+    "name": "Reuters via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/article-915746"
+   }
+  },
   {
    "id": "20261122-1701-iran-twin-missile-launcher",
    "time": "2026-11-22T17:01:00Z",
@@ -1407,30 +1430,6 @@
    "source": {
     "name": "Reuters",
     "url": "https://www.yahoo.com/news/politics/articles/us-senate-rejects-resolution-curbing-195349892.html"
-   }
-  },
-  {
-   "id": "20261119-1854-trump-not-rushing-iran-decision",
-   "time": "2026-11-19T18:54:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells Israel's Channel 12 he is 'not rushing' a decision on new Iran strikes and may wait until the new year, though he could change his mind.",
-   "ar": "ترامب يقول للقناة 12 الإسرائيلية إنه «لا يستعجل» قراراً بشأن ضربات جديدة على إيران وقد ينتظر حتى العام الجديد، مع إمكان أن يغيّر رأيه.",
-   "source": {
-    "name": "Channel 12 via CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261119-1823-pentagon-iran-war-cost-48bn",
-   "time": "2026-11-19T18:23:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Pentagon budget official Arthur Miller tells the Senate Armed Services Committee the Iran war has cost an estimated $48.3 billion as of 13 November, excluding base damage.",
-   "ar": "المسؤول في موازنة البنتاغون آرثر ميلر يبلغ لجنة القوات المسلحة في مجلس الشيوخ أن كلفة الحرب على إيران بلغت نحو 48.3 مليار دولار حتى 13 تشرين الثاني، من دون أضرار القواعد.",
-   "source": {
-    "name": "AP",
-    "url": "https://www.clickorlando.com/news/politics/2026/11/19/iran-war-costs-surpass-48b-as-lawmakers-demand-unreleased-estimates-on-base-damage/"
    }
   }
  ]
