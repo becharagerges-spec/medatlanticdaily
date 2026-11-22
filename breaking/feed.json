@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T03:08:19Z",
+ "updated": "2026-11-22T05:07:55Z",
  "items": [
+  {
+   "id": "20261122-0318-krasnodar-rosgvardia-hq",
+   "time": "2026-11-22T03:18:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian drones reportedly struck the regional headquarters of Russia's National Guard in Krasnodar overnight, after a temporary ground stop at Krasnodar airport, per the Kyiv Independent citing monitoring channels.",
+   "ar": "مسيّرات أوكرانية استهدفت ليلاً، بحسب التقارير، المقرّ الإقليمي للحرس الوطني الروسي في كراسنودار، بعد توقّف مؤقت للحركة في مطار المدينة، وفق «كييف إندبندنت» نقلاً عن قنوات رصد.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-national-guard-facility-in-krasnodar/"
+   }
+  },
   {
    "id": "20261121-2302-ig-metall-23000-strike",
    "time": "2026-11-21T23:02:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region/"
+   }
+  },
+  {
+   "id": "20261121-2123-araghchi-china-russia-doctrine",
+   "time": "2026-11-21T21:23:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says China and Russia oppose any change to Iran's nuclear doctrine, insisting the doctrine and Tehran's official positions remain unchanged.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن الصين وروسيا تعارضان أي تغيير في العقيدة النووية الإيرانية، مؤكداً أن العقيدة ومواقف طهران الرسمية لم تتغيّر.",
+   "source": {
+    "name": "AFP via Business Recorder",
+    "url": "https://www.brecorder.com/news/40450179/iran-says-china-russia-oppose-change-in-nuclear-doctrine"
    }
   },
   {
@@ -1536,30 +1560,6 @@
    "source": {
     "name": "Outlook India",
     "url": "https://www.outlookindia.com/national/breaking-india-world-news-live-updates-19-november-2026-cyclone-akvan-apec-summit-latest-news-aqi-pm-modi"
-   }
-  },
-  {
-   "id": "20261119-0348-xi-trump-stable-relations",
-   "time": "2026-11-19T03:48:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Xi Jinping tells Trump at talks in Shenzhen that US-China relations are 'stable and improved' and that he wants a strategically stable relationship, ahead of their three-way meeting with Putin.",
-   "ar": "شي جين بينغ يقول لترامب خلال محادثاتهما في شنتشن إنّ العلاقات الأميركية-الصينية «مستقرة وتحسّنت» وإنه يريد علاقة مستقرة استراتيجياً، قبيل لقائهما الثلاثي مع بوتين.",
-   "source": {
-    "name": "AFP via Dawn",
-    "url": "https://www.dawn.com/news/2045630/xi-trump-meet-in-china-ahead-of-trilateral-with-putin"
-   }
-  },
-  {
-   "id": "20261119-0315-trump-iran-gas-bio",
-   "time": "2026-11-19T03:15:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump tells Fox News in Shenzhen that Iran is 'looking at gases, looking at bio' because the US has blocked its nuclear path, while downplaying the threat.",
-   "ar": "ترامب يقول لـ«فوكس نيوز» في شنتشن إن إيران «تبحث في الغازات والأسلحة البيولوجية» لأن واشنطن أغلقت أمامها الطريق النووي، مع تقليله من حجم التهديد.",
-   "source": {
-    "name": "Washington Examiner",
-    "url": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/"
    }
   }
  ]
