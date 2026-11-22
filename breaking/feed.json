@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T19:08:46Z",
+ "updated": "2026-11-22T20:08:38Z",
  "items": [
+  {
+   "id": "20261122-1930-israel-mfa-lebanon-independence",
+   "time": "2026-11-22T19:30:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Israel's Foreign Ministry publicly congratulates Lebanon on its 83rd Independence Day in a post on X that alludes to Iran without naming it.",
+   "ar": "وزارة الخارجية الإسرائيلية تهنّئ لبنان علناً بعيد استقلاله الـ83 في منشور على منصة إكس يلمّح إلى إيران من دون أن يسمّيها.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
+   }
+  },
+  {
+   "id": "20261122-1909-yashar-pm-term-limit-bill",
+   "time": "2026-11-22T19:09:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's bloc plans a preliminary Knesset vote Wednesday on a bill limiting prime ministers to 8 years and barring indicted politicians from forming a government, per Channel 12.",
+   "ar": "كتلة آيزنكوت تعتزم طرح مشروع قانون يحصر ولاية رئيس الحكومة بـ8 سنوات ويمنع المتّهمين من تشكيل حكومة للتصويت التمهيدي في الكنيست الأربعاء، بحسب القناة 12.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
+   }
+  },
+  {
+   "id": "20261122-1834-idf-spokeswoman-debel-school",
+   "time": "2026-11-22T18:34:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "IDF Arabic spokeswoman Ella Waweya posts a video from a school in Debel inside Israel's south Lebanon buffer zone; MP Hassan Murad calls it an assault on Lebanese sovereignty.",
+   "ar": "المتحدثة باسم الجيش الإسرائيلي بالعربية إيلا واوية تنشر فيديو من مدرسة في دبل داخل المنطقة العازلة جنوب لبنان، والنائب حسن مراد يعتبره اعتداءً على السيادة اللبنانية.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idfs-arabic-language-spokeswoman-visits-school-in-south-lebanon-angering-mp"
+   }
+  },
   {
    "id": "20261122-1823-democrats-house-258",
    "time": "2026-11-22T18:23:00Z",
@@ -22,6 +58,18 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-915746"
+   }
+  },
+  {
+   "id": "20261122-1713-ukmto-gulf-oman-tanker-mines",
+   "time": "2026-11-22T17:13:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UKMTO reports an incident involving a tanker and military forces in the Gulf of Oman, after Iran's navy said two supertankers hit mines north of Ghanam Island; any link is unclear.",
+   "ar": "هيئة عمليات التجارة البحرية البريطانية تبلّغ عن حادث بين ناقلة وقوات عسكرية في خليج عُمان، بعدما قالت البحرية الإيرانية إن ناقلتين عملاقتين اصطدمتا بألغام شمال جزيرة غنم؛ والصلة بينهما غير واضحة.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
    }
   },
   {
@@ -1418,18 +1466,6 @@
    "source": {
     "name": "The Motley Fool",
     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
-   }
-  },
-  {
-   "id": "20261119-1953-senate-rejects-iran-war-powers",
-   "time": "2026-11-19T19:53:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US Senate rejects, 51 to 48, a House-passed war powers resolution that would have required Trump to end the Iran war or obtain Congress's approval.",
-   "ar": "مجلس الشيوخ الأميركي يرفض بغالبية 51 صوتاً مقابل 48 قراراً لصلاحيات الحرب أقرّه مجلس النواب، كان سيُلزم ترامب بإنهاء الحرب على إيران أو نيل موافقة الكونغرس.",
-   "source": {
-    "name": "Reuters",
-    "url": "https://www.yahoo.com/news/politics/articles/us-senate-rejects-resolution-curbing-195349892.html"
    }
   }
  ]
