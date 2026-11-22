@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:08:38Z",
+ "updated": "2026-11-22T22:08:37Z",
  "items": [
   {
    "id": "20261122-1930-israel-mfa-lebanon-independence",
@@ -29,12 +29,12 @@
    "id": "20261122-1834-idf-spokeswoman-debel-school",
    "time": "2026-11-22T18:34:00Z",
    "theater": "lebanon",
-   "status": "reported",
-   "en": "IDF Arabic spokeswoman Ella Waweya posts a video from a school in Debel inside Israel's south Lebanon buffer zone; MP Hassan Murad calls it an assault on Lebanese sovereignty.",
-   "ar": "المتحدثة باسم الجيش الإسرائيلي بالعربية إيلا واوية تنشر فيديو من مدرسة في دبل داخل المنطقة العازلة جنوب لبنان، والنائب حسن مراد يعتبره اعتداءً على السيادة اللبنانية.",
+   "status": "confirmed",
+   "en": "PM Nawaf Salam condemns IDF Arabic spokeswoman Ella Waweya's visit to a school in Debel, in Israel's south Lebanon buffer zone, as a violation of schools' sanctity and children's rights.",
+   "ar": "رئيس الحكومة نواف سلام يدين زيارة المتحدثة باسم الجيش الإسرائيلي بالعربية إيلا واوية لمدرسة في دبل داخل المنطقة العازلة جنوب لبنان، معتبراً إياها انتهاكاً لحرمة المدارس وحقوق الأطفال.",
    "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idfs-arabic-language-spokeswoman-visits-school-in-south-lebanon-angering-mp"
+    "name": "National News Agency via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-condemns-idf-spokeswomans-visit-to-southern-lebanon-school"
    }
   },
   {
@@ -46,6 +46,30 @@
    "ar": "الديمقراطيون يحسمون أغلبية في مجلس النواب الأميركي لا تقل عن 258 مقعداً، هي الأكبر منذ 1992، بعد فوز تشاك هابارد على النائبة الجمهورية فيرجينيا فوكس في كارولاينا الشمالية، فيما لم تُحسم أربعة سباقات بعد.",
    "source": {
     "name": "AP"
+   }
+  },
+  {
+   "id": "20261122-1821-idf-intel-warns-multifront",
+   "time": "2026-11-22T18:21:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli military intelligence warned Netanyahu that a unilateral Israeli strike on Iran could ignite a war on multiple fronts rather than a 3-to-5-day operation, per Channel 12.",
+   "ar": "الاستخبارات العسكرية الإسرائيلية حذّرت نتنياهو من أن ضربة إسرائيلية منفردة على إيران قد تشعل حرباً على جبهات متعددة لا عملية من 3 إلى 5 أيام، بحسب القناة 12.",
+   "source": {
+    "name": "Channel 12 via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
+   }
+  },
+  {
+   "id": "20261122-1811-trump-renew-iran-offensive",
+   "time": "2026-11-22T18:11:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump tells Fox News he is inclined to resume military action against Iran if no deal is reached by the end of the year, and warns ships testing the US blockade will be sunk.",
+   "ar": "ترامب يقول لـ«فوكس نيوز» إنه يميل إلى استئناف العمل العسكري ضد إيران إذا لم يُبرم اتفاق بحلول نهاية العام، ويحذّر من إغراق السفن التي تختبر الحصار الأميركي.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-hes-inclined-to-renew-iran-offensive-if-no-deal-reached-by-end-of-year/"
    }
   },
   {
@@ -280,9 +304,9 @@
    "id": "20261122-0451-settlers-ramallah-arson",
    "time": "2026-11-22T04:51:00Z",
    "theater": "israel",
-   "status": "reported",
-   "en": "Settlers set fire to vehicles and homes overnight in Deir al-Sudan, Deir Abu Mash'al and Kafr Malik near Ramallah, with no injuries reported, per Palestinian media cited by Times of Israel.",
-   "ar": "مستوطنون يضرمون النار ليلاً في سيارات ومنازل في دير السودان ودير أبو مشعل وكفر مالك قرب رام الله، من دون إصابات، بحسب وسائل إعلام فلسطينية نقلت عنها «تايمز أوف إسرائيل».",
+   "status": "confirmed",
+   "en": "Settlers torch vehicles and homes overnight in Deir al-Sudan, Deir Abu Mash'al and Kafr Malik near Ramallah; Foreign Minister Gideon Sa'ar later condemns the attacks, blaming 'a handful of extremists'.",
+   "ar": "مستوطنون يحرقون ليلاً سيارات ومنازل في دير السودان ودير أبو مشعل وكفر مالك قرب رام الله، ووزير الخارجية جدعون ساعر يدين لاحقاً الاعتداءات ويحمّلها «حفنة من المتطرفين».",
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/reports-settlers-set-fire-to-vehicles-and-homes-in-several-villages-near-ramallah"
@@ -1454,18 +1478,6 @@
    "source": {
     "name": "Ukrainian Air Force via LIGA.net",
     "url": "https://news.liga.net/en/war/news/80-cruise-missiles-20-ballistic-missiles-and-400-drones-ignat-revealed-details-of-the-nighttime-attack"
-   }
-  },
-  {
-   "id": "20261119-2100-dow-plunges-1100",
-   "time": "2026-11-19T21:00:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The Dow closes down 1,101 points, or 2.2%, at 49,097, the S&P 500 falls 2.0% for a sixth straight loss and the Nasdaq drops 2.3%, as the 10-year yield tops 5%.",
-   "ar": "مؤشر داو جونز يُقفل منخفضاً 1,101 نقطة، أي 2.2%، عند 49,097، و«ستاندرد آند بورز 500» يتراجع 2.0% في سادس خسارة متتالية، و«ناسداك» يهبط 2.3%، فيما يتجاوز عائد السندات لعشر سنوات 5%.",
-   "source": {
-    "name": "The Motley Fool",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
    }
   }
  ]
