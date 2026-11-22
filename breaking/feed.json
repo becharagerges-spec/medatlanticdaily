@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T11:07:55Z",
+ "updated": "2026-11-22T12:08:38Z",
  "items": [
+  {
+   "id": "20261122-1101-zawtar-houses-rigged",
+   "time": "2026-11-22T11:01:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli soldiers entered several homes in Zawtar al-Sharqiya in south Lebanon and rigged them with explosives ahead of demolition as residents watched, per MTV Lebanon citing circulating video.",
+   "ar": "جنود إسرائيليون دخلوا منازل عدّة في زوطر الشرقية جنوب لبنان وفخّخوها تمهيداً لتفجيرها أمام أعين الأهالي، وفق «إم تي في» استناداً إلى فيديو متداول.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1760771"
+   }
+  },
   {
    "id": "20261122-1045-zelensky-weekly-patriot",
    "time": "2026-11-22T10:45:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/"
+   }
+  },
+  {
+   "id": "20261122-1031-syria-arms-lebanon-seized",
+   "time": "2026-11-22T10:31:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Syria's Interior Ministry says its intelligence and security forces seized a shipment of assorted weapons in rural Damascus that was to be smuggled into Lebanon and arrested one suspect, per MTV Lebanon.",
+   "ar": "وزارة الداخلية السورية تعلن أن الاستخبارات وقوى الأمن ضبطت في ريف دمشق شحنة أسلحة متنوّعة كانت معدّة للتهريب إلى لبنان وأوقفت مشتبهاً به، وفق «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1760755"
    }
   },
   {
@@ -47,6 +71,18 @@
    "source": {
     "name": "112 Ukraine",
     "url": "https://112.ua/en/rosia-atakuvala-ukrainu-186-udarnimi-dronami-ppo-znisila-161-bezpilotnik-vklucno-z-56-reaktivnimi-199791"
+   }
+  },
+  {
+   "id": "20261122-0654-qlayaat-airport-testing",
+   "time": "2026-11-22T06:54:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's Public Works Ministry and Civil Aviation Directorate begin technical calibration and testing of navigation systems at Qlayaat (Rene Mouawad) Airport, with flight inspections to follow runway rehabilitation.",
+   "ar": "وزارة الأشغال العامة والمديرية العامة للطيران المدني تبدآن معايرة واختبار أنظمة الملاحة الجوية في مطار القليعات (رينيه معوّض)، على أن تليها رحلات تفتيش جوي بعد تأهيل المدرج.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1760681"
    }
   },
   {
@@ -1383,78 +1419,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
-   }
-  },
-  {
-   "id": "20261119-1148-houthis-saudi-strikes-11-killed",
-   "time": "2026-11-19T11:48:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi-run al-Masirah TV says Saudi airstrikes killed 11 people and wounded 36 in Taiz, Hodeidah, Saada, Hajjah and Ibb over 24 hours; the coalition reports destroying two launch platforms.",
-   "ar": "قناة المسيرة التابعة للحوثيين تقول إن غارات سعودية قتلت 11 شخصاً وجرحت 36 في تعز والحديدة وصعدة وحجة وإب خلال 24 ساعة، والتحالف يعلن تدمير منصّتَي إطلاق.",
-   "source": {
-    "name": "IANS via OMMCOM News",
-    "url": "https://ommcomnews.com/world-news/houthi-media-says-saudi-airstrikes-kill-11-saudi-led-coalition-reports-interception/"
-   }
-  },
-  {
-   "id": "20261119-1146-icj-myanmar-genocide",
-   "time": "2026-11-19T11:46:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "The International Court of Justice rules that Myanmar committed genocide against the Rohingya, the first time the court has found a state guilty of genocide, in a case brought by The Gambia.",
-   "ar": "محكمة العدل الدولية تقضي بأن ميانمار ارتكبت إبادة جماعية بحق الروهينغا، في أول حكم للمحكمة يدين دولةً بالإبادة، في دعوى رفعتها غامبيا.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
-   }
-  },
-  {
-   "id": "20261119-1138-putin-letter-aoun",
-   "time": "2026-11-19T11:38:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Russian Ambassador Alexander Rudakov delivers a letter from Putin to President Aoun reaffirming Russia's support for Lebanon's sovereignty, territorial integrity and national unity.",
-   "ar": "السفير الروسي ألكسندر روداكوف يسلّم الرئيس عون رسالة من بوتين تؤكد دعم روسيا لسيادة لبنان ووحدة أراضيه ووحدته الوطنية.",
-   "source": {
-    "name": "This is Beirut",
-    "url": "https://thisisbeirut.com.lb/news/politics/putin-reaffirms-russias-support-for-lebanons-sovereignty-in-letter-to-president-aoun"
-   }
-  },
-  {
-   "id": "20261119-1135-zelensky-berlin-coalition",
-   "time": "2026-11-19T11:35:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky arrives in Berlin for Coalition of the Willing talks hosted by Merz and separate meetings with US envoys Witkoff and Kushner, hours after the Shenzhen trilateral.",
-   "ar": "زيلينسكي يصل إلى برلين لمحادثات «تحالف الراغبين» التي يستضيفها ميرتس ولقاءات منفصلة مع المبعوثَين الأميركيَّين ويتكوف وكوشنر، بعد ساعات من القمة الثلاثية في شنتشن.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/zelensky-arrives-in-berlin-for-talks-with-european-officials-trumps-envoys/"
-   }
-  },
-  {
-   "id": "20261119-1127-netanyahu-iran-op-unavoidable",
-   "time": "2026-11-19T11:27:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu told a security meeting that an operation against Iran is 'unavoidable', and a senior IDF officer says Israeli and CENTCOM plans are approved, awaiting Trump's decision, per Channel 13.",
-   "ar": "نتنياهو قال في اجتماع أمني إن عملية ضد إيران «لا مفرّ منها»، وضابط إسرائيلي كبير يقول إن خطط الجيش والقيادة المركزية الأميركية مُقرّة بانتظار قرار ترامب، بحسب القناة 13.",
-   "source": {
-    "name": "Channel 13 via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-reported-to-tell-aides-iran-op-unavoidable"
-   }
-  },
-  {
-   "id": "20261119-1124-shenzhen-peace-declaration",
-   "time": "2026-11-19T11:24:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "A Shenzhen 'peace declaration' released by Xinhua and the Kremlin says Trump, Xi and Putin agree a nuclear war must never be fought, pledge nuclear-risk talks and more refined-fuel supplies.",
-   "ar": "«إعلان سلام» من شنتشن نشرته «شينخوا» والكرملين: ترامب وشي وبوتين يتفقون على أن الحرب النووية يجب ألا تُخاض أبداً، ويتعهدون بمحادثات لخفض المخاطر النووية وزيادة إمدادات المشتقات النفطية.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting"
    }
   }
  ]
