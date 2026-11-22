@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T00:09:00Z",
+ "updated": "2026-11-22T03:08:19Z",
  "items": [
+  {
+   "id": "20261121-2302-ig-metall-23000-strike",
+   "time": "2026-11-21T23:02:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Germany's IG Metall union calls about 23,000 workers at 19 northern German companies, including Mercedes-Benz, Meyer Werft and Siemens Gamesa, to a 24-hour strike on Monday over pay.",
+   "ar": "نقابة «إي جي ميتال» الألمانية تدعو نحو 23 ألف عامل في 19 شركة بشمال ألمانيا، بينها مرسيدس-بنز وماير فيرفت وسيمنز غاميسا، إلى إضراب لمدة 24 ساعة يوم الاثنين للمطالبة بزيادة الأجور.",
+   "source": {
+    "name": "Reuters via Euronext",
+    "url": "https://live.euronext.com/en/financial-news/german-car-and-shipyard-workers-set-strike-ig-metall-union-extends-walkout"
+   }
+  },
   {
    "id": "20261121-2300-iran-power-rationing",
    "time": "2026-11-21T23:00:00Z",
@@ -1548,53 +1560,6 @@
    "source": {
     "name": "Washington Examiner",
     "url": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/"
-   }
-  },
-  {
-   "id": "20261119-0220-houthi-missile-riyadh-damage",
-   "time": "2026-11-19T02:20:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "A Houthi missile strike on Riyadh's financial district damages the Public Investment Fund Tower, three sources tell Reuters; the Saudi-led coalition says falling debris caused material damage still being assessed.",
-   "ar": "ضربة صاروخية حوثية على الحي المالي في الرياض تُلحق أضراراً ببرج صندوق الاستثمارات العامة، بحسب ثلاثة مصادر لـ«رويترز»؛ والتحالف بقيادة السعودية يقول إن سقوط الشظايا أوقع أضراراً مادية لا تزال قيد التقييم.",
-   "source": {
-    "name": "Reuters via The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
-   }
-  },
-  {
-   "id": "20261119-0135-lebanese-army-chief-south-deployment",
-   "time": "2026-11-19T01:35:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Lebanon's army commander says troops are completing their deployment in the south, weapons must be held by the state alone, and maximum readiness is needed as UNIFIL's mandate ends, per Lebanon24.",
-   "ar": "قائد الجيش اللبناني يقول إن الجيش يعمل على استكمال انتشاره في الجنوب وإن السلاح يجب أن يكون بيد الدولة وحدها، ويدعو إلى أقصى الجهوزية مع اقتراب انتهاء ولاية اليونيفيل، بحسب «لبنان 24».",
-   "source": {
-    "name": "Lebanese Army via Lebanon24"
-   }
-  },
-  {
-   "id": "20261119-0100-mbs-receives-cooper",
-   "time": "2026-11-19T01:00:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Crown Prince Mohammed bin Salman receives US Central Command chief Adm. Brad Cooper in Riyadh to discuss military ties and regional developments, per the Saudi Press Agency.",
-   "ar": "ولي العهد الأمير محمد بن سلمان يستقبل قائد القيادة المركزية الأميركية الأدميرال براد كوبر في الرياض، ويبحثان العلاقات العسكرية وتطورات المنطقة، بحسب «واس».",
-   "source": {
-    "name": "Saudi Press Agency",
-    "url": "https://spa.gov.sa/w2731137"
-   }
-  },
-  {
-   "id": "20261119-0047-russia-refineries-45pct",
-   "time": "2026-11-19T00:47:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Ukrainian strikes over the past 20 days have disrupted or halted 15 of Russia's 35 major oil refineries, cutting processing by 45%, Reuters reports citing two industry sources.",
-   "ar": "الضربات الأوكرانية خلال الأيام العشرين الماضية عطّلت أو أوقفت 15 من أصل 35 مصفاة نفط رئيسية في روسيا، ما خفّض التكرير بنسبة 45%، بحسب «رويترز» نقلاً عن مصدرين في القطاع.",
-   "source": {
-    "name": "Reuters via Kyiv Independent",
-    "url": "https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/"
    }
   }
  ]
