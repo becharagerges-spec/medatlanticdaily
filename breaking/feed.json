@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:08:55Z",
+ "updated": "2026-11-22T18:08:14Z",
  "items": [
   {
    "id": "20261122-1701-iran-twin-missile-launcher",
@@ -126,11 +126,11 @@
    "time": "2026-11-22T08:44:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Ukraine's State Emergency Service says 2 people were killed and 4 injured, including a child, after a Russian drone hit an apartment building in Dymer, Kyiv region; 11 remain missing.",
-   "ar": "خدمة الطوارئ الأوكرانية تقول إن شخصين قُتلا وأُصيب 4 بينهم طفل بعد إصابة مسيّرة روسية مبنى سكنياً في ديمير بمنطقة كييف، فيما لا يزال 11 شخصاً في عداد المفقودين.",
+   "en": "Kyiv regional head Tymur Tkachenko says rescuers recovered a third body from the apartment building hit by a Russian drone in Dymer; 4 were injured and up to 15 were feared trapped.",
+   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن المسعفين انتشلوا جثة ثالثة من المبنى السكني الذي أصابته مسيّرة روسية في ديمير؛ أُصيب 4 ويُخشى أن يكون حتى 15 شخصاً عالقين تحت الأنقاض.",
    "source": {
-    "name": "UA.News",
-    "url": "https://ua.news/en/war-vs-rf/u-dimeri-na-kiyivshchini-zrosla-kilkist-zagiblikh-i-postrazhdalikh-pislia-udaru-rf"
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4187437-body-of-third-victim-recovered-from-rubble-of-building-in-dymer-kyiv-region.html"
    }
   },
   {
@@ -150,8 +150,8 @@
    "time": "2026-11-22T07:15:00Z",
    "theater": "africa",
    "status": "confirmed",
-   "en": "Libya's eastern government says a suspected drone attack caused an explosion aboard a Russian ship refuelling at Benghazi's naval base; medical sources report injuries but no deaths.",
-   "ar": "الحكومة في شرق ليبيا تقول إنّ هجوماً مشتبهاً بمسيّرات تسبّب بانفجار على متن سفينة روسية كانت تتزوّد بالوقود في القاعدة البحرية في بنغازي، ومصادر طبية تفيد بإصابات من دون قتلى.",
+   "en": "Libya's eastern government says a suspected drone attack caused an explosion aboard a Russian ship at Benghazi's naval base; Naval News assesses the vessel as the Russian corvette Merkury.",
+   "ar": "الحكومة في شرق ليبيا تقول إنّ هجوماً مشتبهاً بمسيّرات تسبّب بانفجار على متن سفينة روسية في القاعدة البحرية في بنغازي، وموقع «نيفال نيوز» يرجّح أنها الكورفيت الروسية «ميركوري».",
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/libyas-eastern-government-suspects-drone-142529243.html"
@@ -1431,66 +1431,6 @@
    "source": {
     "name": "AP",
     "url": "https://www.clickorlando.com/news/politics/2026/11/19/iran-war-costs-surpass-48b-as-lawmakers-demand-unreleased-estimates-on-base-damage/"
-   }
-  },
-  {
-   "id": "20261119-1806-iran-no-unlimited-iaea-cooperation",
-   "time": "2026-11-19T18:06:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's envoy to the UN in Vienna says Tehran will not offer 'unconditional and unlimited cooperation' with IAEA inspectors while under attack and will review requests case by case.",
-   "ar": "مندوب إيران لدى الأمم المتحدة في فيينا يقول إن طهران لن تقدّم «تعاوناً غير مشروط وغير محدود» مع مفتشي الوكالة الذرية ما دامت تتعرض للهجوم، وستدرس الطلبات كلاً على حدة.",
-   "source": {
-    "name": "Press TV",
-    "url": "https://www.presstv.co.uk/Detail/2026/11/19/781105/iran-rejects-unlimited-iaea-inspections-amid-continued-military-threats"
-   }
-  },
-  {
-   "id": "20261119-1804-idf-strike-janta-bekaa",
-   "time": "2026-11-19T18:04:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israel's army says it struck the entrances of a former Hezbollah missile production and weapons storage site in Janta, in the Bekaa Valley, after operatives returned there.",
-   "ar": "الجيش الإسرائيلي يقول إنه استهدف مداخل موقع سابق لتصنيع الصواريخ وتخزين أسلحة حزب الله في جنتا في البقاع، بعد عودة عناصر من الحزب إليه.",
-   "source": {
-    "name": "Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-915527"
-   }
-  },
-  {
-   "id": "20261119-1757-berlin-four-way-format",
-   "time": "2026-11-19T17:57:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "After Berlin talks with US envoys Witkoff and Kushner, Zelensky says the next round will use a four-way format with the US, Russia and Europe; Merz says Europe wants to negotiate alongside Kyiv and Washington, per Kyiv Post.",
-   "ar": "بعد محادثات برلين مع المبعوثَين الأميركيَّين ويتكوف وكوشنر، زيلينسكي يقول إن الجولة المقبلة ستُعقد بصيغة رباعية تضم الولايات المتحدة وروسيا وأوروبا، وميرتس يقول إن أوروبا تريد التفاوض إلى جانب كييف وواشنطن، بحسب «كييف بوست».",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90635"
-   }
-  },
-  {
-   "id": "20261119-1746-eisenkot-minority-government-vote",
-   "time": "2026-11-19T17:46:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot plans to put a government to a Knesset vote before his mandate expires on 6 December, even as a minority government, possibly on 28 or 29 November, per Haaretz and Ynet.",
-   "ar": "آيزنكوت يعتزم عرض حكومة على تصويت الكنيست قبل انتهاء تكليفه في 6 كانون الأول، ولو كحكومة أقلية، وربما في 28 أو 29 تشرين الثاني، بحسب «هآرتس» و«واينت».",
-   "source": {
-    "name": "Haaretz",
-    "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-19/ty-article/.premium/eisenkot-plans-knesset-vote-on-govt-led-by-him-even-if-coalition-talks-fail/000001a1-f454-d287-adbb-f65e3bfb0000"
-   }
-  },
-  {
-   "id": "20261119-1731-pmf-replace-kataib-jurf",
-   "time": "2026-11-19T17:31:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraq's Popular Mobilization Forces say their 72nd and 79th brigades will replace Kataib Hezbollah-affiliated brigades in Jurf al-Sakhar from Friday morning, on Prime Minister al-Zaidi's orders.",
-   "ar": "الحشد الشعبي في العراق يعلن أن لواءيه 72 و79 سيحلّان مكان الألوية المرتبطة بكتائب حزب الله في جرف الصخر اعتباراً من صباح الجمعة، بأمر من رئيس الوزراء الزيدي.",
-   "source": {
-    "name": "964media",
-    "url": "https://en.964media.com/55641/"
    }
   }
  ]
