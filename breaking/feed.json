@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T07:08:33Z",
+ "updated": "2026-11-22T08:08:25Z",
  "items": [
+  {
+   "id": "20261122-0712-ukraine-186-drones",
+   "time": "2026-11-22T07:12:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's military says Russia launched 186 attack drones overnight, 72 of them jet-powered; air defences downed 161, with hits recorded at 18 sites.",
+   "ar": "الجيش الأوكراني يقول إن روسيا أطلقت 186 مسيّرة هجومية خلال الليل، بينها 72 نفاثة؛ الدفاعات الجوية أسقطت 161، وسُجّلت إصابات في 18 موقعاً.",
+   "source": {
+    "name": "112 Ukraine",
+    "url": "https://112.ua/en/rosia-atakuvala-ukrainu-186-udarnimi-dronami-ppo-znisila-161-bezpilotnik-vklucno-z-56-reaktivnimi-199791"
+   }
+  },
   {
    "id": "20261122-0501-rubio-lebanon-sovereign",
    "time": "2026-11-22T05:01:00Z",
@@ -1524,18 +1536,6 @@
    "source": {
     "name": "AP via The Irish News",
     "url": "https://www.irishnews.com/news/world/we-are-really-making-history-says-trump-as-meeting-with-xi-and-putin-begins-WLCJJ6O2DVJS7OEVV56ETW2MTE/"
-   }
-  },
-  {
-   "id": "20261119-0713-trump-putin-40-minutes",
-   "time": "2026-11-19T07:13:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Trump and Putin hold about 40 minutes of talks in Shenzhen, their first meeting since the August 2025 Alaska summit, including on Ukraine, before three-way talks with Xi.",
-   "ar": "ترامب وبوتين يعقدان محادثات استمرت نحو 40 دقيقة في شنجن، في أول لقاء بينهما منذ قمة ألاسكا في آب 2025، وتناولت أوكرانيا، قبل المحادثات الثلاثية مع شي.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year"
    }
   }
  ]
