@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-23T09:08:51Z",
+ "updated": "2026-11-23T10:08:00Z",
  "items": [
+  {
+   "id": "20261123-0900-gold-rebounds-2pct",
+   "time": "2026-11-23T09:00:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Gold rises more than 2% to above $3,630 an ounce, rebounding from a 9% weekly fall as traders pare bets on a December Fed rate hike (Bloomberg).",
+   "ar": "الذهب يرتفع أكثر من 2% إلى ما فوق 3,630 دولاراً للأونصة، متعافياً من تراجع أسبوعي بنسبة 9% مع تقليص المتداولين رهاناتهم على رفع الاحتياطي الفدرالي الفائدة في كانون الأول (بلومبرغ).",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes"
+   }
+  },
+  {
+   "id": "20261123-0834-yashar-likud-knesset-round",
+   "time": "2026-11-23T08:34:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yashar and Likud will hold another round of unity-government talks this evening at the Knesset, per Hebrew media reports cited by Times of Israel.",
+   "ar": "«يشار» والليكود يعقدان جولة جديدة من مفاوضات حكومة الوحدة مساء اليوم في الكنيست، وفق تقارير إعلامية عبرية نقلتها «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-and-likud-to-meet-again-today-for-talks-on-potential-coalition"
+   }
+  },
+  {
+   "id": "20261123-0811-china-death-sentence-spy",
+   "time": "2026-11-23T08:11:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China sentences an official identified only as Ma to death for spying for an unnamed foreign intelligence service, the state-secrets protection administration's account says.",
+   "ar": "الصين تحكم بالإعدام على مسؤول عُرّف باسم عائلته «ما» بتهمة التجسس لصالح جهاز استخبارات أجنبي لم يُسمَّ، وفق حساب مرتبط بالإدارة الوطنية لحماية أسرار الدولة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-sentences-official-death-spying-ma-state-secret-protection-espionage"
+   }
+  },
+  {
+   "id": "20261123-0803-baghaei-all-tools-blockade",
+   "time": "2026-11-23T08:03:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Foreign Ministry spokesman Esmaeil Baghaei says Tehran will use 'all available tools' to confront the US naval blockade on its oil exports, restored since July 14.",
+   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن طهران ستستخدم «كل الأدوات المتاحة» لمواجهة الحصار البحري الأميركي على صادراتها النفطية، المُعاد فرضه منذ 14 تموز.",
+   "source": {
+    "name": "Reuters",
+    "url": "https://www.yahoo.com/news/articles/iran-says-available-tools-confront-080301439.html"
+   }
+  },
   {
    "id": "20261123-0655-ukraine-153-drones",
    "time": "2026-11-23T06:55:00Z",
@@ -1479,18 +1527,6 @@
    "ar": "محادثات القمة الأوروبية البريطانية في بروكسل تصطدم بطريق مسدود حول رسوم التعليم الجامعي، مع تشدّد العواصم الأوروبية مع المفاوضين البريطانيين، بحسب «بوليتيكو أوروبا».",
    "source": {
     "name": "Politico Europe"
-   }
-  },
-  {
-   "id": "20261120-0918-araghchi-break-blockade",
-   "time": "2026-11-20T09:18:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian Foreign Minister Abbas Araghchi tells ILNA that Iran will make every effort to export oil and pursue negotiations, saying 'the blockade must be broken', per Iran International.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول لوكالة «إيلنا» إن إيران ستبذل كل جهد لتصدير النفط ومواصلة المفاوضات، مضيفاً أن «الحصار يجب أن يُكسر»، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611143682"
    }
   }
  ]
