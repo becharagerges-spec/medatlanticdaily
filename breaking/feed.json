@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T22:08:37Z",
+ "updated": "2026-11-23T00:08:35Z",
  "items": [
+  {
+   "id": "20261122-2250-trump-iran-attacks-midterms",
+   "time": "2026-11-22T22:50:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Trump says on Truth Social that Iran has launched more drones and missiles in the past week than at any time in over a year, and blames the Democrats' midterm win.",
+   "ar": "ترامب يقول على «تروث سوشال» إن إيران أطلقت خلال الأسبوع الماضي مسيّرات وصواريخ أكثر من أي وقت منذ أكثر من عام، ويحمّل فوز الديمقراطيين في الانتخابات النصفية المسؤولية.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-claims-iran-has-stepped-up-attacks-as-a-result-of-democrats-midterm-victory/"
+   }
+  },
+  {
+   "id": "20261122-2138-asia-rout-measures",
+   "time": "2026-11-22T21:38:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "China eases margin requirements, Taiwan widens short-selling curbs and South Korea prepares its stock stabilisation fund, unused since 2008, to stem the AI-led market rout.",
+   "ar": "الصين تخفّف متطلبات الهامش، وتايوان توسّع القيود على البيع على المكشوف، وكوريا الجنوبية تحضّر صندوق استقرار الأسهم غير المستخدم منذ 2008، لوقف موجة بيع تقودها أسهم الذكاء الاصطناعي.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://swissinfo.ch/eng/us-stock-futures-open-higher-after-tech-selloff:-markets-wrap/92421262"
+   }
+  },
   {
    "id": "20261122-1930-israel-mfa-lebanon-independence",
    "time": "2026-11-22T19:30:00Z",
@@ -1466,18 +1490,6 @@
    "ar": "إدارة ترامب تتحرك لإسقاط دعواها الرامية إلى منع المصادقة على فوز الديمقراطية ماري بيلتولا بمقعد ألاسكا في مجلس الشيوخ الأميركي.",
    "source": {
     "name": "AP"
-   }
-  },
-  {
-   "id": "20261119-2325-kyiv-missile-attack",
-   "time": "2026-11-19T23:25:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russia's overnight attack with up to 80 cruise missiles, 20 ballistic missiles and about 400 drones kills 8 people, 6 of them in Kyiv, and damages 3 Kyiv bridges, Ukrainian officials say.",
-   "ar": "الهجوم الروسي الليلي بما يصل إلى 80 صاروخاً مجنّحاً و20 صاروخاً بالستياً ونحو 400 مسيّرة يقتل 8 أشخاص، بينهم 6 في كييف، ويصيب 3 جسور في العاصمة، وفق مسؤولين أوكرانيين.",
-   "source": {
-    "name": "Ukrainian Air Force via LIGA.net",
-    "url": "https://news.liga.net/en/war/news/80-cruise-missiles-20-ballistic-missiles-and-400-drones-ignat-revealed-details-of-the-nighttime-attack"
    }
   }
  ]
