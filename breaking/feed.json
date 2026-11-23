@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T07:09:23Z",
+ "updated": "2026-11-23T08:10:15Z",
  "items": [
+  {
+   "id": "20261123-0655-ukraine-153-drones",
+   "time": "2026-11-23T06:55:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's Air Force says Russia launched 153 attack drones overnight, 60 of them jet-powered; air defences downed or suppressed 134, with hits recorded at 11 sites.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 153 مسيّرة هجومية خلال الليل، بينها 60 نفاثة؛ الدفاعات الجوية أسقطت أو عطّلت 134، وسُجّلت إصابات في 11 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4187520-air-defenses-neutralize-134-of-153-russian-drones-launched-at-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261123-0652-kremlin-trilateral-talks-soon",
+   "time": "2026-11-23T06:52:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Kremlin spokesman Dmitry Peskov says the next Russia-US-Ukraine meeting 'will take place soon' but that there is still no clarity on its date, per APA.",
+   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن الاجتماع المقبل بين روسيا والولايات المتحدة وأوكرانيا «سيُعقد قريباً»، لكن لا وضوح بعد بشأن موعده، بحسب وكالة «أبا».",
+   "source": {
+    "name": "APA",
+    "url": "https://en.apa.az/cis-countries/kremlin-announces-russia-us-ukraine-talks-to-resume-soon-537879"
+   }
+  },
   {
    "id": "20261123-0642-us-futures-rebound",
    "time": "2026-11-23T06:42:00Z",
@@ -388,11 +412,11 @@
    "time": "2026-11-22T07:15:00Z",
    "theater": "africa",
    "status": "confirmed",
-   "en": "Libya's eastern government says a suspected drone attack caused an explosion aboard a Russian ship at Benghazi's naval base; Naval News assesses the vessel as the Russian corvette Merkury.",
-   "ar": "الحكومة في شرق ليبيا تقول إنّ هجوماً مشتبهاً بمسيّرات تسبّب بانفجار على متن سفينة روسية في القاعدة البحرية في بنغازي، وموقع «نيفال نيوز» يرجّح أنها الكورفيت الروسية «ميركوري».",
+   "en": "Libyan military officials tell AP two explosive-laden sea drones, suspected Ukrainian, hit the Russian corvette Merkury at Benghazi's naval base; satellite images show it capsized and sank.",
+   "ar": "مسؤولون عسكريون ليبيون يقولون لوكالة «أسوشيتد برس» إن مسيّرتين بحريتين مفخختين، يُشتبه بأنهما أوكرانيتان، أصابتا الكورفيت الروسية «ميركوري» في قاعدة بنغازي البحرية؛ وصور الأقمار الاصطناعية تُظهر انقلابها وغرقها.",
    "source": {
-    "name": "Reuters via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/libyas-eastern-government-suspects-drone-142529243.html"
+    "name": "AP via Fox News",
+    "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
    }
   },
   {
@@ -1491,42 +1515,6 @@
    "source": {
     "name": "dpa",
     "url": "https://www.yahoo.com/news/world/articles/three-russian-flying-objects-entered-121835400.html"
-   }
-  },
-  {
-   "id": "20261120-0805-europe-stocks-weekly-drop",
-   "time": "2026-11-20T08:05:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Europe's STOXX 600 falls 1% to 631.89 and heads for a weekly loss of more than 4.5%, its steepest since March, as the AI sell-off spreads; Germany's DAX drops 1.3%.",
-   "ar": "مؤشر «ستوكس 600» الأوروبي يتراجع 1% إلى 631.89 نقطة ويتّجه إلى خسارة أسبوعية تفوق 4.5%، الأكبر منذ آذار، مع اتّساع موجة بيع أسهم الذكاء الاصطناعي؛ و«داكس» الألماني يهبط 1.3%.",
-   "source": {
-    "name": "Reuters via Investing.com",
-    "url": "https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936"
-   }
-  },
-  {
-   "id": "20261120-0805-trump-message-aoun-independence",
-   "time": "2026-11-20T08:05:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Trump congratulates President Aoun on Independence Day, saying Lebanon has a chance to launch 'a new renaissance' under his leadership and praising his government's 'brave decisions', per LBCI.",
-   "ar": "ترامب يهنئ الرئيس عون بعيد الاستقلال، معتبراً أن أمام لبنان فرصة لإطلاق «نهضة جديدة» بقيادته، ومشيداً بـ«القرارات الشجاعة» لحكومته، بحسب LBCI.",
-   "source": {
-    "name": "LBCI",
-    "url": "https://www.lbcgroup.tv/news/lebanon/968916/ترامب-يهنئ-الرئيس-عون-بعيد-الاستقلال-لبنان-أمام-فرصة-لإطلاق-نهضة-جديدة/ar"
-   }
-  },
-  {
-   "id": "20261120-0731-iraq-forces-deploy-jurf",
-   "time": "2026-11-20T07:31:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraqi tanks and armoured vehicles enter Kataib Hezbollah's Jurf al-Sakhar stronghold under a compromise deal, and a joint army, police and PMF command starts operating there, Iraq's government says.",
-   "ar": "دبابات ومدرّعات عراقية تدخل معقل كتائب حزب الله في جرف الصخر بموجب تسوية، وقيادة مشتركة للجيش والشرطة والحشد الشعبي تبدأ عملها هناك، بحسب الحكومة العراقية.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/mena/2026/11/20/iraqi-security-forces-move-into-iran-backed-militia-stronghold-of-jurf-al-sakhar/"
    }
   }
  ]
