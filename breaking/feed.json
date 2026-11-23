@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T18:09:03Z",
+ "updated": "2026-11-23T19:09:35Z",
  "items": [
+  {
+   "id": "20261123-1808-us-iran-shadow-banking-sanctions",
+   "time": "2026-11-23T18:08:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "The US Treasury sanctions more than two dozen exchange houses, front companies and individuals in Iran, the UAE, Türkiye and Hong Kong that it says run Iran's shadow banking system.",
+   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على أكثر من عشرين من مكاتب الصرافة والشركات الواجهة والأفراد في إيران والإمارات وتركيا وهونغ كونغ، تقول إنها تدير منظومة الظل المصرفية الإيرانية.",
+   "source": {
+    "name": "US Treasury",
+    "url": "https://home.treasury.gov/news/press-releases/sb0697/"
+   }
+  },
   {
    "id": "20261123-1756-nvidia-board-no-consult",
    "time": "2026-11-23T17:56:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/business/2026/11/23/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-crypto-and-sports-events/"
+   }
+  },
+  {
+   "id": "20261123-1550-iran-courts-290bn-damages",
+   "time": "2026-11-23T15:50:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Hassan Abdolianpour, head of the Iranian judiciary's centre for lawyers, says Iranian courts have awarded $290 billion in damages against the United States for decades of US actions.",
+   "ar": "حسن عبدليان بور، رئيس مركز المحامين في السلطة القضائية الإيرانية، يقول إن المحاكم الإيرانية حكمت بتعويضات قدرها 290 مليار دولار على الولايات المتحدة عن عقود من الإجراءات الأميركية.",
+   "source": {
+    "name": "AFP via France 24",
+    "url": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages"
    }
   },
   {
@@ -1541,30 +1565,6 @@
    "ar": "قاضٍ فدرالي ثانٍ يوقف بناء قوس النصر الذي اقترحه ترامب في واشنطن، معتبراً أنه «عمل متسرّع» يفتقر إلى موافقة الكونغرس، بحسب «سي إن إن».",
    "source": {
     "name": "CNN"
-   }
-  },
-  {
-   "id": "20261120-1855-trump-putin-diplomatic-end",
-   "time": "2026-11-20T18:55:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Trump says Putin wants to end the Ukraine war 'by diplomatic means' but that 'tremendous hatred' between Putin and Zelensky is complicating peace efforts.",
-   "ar": "ترامب يقول إن بوتين يريد إنهاء الحرب في أوكرانيا «بالوسائل الدبلوماسية»، لكن «الكراهية الهائلة» بين بوتين وزيلينسكي تعقّد جهود السلام.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties"
-   }
-  },
-  {
-   "id": "20261120-1837-rubio-abz-sudan",
-   "time": "2026-11-20T18:37:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Secretary of State Rubio and UAE Foreign Minister Sheikh Abdullah bin Zayed discuss ending Sudan's war, with Rubio stressing a humanitarian truce and a transition to civilian government, the State Department says.",
-   "ar": "وزير الخارجية الأميركي روبيو ونظيره الإماراتي الشيخ عبدالله بن زايد يبحثان إنهاء الحرب في السودان، وروبيو يشدّد على هدنة إنسانية وانتقال إلى حكومة مدنية، بحسب الخارجية الأميركية.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/"
    }
   }
  ]
