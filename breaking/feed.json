@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:10:06Z",
+ "updated": "2026-11-23T13:10:47Z",
  "items": [
   {
    "id": "20261123-1111-ukraine-daily-toll-4-killed",
@@ -23,6 +23,18 @@
    "source": {
     "name": "Mirror via AOL",
     "url": "https://www.aol.co.uk/articles/russia-warns-painful-consequences-ukraine-113212000.html"
+   }
+  },
+  {
+   "id": "20261123-1019-herzog-settler-violence",
+   "time": "2026-11-23T10:19:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "President Isaac Herzog calls violence by Jewish extremists in the West Bank 'despicable' and says perpetrators will be arrested and prosecuted to the fullest extent of the law.",
+   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يصف عنف المتطرفين اليهود في الضفة الغربية بـ«الحقير»، ويؤكد أن مرتكبيه سيُعتقلون ويُحاكمون بأقصى ما يسمح به القانون.",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/article-915810"
    }
   },
   {
@@ -1491,30 +1503,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1760310"
-   }
-  },
-  {
-   "id": "20261120-1305-us-israel-weigh-iran-attack",
-   "time": "2026-11-20T13:05:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Israel and the US are weighing a new attack on Iran in the near future over its rebuilding of ballistic missile production, CBS News reports, citing sources.",
-   "ar": "إسرائيل والولايات المتحدة تدرسان شنّ هجوم جديد على إيران في المدى القريب بسبب إعادة بنائها إنتاج الصواريخ الباليستية، بحسب «سي بي إس نيوز» نقلاً عن مصادر.",
-   "source": {
-    "name": "CBS News via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-us-weighing-attack-on-iran-in-coming-days-report"
-   }
-  },
-  {
-   "id": "20261120-1229-houthis-threaten-saudi-ports",
-   "time": "2026-11-20T12:29:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Yemen's Houthis threaten to strike Jeddah and all Saudi Red Sea ports if the Saudi-led coalition hits Hodeidah, urging workers to evacuate and warning airlines to avoid Saudi airspace.",
-   "ar": "الحوثيون في اليمن يهدّدون بضرب جدة وكل الموانئ السعودية على البحر الأحمر إذا استهدف التحالف بقيادة السعودية الحديدة، ويدعون العاملين إلى الإخلاء ويحذّرون شركات الطيران من الأجواء السعودية.",
-   "source": {
-    "name": "Reuters via The Daily Star",
-    "url": "https://www.thedailystar.net/news/world/middle-east/news/yemens-houthis-threaten-strike-saudi-red-sea-ports-4328901"
    }
   }
  ]
