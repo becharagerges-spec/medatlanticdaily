@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T03:09:03Z",
+ "updated": "2026-11-23T04:08:00Z",
  "items": [
+  {
+   "id": "20261123-0318-korea-finmin-stabilise",
+   "time": "2026-11-23T03:18:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "South Korean Finance Minister Lee Hyoung-il says Seoul will decide on activating stock-market stabilisation measures depending on conditions after the Kospi fell about 5%, and rules out easing short-selling rules.",
+   "ar": "وزير المال الكوري الجنوبي لي هيونغ-إيل يقول إن سيول ستقرّر تفعيل إجراءات تثبيت سوق الأسهم وفق الأوضاع بعد تراجع «كوسبي» نحو 5%، ويستبعد تخفيف قواعد البيع على المكشوف.",
+   "source": {
+    "name": "Reuters",
+    "url": "https://www.marketscreener.com/news/south-korea-vows-to-stabilise-stock-market-after-kospi-drops-5-ce785ed3d180f023"
+   }
+  },
+  {
+   "id": "20261123-0309-irgc-claims-78-us-drones",
+   "time": "2026-11-23T03:09:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards claim their air defences have shot down 78 US reconnaissance and combat drones, 58 MQ-9 Reapers and 20 MQ-1 Predators, per Tasnim.",
+   "ar": "الحرس الثوري الإيراني يزعم أن دفاعاته الجوية أسقطت 78 مسيّرة أميركية للاستطلاع والقتال، منها 58 من طراز MQ-9 «ريبر» و20 من طراز MQ-1 «بريداتور»، بحسب «تسنيم».",
+   "source": {
+    "name": "Press TV",
+    "url": "https://www.presstv.co.uk/Detail/2026/11/23/781372/irgc-says-it-has-shot-down-78-us-mq-9-and-mq-1-drones"
+   }
+  },
+  {
+   "id": "20261123-0255-trump-nvidia-rehire-huang",
+   "time": "2026-11-23T02:55:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says on Truth Social he hopes Nvidia's board rehires Jensen Huang, calling it 'the best thing for the Company, and also, for the U.S.A.', after Nvidia said it would not.",
+   "ar": "ترامب يقول على «تروث سوشال» إنه يأمل أن يعيد مجلس إدارة «إنفيديا» تعيين جنسن هوانغ، معتبراً ذلك «الأفضل للشركة وللولايات المتحدة»، بعدما قالت «إنفيديا» إنها لن تفعل.",
+   "source": {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo"
+   }
+  },
   {
    "id": "20261123-0028-us-tracked-huang-mss",
    "time": "2026-11-23T00:28:00Z",
@@ -1443,18 +1479,6 @@
    "source": {
     "name": "Saudi Press Agency",
     "url": "https://www.spa.gov.sa/en/N2731984"
-   }
-  },
-  {
-   "id": "20261120-0340-coalition-houthi-missile-south",
-   "time": "2026-11-20T03:40:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says air defences destroyed a Houthi ballistic missile and shot down 2 drones fired at southern Saudi Arabia, after civil defence alerts in Jazan, Abha and Khamis Mushait.",
-   "ar": "التحالف بقيادة السعودية يعلن أن الدفاعات الجوية دمّرت صاروخاً باليستياً حوثياً وأسقطت مسيّرتين أُطلقت نحو جنوب المملكة، بعد إنذارات الدفاع المدني في جازان وأبها وخميس مشيط.",
-   "source": {
-    "name": "AFP via Free Malaysia Today",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/20/saudi-coalition-says-intercepted-houthi-missile-drones"
    }
   }
  ]
