@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T06:09:00Z",
+ "updated": "2026-11-23T07:09:23Z",
  "items": [
+  {
+   "id": "20261123-0642-us-futures-rebound",
+   "time": "2026-11-23T06:42:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stock futures rebound in Asian hours after last week's AI-led sell-off, with Nasdaq 100 futures up 3.2%, S&P 500 futures up 2.2% and Dow futures up 1.5%.",
+   "ar": "العقود الآجلة للأسهم الأميركية ترتدّ خلال التداولات الآسيوية بعد موجة البيع التي قادتها أسهم الذكاء الاصطناعي الأسبوع الماضي، إذ ارتفعت عقود ناسداك 100 بنسبة 3.2% وستاندرد آند بورز 500 بنسبة 2.2% وداو جونز بنسبة 1.5%.",
+   "source": {
+    "name": "SBS Biz",
+    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008859282"
+   }
+  },
   {
    "id": "20261123-0452-eisenkot-surprise-coalition",
    "time": "2026-11-23T04:52:00Z",
@@ -352,11 +364,11 @@
    "time": "2026-11-22T08:44:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Kyiv regional head Tymur Tkachenko says at least 8 people were killed when a Russian strike partly collapsed a five-storey apartment building in Dymer; 11 people remain unaccounted for.",
-   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن 8 أشخاص على الأقل قُتلوا حين أدّت ضربة روسية إلى انهيار جزئي لمبنى سكني من خمس طبقات في ديمير، فيما لا يزال 11 شخصاً في عداد المفقودين.",
+   "en": "Kyiv regional head Tymur Tkachenko says the toll from the Russian strike that partly collapsed an apartment building in Dymer has risen to 11 killed, with 7 injured and 2 missing.",
+   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن حصيلة الضربة الروسية التي أدّت إلى انهيار جزئي لمبنى سكني في ديمير ارتفعت إلى 11 قتيلاً و7 جرحى، فيما لا يزال شخصان مفقودين.",
    "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/world/ukraine-says-russian-strikes-kill-11-in-kyiv-region-3013641"
+    "name": "UNN",
+    "url": "https://unn.ua/en/news/in-dymer-the-death-toll-from-russias-strike-has-risen-to-11-two-people-are-missing"
    }
   },
   {
