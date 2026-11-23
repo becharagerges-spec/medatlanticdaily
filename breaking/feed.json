@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T14:10:51Z",
+ "updated": "2026-11-23T15:09:44Z",
  "items": [
+  {
+   "id": "20261123-1443-sp500-surges-5pct",
+   "time": "2026-11-23T14:43:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stocks surge at the open after Huang's return to Nvidia: the S&P 500 rises more than 5%, the Nasdaq over 7% and Nvidia shares more than 28%.",
+   "ar": "الأسهم الأميركية تقفز عند الافتتاح بعد عودة هوانغ إلى «إنفيديا»: مؤشر «إس آند بي 500» يرتفع أكثر من 5% و«ناسداك» أكثر من 7% وسهم «إنفيديا» أكثر من 28%.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/"
+   }
+  },
+  {
+   "id": "20261123-1410-nvidia-reinstates-huang",
+   "time": "2026-11-23T14:10:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Nvidia's board unanimously reinstates Jensen Huang as president and CEO with immediate effect, saying US government officials gave input and his return poses no national security risk.",
+   "ar": "مجلس إدارة «إنفيديا» يعيد بالإجماع جنسن هوانغ رئيساً تنفيذياً بمفعول فوري، ويقول إن مسؤولين في الحكومة الأميركية أبدوا رأيهم وإن عودته لا تشكّل خطراً على الأمن القومي.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
+   }
+  },
+  {
+   "id": "20261123-1410-drones-nabatieh-fawqa",
+   "time": "2026-11-23T14:10:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli drone explodes on a house roof in Nabatieh al-Fawqa in south Lebanon, the second drone to blow up in the town within half an hour, the National News Agency says.",
+   "ar": "انفجار مسيّرة إسرائيلية على سطح منزل في النبطية الفوقا جنوب لبنان، وهي الثانية التي تنفجر في البلدة خلال أقل من نصف ساعة، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/23/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D8%B7%D8%AD-%D9%85%D9%86%D8%B2%D9%84-%D9%81/"
+   }
+  },
   {
    "id": "20261123-1359-macron-aoun-displaced",
    "time": "2026-11-23T13:59:00Z",
@@ -1467,65 +1503,6 @@
    "ar": "إدارة ترامب تريد أن تتوصل أوكرانيا وروسيا إلى اتفاق سلام بحلول مطلع كانون الثاني 2027، بحسب «فايننشال تايمز» نقلاً عن أربعة مطّلعين على المحادثات.",
    "source": {
     "name": "Financial Times"
-   }
-  },
-  {
-   "id": "20261120-1506-eisenkot-emergency-government",
-   "time": "2026-11-20T15:06:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot says he will form a 'national emergency government' if efforts to build a broad coalition fail, adding he has 'no intention of stalling' and every MK must vote by conscience, per Times of Israel.",
-   "ar": "آيزنكوت يقول إنه سيشكّل «حكومة طوارئ وطنية» إذا فشلت مساعي تشكيل ائتلاف واسع، مؤكداً أنه «لا ينوي المماطلة» وأن على كل نائب التصويت وفق ضميره، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-ill-form-emergency-govt-if-efforts-to-establish-broad-coalition-dont-succeed/"
-   }
-  },
-  {
-   "id": "20261120-1453-tusk-missile-provocation",
-   "time": "2026-11-20T14:53:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Polish PM Donald Tusk calls the Russian Kh-101 missile that crashed in Poland 'an intentional provocation' timed with European troop drills there; NATO's Rutte calls it a 'grave violation'.",
-   "ar": "رئيس الوزراء البولندي دونالد توسك يصف الصاروخ الروسي «Kh-101» الذي سقط في بولندا بأنه «استفزاز متعمّد» تزامن مع مناورات قوات أوروبية هناك، والأمين العام للناتو روته يعتبره «انتهاكاً خطيراً».",
-   "source": {
-    "name": "AP via Spectrum News",
-    "url": "https://spectrumlocalnews.com/nys/central-ny/international/2026/11/20/russian-missile-crash-poland-"
-   }
-  },
-  {
-   "id": "20261120-1436-nasdaq-opens-lower",
-   "time": "2026-11-20T14:36:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Wall Street opens lower as the AI sell-off continues: the Nasdaq falls 1.2% to 23,592, the S&P 500 0.35% to 7,150 and the Dow 0.05% to 49,072.",
-   "ar": "وول ستريت تفتتح على تراجع مع استمرار موجة بيع أسهم الذكاء الاصطناعي: ناسداك يهبط 1.2% إلى 23,592، وإس آند بي 500 بنسبة 0.35% إلى 7,150، وداو جونز 0.05% إلى 49,072.",
-   "source": {
-    "name": "Reuters via The Detroit News",
-    "url": "https://www.detroitnews.com/story/business/2026/11/20/stocks-wall-street/92876492007/"
-   }
-  },
-  {
-   "id": "20261120-1420-nsa-outage-resolved",
-   "time": "2026-11-20T14:20:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "An outage of a key classified internal communications network at the US National Security Agency, which locked out large numbers of staff for more than three days, has been resolved, sources tell CNN.",
-   "ar": "مصادر تقول لـ«سي إن إن» إن عطلاً في شبكة اتصالات داخلية سرية رئيسية لدى وكالة الأمن القومي الأميركية، حرم أعداداً كبيرة من الموظفين من الوصول لأكثر من ثلاثة أيام، قد جرى إصلاحه.",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261120-1413-iran-tankers-run-blockade",
-   "time": "2026-11-20T14:13:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC-linked media, lawmakers and Friday prayer leaders signal Iran is readying tankers to run the US naval blockade and warn any attack on them would bring strikes on Gulf oil facilities, per Iran International.",
-   "ar": "وسائل إعلام مقرّبة من الحرس الثوري ونواب وأئمة جمعة يلمّحون إلى أن إيران تجهّز ناقلات لكسر الحصار البحري الأميركي، محذّرين من أن أي هجوم عليها سيقابَل بضرب منشآت النفط في الخليج، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/202611204873"
    }
   }
  ]
