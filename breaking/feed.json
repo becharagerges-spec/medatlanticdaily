@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-23T00:08:35Z",
+ "updated": "2026-11-23T03:09:03Z",
  "items": [
+  {
+   "id": "20261123-0028-us-tracked-huang-mss",
+   "time": "2026-11-23T00:28:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "The New York Times reports US intelligence tracked contacts between Alice Huang, the woman at the centre of the Nvidia chip affair, and an officer of China's Ministry of State Security.",
+   "ar": "«نيويورك تايمز» تفيد بأن الاستخبارات الأميركية رصدت اتصالات بين أليس هوانغ، المرأة التي تتوسّط قضية رقائق «إنفيديا»، وضابط في وزارة أمن الدولة الصينية.",
+   "source": {
+    "name": "The New York Times"
+   }
+  },
+  {
+   "id": "20261123-0018-kospi-slides-ai-fears",
+   "time": "2026-11-23T00:18:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kospi slides as much as 5.5% in Monday morning trade as AI-bubble fears deepen, while US stock futures rebound about 2%, per Al Jazeera.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع حتى 5.5% في تعاملات صباح الإثنين مع تعمّق المخاوف من فقاعة الذكاء الاصطناعي، فيما ترتدّ العقود الآجلة للأسهم الأميركية بنحو 2%، بحسب «الجزيرة».",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+   }
+  },
   {
    "id": "20261122-2250-trump-iran-attacks-midterms",
    "time": "2026-11-22T22:50:00Z",
@@ -245,11 +268,11 @@
    "time": "2026-11-22T08:44:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "Kyiv regional head Tymur Tkachenko says rescuers recovered a third body from the apartment building hit by a Russian drone in Dymer; 4 were injured and up to 15 were feared trapped.",
-   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن المسعفين انتشلوا جثة ثالثة من المبنى السكني الذي أصابته مسيّرة روسية في ديمير؛ أُصيب 4 ويُخشى أن يكون حتى 15 شخصاً عالقين تحت الأنقاض.",
+   "en": "Kyiv regional head Tymur Tkachenko says at least 8 people were killed when a Russian strike partly collapsed a five-storey apartment building in Dymer; 11 people remain unaccounted for.",
+   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن 8 أشخاص على الأقل قُتلوا حين أدّت ضربة روسية إلى انهيار جزئي لمبنى سكني من خمس طبقات في ديمير، فيما لا يزال 11 شخصاً في عداد المفقودين.",
    "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4187437-body-of-third-victim-recovered-from-rubble-of-building-in-dymer-kyiv-region.html"
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/world/ukraine-says-russian-strikes-kill-11-in-kyiv-region-3013641"
    }
   },
   {
@@ -1432,64 +1455,6 @@
    "source": {
     "name": "AFP via Free Malaysia Today",
     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/20/saudi-coalition-says-intercepted-houthi-missile-drones"
-   }
-  },
-  {
-   "id": "20261120-0247-mohebbi-neither-war-nor-peace",
-   "time": "2026-11-20T02:47:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC spokesman Hossein Mohebbi says Iran does not accept a situation of 'neither war nor peace' and will 'settle the matter of the war once and for all', per Press TV.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن إيران لا تقبل بحالة «لا حرب ولا سلم» وإنها ستحسم «مسألة الحرب نهائياً»، بحسب «برس تي في».",
-   "source": {
-    "name": "Press TV via ANI",
-    "url": "https://www.tribuneindia.com/news/hossein-mohebbi/we-will-settle-the-war-once-and-for-all-iran-tells-us-to-accept-its-terms-or-face-battlefield-decision"
-   }
-  },
-  {
-   "id": "20261120-0148-asia-stocks-worst-week",
-   "time": "2026-11-20T01:48:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Asian shares head for their worst week since March 2020 as the AI sell-off deepens: Japan's Nikkei falls 4.1%, South Korea's KOSPI 4.7% and MSCI Asia-Pacific 2.5%; Brent holds at $91.98.",
-   "ar": "الأسهم الآسيوية تتجه إلى أسوأ أسبوع منذ آذار 2020 مع تعمّق موجة بيع أسهم الذكاء الاصطناعي: نيكاي الياباني يتراجع 4.1% وكوسبي الكوري 4.7% ومؤشر MSCI لآسيا والمحيط الهادئ 2.5%، وبرنت عند 91.98 دولاراً.",
-   "source": {
-    "name": "Reuters via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-head-worst-week-014854250.html"
-   }
-  },
-  {
-   "id": "20261120-0143-us-cyber-director-replaced",
-   "time": "2026-11-20T01:43:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "National Cyber Director Sean Cairncross is being replaced as the US reels from a string of cyber outages, a source close to the White House tells CNN.",
-   "ar": "مصدر مقرّب من البيت الأبيض يقول لـ«سي إن إن» إن مدير الأمن السيبراني الوطني شون كيرنكروس سيُستبدل، فيما تعاني الولايات المتحدة سلسلة أعطال سيبرانية.",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261120-0137-irgc-iran-international-target",
-   "time": "2026-11-20T01:37:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "IRGC spokesman Hossein Mohebbi says the London-based broadcaster Iran International is among the military targets of Iran's armed forces, renewing an earlier threat, per Iran International.",
-   "ar": "المتحدث باسم الحرس الثوري حسين محبي يقول إن قناة «إيران إنترناشونال» ومقرّها لندن من بين الأهداف العسكرية للقوات المسلحة الإيرانية، مجدّداً تهديداً سابقاً، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/202611201108"
-   }
-  },
-  {
-   "id": "20261120-0124-doj-drops-alaska-senate-suit",
-   "time": "2026-11-20T01:24:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The Trump administration moves to effectively drop its lawsuit seeking to block certification of Democrat Mary Peltola's victory in Alaska's US Senate race.",
-   "ar": "إدارة ترامب تتحرك لإسقاط دعواها الرامية إلى منع المصادقة على فوز الديمقراطية ماري بيلتولا بمقعد ألاسكا في مجلس الشيوخ الأميركي.",
-   "source": {
-    "name": "AP"
    }
   }
  ]
