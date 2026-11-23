@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T10:08:00Z",
+ "updated": "2026-11-23T12:10:06Z",
  "items": [
+  {
+   "id": "20261123-1111-ukraine-daily-toll-4-killed",
+   "time": "2026-11-23T11:11:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukrainian regional officials say Russian attacks over the past day killed 4 people, including a 15-year-old boy in Sumy region, and injured 19 across six regions.",
+   "ar": "مسؤولون أوكرانيون محليون يقولون إن الهجمات الروسية خلال اليوم الماضي قتلت 4 أشخاص، بينهم فتى في الخامسة عشرة في منطقة سومي، وأصابت 19 في ست مناطق.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-4-including-15-year-old-boy-injure-19-across-ukraine-over-past-day/"
+   }
+  },
+  {
+   "id": "20261123-1024-kremlin-painful-consequences",
+   "time": "2026-11-23T10:24:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin spokesman Dmitry Peskov says Ukraine's sinking of the corvette Merkury off Libya will bring 'highly painful consequences for the Kyiv regime'.",
+   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن إغراق أوكرانيا للطراد «ميركوري» قبالة ليبيا سيجرّ «عواقب مؤلمة للغاية على نظام كييف».",
+   "source": {
+    "name": "Mirror via AOL",
+    "url": "https://www.aol.co.uk/articles/russia-warns-painful-consequences-ukraine-113212000.html"
+   }
+  },
   {
    "id": "20261123-0900-gold-rebounds-2pct",
    "time": "2026-11-23T09:00:00Z",
@@ -23,6 +47,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yashar-and-likud-to-meet-again-today-for-talks-on-potential-coalition"
+   }
+  },
+  {
+   "id": "20261123-0813-eisenkot-bloc-arab-committees",
+   "time": "2026-11-23T08:13:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's bloc moves to set up four Knesset oversight committees, two chaired by Arab party leaders Mansour Abbas and Yousef Jabareen, with a plenum vote due Monday, per Ynet.",
+   "ar": "كتلة آيزنكوت تتحرك لتشكيل أربع لجان رقابية في الكنيست، يرأس اثنتين منها زعيما حزبين عربيين منصور عباس ويوسف جبارين، على أن تصوّت الهيئة العامة الاثنين، بحسب «واي نت».",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/s1vcq00zyme"
    }
   },
   {
@@ -78,11 +114,10 @@
    "time": "2026-11-23T06:42:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "US stock futures rebound in Asian hours after last week's AI-led sell-off, with Nasdaq 100 futures up 3.2%, S&P 500 futures up 2.2% and Dow futures up 1.5%.",
-   "ar": "العقود الآجلة للأسهم الأميركية ترتدّ خلال التداولات الآسيوية بعد موجة البيع التي قادتها أسهم الذكاء الاصطناعي الأسبوع الماضي، إذ ارتفعت عقود ناسداك 100 بنسبة 3.2% وستاندرد آند بورز 500 بنسبة 2.2% وداو جونز بنسبة 1.5%.",
+   "en": "US stock futures extend their rebound after last week's AI-led sell-off, with Nasdaq 100 futures up 3.6% and S&P 500 futures up 2.9% by 11:52 GMT (Bloomberg).",
+   "ar": "العقود الآجلة للأسهم الأميركية توسّع ارتدادها بعد موجة البيع التي قادتها أسهم الذكاء الاصطناعي الأسبوع الماضي، إذ ارتفعت عقود ناسداك 100 بنسبة 3.6% وستاندرد آند بورز 500 بنسبة 2.9% حتى الساعة 11:52 بتوقيت غرينتش («بلومبرغ»).",
    "source": {
-    "name": "SBS Biz",
-    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008859282"
+    "name": "Bloomberg"
    }
   },
   {
@@ -1480,53 +1515,6 @@
    "source": {
     "name": "Reuters via The Daily Star",
     "url": "https://www.thedailystar.net/news/world/middle-east/news/yemens-houthis-threaten-strike-saudi-red-sea-ports-4328901"
-   }
-  },
-  {
-   "id": "20261120-1147-netanyahu-unity-warning",
-   "time": "2026-11-20T11:47:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu demands a 'responsible unity' government and says a narrow government relying on Arab parties' votes, possibly early next week, must be stopped immediately, per The Jerusalem Post.",
-   "ar": "نتنياهو يطالب بحكومة «وحدة مسؤولة» ويقول إن حكومة ضيّقة تستند إلى أصوات الأحزاب العربية، ربما مطلع الأسبوع المقبل، يجب وقفها فوراً، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915586"
-   }
-  },
-  {
-   "id": "20261120-1120-eu-uk-reset-deal-done",
-   "time": "2026-11-20T11:20:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The UK and EU conclude their post-Brexit reset deal at the Brussels summit, covering food and farm trade, a youth mobility scheme for 100,000 people and linked carbon markets; Downing Street says 'the deal is done'.",
-   "ar": "بريطانيا والاتحاد الأوروبي يختتمان اتفاق إعادة ضبط العلاقات بعد «بريكست» في قمة بروكسل، ويشمل تجارة الأغذية والزراعة وبرنامج تنقّل لـ100 ألف شاب وربط سوقَي الكربون؛ و«داونينغ ستريت» تقول «الاتفاق أُنجز».",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
-   }
-  },
-  {
-   "id": "20261120-1112-hodeidah-evacuation",
-   "time": "2026-11-20T11:12:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition's Joint Forces Command urges civilians to evacuate Yemen's Hodeidah port 'for their safety', a day after Houthi missiles and drones targeted Riyadh.",
-   "ar": "قيادة القوات المشتركة للتحالف بقيادة السعودية تدعو المدنيين إلى إخلاء ميناء الحديدة في اليمن «حفاظاً على سلامتهم»، غداة استهداف الحوثيين الرياض بصواريخ ومسيّرات.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/coalition-asks-civilians-to-evacuate-hodeidah-port-in-yemen-3013147"
-   }
-  },
-  {
-   "id": "20261120-1023-eu-uk-summit-tuition-impasse",
-   "time": "2026-11-20T10:23:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "EU-UK summit talks in Brussels hit an impasse over tuition fees, as EU capitals take a hard line with British negotiators, per Politico Europe.",
-   "ar": "محادثات القمة الأوروبية البريطانية في بروكسل تصطدم بطريق مسدود حول رسوم التعليم الجامعي، مع تشدّد العواصم الأوروبية مع المفاوضين البريطانيين، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe"
    }
   }
  ]
