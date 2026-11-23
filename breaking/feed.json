@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T04:08:00Z",
+ "updated": "2026-11-23T06:09:00Z",
  "items": [
+  {
+   "id": "20261123-0452-eisenkot-surprise-coalition",
+   "time": "2026-11-23T04:52:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gadi Eisenkot plans to declare a coalition at a surprise moment in the coming weeks and call a Knesset vote within a day or two, even as a minority government, per Kan.",
+   "ar": "غادي آيزنكوت يعتزم إعلان ائتلافه في توقيت مفاجئ خلال الأسابيع المقبلة والدعوة إلى تصويت في الكنيست خلال يوم أو يومين، ولو بحكومة أقلية، بحسب «كان».",
+   "source": {
+    "name": "Kan via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-planning-to-declare-coalition-at-surprise-timing-call-knesset-vote-quickly-to-limit-counter-maneuvers"
+   }
+  },
+  {
+   "id": "20261123-0342-saudi-strike-hodeida-4-killed",
+   "time": "2026-11-23T03:42:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi-affiliated media say a Saudi strike on a Public Telecommunications Corporation building in Yemen's Hodeida killed at least 4 people and wounded 18; Riyadh has not commented.",
+   "ar": "وسائل إعلام تابعة للحوثيين تقول إن غارة سعودية على مبنى للمؤسسة العامة للاتصالات في الحديدة أسفرت عن 4 قتلى على الأقل و18 جريحاً، والرياض لم تعلّق.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others"
+   }
+  },
   {
    "id": "20261123-0318-korea-finmin-stabilise",
    "time": "2026-11-23T03:18:00Z",
@@ -38,6 +62,18 @@
    }
   },
   {
+   "id": "20261123-0118-novoshakhtinsk-refinery-fire",
+   "time": "2026-11-23T01:18:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia's Novoshakhtinsk oil refinery in Rostov region is reportedly burning after a large Ukrainian drone attack, per monitoring channels cited by the Kyiv Independent; damage is unverified.",
+   "ar": "مصفاة نوفوشاختينسك النفطية في مقاطعة روستوف الروسية تشتعل بحسب التقارير إثر هجوم واسع بمسيّرات أوكرانية، وفق قنوات رصد نقلت عنها «كييف إندبندنت»؛ ولم يُتحقق من حجم الأضرار.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
+   }
+  },
+  {
    "id": "20261123-0028-us-tracked-huang-mss",
    "time": "2026-11-23T00:28:00Z",
    "theater": "china",
@@ -53,8 +89,8 @@
    "time": "2026-11-23T00:18:00Z",
    "theater": "markets",
    "status": "reported",
-   "en": "South Korea's Kospi slides as much as 5.5% in Monday morning trade as AI-bubble fears deepen, while US stock futures rebound about 2%, per Al Jazeera.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع حتى 5.5% في تعاملات صباح الإثنين مع تعمّق المخاوف من فقاعة الذكاء الاصطناعي، فيما ترتدّ العقود الآجلة للأسهم الأميركية بنحو 2%، بحسب «الجزيرة».",
+   "en": "South Korea's Kospi falls as much as 5.8% on AI-bubble fears before paring losses to 3.2% by 04:30 GMT, while Taiwan's Taiex rebounds 2.5%, per Al Jazeera.",
+   "ar": "مؤشر «كوسبي» الكوري الجنوبي يهبط حتى 5.8% بفعل مخاوف فقاعة الذكاء الاصطناعي ثم يقلّص خسائره إلى 3.2% عند 04:30 بتوقيت غرينتش، فيما يرتد مؤشر «تايكس» التايواني 2.5%، بحسب «الجزيرة».",
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
@@ -94,6 +130,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
+   }
+  },
+  {
+   "id": "20261122-1922-us-delays-iran-strike-week",
+   "time": "2026-11-22T19:22:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "US administration officials tell Ynet Washington has decided for now to delay any strike on Iran by at least a week, despite Netanyahu pressing for a joint campaign.",
+   "ar": "مسؤولون في الإدارة الأميركية يقولون لـ«يديعوت» إن واشنطن قررت حالياً تأجيل أي ضربة لإيران أسبوعاً على الأقل، رغم ضغط نتنياهو لحملة مشتركة.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/sjz00i2xkmx"
    }
   },
   {
@@ -1467,18 +1515,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/mena/2026/11/20/iraqi-security-forces-move-into-iran-backed-militia-stronghold-of-jurf-al-sakhar/"
-   }
-  },
-  {
-   "id": "20261120-0422-saudi-mfa-will-not-tolerate",
-   "time": "2026-11-20T04:22:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia's Foreign Ministry condemns Houthi attacks that damaged Riyadh's King Abdullah Financial District, saying the kingdom will not tolerate aggression on its territory and reserves the right to defend its sovereignty.",
-   "ar": "وزارة الخارجية السعودية تدين هجمات الحوثيين التي ألحقت أضراراً بمركز الملك عبدالله المالي في الرياض، وتؤكد أن المملكة لن تتهاون مع أي اعتداء على أراضيها وتحتفظ بحقها في الدفاع عن سيادتها.",
-   "source": {
-    "name": "Saudi Press Agency",
-    "url": "https://www.spa.gov.sa/en/N2731984"
    }
   }
  ]
