@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:09:35Z",
+ "updated": "2026-11-23T20:08:49Z",
  "items": [
   {
    "id": "20261123-1808-us-iran-shadow-banking-sanctions",
@@ -102,11 +102,11 @@
    "time": "2026-11-23T14:36:00Z",
    "theater": "markets",
    "status": "confirmed",
-   "en": "Brent crude falls 2.18% to $90.55 a barrel and WTI to $81.82 as rising Middle East supplies and a Libyan pipeline restart offset regional attack risks (Reuters).",
-   "ar": "خام برنت يتراجع 2.18% إلى 90.55 دولاراً للبرميل وخام غرب تكساس إلى 81.82 دولاراً، مع تعويض زيادة الإمدادات من الشرق الأوسط وإعادة تشغيل خط أنابيب ليبي مخاطرَ الهجمات في المنطقة (رويترز).",
+   "en": "Brent crude falls 3.63% to $89.21 a barrel and WTI 3.45% to $80.53 as rising Middle East supplies and a Libyan pipeline restart outweigh regional attack risks.",
+   "ar": "خام برنت يتراجع 3.63% إلى 89.21 دولاراً للبرميل وخام غرب تكساس 3.45% إلى 80.53 دولاراً، مع تغلّب زيادة الإمدادات من الشرق الأوسط وإعادة تشغيل خط أنابيب ليبي على مخاطر الهجمات في المنطقة.",
    "source": {
-    "name": "Reuters via Gulf News",
-    "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468"
+    "name": "Invezz",
+    "url": "https://invezz.com/news/2026/11/23/oil-price-today-brent-below-90-surplus-fears/"
    }
   },
   {
@@ -265,6 +265,18 @@
    }
   },
   {
+   "id": "20261123-1040-salam-debl-school-visit",
+   "time": "2026-11-23T10:40:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Prime Minister Nawaf Salam accuses Israel of dragging students into a propaganda display after the Israeli army's Arabic spokeswoman filmed a video outside a school in Debl, in the occupied south.",
+   "ar": "رئيس الحكومة نواف سلام يتّهم إسرائيل بزجّ التلاميذ في استعراض دعائي بعد تصوير المتحدثة العسكرية الإسرائيلية بالعربية مقطعاً أمام مدرسة في دبل في الجنوب المحتل.",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323948-lebanon-denounces-israeli-military-official-s-visit-to-school-in-south"
+   }
+  },
+  {
    "id": "20261123-1024-kremlin-painful-consequences",
    "time": "2026-11-23T10:24:00Z",
    "theater": "russia",
@@ -286,6 +298,18 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/israel-news/article-915810"
+   }
+  },
+  {
+   "id": "20261123-0934-kyiv-region-15-killed",
+   "time": "2026-11-23T09:34:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Russian strikes on the Kyiv region kill at least 15 people, including 11 in a partly collapsed five-storey building in Dymer and 3 at a supermarket in Vyshneve, Ukrainian officials say.",
+   "ar": "ضربات روسية على منطقة كييف تقتل 15 شخصاً على الأقل، بينهم 11 في مبنى من خمس طبقات انهار جزئياً في ديمير و3 في متجر في فيشنيفي، بحسب مسؤولين أوكرانيين.",
+   "source": {
+    "name": "AFP and Reuters via Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
    }
   },
   {
@@ -1518,53 +1542,6 @@
    "source": {
     "name": "US Treasury (OFAC)",
     "url": "https://ofac.treasury.gov/recent-actions/20261120"
-   }
-  },
-  {
-   "id": "20261120-1947-zawtar-explosion",
-   "time": "2026-11-20T19:47:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "A huge Israeli-caused explosion shakes Zawtar al-Sharqiya in south Lebanon, per Beirut 24; no casualties are reported.",
-   "ar": "تفجير إسرائيلي ضخم يهزّ بلدة زوطر الشرقية في جنوب لبنان، بحسب «بيروت 24»، من دون ورود معلومات عن إصابات.",
-   "source": {
-    "name": "Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/20/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B6%D8%AE%D9%85-%D9%8A%D9%87%D8%B2%D9%91-%D8%B2%D9%88%D8%B7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86/"
-   }
-  },
-  {
-   "id": "20261120-1931-sp500-dow-corrections",
-   "time": "2026-11-20T19:31:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The S&P 500 closes down 3.7%, its worst weekly loss in more than 18 months, as it and the Dow enter correction territory and the Nasdaq turns negative for 2026.",
-   "ar": "مؤشر ستاندرد آند بورز 500 يُغلق منخفضاً 3.7% في أسوأ خسارة أسبوعية منذ أكثر من 18 شهراً، ويدخل مع مؤشر داو جونز مرحلة التصحيح، فيما يتحوّل ناسداك إلى الخسارة منذ بداية 2026.",
-   "source": {
-    "name": "AP",
-    "url": "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
-   }
-  },
-  {
-   "id": "20261120-1930-witkoff-kushner-qatar-berlin",
-   "time": "2026-11-20T19:30:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "US envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss restarting US-Iran negotiations, Axios reports, citing two sources.",
-   "ar": "المبعوثان الأميركيان ستيف ويتكوف وجاريد كوشنر التقيا مسؤولين قطريين كباراً في برلين يوم الخميس لبحث استئناف المفاوضات الأميركية-الإيرانية، بحسب «أكسيوس» نقلاً عن مصدرين.",
-   "source": {
-    "name": "Axios",
-    "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran"
-   }
-  },
-  {
-   "id": "20261120-1924-second-judge-blocks-arch",
-   "time": "2026-11-20T19:24:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "A second federal judge blocks construction of Trump's proposed triumphal arch in Washington, calling it a 'rushed job' that lacks congressional approval, per CNN.",
-   "ar": "قاضٍ فدرالي ثانٍ يوقف بناء قوس النصر الذي اقترحه ترامب في واشنطن، معتبراً أنه «عمل متسرّع» يفتقر إلى موافقة الكونغرس، بحسب «سي إن إن».",
-   "source": {
-    "name": "CNN"
    }
   }
  ]
