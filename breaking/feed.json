@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-23T13:10:47Z",
+ "updated": "2026-11-23T14:10:51Z",
  "items": [
+  {
+   "id": "20261123-1359-macron-aoun-displaced",
+   "time": "2026-11-23T13:59:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "French President Emmanuel Macron tells President Joseph Aoun in an Independence Day message that continued hostilities and destroyed homes are stopping hundreds of thousands of displaced people from returning, per the Lebanese presidency.",
+   "ar": "الرئيس الفرنسي إيمانويل ماكرون يقول للرئيس جوزاف عون في رسالة بمناسبة عيد الاستقلال إن استمرار الأعمال العدائية ودمار المنازل يحولان دون عودة مئات الآلاف من النازحين، بحسب رئاسة الجمهورية.",
+   "source": {
+    "name": "Lebanese Presidency via Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/23/%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D9%84%D8%B9%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9/"
+   }
+  },
+  {
+   "id": "20261123-1323-netanyahu-flexibility-no-war",
+   "time": "2026-11-23T13:23:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu urges all sides to show flexibility to form a unity government, says the next government will wage no war and rules out one including 'supporters of terrorism'.",
+   "ar": "نتنياهو يدعو جميع الأطراف إلى إبداء المرونة لتشكيل حكومة وحدة، ويقول إن الحكومة المقبلة لن تخوض أي حرب، ويرفض حكومة تضم «مؤيدي الإرهاب».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/en/news/1761099"
+   }
+  },
+  {
+   "id": "20261123-1313-dnc-12-debates-2028",
+   "time": "2026-11-23T13:13:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The Democratic National Committee plans 12 debates for the 2028 presidential primary, the first scheduled for June 2027, per The New York Times.",
+   "ar": "اللجنة الوطنية للحزب الديمقراطي تعتزم تنظيم 12 مناظرة للانتخابات التمهيدية الرئاسية لعام 2028، أولاها في حزيران 2027، بحسب «نيويورك تايمز».",
+   "source": {
+    "name": "The New York Times"
+   }
+  },
+  {
+   "id": "20261123-1306-congo-eu-rwanda-deal",
+   "time": "2026-11-23T13:06:00Z",
+   "theater": "africa",
+   "status": "reported",
+   "en": "Congo's foreign minister tells POLITICO that EU countries' deportation deal with Rwanda could fund armed militias, accusing them of 'making an informed choice to look the other way'.",
+   "ar": "وزير خارجية الكونغو يقول لـ«بوليتيكو» إن اتفاق ترحيل المهاجرين بين دول أوروبية ورواندا قد يموّل ميليشيات مسلحة، متّهماً هذه الدول بأنها «تختار عن علم غضّ الطرف».",
+   "source": {
+    "name": "POLITICO Europe",
+    "url": "https://www.politico.eu/article/congo-eu-rwanda-deportation-deal-armed-militia/"
+   }
+  },
   {
    "id": "20261123-1111-ukraine-daily-toll-4-killed",
    "time": "2026-11-23T11:11:00Z",
@@ -1479,30 +1526,6 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/202611204873"
-   }
-  },
-  {
-   "id": "20261120-1359-coalition-hodeidah-operation",
-   "time": "2026-11-20T13:59:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition announces a military operation against Houthi capabilities across Yemen, striking Hodeidah port facilities it says were used to smuggle missiles, with strikes continuing in Sanaa, Saada and Taiz.",
-   "ar": "التحالف بقيادة السعودية يعلن إطلاق عملية عسكرية ضد قدرات الحوثيين في أنحاء اليمن، ويضرب منشآت في ميناء الحديدة يقول إنها استُخدمت لتهريب الصواريخ، مع استمرار الضربات في صنعاء وصعدة وتعز.",
-   "source": {
-    "name": "This is Beirut",
-    "url": "https://thisisbeirut.com.lb/news/politics/saudi-led-coalition-launches-military-operation-targeting-houthi-capabilities-across-yemen"
-   }
-  },
-  {
-   "id": "20261120-1351-iraq-zaidi-no-arms",
-   "time": "2026-11-20T13:51:00Z",
-   "theater": "iraq",
-   "status": "reported",
-   "en": "Iraqi Prime Minister Ali al-Zaidi tells troops who entered Jurf al-Nasr that the government's decision is firm: 'no weapons outside the authority of the state', per MTV Lebanon.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي يقول للقوات التي دخلت جرف النصر إن قرار الحكومة حاسم: «لا سلاح خارج سلطة الدولة»، بحسب «إم تي في».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1760310"
    }
   }
  ]
