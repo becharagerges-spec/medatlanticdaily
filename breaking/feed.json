@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-23T17:08:52Z",
+ "updated": "2026-11-23T18:09:03Z",
  "items": [
+  {
+   "id": "20261123-1756-nvidia-board-no-consult",
+   "time": "2026-11-23T17:56:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Nvidia's board reinstated Jensen Huang as CEO without consulting the company's senior leadership, Bloomberg reports.",
+   "ar": "مجلس إدارة «إنفيديا» أعاد جنسن هوانغ إلى منصب الرئيس التنفيذي من دون التشاور مع القيادة العليا للشركة، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership"
+   }
+  },
+  {
+   "id": "20261123-1748-burnham-eu-referendum",
+   "time": "2026-11-23T17:48:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "UK Prime Minister Andy Burnham says rejoining the EU without a referendum is 'unthinkable' and accuses critics of being 'stuck in the past' for refusing to reopen the Brexit debate, per POLITICO.",
+   "ar": "رئيس الوزراء البريطاني آندي بيرنهام يقول إن العودة إلى الاتحاد الأوروبي من دون استفتاء «أمر لا يمكن تصوّره»، ويتّهم منتقديه بأنهم «عالقون في الماضي» لرفضهم إعادة فتح نقاش «بريكست»، بحسب «بوليتيكو».",
+   "source": {
+    "name": "POLITICO Europe",
+    "url": "https://www.politico.eu/article/rejoining-eu-without-referendum-unthinkable-andy-burnham/"
+   }
+  },
+  {
+   "id": "20261123-1731-eu-russia-sanctions-swift",
+   "time": "2026-11-23T17:31:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "The European Commission proposes new Russia sanctions cutting 60 Russian banks from SWIFT, listing 70 more shadow-fleet vessels, banning those tankers from EU ports and targeting crypto platforms (AP).",
+   "ar": "المفوضية الأوروبية تقترح عقوبات جديدة على روسيا تقطع 60 مصرفاً روسياً عن نظام «سويفت»، وتدرج 70 سفينة إضافية من «أسطول الظل» وتمنع ناقلاته من الموانئ الأوروبية وتستهدف منصات العملات المشفّرة (أسوشيتد برس).",
+   "source": {
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/business/2026/11/23/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-crypto-and-sports-events/"
+   }
+  },
+  {
+   "id": "20261123-1529-maarab-sovereignty-front",
+   "time": "2026-11-23T15:29:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "The Sovereignty Front for Lebanon, including Samir Geagea, the Kataeb and the National Liberal Party, will hold an extraordinary meeting in Maarab on Tuesday on security developments, per MTV.",
+   "ar": "«الجبهة السيادية من أجل لبنان»، ومن بينها سمير جعجع والكتائب وحزب الوطنيين الأحرار، تعقد اجتماعاً استثنائياً في معراب الثلاثاء لبحث التطورات الأمنية، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1761133"
+   }
+  },
   {
    "id": "20261123-1500-us-syria-training-mission",
    "time": "2026-11-23T15:00:00Z",
@@ -1517,41 +1565,6 @@
    "source": {
     "name": "US State Department",
     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/"
-   }
-  },
-  {
-   "id": "20261120-1753-nasdaq-wipes-2026-gains",
-   "time": "2026-11-20T17:53:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The Nasdaq Composite wipes out all its gains for 2026 as the sell-off in technology and AI stocks intensifies on Wall Street on Friday.",
-   "ar": "مؤشر ناسداك المركّب يمحو كل مكاسبه لعام 2026 مع اشتداد موجة بيع أسهم التكنولوجيا والذكاء الاصطناعي في وول ستريت يوم الجمعة.",
-   "source": {
-    "name": "CNN"
-   }
-  },
-  {
-   "id": "20261120-1747-trump-iran-deal",
-   "time": "2026-11-20T17:47:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "At a White House news conference, Trump says Iran wants a deal but not one 'acceptable to me', accusing Tehran of 'bullshitting people for 51 years'.",
-   "ar": "ترامب يقول في مؤتمر صحافي في البيت الأبيض إن إيران تريد اتفاقاً لكن ليس اتفاقاً «مقبولاً بالنسبة إليّ»، متّهماً طهران بـ«خداع الناس منذ 51 عاماً».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/international/article-915604"
-   }
-  },
-  {
-   "id": "20261120-1724-houthis-claim-shuqaiq-jizan",
-   "time": "2026-11-20T17:24:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's Houthis say they attacked the Shuqaiq power station and Jizan port in Saudi Arabia, claiming 'extensive damage', in retaliation for coalition strikes; the claim is not independently verified.",
-   "ar": "الحوثيون في اليمن يقولون إنهم هاجموا محطة الشقيق للكهرباء وميناء جازان في السعودية مدّعين «أضراراً كبيرة» رداً على غارات التحالف، ولم يتسنَّ التحقق من ذلك بشكل مستقل.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-retaliate-coalition-strikes-attack-saudi-power-station-and-port"
    }
   }
  ]
