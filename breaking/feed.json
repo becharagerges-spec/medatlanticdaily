@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T15:09:44Z",
+ "updated": "2026-11-23T16:09:39Z",
  "items": [
+  {
+   "id": "20261123-1500-us-syria-training-mission",
+   "time": "2026-11-23T15:00:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "The US is discussing a multinational training mission for Syrian soldiers, starting with demining, that could return a small number of US troops to Syria next year, per Reuters.",
+   "ar": "الولايات المتحدة تبحث في مهمة تدريب متعددة الجنسيات للجنود السوريين تبدأ بنزع الألغام، وقد تعيد عدداً محدوداً من القوات الأميركية إلى سوريا العام المقبل، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/exclusive-us-discussing-military-training-syrian-forces"
+   }
+  },
   {
    "id": "20261123-1443-sp500-surges-5pct",
    "time": "2026-11-23T14:43:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/"
+   }
+  },
+  {
+   "id": "20261123-1433-trump-huang-no-security-risk",
+   "time": "2026-11-23T14:33:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says the US government has 'no reason to believe' Jensen Huang's return to Nvidia poses any national security risk, and urges the company to continue its export-control investigation.",
+   "ar": "ترامب يقول إن الحكومة الأميركية «لا سبب لديها للاعتقاد» بأن عودة جنسن هوانغ إلى «إنفيديا» تشكّل أي خطر على الأمن القومي، ويدعو الشركة إلى مواصلة تحقيقها في الالتزام بضوابط التصدير.",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://sg.finance.yahoo.com/news/trump-says-nvidia-board-made-142832710.html"
    }
   },
   {
@@ -50,6 +74,18 @@
    }
   },
   {
+   "id": "20261123-1324-eisenkot-no-immediate-iran-threat",
+   "time": "2026-11-23T13:24:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot says there is no immediate Iranian threat requiring Israeli military action before a new government forms; Netanyahu replies that rivals are 'minimizing' an immediate danger.",
+   "ar": "غادي آيزنكوت يقول إنه لا يوجد تهديد إيراني فوري يستدعي عملاً عسكرياً إسرائيلياً قبل تشكيل حكومة جديدة، ونتنياهو يردّ بأن خصومه «يقلّلون» من خطر داهم.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-accuses-rivals-of-minimizing-security-threats-for-political-reasons-says-danger-is-immediate/"
+   }
+  },
+  {
    "id": "20261123-1323-netanyahu-flexibility-no-war",
    "time": "2026-11-23T13:23:00Z",
    "theater": "israel",
@@ -73,6 +109,18 @@
    }
   },
   {
+   "id": "20261123-1310-zelensky-four-way-talks",
+   "time": "2026-11-23T13:10:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky tells NATO lawmakers in Berlin that Ukraine is ready 'literally tomorrow' for four-way talks with Europe, the US and Russia, and insists full NATO membership is 'the answer'.",
+   "ar": "زيلينسكي يقول لنوّاب من دول الناتو في برلين إن أوكرانيا مستعدة «حرفياً غداً» لمحادثات رباعية مع أوروبا والولايات المتحدة وروسيا، ويؤكد أن العضوية الكاملة في الناتو هي «الجواب».",
+   "source": {
+    "name": "AFP via 24 News HD",
+    "url": "https://www.24newshd.tv/23-Nov-2026/zelensky-calls-four-way-talks-russia-soon-possible"
+   }
+  },
+  {
    "id": "20261123-1306-congo-eu-rwanda-deal",
    "time": "2026-11-23T13:06:00Z",
    "theater": "africa",
@@ -82,6 +130,18 @@
    "source": {
     "name": "POLITICO Europe",
     "url": "https://www.politico.eu/article/congo-eu-rwanda-deportation-deal-armed-militia/"
+   }
+  },
+  {
+   "id": "20261123-1152-barnea-war-iran",
+   "time": "2026-11-23T11:52:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Former Mossad chief David Barnea says Israel must go to war against Iran 'as soon as all conditions allow', arguing no agreement with Tehran's government can succeed.",
+   "ar": "الرئيس السابق للموساد ديفيد برنياع يقول إن على إسرائيل خوض الحرب ضد إيران «فور توافر كل الظروف»، معتبراً أن أي اتفاق مع حكومة طهران لن ينجح.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/israel-must-go-to-war-against-iran-as-soon-as-all-conditions-allow-says-ex-mossad-chief"
    }
   },
   {
@@ -244,11 +304,11 @@
    "time": "2026-11-23T03:42:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Houthi-affiliated media say a Saudi strike on a Public Telecommunications Corporation building in Yemen's Hodeida killed at least 4 people and wounded 18; Riyadh has not commented.",
-   "ar": "وسائل إعلام تابعة للحوثيين تقول إن غارة سعودية على مبنى للمؤسسة العامة للاتصالات في الحديدة أسفرت عن 4 قتلى على الأقل و18 جريحاً، والرياض لم تعلّق.",
+   "en": "Houthi media raise the toll from a Saudi strike on a Public Telecommunications Corporation building in Yemen's Hodeida to 10 killed; Riyadh has not commented.",
+   "ar": "وسائل إعلام الحوثيين ترفع حصيلة غارة سعودية على مبنى للمؤسسة العامة للاتصالات في الحديدة إلى 10 قتلى، والرياض لم تعلّق.",
    "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others"
+    "name": "L'Orient Today",
+    "url": "https://today.lorientlejour.com/article/1555305/houthi-media-says-four-dead-in-saudi-attack.html"
    }
   },
   {
