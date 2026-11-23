@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T20:08:49Z",
+ "updated": "2026-11-23T22:08:49Z",
  "items": [
+  {
+   "id": "20261123-2100-nvidia-closes-up-31pct",
+   "time": "2026-11-23T21:00:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nvidia shares close up 31.5%, adding about $952 billion in market value, as the S&P 500 ends 4.7% higher and the Nasdaq 6.5% after Huang's return as CEO.",
+   "ar": "سهم «إنفيديا» يُغلق مرتفعاً 31.5% مضيفاً نحو 952 مليار دولار إلى قيمتها السوقية، فيما يُنهي مؤشر «إس آند بي 500» الجلسة مرتفعاً 4.7% و«ناسداك» 6.5% بعد عودة هوانغ رئيساً تنفيذياً.",
+   "source": {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
+   }
+  },
+  {
+   "id": "20261123-2057-us-qatar-strategic-dialogue",
+   "time": "2026-11-23T20:57:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "The US and Qatar sign a Critical Minerals Framework at their eighth Strategic Dialogue in Washington and reaffirm freedom of navigation through the Strait of Hormuz, per a joint statement.",
+   "ar": "الولايات المتحدة وقطر توقّعان إطاراً للمعادن الحيوية خلال الحوار الاستراتيجي الثامن في واشنطن، وتؤكّدان حرية الملاحة في مضيق هرمز، وفق بيان مشترك.",
+   "source": {
+    "name": "US Department of State",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-eighth-united-states-qatar-strategic-dialogue-an-enduring-strategic-partnership/"
+   }
+  },
+  {
+   "id": "20261123-2006-yashar-likud-third-round",
+   "time": "2026-11-23T20:06:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Yashar and Likud end a third round of unity talks after two hours without a breakthrough; a joint statement says they discussed judicial issues and will meet again.",
+   "ar": "حزبا «ياشار» و«الليكود» ينهيان جولة ثالثة من محادثات حكومة الوحدة بعد ساعتين من دون اختراق، وبيان مشترك يقول إنهما بحثا الملف القضائي وسيلتقيان مجدداً.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-likud-meeting-ends-after-two-hours-teams-to-meet-again"
+   }
+  },
   {
    "id": "20261123-1808-us-iran-shadow-banking-sanctions",
    "time": "2026-11-23T18:08:00Z",
@@ -1506,42 +1542,6 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-sets-red-line-on-enriched-uranium-while-claiming-fair-solution-can-be-reached-with-us/"
-   }
-  },
-  {
-   "id": "20261120-2141-araghchi-hormuz-two-day-plan",
-   "time": "2026-11-20T21:41:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian Foreign Minister Abbas Araghchi says Tehran is ready to reopen the Strait of Hormuz the day after the US fulfils its commitments, adding Iran has had no US reply to its proposal.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن طهران مستعدة لإعادة فتح مضيق هرمز في اليوم التالي لوفاء الولايات المتحدة بالتزاماتها، مضيفاً أن إيران لم تتلقَّ رداً أميركياً على اقتراحها.",
-   "source": {
-    "name": "APA",
-    "url": "https://en.apa.az/asia/araghchi-tehran-ready-to-reopen-strait-of-hormuz-if-us-fulfills-its-commitments-537573"
-   }
-  },
-  {
-   "id": "20261120-2128-kryvyi-rih-double-tap",
-   "time": "2026-11-20T21:28:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian ballistic missile and drone double-tap strike on central Kryvyi Rih kills a 7-year-old boy and a paramedic and injures 58 people, Ukrainian officials say.",
-   "ar": "ضربة روسية مزدوجة بصواريخ باليستية ومسيّرات على وسط كريفي ريه تقتل طفلاً في السابعة ومسعفة وتصيب 58 شخصاً، بحسب مسؤولين أوكرانيين.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
-   }
-  },
-  {
-   "id": "20261120-2037-us-treasury-iran-oil-trustees",
-   "time": "2026-11-20T20:37:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "The US Treasury sanctions four Iranian 'oil trustees' it accuses of collecting Iranian oil-sale proceeds to evade sanctions, as the State Department says economic pressure will rise in coming days.",
-   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على أربعة إيرانيين تصفهم بـ«أمناء النفط» وتتهمهم بجمع عائدات بيع النفط الإيراني للالتفاف على العقوبات، والخارجية الأميركية تقول إن الضغط الاقتصادي سيشتدّ في الأيام المقبلة.",
-   "source": {
-    "name": "US Treasury (OFAC)",
-    "url": "https://ofac.treasury.gov/recent-actions/20261120"
    }
   }
  ]
