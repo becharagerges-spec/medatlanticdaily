@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:09:39Z",
+ "updated": "2026-11-23T17:08:52Z",
  "items": [
   {
    "id": "20261123-1500-us-syria-training-mission",
@@ -23,6 +23,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/"
+   }
+  },
+  {
+   "id": "20261123-1436-brent-falls-below-91",
+   "time": "2026-11-23T14:36:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude falls 2.18% to $90.55 a barrel and WTI to $81.82 as rising Middle East supplies and a Libyan pipeline restart offset regional attack risks (Reuters).",
+   "ar": "خام برنت يتراجع 2.18% إلى 90.55 دولاراً للبرميل وخام غرب تكساس إلى 81.82 دولاراً، مع تعويض زيادة الإمدادات من الشرق الأوسط وإعادة تشغيل خط أنابيب ليبي مخاطرَ الهجمات في المنطقة (رويترز).",
+   "source": {
+    "name": "Reuters via Gulf News",
+    "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468"
    }
   },
   {
@@ -98,6 +110,18 @@
    }
   },
   {
+   "id": "20261123-1323-barachit-airstrike",
+   "time": "2026-11-23T13:23:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli warplane strikes the outskirts of Barachit in south Lebanon, as Israeli artillery shells Beit Lif and troops carry out a large detonation in Kounine, per MTV Lebanon.",
+   "ar": "طائرة حربية إسرائيلية تغير على أطراف برعشيت في جنوب لبنان، فيما تقصف المدفعية الإسرائيلية بيت ليف وتنفّذ القوات تفجيراً كبيراً في كونين، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1761100"
+   }
+  },
+  {
    "id": "20261123-1313-dnc-12-debates-2028",
    "time": "2026-11-23T13:13:00Z",
    "theater": "usa",
@@ -130,6 +154,18 @@
    "source": {
     "name": "POLITICO Europe",
     "url": "https://www.politico.eu/article/congo-eu-rwanda-deportation-deal-armed-militia/"
+   }
+  },
+  {
+   "id": "20261123-1202-congo-cobalt-export-ban",
+   "time": "2026-11-23T12:02:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "The Democratic Republic of Congo, the world's top cobalt producer, reimposes a full ban on cobalt exports to shore up falling prices, its second supply cut in two years.",
+   "ar": "جمهورية الكونغو الديمقراطية، أكبر منتج للكوبالت في العالم، تعيد فرض حظر كامل على صادرات الكوبالت لدعم الأسعار المتراجعة، في ثاني قطع للإمدادات خلال عامين.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/top-cobalt-producer-congo-will-ban-exports-again-as-prices-slide"
    }
   },
   {
@@ -304,11 +340,11 @@
    "time": "2026-11-23T03:42:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Houthi media raise the toll from a Saudi strike on a Public Telecommunications Corporation building in Yemen's Hodeida to 10 killed; Riyadh has not commented.",
-   "ar": "وسائل إعلام الحوثيين ترفع حصيلة غارة سعودية على مبنى للمؤسسة العامة للاتصالات في الحديدة إلى 10 قتلى، والرياض لم تعلّق.",
+   "en": "Houthi health officials say a strike in Yemen's Hodeida province killed 11 people and injured 19; Saudi-backed forces have not commented, per AP.",
+   "ar": "مسؤولو الصحة لدى الحوثيين يقولون إن غارة في محافظة الحديدة اليمنية أودت بـ11 شخصاً وأصابت 19؛ ولم تعلّق القوات المدعومة سعودياً، بحسب أسوشييتد برس.",
    "source": {
-    "name": "L'Orient Today",
-    "url": "https://today.lorientlejour.com/article/1555305/houthi-media-says-four-dead-in-saudi-attack.html"
+    "name": "AP via Gulf News",
+    "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468"
    }
   },
   {
@@ -1516,53 +1552,6 @@
    "source": {
     "name": "Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-retaliate-coalition-strikes-attack-saudi-power-station-and-port"
-   }
-  },
-  {
-   "id": "20261120-1704-tanker-fire-khasab",
-   "time": "2026-11-20T17:04:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says an outbound tanker caught fire after an unknown projectile struck it 8 nautical miles north of Oman's Khasab, with no casualties; Iran's IRGC says the tanker hit a mine.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تقول إن ناقلة نفط مغادرة اشتعلت بعد إصابتها بمقذوف مجهول على بعد 8 أميال بحرية شمال خصب العُمانية من دون إصابات، والحرس الثوري يقول إنها اصطدمت بلغم.",
-   "source": {
-    "name": "Reuters",
-    "url": "https://www.yahoo.com/news/world/articles/tanker-catches-fire-projectile-strike-170458570.html"
-   }
-  },
-  {
-   "id": "20261120-1657-houthis-say-41-killed",
-   "time": "2026-11-20T16:57:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's Houthis say Saudi-led coalition strikes on Hodeidah, Sanaa, Saada and Taiz killed 41 people in 24 hours; the coalition says it hit weapons-smuggling and missile sites.",
-   "ar": "الحوثيون يقولون إن غارات التحالف بقيادة السعودية على الحديدة وصنعاء وصعدة وتعز قتلت 41 شخصاً خلال 24 ساعة، والتحالف يقول إنه استهدف مواقع تهريب أسلحة وصواريخ.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-41-killed-saudi-led-coalition-launches-special-operation"
-   }
-  },
-  {
-   "id": "20261120-1653-davies-cyber-director",
-   "time": "2026-11-20T16:53:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The White House names Pentagon chief information officer Kirsten Davies as national cyber director, replacing the departing Sean Cairncross; the post requires Senate confirmation.",
-   "ar": "البيت الأبيض يسمّي كبيرة مسؤولي المعلومات في البنتاغون كيرستن ديفيس مديرةً وطنية للأمن السيبراني خلفاً لشون كيرنكروس المغادر، والمنصب يتطلّب مصادقة مجلس الشيوخ.",
-   "source": {
-    "name": "The White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/"
-   }
-  },
-  {
-   "id": "20261120-1647-us-ukraine-deal-by-january",
-   "time": "2026-11-20T16:47:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "The Trump administration wants Ukraine and Russia to reach a peace agreement by early January 2027, the Financial Times reports, citing four people briefed on the talks.",
-   "ar": "إدارة ترامب تريد أن تتوصل أوكرانيا وروسيا إلى اتفاق سلام بحلول مطلع كانون الثاني 2027، بحسب «فايننشال تايمز» نقلاً عن أربعة مطّلعين على المحادثات.",
-   "source": {
-    "name": "Financial Times"
    }
   }
  ]
