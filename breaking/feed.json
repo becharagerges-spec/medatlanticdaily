@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-24T00:09:27Z",
+ "updated": "2026-11-24T03:08:03Z",
  "items": [
+  {
+   "id": "20261124-0143-iran-ship-cyberattacks",
+   "time": "2026-11-24T01:43:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "US officials are investigating Iran as the prime suspect in dozens of cyberattacks targeting up to 50 ships carrying oil and other cargo, with Russia also suspected, per The Wall Street Journal.",
+   "ar": "مسؤولون أميركيون يحققون في دور إيران كمشتبه رئيسي في عشرات الهجمات السيبرانية التي استهدفت ما يصل إلى 50 سفينة تنقل النفط وحمولات أخرى، مع شبهات بحق روسيا أيضاً، وفق «وول ستريت جورنال».",
+   "source": {
+    "name": "The Wall Street Journal via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/us-said-investigating-iran-as-prime-suspect-in-fresh-cyberattacks-on-ships/"
+   }
+  },
+  {
+   "id": "20261124-0130-asia-stocks-rally",
+   "time": "2026-11-24T01:30:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Asian stocks surge after Jensen Huang's return to Nvidia: South Korea's Kospi jumps 7.5%, Taiwan shares 9.1% and Japan's Nikkei 4.5%, while Brent holds near $89.50 a barrel.",
+   "ar": "الأسهم الآسيوية تقفز بعد عودة جنسن هوانغ إلى «إنفيديا»: مؤشر كوسبي الكوري يرتفع 7.5% وأسهم تايوان 9.1% ونيكاي الياباني 4.5%، فيما يستقر برنت قرب 89.50 دولاراً للبرميل.",
+   "source": {
+    "name": "Reuters",
+    "url": "https://www.aol.com/articles/asian-stocks-rally-huangs-nvidia-012932000.html"
+   }
+  },
+  {
+   "id": "20261124-0020-khan-younis-strike",
+   "time": "2026-11-24T00:20:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "An Israeli airstrike near a police outpost in Khan Younis in southern Gaza kills at least 3 Palestinians and wounds 5, local health officials say; the Israeli army has not commented.",
+   "ar": "غارة إسرائيلية قرب موقع للشرطة في خان يونس جنوب غزة تقتل 3 فلسطينيين على الأقل وتصيب 5، بحسب مسؤولين صحيين محليين، فيما لم يعلّق الجيش الإسرائيلي.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/at-least-3-gazans-reported-killed-in-israeli-strike-on-khan-younis-police-outpost/"
+   }
+  },
   {
    "id": "20261123-2223-irgc-three-tankers-mines",
    "time": "2026-11-23T22:23:00Z",
@@ -1503,42 +1539,6 @@
    "status": "reported",
    "en": "UKMTO data show 263 Strait of Hormuz transits in the week to 18 November, down from 308, about 65% below pre-war levels, with six tanker attacks reported, per Iran International.",
    "ar": "بيانات UKMTO تُظهر 263 عبوراً لمضيق هرمز في الأسبوع المنتهي في 18 تشرين الثاني مقابل 308 قبله، أي أقل بنحو 65% من مستويات ما قبل الحرب، مع ست هجمات على ناقلات، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611214578"
-   }
-  },
-  {
-   "id": "20261121-0254-irgc-claims-mq9-hormuz",
-   "time": "2026-11-21T02:54:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say their aerospace force shot down a US MQ-9 drone over the Strait of Hormuz, which they call the 58th downed; there is no US comment.",
-   "ar": "الحرس الثوري الإيراني يقول إن قوته الجوفضائية أسقطت مسيّرة أميركية من طراز MQ-9 فوق مضيق هرمز، ويصفها بالـ58 التي يُسقطها؛ ولا تعليق أميركياً.",
-   "source": {
-    "name": "Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz"
-   }
-  },
-  {
-   "id": "20261121-0221-fbi-crime-database-breach",
-   "time": "2026-11-21T02:21:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The FBI is investigating an apparent breach of its nationwide criminal information database, used by federal, state and local police, two people briefed on the probe tell CNN.",
-   "ar": "مكتب التحقيقات الفدرالي الأميركي يحقّق في اختراق محتمل لقاعدة بيانات المعلومات الجنائية الوطنية التي تعتمدها الأجهزة الفدرالية والمحلية، بحسب مصدرين مطّلعين لـ«سي إن إن».",
-   "source": {
-    "name": "CNN",
-    "url": "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database"
-   }
-  },
-  {
-   "id": "20261121-0052-iran-gas-use-cut-10pct",
-   "time": "2026-11-21T00:52:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Economy Minister Ali Madanizadeh urges households to cut gas use by 10%, saying Iran lost 230 million cubic metres of daily gas supply in the war, per Iran International.",
-   "ar": "وزير الاقتصاد الإيراني علي مدني زاده يدعو الأسر إلى خفض استهلاك الغاز 10%، قائلاً إن إيران خسرت 230 مليون متر مكعب من إمدادات الغاز اليومية خلال الحرب، بحسب «إيران إنترناشونال».",
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611214578"
