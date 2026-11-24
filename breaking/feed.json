@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T13:10:58Z",
+ "updated": "2026-11-24T14:09:54Z",
  "items": [
+  {
+   "id": "20261124-1309-us-tariff-hike-china-eu",
+   "time": "2026-11-24T13:09:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US is preparing to raise tariffs on China, the EU and more than a dozen other economies as soon as Tuesday, Bloomberg and the WSJ report; the EU, Japan and South Korea may face 15% or less.",
+   "ar": "الولايات المتحدة تستعد لرفع الرسوم الجمركية على الصين والاتحاد الأوروبي وأكثر من اثنتي عشرة اقتصاداً آخر اعتباراً من الثلاثاء، وفق «بلومبرغ» و«وول ستريت جورنال»؛ وقد تواجه دول الاتحاد واليابان وكوريا الجنوبية رسوماً بنسبة 15% أو أقل.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"
+   }
+  },
+  {
+   "id": "20261124-1304-riyadh-financial-tower-attack",
+   "time": "2026-11-24T13:04:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi-led coalition spokesman Turki al-Maliki says a tower in Riyadh's financial district was subjected to a 'terrorist attack', with authorities responding at the site; no damage or casualty details given.",
+   "ar": "المتحدث باسم التحالف بقيادة السعودية تركي المالكي يعلن أن أحد الأبراج في المركز المالي بالرياض تعرّض لـ«هجوم إرهابي»، والجهات المختصة تتعامل مع الموقع، من دون تفاصيل عن الأضرار أو الإصابات.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/coalition-says-tower-in-riyadhs-financial-district-subjected-to-terrorist-attack-3013857"
+   }
+  },
   {
    "id": "20261124-1302-zelensky-confirms-sparta-ii",
    "time": "2026-11-24T13:02:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Bloomberg via APA",
     "url": "https://en.apa.az/europe/zelenskyy-confirms-ukraine-struck-russian-ship-in-gulf-of-finland-538264"
+   }
+  },
+  {
+   "id": "20261124-1253-china-probes-chen-jining",
+   "time": "2026-11-24T12:53:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's Central Commission for Discipline Inspection places Politburo member and Shanghai party chief Chen Jining under investigation for suspected violations of party discipline, state media say.",
+   "ar": "اللجنة المركزية لفحص الانضباط في الصين تُخضع عضو المكتب السياسي وأمين الحزب في شنغهاي تشن جي نينغ للتحقيق بشبهة مخالفة الانضباط الحزبي، وفق وسائل الإعلام الرسمية.",
+   "source": {
+    "name": "AP via WRAL",
+    "url": "https://www.wral.com/news/ap/abdd2-china-investigates-politburo-member-and-shanghai-party-chief-chen-jining/"
    }
   },
   {
@@ -158,6 +194,18 @@
    }
   },
   {
+   "id": "20261124-0802-hegseth-delays-patriots-ukraine",
+   "time": "2026-11-24T08:02:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "US Defense Secretary Pete Hegseth has delayed sign-off on 60 Patriot interceptors for Ukraine, including 40 PAC-3s and some from European stocks, per the Financial Times, citing Ukrainian officials.",
+   "ar": "وزير الدفاع الأميركي بيت هيغسيث يؤخّر الموافقة على تسليم 60 صاروخاً اعتراضياً من طراز «باتريوت» لأوكرانيا، بينها 40 من طراز PAC-3 وبعضها من مخزونات أوروبية، وفق «فايننشال تايمز» نقلاً عن مسؤولين أوكرانيين.",
+   "source": {
+    "name": "Financial Times via Interfax-Ukraine",
+    "url": "https://en.interfax.com.ua/news/general/1241316.html"
+   }
+  },
+  {
    "id": "20261124-0731-strikes-tulin-kfartebnit",
    "time": "2026-11-24T07:31:00Z",
    "theater": "lebanon",
@@ -210,11 +258,11 @@
    "time": "2026-11-24T05:06:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "A Russian overnight attack on Zaporizhzhia kills 2 people and wounds 22, including two children, damaging an apartment building, regional officials say.",
-   "ar": "هجوم روسي ليلي على زابوريجيا يقتل شخصين ويصيب 22 بينهم طفلان، ويُلحق أضراراً بمبنى سكني، وفق المسؤولين في المنطقة.",
+   "en": "A Russian overnight glide-bomb attack on Zaporizhzhia kills 2 civilians and wounds 48, including four children, regional head Mykhailo Semikin says.",
+   "ar": "هجوم روسي ليلي بقنابل موجّهة على زابوريجيا يقتل مدنيَّين اثنين ويصيب 48 بينهم أربعة أطفال، وفق رئيس الإدارة العسكرية في المنطقة ميخايلو سيميكين.",
    "source": {
-    "name": "Reuters via WHBL",
-    "url": "https://whbl.com/2026/11/23/russian-attack-kills-2-people-wounds-22-in-ukraines-zaporizhzhia-official-says/"
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/business/2026/11/24/a-russian-strike-on-ukraine-kills-2-and-wounds-48-as-kyiv-explains-its-attack-in-libya/"
    }
   },
   {
@@ -1518,53 +1566,6 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-polytics/4187172-next-round-of-peace-talks-depends-on-us-zelensky-says.html"
-   }
-  },
-  {
-   "id": "20261121-1350-zelensky-no-written-guarantees",
-   "time": "2026-11-21T13:50:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Ukraine has seen no written commitment yet on NATO Article 5-style security guarantees, and that the next four-way talks with Russia and the US depend on Washington.",
-   "ar": "زيلينسكي يقول إن أوكرانيا لم تتلقَّ بعد أي التزام مكتوب بضمانات أمنية على غرار المادة الخامسة من ميثاق الناتو، وإن الجولة المقبلة من المحادثات الرباعية مع روسيا والولايات المتحدة رهن بواشنطن.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/"
-   }
-  },
-  {
-   "id": "20261121-1348-finland-russian-helicopter",
-   "time": "2026-11-21T13:48:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Finland's Defence Ministry says a Russian helicopter is suspected of violating Finnish airspace, possibly linked to operations around the cargo ship damaged earlier in the Gulf of Finland.",
-   "ar": "وزارة الدفاع الفنلندية تقول إنّ مروحية روسية يُشتبه في انتهاكها المجال الجوي الفنلندي، وربما يرتبط ذلك بعمليات حول سفينة الشحن التي تضرّرت في وقت سابق في خليج فنلندا.",
-   "source": {
-    "name": "Reuters via Devdiscourse",
-    "url": "https://www.devdiscourse.com/article/international/4010360-russian-helicopter-suspected-of-violating-finnish-airspace-finland-government-says"
-   }
-  },
-  {
-   "id": "20261121-1340-iran-claims-f16-hit",
-   "time": "2026-11-21T13:40:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army says its air defences fired a missile that damaged a US F-16 over the Gulf on Friday evening, forcing an emergency landing; US Central Command calls the claim 'false'.",
-   "ar": "الجيش الإيراني يقول إنّ دفاعاته الجوية أطلقت صاروخاً ألحق أضراراً بمقاتلة أميركية من طراز F-16 فوق الخليج مساء الجمعة وأجبرها على هبوط اضطراري، والقيادة المركزية الأميركية تصف الادعاء بأنه «كاذب».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-915637"
-   }
-  },
-  {
-   "id": "20261121-1334-mexico-el-chapo-isidro",
-   "time": "2026-11-21T13:34:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "Mexico detains Sinaloa cartel boss Fausto Isidro Meza Flores, 'El Chapo Isidro', one of the FBI's 10 most wanted, saying US intelligence helped the capture.",
-   "ar": "المكسيك تعتقل زعيم كارتل سينالوا فاوستو إيسيدرو ميزا فلوريس الملقّب «إل تشابو إيسيدرو»، أحد المطلوبين العشرة الأوائل لدى الـFBI، وتقول إنّ استخبارات أميركية ساعدت في القبض عليه.",
-   "source": {
-    "name": "AP"
    }
   }
  ]
