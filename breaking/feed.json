@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T05:08:09Z",
+ "updated": "2026-11-24T07:09:07Z",
  "items": [
+  {
+   "id": "20261124-0658-ukraine-96-drones",
+   "time": "2026-11-24T06:58:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia launched 96 attack drones overnight, 64 of them jet-powered; air defences downed or suppressed 73, with hits recorded at 13 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 96 مسيّرة هجومية خلال الليل، بينها 64 نفاثة؛ أسقطت الدفاعات الجوية أو عطّلت 73 منها، وسُجّلت إصابات في 13 موقعاً.",
+   "source": {
+    "name": "Ukrinform",
+    "url": "https://www.ukrinform.net/rubric-ato/4187924-air-defenses-neutralize-73-of-96-drones-russia-launched-against-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261124-0506-zaporizhzhia-2-killed-22",
+   "time": "2026-11-24T05:06:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian overnight attack on Zaporizhzhia kills 2 people and wounds 22, including two children, damaging an apartment building, regional officials say.",
+   "ar": "هجوم روسي ليلي على زابوريجيا يقتل شخصين ويصيب 22 بينهم طفلان، ويُلحق أضراراً بمبنى سكني، وفق المسؤولين في المنطقة.",
+   "source": {
+    "name": "Reuters via WHBL",
+    "url": "https://whbl.com/2026/11/23/russian-attack-kills-2-people-wounds-22-in-ukraines-zaporizhzhia-official-says/"
+   }
+  },
   {
    "id": "20261124-0353-coalition-intercepts-houthi-drone-south",
    "time": "2026-11-24T03:53:00Z",
@@ -1494,42 +1518,6 @@
    "source": {
     "name": "AFP via France 24",
     "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
-   }
-  },
-  {
-   "id": "20261121-0707-zelensky-putin-killer",
-   "time": "2026-11-21T07:07:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky tells CNN that Putin is 'an enemy' and 'a killer' for Ukrainians, responding to Trump calling the Russian leader his 'friend' after their Shenzhen meeting with Xi.",
-   "ar": "زيلينسكي يقول لشبكة CNN إن بوتين «عدو» و«قاتل» بالنسبة للأوكرانيين، ردّاً على وصف ترامب للرئيس الروسي بـ«الصديق» بعد لقائهما مع شي في شينجن.",
-   "source": {
-    "name": "CNN via Euronews",
-    "url": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend"
-   }
-  },
-  {
-   "id": "20261121-0631-kharkiv-solonytsivka-drone",
-   "time": "2026-11-21T06:31:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian drone hits a five-storey apartment block in Solonytsivka, Kharkiv region, injuring 11 people including 2 children, Ukraine's State Emergency Service says.",
-   "ar": "مسيّرة روسية تصيب مبنى سكنياً من خمس طبقات في سولونيتسيفكا بمنطقة خاركيف، ما أدى إلى إصابة 11 شخصاً بينهم طفلان، بحسب خدمة الطوارئ الأوكرانية.",
-   "source": {
-    "name": "State Emergency Service of Ukraine via Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90783"
-   }
-  },
-  {
-   "id": "20261121-0550-two-tankers-hit-khasab",
-   "time": "2026-11-21T05:50:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO says two outbound tankers were hit by unidentified projectiles within an hour, 11 and 17 nautical miles from Oman's Khasab in the Strait of Hormuz, with no casualties reported.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تعلن إصابة ناقلتين مغادرتين بمقذوفات مجهولة خلال ساعة واحدة، على بُعد 11 و17 ميلاً بحرياً من خصب العُمانية في مضيق هرمز، من دون إصابات.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-915628"
    }
   }
  ]
