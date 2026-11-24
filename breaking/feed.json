@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T12:09:37Z",
+ "updated": "2026-11-24T13:10:58Z",
  "items": [
+  {
+   "id": "20261124-1302-zelensky-confirms-sparta-ii",
+   "time": "2026-11-24T13:02:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky tells Bloomberg Ukraine carried out the 21 November drone strike that set the Russian cargo ship Sparta II ablaze in the Gulf of Finland.",
+   "ar": "زيلينسكي يقول لـ«بلومبرغ» إن أوكرانيا نفّذت هجوم المسيّرات في 21 تشرين الثاني الذي أشعل النار في سفينة الشحن الروسية «سبارتا 2» في خليج فنلندا.",
+   "source": {
+    "name": "Bloomberg via APA",
+    "url": "https://en.apa.az/europe/zelenskyy-confirms-ukraine-struck-russian-ship-in-gulf-of-finland-538264"
+   }
+  },
   {
    "id": "20261124-1137-iran-rial-2-82-million",
    "time": "2026-11-24T11:37:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Gulf News",
     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+   }
+  },
+  {
+   "id": "20261124-1123-us-futures-fall-2pct",
+   "time": "2026-11-24T11:23:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "US stock futures turn lower as the Nvidia-driven rally fades, with Nasdaq 100 futures down 2% in premarket trading, Bloomberg reports.",
+   "ar": "العقود الآجلة للأسهم الأميركية تتراجع مع انحسار موجة الصعود التي قادتها «إنفيديا»، إذ تنخفض عقود «ناسداك 100» بنسبة 2% في التداولات السابقة للافتتاح، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
    }
   },
   {
@@ -47,6 +71,18 @@
    "source": {
     "name": "Sepah News via Newsquawk",
     "url": "https://www.newsquawk.com/headlines/explosion-of-the-fourth-offending-tanker-in-the-east-of-the-strait-of-hormuz--fars-reports"
+   }
+  },
+  {
+   "id": "20261124-1045-hajj-hassan-patience-limits",
+   "time": "2026-11-24T10:45:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Hezbollah MP Hussein Hajj Hassan says US intervention pushed judges to charge detainees he says were due for release on Monday, warning that 'patience has limits', per MTV.",
+   "ar": "نائب «حزب الله» حسين الحاج حسن يقول إن تدخلاً أميركياً دفع قضاةً إلى الادعاء على موقوفين قال إنهم كانوا سيُطلَقون صباح الاثنين، محذّراً من أن «للصبر حدوداً»، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1761429"
    }
   },
   {
@@ -413,11 +449,11 @@
    "time": "2026-11-23T15:29:00Z",
    "theater": "lebanon",
    "status": "reported",
-   "en": "The Sovereignty Front for Lebanon, including Samir Geagea, the Kataeb and the National Liberal Party, will hold an extraordinary meeting in Maarab on Tuesday on security developments, per MTV.",
-   "ar": "«الجبهة السيادية من أجل لبنان»، ومن بينها سمير جعجع والكتائب وحزب الوطنيين الأحرار، تعقد اجتماعاً استثنائياً في معراب الثلاثاء لبحث التطورات الأمنية، بحسب «إم تي في».",
+   "en": "The Sovereignty Front for Lebanon, including Samir Geagea, the Kataeb and the National Liberal Party, postpones the extraordinary meeting it had set for Tuesday in Maarab to a later date, per MTV.",
+   "ar": "«الجبهة السيادية من أجل لبنان»، ومن بينها سمير جعجع والكتائب وحزب الوطنيين الأحرار، تُرجئ إلى موعد لاحق اجتماعها الاستثنائي الذي كان مقرراً الثلاثاء في معراب، بحسب «إم تي في».",
    "source": {
     "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1761133"
+    "url": "https://www.mtv.com.lb/news/1761337"
    }
   },
   {
@@ -1529,42 +1565,6 @@
    "ar": "المكسيك تعتقل زعيم كارتل سينالوا فاوستو إيسيدرو ميزا فلوريس الملقّب «إل تشابو إيسيدرو»، أحد المطلوبين العشرة الأوائل لدى الـFBI، وتقول إنّ استخبارات أميركية ساعدت في القبض عليه.",
    "source": {
     "name": "AP"
-   }
-  },
-  {
-   "id": "20261121-1259-pezeshkian-silent-economic-war",
-   "time": "2026-11-21T12:59:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian President Masoud Pezeshkian says Iran is in a 'silent economic war' harder than a missile war and that Tehran is working to avoid winter power cuts, per IRNA.",
-   "ar": "الرئيس الإيراني مسعود بزشكيان يقول إن إيران تخوض «حرباً اقتصادية صامتة» أصعب من حرب الصواريخ، وإن طهران تعمل لتفادي انقطاع الكهرباء في الشتاء، بحسب «إرنا».",
-   "source": {
-    "name": "IRNA via A News",
-    "url": "https://www.anews.com.tr/world/2026/11/21/iran-facing-silent-economic-war-that-is-tougher-than-missile-war-says-pezeshkian"
-   }
-  },
-  {
-   "id": "20261121-1254-israeli-strike-qantara-khiam",
-   "time": "2026-11-21T12:54:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "An Israeli airstrike hits Qantara in south Lebanon as the Israeli army carries out three detonations in the Wata al-Khiam area, per Lebanon's National News Agency.",
-   "ar": "غارة إسرائيلية تستهدف بلدة القنطرة في جنوب لبنان، فيما ينفّذ الجيش الإسرائيلي ثلاثة تفجيرات في منطقة وطى الخيام، بحسب الوكالة الوطنية للإعلام.",
-   "source": {
-    "name": "National News Agency via Hawar News",
-    "url": "https://hawarnews.com/ar/149418"
-   }
-  },
-  {
-   "id": "20261121-1218-gaza-city-strike-three",
-   "time": "2026-11-21T12:18:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "An Israeli airstrike on Gaza City kills 3 Palestinians in a vehicle witnesses say carried food aid; Israel's army says they were Islamic Jihad operatives falsely presented as aid workers.",
-   "ar": "غارة إسرائيلية على مدينة غزة تقتل 3 فلسطينيين في مركبة يقول شهود إنها كانت تنقل مساعدات غذائية، والجيش الإسرائيلي يقول إنهم عناصر في «الجهاد الإسلامي» قُدّموا زوراً كعمّال إغاثة.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-targets-of-earlier-gaza-city-strike-were-pij-operatives-falsely-presented-as-aid-workers/"
    }
   }
  ]
