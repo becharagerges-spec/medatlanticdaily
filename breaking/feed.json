@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T11:09:09Z",
+ "updated": "2026-11-24T12:09:37Z",
  "items": [
+  {
+   "id": "20261124-1137-iran-rial-2-82-million",
+   "time": "2026-11-24T11:37:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's rial weakens about 5% on the black market after new US sanctions, with the dollar trading at about 2.82 million rials, up from 2.68 million, per Gulf News.",
+   "ar": "الريال الإيراني يتراجع نحو 5% في السوق السوداء بعد العقوبات الأميركية الجديدة، والدولار يُتداول بنحو 2.82 مليون ريال مقابل 2.68 مليون سابقاً، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+   }
+  },
+  {
+   "id": "20261124-1102-hamas-security-chief-killed",
+   "time": "2026-11-24T11:02:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "An Israeli strike in western Gaza City kills Naim Abu Nahal, director of Hamas's internal security apparatus, Hamas's interior ministry says; Israel's army says it struck 'a senior Hamas member'.",
+   "ar": "غارة إسرائيلية غرب مدينة غزة تقتل نعيم أبو نحل، مدير جهاز الأمن الداخلي في «حماس»، بحسب وزارة الداخلية التابعة للحركة؛ والجيش الإسرائيلي يقول إنه استهدف «قيادياً بارزاً في حماس».",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say-3013840"
+   }
+  },
   {
    "id": "20261124-1059-zelensky-democratic-congress",
    "time": "2026-11-24T10:59:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/zelenskyy-draws-close-work-with-us-congress-if-trump-peace-plan-fails"
+   }
+  },
+  {
+   "id": "20261124-1052-irgc-tanker-mine-east-hormuz",
+   "time": "2026-11-24T10:52:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says another tanker hit a naval mine and caught fire east of the Strait of Hormuz after using an unauthorised route, and two others turned back, per Sepah News.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة أخرى اصطدمت بلغم بحري واشتعلت فيها النيران شرق مضيق هرمز بعد سلوكها مساراً غير مرخّص، وإن ناقلتين أخريين عادتا أدراجهما، بحسب «سپاه نيوز».",
+   "source": {
+    "name": "Sepah News via Newsquawk",
+    "url": "https://www.newsquawk.com/headlines/explosion-of-the-fourth-offending-tanker-in-the-east-of-the-strait-of-hormuz--fars-reports"
    }
   },
   {
@@ -62,6 +98,18 @@
    }
   },
   {
+   "id": "20261124-0910-araghchi-land-blockade",
+   "time": "2026-11-24T09:10:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi says a US land blockade of Iran would be 'virtually impossible', per Gulf News.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن فرض حصار أميركي برّي على إيران «شبه مستحيل»، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+   }
+  },
+  {
    "id": "20261124-0906-china-extends-minerals-pause",
    "time": "2026-11-24T09:06:00Z",
    "theater": "china",
@@ -107,6 +155,18 @@
    "source": {
     "name": "Arutz Sheva",
     "url": "https://www.israelnationalnews.com/flashes/698381"
+   }
+  },
+  {
+   "id": "20261124-0650-ghalibaf-seven-conditions",
+   "time": "2026-11-24T06:50:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iranian parliament speaker and chief negotiator Mohammad Bagher Ghalibaf says Tehran will not negotiate with Washington until its seven conditions are met, warning Iran could widen the war's geography, per Fars.",
+   "ar": "رئيس البرلمان الإيراني وكبير المفاوضين محمد باقر قاليباف يقول إن طهران لن تفاوض واشنطن قبل تلبية شروطها السبعة، محذّراً من أن إيران قد توسّع جغرافيا الحرب، بحسب «فارس».",
+   "source": {
+    "name": "Fars via Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
    }
   },
   {
@@ -1505,54 +1565,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-targets-of-earlier-gaza-city-strike-were-pij-operatives-falsely-presented-as-aid-workers/"
-   }
-  },
-  {
-   "id": "20261121-1207-iran-navy-tanker-mine-fire",
-   "time": "2026-11-21T12:07:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's navy says an oil tanker caught fire after hitting a naval mine in a restricted area east of the Strait of Hormuz, claiming it ignored warnings with its tracking systems off; unverified.",
-   "ar": "البحرية الإيرانية تقول إن ناقلة نفط اشتعلت بعد اصطدامها بلغم بحري في منطقة محظورة شرق مضيق هرمز، وتزعم أنها تجاهلت التحذيرات وأطفأت أنظمة التعريف؛ ولم يتسنَّ التحقق.",
-   "source": {
-    "name": "WANA",
-    "url": "https://wanaen.com/oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-strait-of-hormuz/"
-   }
-  },
-  {
-   "id": "20261121-1134-denmark-eu-russia-visas",
-   "time": "2026-11-21T11:34:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Denmark asks EU states to halt tourist visas for Russians and tighten Schengen access over the alleged Russian plot to kill rapper Kyivstoner; von der Leyen calls it 'an attack on EU soil'.",
-   "ar": "الدنمارك تطلب من دول الاتحاد الأوروبي وقف التأشيرات السياحية للروس وتشديد دخولهم إلى منطقة شنغن بسبب مؤامرة روسية مزعومة لاغتيال مغني الراب «كييفستونر»، وفون دير لاين تصفها بـ«هجوم على أرض الاتحاد».",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://timesofisrael.com/liveblog_entry/denmark-urges-concrete-steps-against-moscow-over-alleged-plot-to-assassinate-us-ukrainian-rapper"
-   }
-  },
-  {
-   "id": "20261121-1123-irgc-mines-us-air-cover",
-   "time": "2026-11-21T11:23:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say two tankers near Khasab and off Oman's Ghanam Island exploded after hitting naval mines while transiting under US air cover; unverified.",
-   "ar": "الحرس الثوري الإيراني يقول إن ناقلتين قرب خصب وقبالة جزيرة الغنم العُمانية انفجرتا بعد اصطدامهما بألغام بحرية أثناء عبورهما تحت غطاء جوي أميركي؛ من دون تأكيد مستقل.",
-   "source": {
-    "name": "Tasnim News Agency",
-    "url": "https://www.tasnimnews.ir/en/news/2026/11/21/3754231/irgc-us-military-cover-for-tanker-transit-leads-to-mine-explosions-in-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261121-1115-macron-new-level-aggression",
-   "time": "2026-11-21T11:15:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "French President Emmanuel Macron says incidents against European allies over the past 24 hours signal 'a new level of aggression' by Russia, calling it an 'irresponsible gamble'.",
-   "ar": "الرئيس الفرنسي إيمانويل ماكرون يقول إن حوادث استهدفت حلفاء أوروبيين خلال الساعات الـ24 الماضية تشير إلى «مستوى جديد من العدوان» الروسي، واصفاً ذلك بـ«رهان غير مسؤول».",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression"
    }
   }
  ]
