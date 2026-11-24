@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T07:09:07Z",
+ "updated": "2026-11-24T08:09:04Z",
  "items": [
+  {
+   "id": "20261124-0731-strikes-tulin-kfartebnit",
+   "time": "2026-11-24T07:31:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Israeli warplanes strike the outskirts of Tulin, Kfar Tebnit, Qabrikha and al-Qantara in south Lebanon, as artillery shells Beit Yahoun, Barachit, Haddatha and Mayfadoun, per NNA.",
+   "ar": "الطيران الحربي الإسرائيلي يغير على أطراف تولين وكفرتبنيت وقبريخا والقنطرة في جنوب لبنان، بالتزامن مع قصف مدفعي على بيت ياحون وبرعشيت وحداثا وميفدون، وفق الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Beirut 24",
+    "url": "https://www.beirut24.org/2026/11/24/%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%81%D8%B1%D9%82%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A/"
+   }
+  },
   {
    "id": "20261124-0658-ukraine-96-drones",
    "time": "2026-11-24T06:58:00Z",
@@ -26,6 +38,18 @@
    }
   },
   {
+   "id": "20261124-0441-poland-russian-drone-dorohusk",
+   "time": "2026-11-24T04:41:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Poland's Operational Command says a Russian reconnaissance drone briefly entered Polish airspace near Dorohusk during an attack on western Ukraine; it was not shot down after turning east.",
+   "ar": "قيادة العمليات البولندية تعلن أن مسيّرة استطلاع روسية دخلت الأجواء البولندية لدقائق قرب دوروهوسك خلال هجوم على غرب أوكرانيا، ولم تُسقط بعد أن عادت شرقاً.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/poland-says-russian-drone-briefly-entered-its-airspace"
+   }
+  },
+  {
    "id": "20261124-0353-coalition-intercepts-houthi-drone-south",
    "time": "2026-11-24T03:53:00Z",
    "theater": "saudi",
@@ -35,6 +59,29 @@
    "source": {
     "name": "Anadolu via A News",
     "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia"
+   }
+  },
+  {
+   "id": "20261124-0318-liberman-iran-strike-warning",
+   "time": "2026-11-24T03:18:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yisrael Beytenu leader Avigdor Liberman warns Netanyahu against ordering a strike on Iran without US backing, calling it a 'manifestly illegal act', per The Jerusalem Post.",
+   "ar": "زعيم «إسرائيل بيتنا» أفيغدور ليبرمان يحذّر نتنياهو من الأمر بضربة على إيران من دون غطاء أميركي، واصفاً ذلك بـ«عمل غير قانوني بشكل صارخ»، وفق «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post"
+   }
+  },
+  {
+   "id": "20261124-0310-houthis-claim-wing-loong-lahj",
+   "time": "2026-11-24T03:10:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi military spokesman Yahya Saree claims Houthi air defences shot down a Saudi Wing Loong II drone off the coast of Lahj; the Saudi-led coalition has not commented.",
+   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يزعم أن الدفاعات الجوية للجماعة أسقطت مسيّرة سعودية من طراز «وينغ لونغ 2» قبالة ساحل لحج، ولم يعلّق التحالف بقيادة السعودية.",
+   "source": {
+    "name": "Khaleej Times",
+    "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026"
    }
   },
   {
