@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-24T10:08:56Z",
+ "updated": "2026-11-24T11:09:09Z",
  "items": [
+  {
+   "id": "20261124-1059-zelensky-democratic-congress",
+   "time": "2026-11-24T10:59:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky tells Bloomberg he plans to work with the new Democrat-controlled US Congress to intensify pressure on Russia if Trump fails to persuade Putin to end the war.",
+   "ar": "زيلينسكي يقول لـ«بلومبرغ» إنه يعتزم العمل مع الكونغرس الأميركي الجديد ذي الغالبية الديمقراطية لتشديد الضغط على روسيا إذا فشل ترامب في إقناع بوتين بإنهاء الحرب.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/zelenskyy-draws-close-work-with-us-congress-if-trump-peace-plan-fails"
+   }
+  },
+  {
+   "id": "20261124-1010-huckabee-doubts-aid-end",
+   "time": "2026-11-24T10:10:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US Ambassador Mike Huckabee casts doubt on Trump's claim that US military aid to Israel ends this year, noting the $3.8 billion-a-year memorandum runs to 2028 and a halt would likely need Congress.",
+   "ar": "السفير الأميركي مايك هاكابي يشكّك في قول ترامب إن المساعدات العسكرية الأميركية لإسرائيل تنتهي هذا العام، مذكّراً بأن مذكرة التفاهم البالغة 3.8 مليارات دولار سنوياً تمتد حتى 2028 وأن وقفها يحتاج على الأرجح إلى الكونغرس.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/huckabee-casts-doubt-on-trumps-claim-that-us-aid-to-israel-will-end-this-year/"
+   }
+  },
+  {
+   "id": "20261124-1003-malaysia-data-centres-blacklist",
+   "time": "2026-11-24T10:03:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Malaysia will advise data centre operators not to host, lease space to or serve seven companies newly placed on a US trade blacklist, as Singapore's PM says it won't be a route around US chip curbs, Bloomberg reports.",
+   "ar": "ماليزيا ستطلب من مشغّلي مراكز البيانات عدم استضافة سبع شركات أُدرجت حديثاً على القائمة السوداء التجارية الأميركية أو تأجيرها أو خدمتها، ورئيس وزراء سنغافورة يقول إن بلاده لن تكون ممراً للالتفاف على القيود الأميركية على الرقائق («بلومبرغ»).",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-tells-data-centers-to-cut-off-firms-on-us-blacklist"
+   }
+  },
+  {
+   "id": "20261124-1003-china-warns-huang-comeback",
+   "time": "2026-11-24T10:03:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "Chinese state media urge vigilance over Jensen Huang's return as Nvidia CEO, warning it does not end the risk of further US chip controls or 'witch hunts', per Bloomberg.",
+   "ar": "وسائل الإعلام الرسمية الصينية تدعو إلى الحذر من عودة جنسن هوانغ إلى رئاسة إنفيديا، محذّرة من أنها لا تنهي خطر قيود أميركية إضافية على الرقائق أو «حملات مطاردة» («بلومبرغ»).",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us"
+   }
+  },
+  {
+   "id": "20261124-0942-amit-settler-violence-ruling",
+   "time": "2026-11-24T09:42:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel's Supreme Court President Isaac Amit, ruling on a petition by Palestinian residents of Burqa, calls settler violence 'a desecration of God's name' that serves as 'fuel for antisemitism'.",
+   "ar": "رئيس المحكمة العليا الإسرائيلية يتسحاق عميت، في قرار بشأن التماس من سكان برقة الفلسطينيين، يصف عنف المستوطنين بأنه «تدنيس لاسم الله» و«وقود لمعاداة السامية».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/supreme-court-president-blasts-settler-violence-as-desecration-of-gods-name-a-threat-to-zionist-vision-which-fuels-antisemitism/"
+   }
+  },
   {
    "id": "20261124-0906-china-extends-minerals-pause",
    "time": "2026-11-24T09:06:00Z",
@@ -112,12 +172,12 @@
    "id": "20261124-0149-lahj-strike-25-dead-missing",
    "time": "2026-11-24T01:49:00Z",
    "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi-run Saba says a Saudi strike on buses and trucks in Wadi Mabaq, Lahj province, left 25 people dead or missing and 6 wounded; Riyadh has not commented, per AFP.",
-   "ar": "وكالة سبأ التابعة للحوثيين تقول إن غارة سعودية على حافلات وشاحنات في وادي معبق بمحافظة لحج خلّفت 25 قتيلاً ومفقوداً و6 جرحى، والرياض لم تعلّق (فرانس برس).",
+   "status": "confirmed",
+   "en": "Two Yemeni officials tell AFP an air strike on buses and trucks in Lahj province killed 26 people, 12 Houthi fighters and 14 civilians; the Houthis blame Saudi Arabia, the government blames the Houthis.",
+   "ar": "مسؤولان يمنيان يقولان لفرانس برس إن غارة على حافلات وشاحنات في محافظة لحج قتلت 26 شخصاً، بينهم 12 مقاتلاً حوثياً و14 مدنياً؛ الحوثيون يتّهمون السعودية والحكومة تتّهم الحوثيين.",
    "source": {
-    "name": "AFP via theSun",
-    "url": "https://thesun.my/news/world-news/saudi-strike-on-yemen-buses-and-trucks-leaves-25-dead-or-missing-houthis-say/"
+    "name": "AFP via Free Malaysia Today",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/24/yemen-officials-say-strike-on-buses-trucks-kills-26"
    }
   },
   {
@@ -1493,30 +1553,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression"
-   }
-  },
-  {
-   "id": "20261121-1051-costa-eu-budget-cut-44bn",
-   "time": "2026-11-21T10:51:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "European Council President António Costa proposes cutting €44 billion from the EU's next long-term budget, as Brussels floats a tax on Big Tech to raise billions, per Politico Europe.",
-   "ar": "رئيس المجلس الأوروبي أنطونيو كوستا يقترح خفض 44 مليار يورو من الموازنة الأوروبية الطويلة الأمد المقبلة، فيما تطرح بروكسل ضريبة على شركات التكنولوجيا الكبرى لجمع مليارات، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/"
-   }
-  },
-  {
-   "id": "20261121-1021-gulf-of-finland-cargo-ship-drones",
-   "time": "2026-11-21T10:21:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Leningrad Governor Alexander Drozdenko says two drones attacked a Kaliningrad-bound cargo ship in the Gulf of Finland, 3 nautical miles from the Russian border, and its crew is being evacuated.",
-   "ar": "حاكم مقاطعة لينينغراد ألكسندر دروزدينكو يقول إن مسيّرتين هاجمتا سفينة شحن متجهة إلى كالينينغراد في خليج فنلندا، على بُعد 3 أميال بحرية من الحدود الروسية، ويجري إجلاء طاقمها.",
-   "source": {
-    "name": "TASS",
-    "url": "https://tass.com/emergencies/2222875"
    }
   }
  ]
