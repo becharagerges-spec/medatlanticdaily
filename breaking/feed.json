@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T15:09:08Z",
+ "updated": "2026-11-24T16:10:01Z",
  "items": [
+  {
+   "id": "20261124-1501-mbs-defend-strength-resolve",
+   "time": "2026-11-24T15:01:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Crown Prince Mohammed bin Salman tells a Saudi cabinet meeting the kingdom will defend its security, sovereignty and national assets 'with strength and resolve' after the Houthi attack on Riyadh.",
+   "ar": "ولي العهد الأمير محمد بن سلمان يؤكد في جلسة مجلس الوزراء أن المملكة ستدافع عن أمنها وسيادتها ومقدّراتها الوطنية «بكل قوة وحزم» بعد الهجوم الحوثي على الرياض.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/saudi-crown-prince-vows-to-defend-kingdom-with-strength-and-resolve-from-houthi-attacks/"
+   }
+  },
   {
    "id": "20261124-1407-tripoli-denies-ukraine-link",
    "time": "2026-11-24T14:07:00Z",
@@ -30,11 +42,23 @@
    "time": "2026-11-24T13:09:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The US is preparing to raise tariffs on China, the EU and more than a dozen other economies as soon as Tuesday, Bloomberg and the WSJ report; the EU, Japan and South Korea may face 15% or less.",
-   "ar": "الولايات المتحدة تستعد لرفع الرسوم الجمركية على الصين والاتحاد الأوروبي وأكثر من اثنتي عشرة اقتصاداً آخر اعتباراً من الثلاثاء، وفق «بلومبرغ» و«وول ستريت جورنال»؛ وقد تواجه دول الاتحاد واليابان وكوريا الجنوبية رسوماً بنسبة 15% أو أقل.",
+   "en": "The US is preparing new tariffs on China, the EU and more than a dozen economies; Bloomberg reports they will be targeted per economy and will not exceed levels set in US trade deals.",
+   "ar": "الولايات المتحدة تستعد لفرض رسوم جمركية جديدة على الصين والاتحاد الأوروبي وأكثر من اثنتي عشرة دولة؛ و«بلومبرغ» تفيد بأنها ستكون موجّهة لكل اقتصاد ولن تتجاوز مستويات الاتفاقات التجارية الأميركية.",
    "source": {
     "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted"
+   }
+  },
+  {
+   "id": "20261124-1307-qaa-explosives-detainees",
+   "time": "2026-11-24T13:07:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Six Lebanese nationals are detained over an explosives shipment seized by the Lebanese army in Masharii al-Qaa, per Asharq al-Awsat; a judge orders lab tests on the TNT and C4.",
+   "ar": "توقيف ستة لبنانيين في قضية شحنة المتفجرات التي ضبطها الجيش اللبناني في مشاريع القاع، بحسب «الشرق الأوسط»؛ والقاضي يطلب فحصاً مخبرياً لمادتي «تي إن تي» و«سي 4».",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323971-more-detainees-in-masharii-al-qaa-explosives-case"
    }
   },
   {
@@ -42,11 +66,11 @@
    "time": "2026-11-24T13:04:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "Saudi-led coalition spokesman Turki al-Maliki says a tower in Riyadh's financial district was subjected to a 'terrorist attack', with authorities responding at the site; no damage or casualty details given.",
-   "ar": "المتحدث باسم التحالف بقيادة السعودية تركي المالكي يعلن أن أحد الأبراج في المركز المالي بالرياض تعرّض لـ«هجوم إرهابي»، والجهات المختصة تتعامل مع الموقع، من دون تفاصيل عن الأضرار أو الإصابات.",
+   "en": "Saudi Civil Defence says 11 people were injured in a Houthi attack on a tower in Riyadh's financial district, which the Saudi Press Agency calls a 'terrorist attack'.",
+   "ar": "الدفاع المدني السعودي يعلن إصابة 11 شخصاً في هجوم حوثي استهدف برجاً في الحي المالي بالرياض، ووكالة الأنباء السعودية تصفه بـ«الهجوم الإرهابي».",
    "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/coalition-says-tower-in-riyadhs-financial-district-subjected-to-terrorist-attack-3013857"
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-civil-defense-says-11-injured-in-houthi-attack-on-riyadh-financial-district/"
    }
   },
   {
@@ -1542,18 +1566,6 @@
    "source": {
     "name": "AP",
     "url": "https://www.click2houston.com/news/politics/2026/11/21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress/"
-   }
-  },
-  {
-   "id": "20261121-1524-trump-fox-iran-leadership",
-   "time": "2026-11-21T15:24:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump tells Fox News that Iran's current leaders are 'probably more reasonable, but very, very difficult', and that he wants a permanent deal barring Iranian nuclear weapons, per The Jerusalem Post.",
-   "ar": "ترامب يقول لـ«فوكس نيوز» إن القادة الحاليين في إيران «ربما أكثر عقلانية، لكنهم صعبون جداً جداً»، وإنه يريد اتفاقاً دائماً يمنع إيران من امتلاك سلاح نووي، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/international/article-915640"
    }
   }
  ]
