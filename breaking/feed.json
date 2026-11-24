@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T18:08:11Z",
+ "updated": "2026-11-24T19:08:35Z",
  "items": [
+  {
+   "id": "20261124-1813-putin-refinery-retaliation",
+   "time": "2026-11-24T18:13:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Putin tells a Kremlin meeting with oil executives that Ukraine keeps striking Russian refineries despite Trump's direct request to stop, saying Russian 'retaliatory measures are inevitable'.",
+   "ar": "بوتين يقول في اجتماع في الكرملين مع مسؤولي شركات النفط إن أوكرانيا تواصل ضرب المصافي الروسية رغم طلب ترامب المباشر بالتوقف، مؤكداً أن «الرد الروسي حتمي».",
+   "source": {
+    "name": "Reuters via The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
+   }
+  },
+  {
+   "id": "20261124-1810-houthis-near-aden",
+   "time": "2026-11-24T18:10:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's army says Houthi fighters are closing in on Aden, the internationally recognised government's stronghold, from about 60 km away, and vows to repel any assault.",
+   "ar": "الجيش اليمني يقول إن مقاتلي الحوثيين يقتربون من عدن، معقل الحكومة المعترف بها دولياً، من مسافة نحو 60 كلم، ويتعهد بصدّ أي هجوم.",
+   "source": {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+   }
+  },
   {
    "id": "20261124-1631-nvidia-midday-slide",
    "time": "2026-11-24T16:31:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "The Motley Fool",
     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+   }
+  },
+  {
+   "id": "20261124-1629-us-weighs-iran-leader-killings",
+   "time": "2026-11-24T16:29:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "The Trump administration is again weighing targeted killings of Iranian leaders as a way to end the war, a US official and another source tell NBC News.",
+   "ar": "إدارة ترامب تدرس مجدداً عمليات اغتيال محددة لقادة إيرانيين كوسيلة لإنهاء الحرب، بحسب مسؤول أميركي ومصدر آخر لشبكة «إن بي سي نيوز».",
+   "source": {
+    "name": "NBC News via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-administration-said-to-consider-targeted-killings-of-iranian-leaders/"
    }
   },
   {
@@ -110,6 +146,18 @@
    }
   },
   {
+   "id": "20261124-1255-uk-sanctions-houthis",
+   "time": "2026-11-24T12:55:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Britain sanctions the Houthi movement and four senior officials, including Houthi interior minister Abdulkarim al-Houthi, with asset freezes and travel bans over attacks and rights abuses.",
+   "ar": "بريطانيا تفرض عقوبات على جماعة الحوثيين وأربعة من كبار مسؤوليها، بينهم وزير الداخلية الحوثي عبد الكريم الحوثي، تشمل تجميد أصول وحظر سفر بسبب هجمات وانتهاكات.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials"
+   }
+  },
+  {
    "id": "20261124-1253-china-probes-chen-jining",
    "time": "2026-11-24T12:53:00Z",
    "theater": "china",
@@ -203,6 +251,18 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1761429"
+   }
+  },
+  {
+   "id": "20261124-1042-hatami-hormuz-closed-further",
+   "time": "2026-11-24T10:42:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army chief Amir Hatami orders the navy to tighten the Hormuz closure, saying the strait 'must be closed further day by day' until Washington meets Tehran's conditions.",
+   "ar": "قائد الجيش الإيراني أمير حاتمي يأمر البحرية بتشديد إغلاق هرمز، قائلاً إن المضيق «يجب أن يُغلق أكثر يوماً بعد يوم» حتى تلبّي واشنطن شروط طهران.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
    }
   },
   {
@@ -1518,54 +1578,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties/"
-   }
-  },
-  {
-   "id": "20261121-1901-baltiysk-explosions",
-   "time": "2026-11-21T19:01:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Residents report explosions and air defence fire near the Baltic Fleet base at Baltiysk in Kaliningrad, per the Kyiv Independent; Russian authorities confirm no strike.",
-   "ar": "سكان يفيدون بانفجارات ونشاط للدفاعات الجوية قرب قاعدة أسطول البلطيق في بالتييسك بمنطقة كالينينغراد، وفق «كييف إندبندنت»، فيما لم تؤكد السلطات الروسية أي ضربة.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://www.yahoo.com/news/world/articles/explosions-reported-near-russian-baltic-190153735.html"
-   }
-  },
-  {
-   "id": "20261121-1854-golan-haredi-coalition",
-   "time": "2026-11-21T18:54:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Democrats leader Yair Golan says he will not block a coalition with the ultra-Orthodox parties, while Ra'am's Mansour Abbas says an Eisenkot-led government will be formed, per Times of Israel.",
-   "ar": "زعيم حزب الديمقراطيين يائير غولان يقول إنه لن يعرقل ائتلافاً مع الأحزاب الحريدية، فيما يؤكد منصور عباس من «راعم» أن حكومة برئاسة آيزنكوت ستتشكّل، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/golan-says-he-wont-block-coalition-with-haredi-parties-abbas-confident-eisenkot-will-form-government/"
-   }
-  },
-  {
-   "id": "20261121-1825-bahrain-threat-alert",
-   "time": "2026-11-21T18:25:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Bahrain's Interior Ministry issues a potential-threat alert, urging citizens and residents to stay calm and move to the nearest safe location; it did not name the threat.",
-   "ar": "وزارة الداخلية البحرينية تُصدر تنبيهاً من تهديد محتمل وتدعو المواطنين والمقيمين إلى التزام الهدوء والتوجّه إلى أقرب مكان آمن، من دون أن تحدّد طبيعة التهديد.",
-   "source": {
-    "name": "Bahrain Interior Ministry via The Peninsula",
-    "url": "https://thepeninsulaqatar.com/article/21/11/2026/bahrain-issues-urgent-public-safety-alert-over-potential-threat"
-   }
-  },
-  {
-   "id": "20261121-1815-bennett-backs-eisenkot-unity",
-   "time": "2026-11-21T18:15:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Naftali Bennett backs a unity government with Likud led by Gadi Eisenkot, says Netanyahu must not be the next prime minister and rules out joining his bloc 'under any circumstances'.",
-   "ar": "نفتالي بينيت يؤيّد حكومة وحدة مع الليكود برئاسة غادي آيزنكوت، ويقول إن نتنياهو يجب ألّا يكون رئيس الحكومة المقبل، مستبعداً الانضمام إلى كتلته «تحت أي ظرف».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/in-first-statement-since-netanyahu-meeting-bennett-backs-unity-government-under-eisenkot-rules-out-defection-under-any-circumstances"
    }
   }
  ]
