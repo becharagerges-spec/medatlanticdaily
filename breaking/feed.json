@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:09:04Z",
+ "updated": "2026-11-24T09:08:19Z",
  "items": [
   {
    "id": "20261124-0731-strikes-tulin-kfartebnit",
@@ -23,6 +23,18 @@
    "source": {
     "name": "Ukrinform",
     "url": "https://www.ukrinform.net/rubric-ato/4187924-air-defenses-neutralize-73-of-96-drones-russia-launched-against-ukraine-overnight.html"
+   }
+  },
+  {
+   "id": "20261124-0655-abbas-haredi-arab-government",
+   "time": "2026-11-24T06:55:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Ra'am chairman Mansour Abbas says Israel is heading toward a government built on haredi and Arab parties, telling Radio Al-Shams 'we are inching toward our goals', per Arutz Sheva.",
+   "ar": "رئيس القائمة العربية الموحدة منصور عباس يقول إن إسرائيل تتجه نحو حكومة قائمة على الأحزاب الحريدية والعربية، مؤكداً لإذاعة «الشمس»: «نقترب من أهدافنا»، بحسب «عروتس شيفع».",
+   "source": {
+    "name": "Arutz Sheva",
+    "url": "https://www.israelnationalnews.com/flashes/698381"
    }
   },
   {
@@ -1529,42 +1541,6 @@
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/90796"
-   }
-  },
-  {
-   "id": "20261121-0854-israeli-strikes-kfar-tebnit-nabatieh",
-   "time": "2026-11-21T08:54:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Two Israeli airstrikes hit Kfar Tebnit as drone strikes, shelling and a detonation target Nabatieh al-Fawqa, Shoukin, Zawtar and Mayfadoun in south Lebanon, per NNA and MTV; no casualties are reported.",
-   "ar": "غارتان إسرائيليتان تستهدفان كفرتبنيت، فيما تطال مسيّرات وقصف مدفعي وتفجير النبطية الفوقا وشوكين وزوطر وميفدون في جنوب لبنان، بحسب الوكالة الوطنية وMTV، من دون إصابات.",
-   "source": {
-    "name": "National News Agency via Anadolu",
-    "url": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-renewed-attacks-on-southern-lebanese-towns/4132847"
-   }
-  },
-  {
-   "id": "20261121-0830-iran-mp-14-tankers-blockade",
-   "time": "2026-11-21T08:30:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian MP Vahid Ahmadi says 14 tankers are being prepared to break the US naval blockade and threatens regional oil facilities if any is attacked, per Iran International.",
-   "ar": "النائب الإيراني وحيد أحمدي يقول إن 14 ناقلة تُجهَّز لكسر الحصار البحري الأميركي، ويهدّد منشآت النفط في المنطقة إذا تعرّضت أي منها لهجوم، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611214578"
-   }
-  },
-  {
-   "id": "20261121-0828-usda-fbi-hacked",
-   "time": "2026-11-21T08:28:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Hackers breached systems at the US Agriculture Department as well as the FBI, US media report, amid a wave of major technology disruptions across the country.",
-   "ar": "قراصنة اخترقوا أنظمة وزارة الزراعة الأميركية إضافة إلى مكتب التحقيقات الفدرالي، بحسب وسائل إعلام أميركية، وسط موجة من الأعطال التقنية الكبرى في البلاد.",
-   "source": {
-    "name": "AFP via France 24",
-    "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
    }
   }
  ]
