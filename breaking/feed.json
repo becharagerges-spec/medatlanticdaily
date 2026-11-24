@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T17:10:10Z",
+ "updated": "2026-11-24T18:08:11Z",
  "items": [
+  {
+   "id": "20261124-1631-nvidia-midday-slide",
+   "time": "2026-11-24T16:31:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Nvidia shares fall about 8.6% by midday in New York as the AI rally reverses, with the Nasdaq down 2.2% and the S&P 500 down 1%, per The Motley Fool.",
+   "ar": "أسهم «إنفيديا» تتراجع نحو 8.6% حتى منتصف التداول في نيويورك مع انعكاس موجة صعود الذكاء الاصطناعي، و«ناسداك» يهبط 2.2% و«إس أند بي 500» 1%، بحسب «ذا موتلي فول».",
+   "source": {
+    "name": "The Motley Fool",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+   }
+  },
   {
    "id": "20261124-1501-mbs-defend-strength-resolve",
    "time": "2026-11-24T15:01:00Z",
@@ -107,6 +119,18 @@
    "source": {
     "name": "AP via WRAL",
     "url": "https://www.wral.com/news/ap/abdd2-china-investigates-politburo-member-and-shanghai-party-chief-chen-jining/"
+   }
+  },
+  {
+   "id": "20261124-1202-aoun-talks-on-hold",
+   "time": "2026-11-24T12:02:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "President Aoun tells a French parliamentary delegation the tripartite negotiations are on hold due to Israel's elections, and says any UNIFIL replacement must operate under the UN flag and Resolution 1701, per Naharnet.",
+   "ar": "الرئيس عون يبلغ وفداً برلمانياً فرنسياً أن المفاوضات الثلاثية معلّقة بسبب الانتخابات الإسرائيلية، ويؤكد أن أي قوة بديلة لـ«اليونيفيل» يجب أن تعمل تحت علم الأمم المتحدة والقرار 1701، بحسب «نهارنت».",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/323967-aoun-says-tripartite-negotiations-currently-on-hold-due-to-israeli-elections"
    }
   },
   {
@@ -1542,30 +1566,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/in-first-statement-since-netanyahu-meeting-bennett-backs-unity-government-under-eisenkot-rules-out-defection-under-any-circumstances"
-   }
-  },
-  {
-   "id": "20261121-1750-eisenkot-marathon-talks-likud",
-   "time": "2026-11-21T17:50:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot instructs his negotiators to invite Likud to a marathon round of coalition talks starting Sunday in a bid to form a broad government, per Times of Israel.",
-   "ar": "آيزنكوت يوعز إلى مفاوضيه بدعوة الليكود إلى جولة مفاوضات ائتلافية ماراثونية تبدأ الأحد سعياً لتشكيل حكومة واسعة، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-invites-likud-to-marathon-coalition-talks-in-bid-to-form-broad-government/"
-   }
-  },
-  {
-   "id": "20261121-1718-aoun-iran-interference",
-   "time": "2026-11-21T17:18:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "In his Independence Day address, President Aoun tells Iran to stop interfering in Lebanon's decisions, declares 'the era of weapons outside the state is over' and demands full Israeli withdrawal.",
-   "ar": "في كلمته لمناسبة عيد الاستقلال، الرئيس عون يدعو إيران إلى الكفّ عن التدخل في قرارات لبنان، ويعلن أنّ «زمن السلاح خارج الدولة انتهى»، ويطالب بانسحاب إسرائيلي كامل.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace/"
    }
   }
  ]
