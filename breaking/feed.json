@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T04:08:27Z",
+ "updated": "2026-11-24T05:08:09Z",
  "items": [
+  {
+   "id": "20261124-0353-coalition-intercepts-houthi-drone-south",
+   "time": "2026-11-24T03:53:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted a Houthi drone launched toward southern Saudi Arabia early Tuesday, with no casualties or damage reported, spokesman Turki al-Maliki says.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض مسيّرة حوثية أُطلقت باتجاه جنوب المملكة فجر الثلاثاء، من دون تسجيل إصابات أو أضرار، بحسب المتحدث تركي المالكي.",
+   "source": {
+    "name": "Anadolu via A News",
+    "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia"
+   }
+  },
   {
    "id": "20261124-0149-lahj-strike-25-dead-missing",
    "time": "2026-11-24T01:49:00Z",
@@ -1518,18 +1530,6 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-915628"
-   }
-  },
-  {
-   "id": "20261121-0500-russia-275-ukrainian-drones",
-   "time": "2026-11-21T05:00:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Russia's Defence Ministry says its air defences destroyed 275 Ukrainian drones overnight over 11 Russian regions, Crimea and the Black Sea.",
-   "ar": "وزارة الدفاع الروسية تقول إن دفاعاتها الجوية دمّرت 275 مسيّرة أوكرانية خلال الليل فوق 11 منطقة روسية والقرم والبحر الأسود.",
-   "source": {
-    "name": "TASS",
-    "url": "https://tass.com/defense/2222839"
    }
   }
  ]
