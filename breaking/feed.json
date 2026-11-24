@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T09:08:19Z",
+ "updated": "2026-11-24T10:08:56Z",
  "items": [
+  {
+   "id": "20261124-0906-china-extends-minerals-pause",
+   "time": "2026-11-24T09:06:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's Commerce Ministry extends to 27 January 2027 its suspension of a ban on exports of gallium, germanium and antimony to the US, which was due to expire on 27 November.",
+   "ar": "وزارة التجارة الصينية تمدّد حتى 27 كانون الثاني 2027 تعليق حظر تصدير الغاليوم والجرمانيوم والأنتيمون إلى الولايات المتحدة، الذي كان سينتهي في 27 تشرين الثاني.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
+   }
+  },
   {
    "id": "20261124-0731-strikes-tulin-kfartebnit",
    "time": "2026-11-24T07:31:00Z",
@@ -137,11 +149,11 @@
    "time": "2026-11-24T00:20:00Z",
    "theater": "mideast",
    "status": "confirmed",
-   "en": "An Israeli airstrike near a police outpost in Khan Younis in southern Gaza kills at least 3 Palestinians and wounds 5, local health officials say; the Israeli army has not commented.",
-   "ar": "غارة إسرائيلية قرب موقع للشرطة في خان يونس جنوب غزة تقتل 3 فلسطينيين على الأقل وتصيب 5، بحسب مسؤولين صحيين محليين، فيما لم يعلّق الجيش الإسرائيلي.",
+   "en": "Israeli strikes in Gaza kill at least 6 Palestinians, medics say: 3, including 2 police officers, at a Khan Younis police post and 3 near the Netzarim corridor; Israel's army says it struck militants.",
+   "ar": "غارات إسرائيلية على غزة تقتل 6 فلسطينيين على الأقل بحسب مسعفين: 3 بينهم شرطيان في موقع للشرطة في خان يونس و3 قرب محور نتساريم، والجيش الإسرائيلي يقول إنه استهدف مسلحين.",
    "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/at-least-3-gazans-reported-killed-in-israeli-strike-on-khan-younis-police-outpost/"
+    "name": "Reuters via Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say"
    }
   },
   {
@@ -1505,42 +1517,6 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/emergencies/2222875"
-   }
-  },
-  {
-   "id": "20261121-0955-liberman-rejects-arab-backed",
-   "time": "2026-11-21T09:55:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yisrael Beytenu leader Avigdor Liberman rejects any coalition backed by Arab parties and says Netanyahu can only be replaced 'from the right', per The Jerusalem Post.",
-   "ar": "زعيم «يسرائيل بيتينو» أفيغدور ليبرمان يرفض أي ائتلاف مدعوم من الأحزاب العربية ويقول إن استبدال نتنياهو لا يكون إلا «من اليمين»، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/2026-11-21/live-updates-915622"
-   }
-  },
-  {
-   "id": "20261121-0946-bdl-imf-work-plan",
-   "time": "2026-11-21T09:46:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Central Bank Governor Karim Souaid and the IMF's Jihad Azour agree in Washington on a work plan to year-end on the draft deposit-recovery law before it goes to parliament.",
-   "ar": "حاكم مصرف لبنان كريم سعيد ومدير صندوق النقد الدولي للشرق الأوسط جهاد أزعور يتّفقان في واشنطن على خطة عمل حتى نهاية العام بشأن مشروع قانون استرداد الودائع قبل إحالته إلى مجلس النواب.",
-   "source": {
-    "name": "Annahar",
-    "url": "https://www.annahar.com/economy/368592/%D8%AE%D8%B7%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D8%AA%D9%89-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A8%D9%8A%D9%86-%D9%85%D8%B5%D8%B1%D9%81-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A"
-   }
-  },
-  {
-   "id": "20261121-0940-ust-luga-drones-leningrad",
-   "time": "2026-11-21T09:40:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Leningrad Governor Alexander Drozdenko says 61 Ukrainian drones were downed over the region overnight, as explosions are reported near the Baltic oil export port of Ust-Luga, per Kyiv Post.",
-   "ar": "حاكم مقاطعة لينينغراد ألكسندر دروزدينكو يقول إن 61 مسيّرة أوكرانية أُسقطت فوق المقاطعة ليلاً، فيما تُفاد تقارير عن انفجارات قرب مرفأ أوست-لوغا لتصدير النفط على بحر البلطيق، بحسب «كييف بوست».",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90796"
    }
   }
  ]
