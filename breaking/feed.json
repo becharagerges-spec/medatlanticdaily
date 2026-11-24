@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-24T20:08:26Z",
+ "updated": "2026-11-24T22:07:38Z",
  "items": [
+  {
+   "id": "20261124-2141-turkey-cougar-crash",
+   "time": "2026-11-24T21:41:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "A Turkish Air Force AS-532 Cougar helicopter crashes on a training flight near Eskisehir in western Turkey, killing all 5 crew members, Turkey's Defence Ministry says (AP).",
+   "ar": "تحطّم مروحية من طراز AS-532 كوغار تابعة لسلاح الجو التركي خلال رحلة تدريبية قرب إسكي شهير غربي تركيا، ما أدى إلى مقتل أفراد طاقمها الخمسة، بحسب وزارة الدفاع التركية (أسوشيتد برس).",
+   "source": {
+    "name": "AP",
+    "url": "https://mymotherlode.com/news/east-europe/11337465/turkish-military-helicopter-crashes-during-training-flight-killing-5-crew-members.html"
+   }
+  },
+  {
+   "id": "20261124-2101-wall-street-close-chips",
+   "time": "2026-11-24T21:01:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Wall Street closes mixed as chip stocks slide: the Nasdaq falls 1.45% and the S&P 500 0.48%, while the Dow gains 0.87%; Nvidia drops about 5.9% (Reuters).",
+   "ar": "وول ستريت تُغلق متباينة مع تراجع أسهم الرقائق: ناسداك يهبط 1.45% وستاندرد آند بورز 500 بنسبة 0.48%، فيما يرتفع داو جونز 0.87%، وسهم إنفيديا يتراجع نحو 5.9% (رويترز).",
+   "source": {
+    "name": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720"
+   }
+  },
+  {
+   "id": "20261124-2005-trump-iran-little-capacity",
+   "time": "2026-11-24T20:05:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump says at the White House turkey pardon that Iran has 'little capacity to fire missiles' and that no Iranian ship has got through the US naval blockade, per The Jerusalem Post.",
+   "ar": "ترامب يقول خلال مراسم العفو عن الديك الرومي في البيت الأبيض إن إيران لديها «قدرة ضئيلة على إطلاق الصواريخ» وإن أي سفينة إيرانية لم تعبر الحصار البحري الأميركي، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/american-politics/article-916016"
+   }
+  },
   {
    "id": "20261124-1944-cia-odni-cyber-breach",
    "time": "2026-11-24T19:44:00Z",
@@ -1602,30 +1638,6 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region/"
-   }
-  },
-  {
-   "id": "20261121-2123-araghchi-china-russia-doctrine",
-   "time": "2026-11-21T21:23:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says China and Russia oppose any change to Iran's nuclear doctrine, insisting the doctrine and Tehran's official positions remain unchanged.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن الصين وروسيا تعارضان أي تغيير في العقيدة النووية الإيرانية، مؤكداً أن العقيدة ومواقف طهران الرسمية لم تتغيّر.",
-   "source": {
-    "name": "AFP via Business Recorder",
-    "url": "https://www.brecorder.com/news/40450179/iran-says-china-russia-oppose-change-in-nuclear-doctrine"
-   }
-  },
-  {
-   "id": "20261121-2009-zelensky-crimean-bridge",
-   "time": "2026-11-21T20:09:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Zelensky tells the BBC in Kyiv that Ukraine's strikes on the Crimean Bridge are a 'fair response' to 109 Russian attacks on Ukrainian bridges, before meeting UK Defence Secretary Wes Streeting.",
-   "ar": "زيلينسكي يقول لـ«بي بي سي» في كييف إن الضربات الأوكرانية على جسر القرم «ردّ عادل» على 109 هجمات روسية على جسور أوكرانية، قبيل لقائه وزير الدفاع البريطاني ويس ستريتينغ.",
-   "source": {
-    "name": "BBC via The Nation",
-    "url": "https://www.nation.com.pk/22-Nov-2026/zelensky-says-crimean-bridge-strikes-fair-response-meets-uk-s-streeting"
    }
   }
  ]
