@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T22:08:49Z",
+ "updated": "2026-11-24T00:09:27Z",
  "items": [
+  {
+   "id": "20261123-2223-irgc-three-tankers-mines",
+   "time": "2026-11-23T22:23:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say three oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz while under US military escort; there is no US comment.",
+   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية في مضيق هرمز أثناء عبورها بمواكبة عسكرية أميركية، ولا تعليق أميركياً.",
+   "source": {
+    "name": "IRNA via The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
+   }
+  },
+  {
+   "id": "20261123-2210-vance-qatari-mediators",
+   "time": "2026-11-23T22:10:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Vice President JD Vance meets Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani on Doha's push to negotiate an end to the Iran war, per Times of Israel.",
+   "ar": "نائب الرئيس الأميركي جي دي فانس يلتقي رئيس الوزراء القطري محمد بن عبد الرحمن آل ثاني لبحث المسعى القطري للتفاوض على إنهاء الحرب مع إيران، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/vance-meets-with-qatari-mediators-over-a-week-after-trump-said-he-should-shift-focus-off-iran/"
+   }
+  },
   {
    "id": "20261123-2100-nvidia-closes-up-31pct",
    "time": "2026-11-23T21:00:00Z",
@@ -1518,30 +1542,6 @@
    "source": {
     "name": "Iran International",
     "url": "https://www.iranintl.com/en/liveblog/202611214578"
-   }
-  },
-  {
-   "id": "20261120-2253-riyadh-three-ballistic-missiles",
-   "time": "2026-11-20T22:53:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi civil defence warns Riyadh of an aerial threat as the Saudi-led coalition says it intercepted 3 Houthi ballistic missiles fired at the capital; witnesses hear 2 explosions.",
-   "ar": "الدفاع المدني السعودي يحذّر سكان الرياض من تهديد جوي، والتحالف بقيادة السعودية يعلن اعتراض 3 صواريخ باليستية أطلقها الحوثيون نحو العاصمة، وشهود يسمعون انفجارين.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
-   }
-  },
-  {
-   "id": "20261120-2220-araghchi-uranium-red-line",
-   "time": "2026-11-20T22:20:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says enriched uranium leaving Iran is a red line in talks with the US, but believes 'a fair solution' can be reached.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن خروج اليورانيوم المخصّب من إيران خطّ أحمر في المفاوضات مع الولايات المتحدة، لكنه يرى أن «حلاً عادلاً» ممكن.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-sets-red-line-on-enriched-uranium-while-claiming-fair-solution-can-be-reached-with-us/"
    }
   }
  ]
