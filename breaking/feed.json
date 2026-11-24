@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-24T19:08:35Z",
+ "updated": "2026-11-24T20:08:26Z",
  "items": [
+  {
+   "id": "20261124-1944-cia-odni-cyber-breach",
+   "time": "2026-11-24T19:44:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The CIA and the Office of the Director of National Intelligence suffered a cyber breach exposing some unclassified information, first reported by The New York Times; ODNI says classified systems were not disrupted.",
+   "ar": "وكالة الاستخبارات المركزية الأميركية ومكتب مدير الاستخبارات الوطنية تعرّضا لاختراق سيبراني كشف معلومات غير سرية، بحسب «نيويورك تايمز»؛ والمكتب يؤكد أن الأنظمة السرية لم تتعطّل.",
+   "source": {
+    "name": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports-ce7851dbdd8cfe23"
+   }
+  },
+  {
+   "id": "20261124-1933-rubio-faisal-houthis-hormuz",
+   "time": "2026-11-24T19:33:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Secretary of State Rubio, in a call with Saudi Foreign Minister Prince Faisal bin Farhan, condemns Houthi attacks on Saudi civilian and energy sites and stresses Hezbollah's disarmament under the Trilateral Framework.",
+   "ar": "وزير الخارجية الأميركي روبيو يدين، في اتصال مع وزير الخارجية السعودي الأمير فيصل بن فرحان، هجمات الحوثيين على منشآت مدنية وطاقوية سعودية، ويشدد على نزع سلاح حزب الله وفق الإطار الثلاثي.",
+   "source": {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14/"
+   }
+  },
+  {
+   "id": "20261124-1928-irgc-container-ship-mine",
+   "time": "2026-11-24T19:28:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say a container ship hit a mine near the Strait of Hormuz after taking an 'unauthorised' route and switching off its navigation systems, per IRNA.",
+   "ar": "الحرس الثوري الإيراني يقول إن سفينة حاويات اصطدمت بلغم قرب مضيق هرمز بعدما سلكت مساراً «غير مصرّح به» وأطفأت أنظمة الملاحة، بحسب وكالة «إرنا».",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iran-guards-say-container-ship-hits-mine-in-unauthorized-route-near-strait-of-hormuz-3013915"
+   }
+  },
+  {
+   "id": "20261124-1900-shin-bet-katz-detention",
+   "time": "2026-11-24T19:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "The Shin Bet criticises Defence Minister Israel Katz for refusing to authorise administrative detention against Jewish extremists amid settler violence, Channel 12 reports, per Times of Israel.",
+   "ar": "الشاباك ينتقد وزير الدفاع يسرائيل كاتس لرفضه إجازة الاعتقال الإداري بحق متطرفين يهود في ظل عنف المستوطنين، بحسب القناة 12 كما نقلت «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/shin-bet-said-to-slam-katz-over-refusal-to-use-administrative-detention-against-settler-extremists/"
+   }
+  },
+  {
+   "id": "20261124-1849-netanyahu-utj-rebuffed",
+   "time": "2026-11-24T18:49:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu fails to reach UTJ lawmakers Meir Porush and Eliakim Stark as the party weighs formal coalition talks with Eisenkot's bloc, Hebrew media report, per Times of Israel.",
+   "ar": "نتنياهو يفشل في التواصل مع نائبَي «يهدوت هتوراه» مئير بوروش وإلياكيم شتارك فيما يدرس الحزب مفاوضات ائتلافية رسمية مع كتلة آيزنكوت، بحسب الإعلام العبري.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-netanyahu-unsuccessful-in-attempts-to-hold-talks-with-utj-lawmakers/"
+   }
+  },
+  {
+   "id": "20261124-1838-likud-yashar-fourth-round",
+   "time": "2026-11-24T18:38:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Likud and Eisenkot's Yashar are set for a fourth round of unity-government talks on Wednesday, covering rotation, coalition partners and an October 7 inquiry, per Times of Israel.",
+   "ar": "الليكود وحزب «يشار» بقيادة آيزنكوت يعقدان الأربعاء جولة رابعة من محادثات حكومة الوحدة تتناول التناوب والشركاء في الائتلاف ولجنة تحقيق في 7 أكتوبر، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/likud-yashar-set-for-fourth-round-of-unity-talks-tomorrow/"
+   }
+  },
   {
    "id": "20261124-1813-putin-refinery-retaliation",
    "time": "2026-11-24T18:13:00Z",
@@ -1554,30 +1626,6 @@
    "source": {
     "name": "BBC via The Nation",
     "url": "https://www.nation.com.pk/22-Nov-2026/zelensky-says-crimean-bridge-strikes-fair-response-meets-uk-s-streeting"
-   }
-  },
-  {
-   "id": "20261121-1944-bahrain-industrial-fire",
-   "time": "2026-11-21T19:44:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "Bahrain's Interior Ministry says an Iranian attack set a civilian industrial plant in Sitra ablaze, injuring a Bahraini and a Pakistani resident, now in critical condition; the IRGC claims it hit two US Patriot radars.",
-   "ar": "وزارة الداخلية البحرينية تعلن أن هجوماً إيرانياً أشعل حريقاً في مصنع مدني في سترة وأصاب مواطناً بحرينياً ومقيماً باكستانياً حالته حرجة، فيما يزعم الحرس الثوري أنه أصاب رادارَي «باتريوت» أميركيين.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/"
-   }
-  },
-  {
-   "id": "20261121-1926-likud-unity-conditions",
-   "time": "2026-11-21T19:26:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Likud sets conditions for a unity coalition, demanding an end to boycotts of Netanyahu, no Palestinian state and security zones in Gaza, Lebanon and Syria, per Times of Israel.",
-   "ar": "الليكود يضع شروطاً لائتلاف وحدة، بينها إنهاء مقاطعة نتنياهو ورفض الدولة الفلسطينية والإبقاء على مناطق أمنية في غزة ولبنان وسوريا، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties/"
    }
   }
  ]
