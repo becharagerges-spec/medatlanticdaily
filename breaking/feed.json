@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T03:08:03Z",
+ "updated": "2026-11-24T04:08:27Z",
  "items": [
+  {
+   "id": "20261124-0149-lahj-strike-25-dead-missing",
+   "time": "2026-11-24T01:49:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi-run Saba says a Saudi strike on buses and trucks in Wadi Mabaq, Lahj province, left 25 people dead or missing and 6 wounded; Riyadh has not commented, per AFP.",
+   "ar": "وكالة سبأ التابعة للحوثيين تقول إن غارة سعودية على حافلات وشاحنات في وادي معبق بمحافظة لحج خلّفت 25 قتيلاً ومفقوداً و6 جرحى، والرياض لم تعلّق (فرانس برس).",
+   "source": {
+    "name": "AFP via theSun",
+    "url": "https://thesun.my/news/world-news/saudi-strike-on-yemen-buses-and-trucks-leaves-25-dead-or-missing-houthis-say/"
+   }
+  },
   {
    "id": "20261124-0143-iran-ship-cyberattacks",
    "time": "2026-11-24T01:43:00Z",
@@ -35,6 +47,18 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/at-least-3-gazans-reported-killed-in-israeli-strike-on-khan-younis-police-outpost/"
+   }
+  },
+  {
+   "id": "20261123-2252-skorea-ulleung-shelter-russian-jets",
+   "time": "2026-11-23T22:52:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "South Korea briefly orders Ulleung Island residents to take shelter and scrambles fighter jets after several Russian military aircraft enter its air defence identification zone, per AP.",
+   "ar": "كوريا الجنوبية تأمر سكان جزيرة أولونغ بالاحتماء لدقائق وترسل مقاتلات بعد دخول عدة طائرات عسكرية روسية منطقة تمييز الدفاع الجوي التابعة لها (أسوشيتد برس).",
+   "source": {
+    "name": "AP via CP24",
+    "url": "https://www.cp24.com/news/world/2026/11/24/south-korea-issues-evacuation-warning-on-island-after-russian-aircraft-enter-air-defence-zone/"
    }
   },
   {
@@ -1506,42 +1530,6 @@
    "source": {
     "name": "TASS",
     "url": "https://tass.com/defense/2222839"
-   }
-  },
-  {
-   "id": "20261121-0408-israeli-force-shebaa-valley",
-   "time": "2026-11-21T04:08:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "A mechanised Israeli force advances toward the valley of Shebaa in Hasbaya district along a newly built military road from the Sadana heights, per Al Jadeed.",
-   "ar": "قوة إسرائيلية مؤلّلة تتوغّل باتجاه وادي شبعا في قضاء حاصبيا عبر طريق عسكري مستحدث انطلاقاً من مرتفعات السدانة، بحسب «الجديد».",
-   "source": {
-    "name": "Al Jadeed",
-    "url": "https://www.aljadeed.tv/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86/596530/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D9%88%D8%BA%D9%84-%D9%82%D9%88%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B4%D8%A8%D8%B9%D8%A7/ar"
-   }
-  },
-  {
-   "id": "20261121-0347-kyiv-ballistic-strike-podil",
-   "time": "2026-11-21T03:47:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian ballistic missile attack on Kyiv sets two residential buildings ablaze in the Podil district, the Kyiv City Military Administration says, a day after a strike killed 7 people.",
-   "ar": "هجوم صاروخي باليستي روسي على كييف يشعل النار في مبنيين سكنيين في حي بوديل، بحسب الإدارة العسكرية لمدينة كييف، غداة ضربة أودت بحياة 7 أشخاص.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/90780"
-   }
-  },
-  {
-   "id": "20261121-0311-hormuz-transits-65pct-below",
-   "time": "2026-11-21T03:11:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "UKMTO data show 263 Strait of Hormuz transits in the week to 18 November, down from 308, about 65% below pre-war levels, with six tanker attacks reported, per Iran International.",
-   "ar": "بيانات UKMTO تُظهر 263 عبوراً لمضيق هرمز في الأسبوع المنتهي في 18 تشرين الثاني مقابل 308 قبله، أي أقل بنحو 65% من مستويات ما قبل الحرب، مع ست هجمات على ناقلات، بحسب «إيران إنترناشونال».",
-   "source": {
-    "name": "Iran International",
-    "url": "https://www.iranintl.com/en/liveblog/202611214578"
    }
   }
  ]
