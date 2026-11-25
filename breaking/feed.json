@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:07:42Z",
+ "updated": "2026-11-25T16:08:59Z",
  "items": [
   {
    "id": "20261125-1455-ep-socialists-liberals-halt-epp",
@@ -95,6 +95,18 @@
    "source": {
     "name": "Ukrainska Pravda",
     "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064590/"
+   }
+  },
+  {
+   "id": "20261125-1116-knesset-term-limits-vote",
+   "time": "2026-11-25T11:16:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "The Knesset passes, 65–48 in preliminary reading, a bill capping prime ministers at 8 years and barring indicted lawmakers from forming a government; an October 7 inquiry bill passes 65–50.",
+   "ar": "الكنيست يقرّ بالقراءة التمهيدية، 65 مقابل 48، مشروع قانون يحصر ولاية رئيس الحكومة بـ8 سنوات ويمنع النواب المتّهمين من تشكيل حكومة، ومشروع لجنة تحقيق في 7 تشرين الأول بـ65 مقابل 50.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/ry11wxreyme"
    }
   },
   {
@@ -1778,18 +1790,6 @@
    "source": {
     "name": "Reuters via The Jerusalem Post",
     "url": "https://www.jpost.com/middle-east/article-915746"
-   }
-  },
-  {
-   "id": "20261122-1713-ukmto-gulf-oman-tanker-mines",
-   "time": "2026-11-22T17:13:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "UKMTO reports an incident involving a tanker and military forces in the Gulf of Oman, after Iran's navy said two supertankers hit mines north of Ghanam Island; any link is unclear.",
-   "ar": "هيئة عمليات التجارة البحرية البريطانية تبلّغ عن حادث بين ناقلة وقوات عسكرية في خليج عُمان، بعدما قالت البحرية الإيرانية إن ناقلتين عملاقتين اصطدمتا بألغام شمال جزيرة غنم؛ والصلة بينهما غير واضحة.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
    }
   }
  ]
