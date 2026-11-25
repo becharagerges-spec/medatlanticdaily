@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T22:07:38Z",
+ "updated": "2026-11-25T00:09:20Z",
  "items": [
+  {
+   "id": "20261124-2158-etihad-tel-aviv-turned-back",
+   "time": "2026-11-24T21:58:00Z",
+   "theater": "gulf",
+   "status": "reported",
+   "en": "Etihad flight EY599 from Abu Dhabi to Tel Aviv turns back after two failed attempts; Etihad says it had to change its flight path over Saudi Arabia.",
+   "ar": "رحلة «الاتحاد» EY599 من أبوظبي إلى تل أبيب تعود أدراجها بعد محاولتين فاشلتين، و«الاتحاد» تقول إنها اضطرت إلى تغيير مسارها فوق السعودية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/etihad-flight-from-abu-dhabi-to-tel-aviv-forced-to-turn-back-after-two-attempts"
+   }
+  },
   {
    "id": "20261124-2141-turkey-cougar-crash",
    "time": "2026-11-24T21:41:00Z",
@@ -14,6 +26,18 @@
    }
   },
   {
+   "id": "20261124-2103-huawei-convicted-iran-sanctions",
+   "time": "2026-11-24T21:03:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "A federal jury in Brooklyn convicts Huawei on 10 of 12 counts, including evading Iran sanctions, bank fraud and stealing trade secrets; Huawei says it will fight the verdict.",
+   "ar": "هيئة محلّفين فدرالية في بروكلين تدين «هواوي» بـ10 من أصل 12 تهمة، بينها التهرّب من العقوبات على إيران والاحتيال المصرفي وسرقة أسرار تجارية، و«هواوي» تتعهّد بالطعن.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/chinese-tech-giant-huawei-convicted-in-us-for-evading-iran-sanctions-stealing-trade-secrets/"
+   }
+  },
+  {
    "id": "20261124-2101-wall-street-close-chips",
    "time": "2026-11-24T21:01:00Z",
    "theater": "markets",
@@ -23,6 +47,30 @@
    "source": {
     "name": "Reuters via MarketScreener",
     "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720"
+   }
+  },
+  {
+   "id": "20261124-2040-yashar-yisrael-beytenu-deal",
+   "time": "2026-11-24T20:40:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's Yashar says it signed a coalition deal with Avigdor Liberman's Yisrael Beytenu, the first coalition agreement signed since Israel's election.",
+   "ar": "حزب «ياشار» بقيادة آيزنكوت يعلن توقيع اتفاق ائتلافي مع حزب «إسرائيل بيتنا» بزعامة أفيغدور ليبرمان، وهو أول اتفاق ائتلافي يُوقَّع منذ الانتخابات الإسرائيلية.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-says-it-signed-a-coalition-deal-with-yisrael-beytenu/"
+   }
+  },
+  {
+   "id": "20261124-2026-democrats-halt-yashar-talks",
+   "time": "2026-11-24T20:26:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Yair Golan's Democrats halt coalition talks with Eisenkot's Yashar, citing Yashar's progress toward a unity government with Netanyahu's Likud, per The Times of Israel.",
+   "ar": "حزب «الديمقراطيون» بقيادة يائير غولان يوقف مفاوضات الائتلاف مع حزب «ياشار» بقيادة آيزنكوت، متذرّعاً بتقدّم «ياشار» نحو حكومة وحدة مع «الليكود» بزعامة نتنياهو، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/the-democrats-party-announces-it-is-halting-coalition-talks-with-yashar/"
    }
   },
   {
@@ -1602,42 +1650,6 @@
    "source": {
     "name": "Lebanon24",
     "url": "https://www.lebanon24.com/news/lebanon/1598132/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%B4%D9%87%D8%AF-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%D8%9F"
-   }
-  },
-  {
-   "id": "20261121-2302-ig-metall-23000-strike",
-   "time": "2026-11-21T23:02:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Germany's IG Metall union calls about 23,000 workers at 19 northern German companies, including Mercedes-Benz, Meyer Werft and Siemens Gamesa, to a 24-hour strike on Monday over pay.",
-   "ar": "نقابة «إي جي ميتال» الألمانية تدعو نحو 23 ألف عامل في 19 شركة بشمال ألمانيا، بينها مرسيدس-بنز وماير فيرفت وسيمنز غاميسا، إلى إضراب لمدة 24 ساعة يوم الاثنين للمطالبة بزيادة الأجور.",
-   "source": {
-    "name": "Reuters via Euronext",
-    "url": "https://live.euronext.com/en/financial-news/german-car-and-shipyard-workers-set-strike-ig-metall-union-extends-walkout"
-   }
-  },
-  {
-   "id": "20261121-2300-iran-power-rationing",
-   "time": "2026-11-21T23:00:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's national electricity company chief Mohammad Allahdad says power distribution restrictions start Sunday, with outages of up to two hours a day, citing fuel supply conditions.",
-   "ar": "رئيس شركة الكهرباء الوطنية الإيرانية محمد اللهداد يعلن بدء تقنين توزيع الكهرباء الأحد، مع انقطاعات تصل إلى ساعتين يومياً، بسبب أوضاع إمدادات الوقود.",
-   "source": {
-    "name": "Iranian state TV via RFE/RL",
-    "url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html"
-   }
-  },
-  {
-   "id": "20261121-2219-houthi-missile-western-saudi",
-   "time": "2026-11-21T22:19:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a Houthi ballistic missile fired toward western Saudi Arabia, a day after three missiles targeted Riyadh.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الغربية في السعودية، بعد يوم على استهداف الرياض بثلاثة صواريخ.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region/"
    }
   }
  ]
