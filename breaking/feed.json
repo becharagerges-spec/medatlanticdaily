@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-25T07:08:07Z",
+ "updated": "2026-11-25T08:09:36Z",
  "items": [
+  {
+   "id": "20261125-0732-jordan-death-sentence-salaitah",
+   "time": "2026-11-25T07:32:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Jordan's State Security Court sentences to death the man who killed security officer Jawad al-Salaitah in a knife attack in Amman earlier this month, per CNN Arabic.",
+   "ar": "محكمة أمن الدولة في الأردن تصدر حكماً بإعدام قاتل رجل الأمن جواد السلايطة الذي قُتل بهجوم بآلة حادة في عمّان مطلع الشهر الجاري، بحسب «سي إن إن» العربية.",
+   "source": {
+    "name": "CNN Arabic"
+   }
+  },
+  {
+   "id": "20261125-0724-ofgem-cap-rise-26pct",
+   "time": "2026-11-25T07:24:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Britain's energy regulator Ofgem raises the household price cap 26% to £2,166 a year from 1 January 2027, blaming the Middle East conflict for higher gas prices.",
+   "ar": "هيئة تنظيم الطاقة البريطانية «أوفجيم» ترفع سقف أسعار الطاقة المنزلية 26% إلى 2,166 جنيهاً سنوياً اعتباراً من 1 كانون الثاني 2027، وتعزو ذلك إلى ارتفاع أسعار الغاز بفعل النزاع في الشرق الأوسط.",
+   "source": {
+    "name": "Ofgem",
+    "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-rise-26-january-2027"
+   }
+  },
+  {
+   "id": "20261125-0721-aref-blockade-not-worried",
+   "time": "2026-11-25T07:21:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's First Vice President Mohammad Reza Aref says Tehran is not worried about the US naval blockade, citing rising cargo clearance through non-southern borders, per Tasnim.",
+   "ar": "النائب الأول للرئيس الإيراني محمد رضا عارف يقول إن طهران غير قلقة من الحصار البحري الأميركي، مشيراً إلى ارتفاع تخليص البضائع عبر الحدود غير الجنوبية، بحسب «تسنيم».",
+   "source": {
+    "name": "Tasnim via Dawn",
+    "url": "https://www.dawn.com/live/iran-israel-war"
+   }
+  },
   {
    "id": "20261125-0529-irgc-two-tankers-mines",
    "time": "2026-11-25T05:29:00Z",
@@ -1685,30 +1720,6 @@
    "source": {
     "name": "Tasnim via Middle East Monitor",
     "url": "https://www.middleeastmonitor.com/20261122-iran-says-reopening-hormuz-not-difficult-if-us-accepts-tehrans-conditions"
-   }
-  },
-  {
-   "id": "20261122-0715-benghazi-russian-ship-blast",
-   "time": "2026-11-22T07:15:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Zelensky confirms Ukraine sank the Russian corvette Merkury off Benghazi with seven naval drones and says the cargo ship Angara and a Ka-27 helicopter were also hit.",
-   "ar": "زيلينسكي يؤكد أن أوكرانيا أغرقت الكورفيت الروسية «ميركوري» قبالة بنغازي بسبع مسيّرات بحرية، ويقول إن سفينة الشحن «أنغارا» ومروحية «كا-27» أُصيبتا أيضاً.",
-   "source": {
-    "name": "AP via The Washington Post",
-    "url": "https://www.washingtonpost.com/world/2026/11/23/ukraine-russia-zelenskyy-warship-attack-libya/b8af7c64-e713-11f1-8db0-6f1e3c389e7c_story.html"
-   }
-  },
-  {
-   "id": "20261122-0712-ukraine-186-drones",
-   "time": "2026-11-22T07:12:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's military says Russia launched 186 attack drones overnight, 72 of them jet-powered; air defences downed 161, with hits recorded at 18 sites.",
-   "ar": "الجيش الأوكراني يقول إن روسيا أطلقت 186 مسيّرة هجومية خلال الليل، بينها 72 نفاثة؛ الدفاعات الجوية أسقطت 161، وسُجّلت إصابات في 18 موقعاً.",
-   "source": {
-    "name": "112 Ukraine",
-    "url": "https://112.ua/en/rosia-atakuvala-ukrainu-186-udarnimi-dronami-ppo-znisila-161-bezpilotnik-vklucno-z-56-reaktivnimi-199791"
    }
   }
  ]
