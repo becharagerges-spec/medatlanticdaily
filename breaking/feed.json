@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T08:09:36Z",
+ "updated": "2026-11-25T09:09:02Z",
  "items": [
+  {
+   "id": "20261125-0825-qabrikha-drone-car",
+   "time": "2026-11-25T08:25:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli drone strikes a parked car on the outskirts of Qabrikha in south Lebanon as Israeli artillery shells Beit al-Sayyad, al-Dabsha and Bani Hayyan on Wednesday morning, per Elsiyasa.",
+   "ar": "مسيّرة إسرائيلية تستهدف سيارة مركونة في أطراف قبريخا جنوب لبنان، فيما تقصف المدفعية الإسرائيلية بيوت السياد والدبشة وبني حيان صباح الأربعاء، بحسب «السياسة».",
+   "source": {
+    "name": "Elsiyasa",
+    "url": "https://elsiyasa.com/article/437720"
+   }
+  },
+  {
+   "id": "20261125-0745-brent-below-90",
+   "time": "2026-11-25T07:45:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude falls 1.73% to $89.82 a barrel and WTI 1.77% to $80.60 as Gulf exports recover, while Europe's TTF gas benchmark drops 3.9% to €88.10/MWh, per Anadolu.",
+   "ar": "خام برنت يتراجع 1.73% إلى 89.82 دولاراً للبرميل وغرب تكساس 1.77% إلى 80.60 دولاراً مع تعافي صادرات الخليج، فيما ينخفض مؤشر الغاز الأوروبي TTF بنسبة 3.9% إلى 88.10 يورو للميغاواط ساعة، بحسب «الأناضول».",
+   "source": {
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916"
+   }
+  },
   {
    "id": "20261125-0732-jordan-death-sentence-salaitah",
    "time": "2026-11-25T07:32:00Z",
@@ -34,6 +58,30 @@
    "source": {
     "name": "Tasnim via Dawn",
     "url": "https://www.dawn.com/live/iran-israel-war"
+   }
+  },
+  {
+   "id": "20261125-0700-eisenkot-swear-in-next-week",
+   "time": "2026-11-25T07:00:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot's bloc hopes to swear in a government as soon as next Wednesday, with Yisrael Beytenu expected to get the defence and absorption ministries, Channel 12 reports.",
+   "ar": "كتلة آيزنكوت تأمل في أداء حكومتها اليمين الأربعاء المقبل، على أن ينال «إسرائيل بيتنا» حقيبتَي الدفاع والاستيعاب، بحسب القناة 12 الإسرائيلية.",
+   "source": {
+    "name": "Channel 12 via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-eisenkot-led-bloc-hopes-to-swear-in-government-as-soon-as-next-wednesday-yisrael-beytenu-expected-to-get-defense-absorption-ministries/"
+   }
+  },
+  {
+   "id": "20261125-0539-liberman-jewish-majority",
+   "time": "2026-11-25T05:39:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Avigdor Liberman says for the first time he would accept a government backed by United Torah Judaism and possibly Ra'am, and expects Eisenkot to present a 'Jewish majority' coalition by next week.",
+   "ar": "أفيغدور ليبرمان يعلن للمرة الأولى قبوله بحكومة مدعومة من «يهدوت هتوراه» وربما «القائمة الموحّدة»، ويتوقع أن يقدّم آيزنكوت ائتلافاً «بأغلبية يهودية» بحلول الأسبوع المقبل.",
+   "source": {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/sydmex4kqe"
    }
   },
   {
@@ -1696,30 +1744,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/trials-in-iraq-under-way-for-thousands-of-isis-suspects-transferred-from-syria/"
-   }
-  },
-  {
-   "id": "20261122-0844-dymer-drone-14-missing",
-   "time": "2026-11-22T08:44:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Kyiv regional head Tymur Tkachenko says the toll from the Russian strike that partly collapsed an apartment building in Dymer has risen to 11 killed, with 7 injured and 2 missing.",
-   "ar": "رئيس الإدارة العسكرية لمنطقة كييف تيمور تكاتشينكو يقول إن حصيلة الضربة الروسية التي أدّت إلى انهيار جزئي لمبنى سكني في ديمير ارتفعت إلى 11 قتيلاً و7 جرحى، فيما لا يزال شخصان مفقودين.",
-   "source": {
-    "name": "UNN",
-    "url": "https://unn.ua/en/news/in-dymer-the-death-toll-from-russias-strike-has-risen-to-11-two-people-are-missing"
-   }
-  },
-  {
-   "id": "20261122-0836-araghchi-hormuz-conditions",
-   "time": "2026-11-22T08:36:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi says reopening the Strait of Hormuz 'is not difficult' if Washington accepts Iran's conditions, but is not on the agenda until they are met, per Tasnim.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن إعادة فتح مضيق هرمز «ليست صعبة» إذا قبلت واشنطن شروط إيران، لكنها ليست مطروحة قبل تلبيتها، بحسب «تسنيم».",
-   "source": {
-    "name": "Tasnim via Middle East Monitor",
-    "url": "https://www.middleeastmonitor.com/20261122-iran-says-reopening-hormuz-not-difficult-if-us-accepts-tehrans-conditions"
    }
   }
  ]
