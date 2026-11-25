@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T16:08:59Z",
+ "updated": "2026-11-25T17:09:04Z",
  "items": [
+  {
+   "id": "20261125-1659-netanyahu-trial-fell-apart",
+   "time": "2026-11-25T16:59:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu says in televised Knesset remarks that 'today the trial fell apart' and calls for his corruption case to be dismissed after judges questioned the gravest charges.",
+   "ar": "نتنياهو يقول في كلمة متلفزة من الكنيست إن «المحاكمة انهارت اليوم» ويطالب بإسقاط قضية الفساد بحقه بعدما شكّك القضاة في أخطر التهم.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-demands-end-of-graft-trial-lashes-out-at-rivals-after-court-questions-gravest-charges-against-him/"
+   }
+  },
+  {
+   "id": "20261125-1636-araghchi-chemical-claim",
+   "time": "2026-11-25T16:36:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi says Israel's claim that Iran hides chemical weapons in pharmaceutical plants aims 'to deceive the US into fighting yet another war on its behalf'.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن الادعاء الإسرائيلي بأن إيران تخفي أسلحة كيميائية في مصانع أدوية يهدف إلى «خداع الولايات المتحدة لتخوض حرباً أخرى نيابةً عنها».",
+   "source": {
+    "name": "AFP via RTÉ",
+    "url": "https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/"
+   }
+  },
+  {
+   "id": "20261125-1520-bsharri-cell-warrants",
+   "time": "2026-11-25T15:20:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's military investigating judge Ghada Abu Alwan issues arrest warrants for five members of the Hezbollah cell held in Bsharri, as three Hezbollah officials who skipped questioning face search warrants.",
+   "ar": "قاضية التحقيق العسكري غادة أبو علوان تصدر مذكرات توقيف وجاهية بحق خمسة من أعضاء خلية «حزب الله» الموقوفة في بشرّي، وصدور بلاغات بحث وتحرٍّ بحق ثلاثة قياديين في الحزب تخلّفوا عن التحقيق.",
+   "source": {
+    "name": "Al-Modon",
+    "url": "https://www.almodon.com/politics/2026/11/25/%D8%A3%D8%A8%D9%88-%D8%B9%D9%84%D9%88%D8%A7%D9%86-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%88%D8%AC%D8%A7%D9%87%D9%8A%D8%A9-%D8%A8%D8%AD%D9%82-%D8%AE%D9%84%D9%8A%D8%A9-%D8%A8%D8%B4%D8%B1%D9%8A"
+   }
+  },
   {
    "id": "20261125-1455-ep-socialists-liberals-halt-epp",
    "time": "2026-11-25T14:55:00Z",
@@ -153,6 +189,18 @@
    "ar": "الذهب في المعاملات الفورية يتراجع نحو 2% إلى قرابة 3,560 دولاراً للأونصة مع رهانات على تشدد الاحتياطي الفدرالي الأميركي قبيل صدور بيانات التضخم، بحسب «رويترز».",
    "source": {
     "name": "Reuters via LBCI"
+   }
+  },
+  {
+   "id": "20261125-0933-ramaphosa-phala-phala-ruling",
+   "time": "2026-11-25T09:33:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "South Africa's Western Cape High Court sets aside the Phala Phala panel report, halting the parliamentary impeachment process against President Cyril Ramaphosa.",
+   "ar": "المحكمة العليا في الكاب الغربي بجنوب أفريقيا تُبطل تقرير لجنة «فالا فالا»، ما يوقف مسار العزل البرلماني بحق الرئيس سيريل رامافوزا.",
+   "source": {
+    "name": "Mail & Guardian",
+    "url": "https://mg.co.za/news/south-africa/2026-11-25-phala-phala-report-set-aside-and-impeachment-process-halted/"
    }
   },
   {
@@ -1743,53 +1791,6 @@
    "source": {
     "name": "National News Agency via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-condemns-idf-spokeswomans-visit-to-southern-lebanon-school"
-   }
-  },
-  {
-   "id": "20261122-1823-democrats-house-258",
-   "time": "2026-11-22T18:23:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Democrats clinch a House majority of at least 258 seats, the largest since 1992, after Chuck Hubbard defeats Republican Rep. Virginia Foxx in North Carolina; four races remain undecided.",
-   "ar": "الديمقراطيون يحسمون أغلبية في مجلس النواب الأميركي لا تقل عن 258 مقعداً، هي الأكبر منذ 1992، بعد فوز تشاك هابارد على النائبة الجمهورية فيرجينيا فوكس في كارولاينا الشمالية، فيما لم تُحسم أربعة سباقات بعد.",
-   "source": {
-    "name": "AP"
-   }
-  },
-  {
-   "id": "20261122-1821-idf-intel-warns-multifront",
-   "time": "2026-11-22T18:21:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Israeli military intelligence warned Netanyahu that a unilateral Israeli strike on Iran could ignite a war on multiple fronts rather than a 3-to-5-day operation, per Channel 12.",
-   "ar": "الاستخبارات العسكرية الإسرائيلية حذّرت نتنياهو من أن ضربة إسرائيلية منفردة على إيران قد تشعل حرباً على جبهات متعددة لا عملية من 3 إلى 5 أيام، بحسب القناة 12.",
-   "source": {
-    "name": "Channel 12 via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
-   }
-  },
-  {
-   "id": "20261122-1811-trump-renew-iran-offensive",
-   "time": "2026-11-22T18:11:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump tells Fox News he is inclined to resume military action against Iran if no deal is reached by the end of the year, and warns ships testing the US blockade will be sunk.",
-   "ar": "ترامب يقول لـ«فوكس نيوز» إنه يميل إلى استئناف العمل العسكري ضد إيران إذا لم يُبرم اتفاق بحلول نهاية العام، ويحذّر من إغراق السفن التي تختبر الحصار الأميركي.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-hes-inclined-to-renew-iran-offensive-if-no-deal-reached-by-end-of-year/"
-   }
-  },
-  {
-   "id": "20261122-1808-houthis-rabigh-refinery",
-   "time": "2026-11-22T18:08:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's Houthis say they struck Saudi Arabia's Rabigh oil refinery on the Red Sea coast and claim a direct hit; Saudi authorities have not confirmed any attack.",
-   "ar": "الحوثيون في اليمن يعلنون استهداف مصفاة رابغ النفطية السعودية على ساحل البحر الأحمر ويزعمون إصابتها مباشرة، فيما لم تؤكد السلطات السعودية أي هجوم.",
-   "source": {
-    "name": "Reuters via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/article-915746"
    }
   }
  ]
