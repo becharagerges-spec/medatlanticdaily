@@ -1,16 +1,28 @@
 {
- "updated": "2026-11-25T19:09:11Z",
+ "updated": "2026-11-25T20:09:52Z",
  "items": [
   {
    "id": "20261125-1821-giza-tanker-fire-21-killed",
    "time": "2026-11-25T18:21:00Z",
    "theater": "africa",
    "status": "confirmed",
-   "en": "A fire after a vehicle carrying petroleum products overturned on Cairo's Ring Road in Giza kills at least 21 people and injures 15, Egypt's Health Ministry says.",
-   "ar": "حريق إثر انقلاب سيارة محمّلة بمواد بترولية على الطريق الدائري في الجيزة يودي بحياة 21 شخصاً على الأقل ويصيب 15 آخرين، بحسب وزارة الصحة المصرية.",
+   "en": "A fire after a vehicle carrying petroleum products overturned on Cairo's Ring Road in Giza kills at least 30 people and injures 15, Egypt's Health Ministry says.",
+   "ar": "حريق إثر انقلاب سيارة محمّلة بمواد بترولية على الطريق الدائري في الجيزة يودي بحياة 30 شخصاً على الأقل ويصيب 15 آخرين، بحسب وزارة الصحة المصرية.",
    "source": {
-    "name": "Reuters via US News",
-    "url": "https://www.usnews.com/news/world/articles/2026-11-25/at-least-21-killed-in-blaze-after-vehicle-overturns-in-egypt-health-ministry-says"
+    "name": "AP via KSAT",
+    "url": "https://www.ksat.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
+   }
+  },
+  {
+   "id": "20261125-1700-houthi-projectile-jazan-port",
+   "time": "2026-11-25T17:00:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "A Houthi-fired projectile lands at Saudi Arabia's Jazan Port on the Red Sea, causing minor damage and no civilian injuries, the Saudi-led coalition says.",
+   "ar": "مقذوف أطلقه الحوثيون يسقط في ميناء جازان السعودي على البحر الأحمر ويُحدث أضراراً طفيفة من دون إصابات بين المدنيين، بحسب التحالف بقيادة السعودية.",
+   "source": {
+    "name": "Anadolu Agency",
+    "url": "https://www.aa.com.tr/en/middle-east/houthi-projectile-hits-saudi-arabias-jazan-port-causes-minor-damage-coalition/4137807"
    }
   },
   {
@@ -35,6 +47,18 @@
    "source": {
     "name": "AFP via RTÉ",
     "url": "https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/"
+   }
+  },
+  {
+   "id": "20261125-1544-irgc-lng-carrier-mine",
+   "time": "2026-11-25T15:44:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says an LNG carrier exploded and caught fire after hitting a naval mine in the Strait of Hormuz with its positioning systems off; there is no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة غاز طبيعي مسال انفجرت واشتعلت فيها النيران بعد اصطدامها بلغم بحري في مضيق هرمز وأنظمة تحديد موقعها مطفأة، من دون تأكيد مستقل.",
+   "source": {
+    "name": "Mehr via APA",
+    "url": "https://en.apa.az/asia/explosion-occurs-on-lng-carrier-in-strait-of-hormuz-538570"
    }
   },
   {
@@ -83,6 +107,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   }
+  },
+  {
+   "id": "20261125-1435-iran-army-tanker-mine-restricted-zone",
+   "time": "2026-11-25T14:35:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army says an oil tanker hit a naval mine and caught fire in a 'restricted zone' east of the Strait of Hormuz, per Fars; Reuters could not verify it.",
+   "ar": "الجيش الإيراني يقول إن ناقلة نفط اصطدمت بلغم بحري واشتعلت فيها النيران في «منطقة محظورة» شرق مضيق هرمز، بحسب «فارس»؛ ولم تتمكّن رويترز من التحقق.",
+   "source": {
+    "name": "Reuters via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-says-oil-tanker-hit-naval-mine-and-caught-fire-strait-hormuz"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "ar": "«نيويورك تايمز» تفيد بأن الاستخبارات الأميركية رصدت اتصالات بين أليس هوانغ، المرأة التي تتوسّط قضية رقائق «إنفيديا»، وضابط في وزارة أمن الدولة الصينية.",
    "source": {
     "name": "The New York Times"
-   }
-  },
-  {
-   "id": "20261123-0018-kospi-slides-ai-fears",
-   "time": "2026-11-23T00:18:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "South Korea's Kospi falls as much as 5.8% on AI-bubble fears before paring losses to 3.2% by 04:30 GMT, while Taiwan's Taiex rebounds 2.5%, per Al Jazeera.",
-   "ar": "مؤشر «كوسبي» الكوري الجنوبي يهبط حتى 5.8% بفعل مخاوف فقاعة الذكاء الاصطناعي ثم يقلّص خسائره إلى 3.2% عند 04:30 بتوقيت غرينتش، فيما يرتد مؤشر «تايكس» التايواني 2.5%، بحسب «الجزيرة».",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
-   }
-  },
-  {
-   "id": "20261122-2250-trump-iran-attacks-midterms",
-   "time": "2026-11-22T22:50:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Trump says on Truth Social that Iran has launched more drones and missiles in the past week than at any time in over a year, and blames the Democrats' midterm win.",
-   "ar": "ترامب يقول على «تروث سوشال» إن إيران أطلقت خلال الأسبوع الماضي مسيّرات وصواريخ أكثر من أي وقت منذ أكثر من عام، ويحمّل فوز الديمقراطيين في الانتخابات النصفية المسؤولية.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-claims-iran-has-stepped-up-attacks-as-a-result-of-democrats-midterm-victory/"
-   }
-  },
-  {
-   "id": "20261122-2138-asia-rout-measures",
-   "time": "2026-11-22T21:38:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "China eases margin requirements, Taiwan widens short-selling curbs and South Korea prepares its stock stabilisation fund, unused since 2008, to stem the AI-led market rout.",
-   "ar": "الصين تخفّف متطلبات الهامش، وتايوان توسّع القيود على البيع على المكشوف، وكوريا الجنوبية تحضّر صندوق استقرار الأسهم غير المستخدم منذ 2008، لوقف موجة بيع تقودها أسهم الذكاء الاصطناعي.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://swissinfo.ch/eng/us-stock-futures-open-higher-after-tech-selloff:-markets-wrap/92421262"
    }
   }
  ]
