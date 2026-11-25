@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:09:52Z",
+ "updated": "2026-11-25T22:08:38Z",
  "items": [
   {
    "id": "20261125-1821-giza-tanker-fire-21-killed",
@@ -18,11 +18,11 @@
    "time": "2026-11-25T17:00:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "A Houthi-fired projectile lands at Saudi Arabia's Jazan Port on the Red Sea, causing minor damage and no civilian injuries, the Saudi-led coalition says.",
-   "ar": "مقذوف أطلقه الحوثيون يسقط في ميناء جازان السعودي على البحر الأحمر ويُحدث أضراراً طفيفة من دون إصابات بين المدنيين، بحسب التحالف بقيادة السعودية.",
+   "en": "The Houthis say they struck Saudi Arabia's Jeddah and Jazan ports in response to coalition strikes on Hodeidah; the Saudi-led coalition confirms only a projectile hit at Jazan Port, causing minor damage.",
+   "ar": "الحوثيون يقولون إنهم استهدفوا ميناءَي جدة وجازان السعوديين ردّاً على غارات التحالف على الحديدة، والتحالف بقيادة السعودية يؤكد فقط سقوط مقذوف في ميناء جازان مُحدثاً أضراراً طفيفة.",
    "source": {
-    "name": "Anadolu Agency",
-    "url": "https://www.aa.com.tr/en/middle-east/houthi-projectile-hits-saudi-arabias-jazan-port-causes-minor-damage-coalition/4137807"
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com/world-news/houthis-say-hit-two-saudi-ports-in-response-to-coalition-strikes-101795635242211.html"
    }
   },
   {
@@ -162,8 +162,8 @@
    "time": "2026-11-25T13:22:00Z",
    "theater": "usa",
    "status": "confirmed",
-   "en": "The US Trade Representative proposes new excess-capacity tariffs on 14 economies, including the EU, Japan and India, with an extra 20% on China; they would take effect January 2027 at the earliest.",
-   "ar": "الممثل التجاري الأميركي يقترح رسوماً جمركية جديدة على 14 اقتصاداً بذريعة فائض الطاقة الإنتاجية، بينها الاتحاد الأوروبي واليابان والهند، مع 20% إضافية على الصين، على ألا تسري قبل كانون الثاني 2027.",
+   "en": "The US proposes excess-capacity tariffs on 14 economies, with 20% more on China that could double to 40% if talks fail, a US official says; Beijing calls it 'political maneuvering'.",
+   "ar": "الولايات المتحدة تقترح رسوماً على 14 اقتصاداً بذريعة فائض الإنتاج، مع 20% إضافية على الصين قد تتضاعف إلى 40% إن فشلت المحادثات بحسب مسؤول أميركي، وبكين تصفها بـ«مناورة سياسية».",
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe"
