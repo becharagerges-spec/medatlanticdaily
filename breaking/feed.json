@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T14:09:59Z",
+ "updated": "2026-11-25T15:07:42Z",
  "items": [
+  {
+   "id": "20261125-1455-ep-socialists-liberals-halt-epp",
+   "time": "2026-11-25T14:55:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "The European Parliament's socialists and liberals halt talks with the centre-right EPP on a deal that could have given Roberta Metsola a third term as president, per Politico Europe.",
+   "ar": "الاشتراكيون والليبراليون في البرلمان الأوروبي يعلّقون المفاوضات مع حزب الشعب الأوروبي (يمين الوسط) حول اتفاق كان قد يمنح روبرتا ميتسولا ولاية ثالثة في رئاسة البرلمان، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/eu-parliaments-socialists-and-liberals-halt-talks-with-epp/"
+   }
+  },
+  {
+   "id": "20261125-1440-nasdaq-drops-4",
+   "time": "2026-11-25T14:40:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The Nasdaq 100 drops 4% and the S&P 500 falls 2.5% as the tech rout deepens and investors rush into US Treasuries, Bloomberg reports.",
+   "ar": "مؤشر ناسداك 100 يهبط 4% وستاندرد آند بورز 500 يتراجع 2.5% مع اتساع موجة بيع أسهم التكنولوجيا وتدفّق المستثمرين نحو سندات الخزانة الأميركية، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   }
+  },
   {
    "id": "20261125-1354-katz-south-lebanon-gaza",
    "time": "2026-11-25T13:54:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "This is Beirut",
     "url": "https://thisisbeirut.com.lb/news/politics/katz-warns-of-permanent-israeli-military-control-in-southern-lebanon"
+   }
+  },
+  {
+   "id": "20261125-1330-us-pce-october",
+   "time": "2026-11-25T13:30:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "US core PCE inflation rises to 3.3% year on year in October, above the expected 3.2%, while headline PCE holds at 3.8%, the Commerce Department reports.",
+   "ar": "التضخم الأساسي لمؤشر نفقات الاستهلاك الشخصي في الولايات المتحدة يرتفع إلى 3.3% على أساس سنوي في تشرين الأول، فوق التوقعات البالغة 3.2%، فيما يستقر المؤشر العام عند 3.8%، بحسب وزارة التجارة.",
+   "source": {
+    "name": "US Bureau of Economic Analysis via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
    }
   },
   {
@@ -1754,30 +1790,6 @@
    "source": {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
-   }
-  },
-  {
-   "id": "20261122-1701-iran-twin-missile-launcher",
-   "time": "2026-11-22T17:01:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian state TV unveils a new launcher able to fire two liquid-fuel missiles at once, shown during a tour of an underground base by IRGC chief Ahmad Vahidi.",
-   "ar": "التلفزيون الرسمي الإيراني يكشف منصة إطلاق جديدة قادرة على إطلاق صاروخين بالوقود السائل في آن واحد، خلال جولة لقائد الحرس الثوري أحمد وحيدي في قاعدة تحت الأرض.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://arabnews.com/middle-east/iran-unveils-missile-launcher-as-commanders-tout-capabilities-in-war-with-us-3013578"
-   }
-  },
-  {
-   "id": "20261122-1532-likud-yashar-talks-4h",
-   "time": "2026-11-22T15:32:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Likud and Eisenkot's Yashar end more than four hours of unity talks in Herzliya without agreement, split over Netanyahu serving first and Ben-Gvir's inclusion, and agree to meet again.",
-   "ar": "الليكود وحزب «ياشار» بقيادة آيزنكوت ينهيان أكثر من أربع ساعات من محادثات الوحدة في هرتسليا من دون اتفاق، وسط خلاف على تولّي نتنياهو الرئاسة أولاً وضمّ بن غفير، ويتفقان على جولة جديدة.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/hj11rtyeyql"
    }
   }
  ]
