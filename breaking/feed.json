@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T00:09:20Z",
+ "updated": "2026-11-25T03:09:56Z",
  "items": [
+  {
+   "id": "20261125-0220-kospi-chip-slide",
+   "time": "2026-11-25T02:20:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kospi falls 5.54% to 4,728.81 by late morning as chip stocks slide, with Samsung Electronics down 9.03% and SK hynix 8.55%, per PiQ Markets.",
+   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع 5.54% إلى 4,728.81 نقطة قبل الظهر مع انهيار أسهم الرقائق، إذ هبط سهم سامسونغ للإلكترونيات 9.03% وإس كاي هاينكس 8.55% (بحسب PiQ Markets).",
+   "source": {
+    "name": "PiQ Markets",
+    "url": "https://piqmarkets.com/story/kospi-falls-5-54-late-wednesday-morning-as-chip-stocks-drop"
+   }
+  },
+  {
+   "id": "20261125-0108-samara-refineries-hit",
+   "time": "2026-11-25T01:08:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian drones reportedly strike the Syzran and Kuibyshev oil refineries in Russia's Samara region overnight, setting large fires, monitoring channels say per the Kyiv Independent; no official statement yet.",
+   "ar": "مسيّرات أوكرانية تضرب ليلاً، بحسب التقارير، مصفاتي سيزران وكويبيشيف للنفط في منطقة سامارا الروسية وتُشعل حرائق كبيرة، وفق قنوات رصد نقلت عنها «كييف إندبندنت»، من دون بيان رسمي حتى الآن.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
+   }
+  },
+  {
+   "id": "20261125-0000-houthis-threaten-jeddah",
+   "time": "2026-11-25T00:00:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Houthi military spokesman Yahya Saree says Jeddah and all other Saudi Red Sea ports will be targeted if the Saudi-led coalition attacks Hodeidah, after the coalition ordered civilians to leave Hodeidah port.",
+   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن ميناء جدة وسائر الموانئ السعودية على البحر الأحمر ستُستهدف إذا هاجم التحالف بقيادة السعودية الحديدة، بعدما أمر التحالف المدنيين بإخلاء ميناء الحديدة.",
+   "source": {
+    "name": "Reuters via Daily Maverick",
+    "url": "https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/"
+   }
+  },
   {
    "id": "20261124-2158-etihad-tel-aviv-turned-back",
    "time": "2026-11-24T21:58:00Z",
@@ -1614,42 +1650,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-national-guard-facility-in-krasnodar/"
-   }
-  },
-  {
-   "id": "20261122-0259-fidan-israel-syria-warning",
-   "time": "2026-11-22T02:59:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Turkish Foreign Minister Hakan Fidan warns Israel could use its backing of a Druze tribe to launch an operation in Syria, saying it risks a regional war, per Times of Israel.",
-   "ar": "وزير الخارجية التركي هاكان فيدان يحذّر من أن إسرائيل قد تستغلّ دعمها لعشيرة درزية لشنّ عملية في سوريا، معتبراً أنها قد تجرّ إلى حرب إقليمية، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/turkish-foreign-minister-warns-of-potential-israeli-operation-in-syria/"
-   }
-  },
-  {
-   "id": "20261122-0130-uk-drones-for-ukraine",
-   "time": "2026-11-22T01:30:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's Defence Ministry says Kyiv and London finalised a deal for the UK to manufacture middle-strike and long-range drones for Ukraine on British soil.",
-   "ar": "وزارة الدفاع الأوكرانية تعلن أن كييف ولندن أنجزتا اتفاقاً تصنّع بموجبه بريطانيا على أراضيها مسيّرات متوسطة وبعيدة المدى لأوكرانيا.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/uk-to-produce-middle-strike-long-range-drones-for-ukraine-in-britain/"
-   }
-  },
-  {
-   "id": "20261122-0040-south-lebanon-overnight-strikes",
-   "time": "2026-11-22T00:40:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Airstrikes hit Barachit and blasts are recorded in Haddatha, Bani Hayyan and Qantara in south Lebanon overnight, with shelling on Kfar Tebnit and no casualties reported, per Lebanon24.",
-   "ar": "غارات تستهدف برعشيت وتفجيرات في حداثا وبني حيان والقنطرة جنوب لبنان ليلاً، مع قصف مدفعي على كفرتبنيت ومن دون إصابات، بحسب «لبنان 24».",
-   "source": {
-    "name": "Lebanon24",
-    "url": "https://www.lebanon24.com/news/lebanon/1598132/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%B4%D9%87%D8%AF-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%D8%9F"
    }
   }
  ]
