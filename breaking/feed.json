@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:09:04Z",
+ "updated": "2026-11-25T18:08:53Z",
  "items": [
   {
    "id": "20261125-1659-netanyahu-trial-fell-apart",
@@ -119,6 +119,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-59-across-ukraine-over-past-day-halt-power-generation-at-thermal-power-plant/"
+   }
+  },
+  {
+   "id": "20261125-1150-iraq-court-kurdistan-borders",
+   "time": "2026-11-25T11:50:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraq's Federal Supreme Court rules Baghdad may deploy federal forces on all borders, including in the Kurdistan Region, and oversee its border crossings and oil and gas fields.",
+   "ar": "المحكمة الاتحادية العليا في العراق تقضي بأحقية بغداد في نشر قوات اتحادية على جميع الحدود، بما فيها إقليم كردستان، والإشراف على منافذه الحدودية وحقول النفط والغاز فيه.",
+   "source": {
+    "name": "Reuters via WTVB",
+    "url": "https://wtvbam.com/2026/11/25/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports/"
    }
   },
   {
@@ -1779,18 +1791,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
-   }
-  },
-  {
-   "id": "20261122-1834-idf-spokeswoman-debel-school",
-   "time": "2026-11-22T18:34:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "PM Nawaf Salam condemns IDF Arabic spokeswoman Ella Waweya's visit to a school in Debel, in Israel's south Lebanon buffer zone, as a violation of schools' sanctity and children's rights.",
-   "ar": "رئيس الحكومة نواف سلام يدين زيارة المتحدثة باسم الجيش الإسرائيلي بالعربية إيلا واوية لمدرسة في دبل داخل المنطقة العازلة جنوب لبنان، معتبراً إياها انتهاكاً لحرمة المدارس وحقوق الأطفال.",
-   "source": {
-    "name": "National News Agency via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-condemns-idf-spokeswomans-visit-to-southern-lebanon-school"
    }
   }
  ]
