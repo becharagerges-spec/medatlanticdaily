@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T06:08:45Z",
+ "updated": "2026-11-25T07:08:07Z",
  "items": [
+  {
+   "id": "20261125-0529-irgc-two-tankers-mines",
+   "time": "2026-11-25T05:29:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says two oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz early Wednesday while on an 'unauthorised route', per Reuters.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط انفجرتا واشتعلت فيهما النيران بعد ارتطامهما بألغام بحرية في مضيق هرمز فجر الأربعاء أثناء سلوكهما «مساراً غير مرخّص»، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via The Express Tribune",
+    "url": "https://tribune.com.pk/story/2642226/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media"
+   }
+  },
+  {
+   "id": "20261125-0530-iran-claims-two-us-drones",
+   "time": "2026-11-25T05:29:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's army claims it shot down two US drones overnight, a Lucas drone over the western Strait of Hormuz and an MQ-9 Reaper over the eastern strait, per Iranian state media.",
+   "ar": "الجيش الإيراني يزعم أنه أسقط ليلاً مسيّرتين أميركيتين، واحدة من طراز «لوكاس» فوق غرب مضيق هرمز وأخرى «إم كيو-9 ريبر» فوق شرقه، بحسب الإعلام الرسمي الإيراني.",
+   "source": {
+    "name": "Reuters via The Express Tribune",
+    "url": "https://tribune.com.pk/story/2642226/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media"
+   }
+  },
   {
    "id": "20261125-0521-bila-tserkva-attack-kills-one",
    "time": "2026-11-25T05:21:00Z",
@@ -119,6 +143,17 @@
    "source": {
     "name": "Reuters via Daily Maverick",
     "url": "https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/"
+   }
+  },
+  {
+   "id": "20261124-2308-odesa-attack-kills-two",
+   "time": "2026-11-24T23:08:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "A late-Tuesday Russian attack in Ukraine's Odesa region kills 2 people, including a teenager, while a strike on a residential courtyard in Kyiv injures 2 others, per the Kyiv Independent.",
+   "ar": "هجوم روسي مساء الثلاثاء على منطقة أوديسا الأوكرانية يقتل شخصين بينهما فتى، فيما تصيب ضربة على باحة سكنية في كييف شخصين آخرين، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent"
    }
   },
   {
@@ -1674,18 +1709,6 @@
    "source": {
     "name": "112 Ukraine",
     "url": "https://112.ua/en/rosia-atakuvala-ukrainu-186-udarnimi-dronami-ppo-znisila-161-bezpilotnik-vklucno-z-56-reaktivnimi-199791"
-   }
-  },
-  {
-   "id": "20261122-0654-qlayaat-airport-testing",
-   "time": "2026-11-22T06:54:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Lebanon's Public Works Ministry and Civil Aviation Directorate begin technical calibration and testing of navigation systems at Qlayaat (Rene Mouawad) Airport, with flight inspections to follow runway rehabilitation.",
-   "ar": "وزارة الأشغال العامة والمديرية العامة للطيران المدني تبدآن معايرة واختبار أنظمة الملاحة الجوية في مطار القليعات (رينيه معوّض)، على أن تليها رحلات تفتيش جوي بعد تأهيل المدرج.",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1760681"
    }
   }
  ]
