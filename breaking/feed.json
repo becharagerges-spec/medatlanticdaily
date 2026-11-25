@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-25T10:09:20Z",
+ "updated": "2026-11-25T11:08:01Z",
  "items": [
+  {
+   "id": "20261125-1035-court-netanyahu-cases",
+   "time": "2026-11-25T10:35:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Judges in Netanyahu's corruption trial tell Attorney General Baharav-Miara that Case 4000 has little chance of conviction, urge reconsidering Case 2000 and seeking a deal on Case 1000.",
+   "ar": "قضاة محاكمة نتنياهو بتهم الفساد يبلغون المستشارة القضائية بهاراف-ميارا أن فرص الإدانة في الملف 4000 ضئيلة، ويدعون إلى إعادة النظر في الملف 2000 والسعي إلى تسوية في الملف 1000.",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/"
+   }
+  },
   {
    "id": "20261125-1004-baharav-miara-court",
    "time": "2026-11-25T10:04:00Z",
@@ -11,6 +23,17 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/under-tight-security-baharav-miara-arrives-at-court-for-netanyahu-trial-hearing/"
+   }
+  },
+  {
+   "id": "20261125-0933-gold-falls-2pct",
+   "time": "2026-11-25T09:33:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Spot gold falls about 2% to around $3,560 an ounce on bets of a hawkish US Federal Reserve ahead of US inflation data, Reuters reports.",
+   "ar": "الذهب في المعاملات الفورية يتراجع نحو 2% إلى قرابة 3,560 دولاراً للأونصة مع رهانات على تشدد الاحتياطي الفدرالي الأميركي قبيل صدور بيانات التضخم، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters via LBCI"
    }
   },
   {
@@ -1684,42 +1707,6 @@
    "source": {
     "name": "The Independent",
     "url": "https://www.yahoo.com/news/science/articles/cop31-fails-reach-climate-deal-124907599.html"
-   }
-  },
-  {
-   "id": "20261122-1101-zawtar-houses-rigged",
-   "time": "2026-11-22T11:01:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli soldiers entered several homes in Zawtar al-Sharqiya in south Lebanon and rigged them with explosives ahead of demolition as residents watched, per MTV Lebanon citing circulating video.",
-   "ar": "جنود إسرائيليون دخلوا منازل عدّة في زوطر الشرقية جنوب لبنان وفخّخوها تمهيداً لتفجيرها أمام أعين الأهالي، وفق «إم تي في» استناداً إلى فيديو متداول.",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1760771"
-   }
-  },
-  {
-   "id": "20261122-1045-zelensky-weekly-patriot",
-   "time": "2026-11-22T10:45:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky says Russia fired about 2,700 attack drones, nearly 1,460 glide bombs and 165 missiles at Ukraine this week, and urges Washington to approve Patriot transfers allies already paid for.",
-   "ar": "زيلينسكي يقول إن روسيا أطلقت هذا الأسبوع نحو 2,700 مسيّرة هجومية وقرابة 1,460 قنبلة موجّهة و165 صاروخاً على أوكرانيا، ويحثّ واشنطن على الموافقة على نقل صواريخ «باتريوت» سدّد الحلفاء ثمنها.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/"
-   }
-  },
-  {
-   "id": "20261122-1031-syria-arms-lebanon-seized",
-   "time": "2026-11-22T10:31:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Syria's Interior Ministry says its intelligence and security forces seized a shipment of assorted weapons in rural Damascus that was to be smuggled into Lebanon and arrested one suspect, per MTV Lebanon.",
-   "ar": "وزارة الداخلية السورية تعلن أن الاستخبارات وقوى الأمن ضبطت في ريف دمشق شحنة أسلحة متنوّعة كانت معدّة للتهريب إلى لبنان وأوقفت مشتبهاً به، وفق «إم تي في».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1760755"
    }
   }
  ]
