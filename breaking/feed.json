@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T04:09:07Z",
+ "updated": "2026-11-25T05:09:11Z",
  "items": [
+  {
+   "id": "20261125-0246-coalition-strikes-hodeidah-port",
+   "time": "2026-11-25T02:46:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it struck Houthi 'operational capabilities' at Yemen's Hodeidah port early Wednesday and destroyed several targets in Saada and Amran governorates, after warning civilians to leave the port.",
+   "ar": "التحالف بقيادة السعودية يعلن أنه استهدف «قدرات عملياتية» للحوثيين في ميناء الحديدة فجر الأربعاء ودمّر أهدافاً عدة في محافظتَي صعدة وعمران، بعد تحذير المدنيين من الاقتراب من الميناء.",
+   "source": {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3013941"
+   }
+  },
+  {
+   "id": "20261125-0245-ras-tanura-four-drones",
+   "time": "2026-11-25T02:45:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi air defences intercept and destroy four drones over Ras Tanura in the Eastern Province; coalition spokesman Turki al-Maliki says debris fell but no casualties were reported.",
+   "ar": "الدفاعات الجوية السعودية تعترض وتدمّر أربع مسيّرات فوق رأس تنورة في المنطقة الشرقية، والمتحدث باسم التحالف تركي المالكي يقول إن شظايا تساقطت من دون تسجيل إصابات.",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
+   }
+  },
   {
    "id": "20261125-0220-kospi-chip-slide",
    "time": "2026-11-25T02:20:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+   }
+  },
+  {
+   "id": "20261125-0210-trump-iran-war-funded-january",
+   "time": "2026-11-25T02:10:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "Trump says the Iran war is funded through about the end of January and warns congressional Democrats that forcing an early halt could turn a 'total win' into 'a loss', per Gulf News.",
+   "ar": "ترامب يقول إن تمويل الحرب على إيران مؤمّن حتى نهاية كانون الثاني تقريباً، ويحذّر الديمقراطيين في الكونغرس من أن فرض وقفها مبكراً قد يحوّل «النصر الكامل» إلى «خسارة»، بحسب «غلف نيوز».",
+   "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
    }
   },
   {
@@ -227,6 +263,18 @@
    "source": {
     "name": "France 24",
     "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+   }
+  },
+  {
+   "id": "20261124-1723-utj-rabbis-approve-talks",
+   "time": "2026-11-24T17:23:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "UTJ's senior rabbis authorise the party to continue coalition talks with Eisenkot's bloc, but not yet to join a government, as Eisenkot weighs a minority government, per The Jerusalem Post.",
+   "ar": "كبار حاخامات «يهدوت هتوراه» يأذنون للحزب بمواصلة مفاوضات الائتلاف مع كتلة آيزنكوت من دون الانضمام إلى الحكومة بعد، فيما يدرس آيزنكوت حكومة أقلية، بحسب «جيروزاليم بوست».",
+   "source": {
+    "name": "The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-election-2026/2026-11-25/live-updates-916037"
    }
   },
   {
@@ -1602,54 +1650,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1760681"
-   }
-  },
-  {
-   "id": "20261122-0501-rubio-lebanon-sovereign",
-   "time": "2026-11-22T05:01:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Secretary of State Marco Rubio marks Lebanon's 83rd Independence Day by reaffirming US support for 'a fully sovereign Lebanon, at peace with its neighbors and accountable only to its own citizens'.",
-   "ar": "وزير الخارجية الأميركي ماركو روبيو يهنّئ لبنان بالذكرى الـ83 لاستقلاله، مجدّداً دعم واشنطن «للبنان كامل السيادة، يعيش بسلام مع جيرانه ولا يُحاسَب إلا أمام مواطنيه».",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/lebanon-national-day-2/"
-   }
-  },
-  {
-   "id": "20261122-0456-ghalibaf-neither-war-peace",
-   "time": "2026-11-22T04:56:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian parliament speaker Mohammad Bagher Ghalibaf says the state of 'neither war nor peace' cannot continue and that Iran needs lasting deterrence to avert the threat of war.",
-   "ar": "رئيس مجلس الشورى الإيراني محمد باقر قاليباف يقول إنّ حالة «اللا حرب واللا سلم» لا يمكن أن تستمر، وإنّ إيران تحتاج إلى ردع دائم لدرء خطر الحرب.",
-   "source": {
-    "name": "LBCI",
-    "url": "https://www.lbcgroup.tv/news/world/969178/قاليباف-حالة-اللا-حرب-واللا-سلم-لا-يمكن-أن-تستمر/ar"
-   }
-  },
-  {
-   "id": "20261122-0451-settlers-ramallah-arson",
-   "time": "2026-11-22T04:51:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Settlers torch vehicles and homes overnight in Deir al-Sudan, Deir Abu Mash'al and Kafr Malik near Ramallah; Foreign Minister Gideon Sa'ar later condemns the attacks, blaming 'a handful of extremists'.",
-   "ar": "مستوطنون يحرقون ليلاً سيارات ومنازل في دير السودان ودير أبو مشعل وكفر مالك قرب رام الله، ووزير الخارجية جدعون ساعر يدين لاحقاً الاعتداءات ويحمّلها «حفنة من المتطرفين».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/reports-settlers-set-fire-to-vehicles-and-homes-in-several-villages-near-ramallah"
-   }
-  },
-  {
-   "id": "20261122-0439-army-264kg-explosives-qaa",
-   "time": "2026-11-22T04:39:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "The Lebanese army seizes about 264 kg of explosives, 203 kg of C4 and 61 kg of TNT, smuggled from Syria near al-Qaa, and arrests 3 suspects.",
-   "ar": "الجيش اللبناني يضبط نحو 264 كلغ من المتفجرات، منها 203 كلغ من مادة C4 و61 كلغ من مادة TNT، مهرّبة من سوريا في مشاريع القاع، ويوقف 3 مشتبه بهم.",
-   "source": {
-    "name": "LBCI",
-    "url": "https://www.lbcgroup.tv/news/lebanon-security/969176/الجيش-يضبط-كمية-كبيرة-من-المواد-المتفجرة-ويوقف-ثلاثة/ar"
    }
   }
  ]
