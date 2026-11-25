@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T13:10:23Z",
+ "updated": "2026-11-25T14:09:59Z",
  "items": [
+  {
+   "id": "20261125-1354-katz-south-lebanon-gaza",
+   "time": "2026-11-25T13:54:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli Defence Minister Israel Katz says Israel would treat south Lebanon like Gaza, with permanent military control, if Hezbollah attacks, and reveals another strike on Hezbollah weapons smuggling.",
+   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن إسرائيل ستتعامل مع جنوب لبنان كما تعاملت مع غزة، بسيطرة عسكرية دائمة، إذا هاجم حزب الله، ويكشف عن ضربة جديدة لتهريب السلاح إلى الحزب.",
+   "source": {
+    "name": "This is Beirut",
+    "url": "https://thisisbeirut.com.lb/news/politics/katz-warns-of-permanent-israeli-military-control-in-southern-lebanon"
+   }
+  },
+  {
+   "id": "20261125-1322-us-301-tariffs-14-economies",
+   "time": "2026-11-25T13:22:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "The US Trade Representative proposes new excess-capacity tariffs on 14 economies, including the EU, Japan and India, with an extra 20% on China; they would take effect January 2027 at the earliest.",
+   "ar": "الممثل التجاري الأميركي يقترح رسوماً جمركية جديدة على 14 اقتصاداً بذريعة فائض الطاقة الإنتاجية، بينها الاتحاد الأوروبي واليابان والهند، مع 20% إضافية على الصين، على ألا تسري قبل كانون الثاني 2027.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe"
+   }
+  },
   {
    "id": "20261125-1216-nasdaq-futures-gold-3500",
    "time": "2026-11-25T12:16:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   }
+  },
+  {
+   "id": "20261125-1159-ukraine-daily-toll-9-killed",
+   "time": "2026-11-25T11:59:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russian attacks kill 9 people and injure 59 across Ukraine over the past day and halt power generation at a thermal power plant, Ukrainian authorities say; Russia launched 112 drones overnight.",
+   "ar": "هجمات روسية تقتل 9 أشخاص وتصيب 59 في أنحاء أوكرانيا خلال اليوم الماضي وتوقف إنتاج الكهرباء في محطة حرارية، بحسب السلطات الأوكرانية؛ وروسيا أطلقت 112 مسيّرة ليلاً.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-59-across-ukraine-over-past-day-halt-power-generation-at-thermal-power-plant/"
    }
   },
   {
@@ -279,8 +315,8 @@
    "time": "2026-11-25T01:08:00Z",
    "theater": "russia",
    "status": "reported",
-   "en": "Ukrainian drones reportedly strike the Syzran and Kuibyshev oil refineries in Russia's Samara region overnight, setting large fires, monitoring channels say per the Kyiv Independent; no official statement yet.",
-   "ar": "مسيّرات أوكرانية تضرب ليلاً، بحسب التقارير، مصفاتي سيزران وكويبيشيف للنفط في منطقة سامارا الروسية وتُشعل حرائق كبيرة، وفق قنوات رصد نقلت عنها «كييف إندبندنت»، من دون بيان رسمي حتى الآن.",
+   "en": "Ukraine's General Staff says its forces, with a resistance group inside Russia, struck two oil refineries in Russia's Samara region overnight; monitoring channels earlier named Syzran and Kuibyshev.",
+   "ar": "هيئة الأركان العامة الأوكرانية تقول إن قواتها، بالتعاون مع مجموعة مقاومة داخل روسيا، ضربت ليلاً مصفاتين للنفط في منطقة سامارا الروسية؛ وكانت قنوات رصد قد سمّت سيزران وكويبيشيف.",
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
@@ -1742,18 +1778,6 @@
    "source": {
     "name": "Ynet",
     "url": "https://www.ynetnews.com/article/hj11rtyeyql"
-   }
-  },
-  {
-   "id": "20261122-1347-cop31-collapses",
-   "time": "2026-11-22T13:47:00Z",
-   "theater": "world",
-   "status": "confirmed",
-   "en": "UN climate talks at COP31 in Antalya collapse without a deal after the EU and small island states reject a text from which Saudi Arabia and other oil producers kept out fossil fuels.",
-   "ar": "انهيار مفاوضات المناخ الأممية في مؤتمر COP31 في أنطاليا من دون اتفاق، بعد رفض الاتحاد الأوروبي والدول الجزرية الصغيرة نصاً أبقت السعودية ومنتجو نفط آخرون الوقود الأحفوري خارجه.",
-   "source": {
-    "name": "The Independent",
-    "url": "https://www.yahoo.com/news/science/articles/cop31-fails-reach-climate-deal-124907599.html"
    }
   }
  ]
