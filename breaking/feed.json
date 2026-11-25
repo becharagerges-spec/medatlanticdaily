@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T05:09:11Z",
+ "updated": "2026-11-25T06:08:45Z",
  "items": [
+  {
+   "id": "20261125-0521-bila-tserkva-attack-kills-one",
+   "time": "2026-11-25T05:21:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "An overnight Russian attack on Bila Tserkva in Kyiv region kills 1 man and damages critical infrastructure and commercial sites, acting mayor Volodymyr Vovkotrub says.",
+   "ar": "هجوم روسي ليلي على بيلا تسيركفا في منطقة كييف يقتل رجلاً ويُلحق أضراراً ببنى تحتية حيوية ومنشآت تجارية، بحسب رئيس البلدية بالوكالة فولوديمير فوفكوتروب.",
+   "source": {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/91106"
+   }
+  },
+  {
+   "id": "20261125-0515-us-shelves-russia-business-deals",
+   "time": "2026-11-25T05:15:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The Trump administration has shelved plans to offer Russia joint energy and aviation ventures as an incentive to end the Ukraine war after Moscow showed little interest, per the Financial Times.",
+   "ar": "إدارة ترامب جمّدت خطط عرض مشاريع مشتركة في الطاقة والطيران على روسيا حافزاً لإنهاء حرب أوكرانيا بعدما أبدت موسكو اهتماماً ضئيلاً، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times via Reuters",
+    "url": "https://uk.finance.yahoo.com/news/us-shelves-proposals-business-deals-051552709.html"
+   }
+  },
+  {
+   "id": "20261125-0413-gaza-shati-strike-four-killed",
+   "time": "2026-11-25T04:13:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "An Israeli airstrike on a residential building in Gaza City's Shati camp kills at least 4 people early Wednesday, Gaza medical officials say.",
+   "ar": "غارة إسرائيلية على مبنى سكني في مخيم الشاطئ بمدينة غزة تقتل 4 أشخاص على الأقل فجر الأربعاء، بحسب مسؤولين طبيين في غزة.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza"
+   }
+  },
   {
    "id": "20261125-0246-coalition-strikes-hodeidah-port",
    "time": "2026-11-25T02:46:00Z",
