@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25T03:09:56Z",
+ "updated": "2026-11-25T04:09:07Z",
  "items": [
   {
    "id": "20261125-0220-kospi-chip-slide",
    "time": "2026-11-25T02:20:00Z",
    "theater": "markets",
    "status": "reported",
-   "en": "South Korea's Kospi falls 5.54% to 4,728.81 by late morning as chip stocks slide, with Samsung Electronics down 9.03% and SK hynix 8.55%, per PiQ Markets.",
-   "ar": "مؤشر كوسبي الكوري الجنوبي يتراجع 5.54% إلى 4,728.81 نقطة قبل الظهر مع انهيار أسهم الرقائق، إذ هبط سهم سامسونغ للإلكترونيات 9.03% وإس كاي هاينكس 8.55% (بحسب PiQ Markets).",
+   "en": "Asian chip stocks slide on AI doubts: Taiwan's Taiex plunges as much as 7.9%, South Korea's Kospi more than 6% and Japan's Nikkei 3.6%, per Al Jazeera.",
+   "ar": "أسهم الرقائق الآسيوية تتهاوى وسط الشكوك حول الذكاء الاصطناعي: مؤشر تايكس التايواني يهبط حتى 7.9% وكوسبي الكوري الجنوبي أكثر من 6% ونيكاي الياباني 3.6% (بحسب الجزيرة).",
    "source": {
-    "name": "PiQ Markets",
-    "url": "https://piqmarkets.com/story/kospi-falls-5-54-late-wednesday-morning-as-chip-stocks-drop"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
    }
   },
   {
@@ -23,6 +23,18 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
+   }
+  },
+  {
+   "id": "20261125-0047-kan-iran-chemical-weapons",
+   "time": "2026-11-25T00:47:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Kan reports Israel has known for over a decade about an Iranian chemical weapons programme, from material in the nuclear archive seized in 2018, after Defence Minister Katz said Iran is developing chemical weapons.",
+   "ar": "هيئة البث الإسرائيلية «كان» تفيد بأن إسرائيل تعلم منذ أكثر من عقد ببرنامج إيراني للأسلحة الكيميائية، استناداً إلى مواد من الأرشيف النووي المستولى عليه عام 2018، بعد قول وزير الدفاع كاتس إن إيران تطوّر أسلحة كيميائية.",
+   "source": {
+    "name": "Kan via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-israel-has-known-for-over-a-decade-about-irans-chemical-weapons-program/"
    }
   },
   {
@@ -1638,18 +1650,6 @@
    "source": {
     "name": "LBCI",
     "url": "https://www.lbcgroup.tv/news/lebanon-security/969176/الجيش-يضبط-كمية-كبيرة-من-المواد-المتفجرة-ويوقف-ثلاثة/ar"
-   }
-  },
-  {
-   "id": "20261122-0318-krasnodar-rosgvardia-hq",
-   "time": "2026-11-22T03:18:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukrainian drones reportedly struck the regional headquarters of Russia's National Guard in Krasnodar overnight, after a temporary ground stop at Krasnodar airport, per the Kyiv Independent citing monitoring channels.",
-   "ar": "مسيّرات أوكرانية استهدفت ليلاً، بحسب التقارير، المقرّ الإقليمي للحرس الوطني الروسي في كراسنودار، بعد توقّف مؤقت للحركة في مطار المدينة، وفق «كييف إندبندنت» نقلاً عن قنوات رصد.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-national-guard-facility-in-krasnodar/"
    }
   }
  ]
