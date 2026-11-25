@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T12:09:26Z",
+ "updated": "2026-11-25T13:10:23Z",
  "items": [
+  {
+   "id": "20261125-1216-nasdaq-futures-gold-3500",
+   "time": "2026-11-25T12:16:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Nasdaq 100 futures sink 3% as the tech selloff continues, and gold drops below $3,500 an ounce for the first time since September 2025.",
+   "ar": "العقود الآجلة لمؤشر ناسداك 100 تهبط 3% مع استمرار موجة بيع أسهم التكنولوجيا، والذهب ينخفض دون 3,500 دولار للأونصة للمرة الأولى منذ أيلول 2025.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   }
+  },
+  {
+   "id": "20261125-1147-savasleyka-five-aircraft",
+   "time": "2026-11-25T11:47:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukraine's General Staff says its forces hit 5 Russian aircraft, 3 MiG-31s and 2 Su-34s, at Savasleyka airfield in Russia's Nizhny Novgorod region on 24–25 November.",
+   "ar": "هيئة الأركان العامة الأوكرانية تقول إن قواتها أصابت 5 طائرات روسية، 3 من طراز ميغ-31 و2 سوخوي-34، في مطار سافاسليكا بمنطقة نيجني نوفغورود الروسية يومَي 24 و25 تشرين الثاني.",
+   "source": {
+    "name": "Ukrainska Pravda",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064590/"
+   }
+  },
   {
    "id": "20261125-1109-germany-us-troop-cuts",
    "time": "2026-11-25T11:09:00Z",
