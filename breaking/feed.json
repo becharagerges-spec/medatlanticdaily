@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-25T18:08:53Z",
+ "updated": "2026-11-25T19:09:11Z",
  "items": [
+  {
+   "id": "20261125-1821-giza-tanker-fire-21-killed",
+   "time": "2026-11-25T18:21:00Z",
+   "theater": "africa",
+   "status": "confirmed",
+   "en": "A fire after a vehicle carrying petroleum products overturned on Cairo's Ring Road in Giza kills at least 21 people and injures 15, Egypt's Health Ministry says.",
+   "ar": "حريق إثر انقلاب سيارة محمّلة بمواد بترولية على الطريق الدائري في الجيزة يودي بحياة 21 شخصاً على الأقل ويصيب 15 آخرين، بحسب وزارة الصحة المصرية.",
+   "source": {
+    "name": "Reuters via US News",
+    "url": "https://www.usnews.com/news/world/articles/2026-11-25/at-least-21-killed-in-blaze-after-vehicle-overturns-in-egypt-health-ministry-says"
+   }
+  },
   {
    "id": "20261125-1659-netanyahu-trial-fell-apart",
    "time": "2026-11-25T16:59:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "AFP via RTÉ",
     "url": "https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/"
+   }
+  },
+  {
+   "id": "20261125-1537-likud-appeal-120-stations",
+   "time": "2026-11-25T15:37:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Netanyahu's Likud files an appeal with the Jerusalem District Court against the election results, seeking a new vote at 120 polling stations, or alternatively at 95 in 41 communities.",
+   "ar": "حزب الليكود بزعامة نتنياهو يقدّم طعناً أمام المحكمة المركزية في القدس بنتائج الانتخابات، مطالباً بإعادة الاقتراع في 120 مركزاً، أو في 95 مركزاً في 41 بلدة كبديل.",
+   "source": {
+    "name": "Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916141"
    }
   },
   {
@@ -59,6 +83,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   }
+  },
+  {
+   "id": "20261125-1406-kremlin-700000-deaths",
+   "time": "2026-11-25T14:06:00Z",
+   "theater": "russia",
+   "status": "confirmed",
+   "en": "Kremlin spokesman Dmitry Peskov declines to comment on reports that up to 700,000 Russian soldiers have been killed in Ukraine, saying only the Defence Ministry can release casualty figures.",
+   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يرفض التعليق على تقارير تفيد بمقتل ما يصل إلى 700 ألف جندي روسي في أوكرانيا، قائلاً إن وزارة الدفاع وحدها تعلن أرقام الخسائر.",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324010-kremlin-brushes-off-reports-of-700-000-russian-war-deaths"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://swissinfo.ch/eng/us-stock-futures-open-higher-after-tech-selloff:-markets-wrap/92421262"
-   }
-  },
-  {
-   "id": "20261122-1930-israel-mfa-lebanon-independence",
-   "time": "2026-11-22T19:30:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Israel's Foreign Ministry publicly congratulates Lebanon on its 83rd Independence Day in a post on X that alludes to Iran without naming it.",
-   "ar": "وزارة الخارجية الإسرائيلية تهنّئ لبنان علناً بعيد استقلاله الـ83 في منشور على منصة إكس يلمّح إلى إيران من دون أن يسمّيها.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
-   }
-  },
-  {
-   "id": "20261122-1922-us-delays-iran-strike-week",
-   "time": "2026-11-22T19:22:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "US administration officials tell Ynet Washington has decided for now to delay any strike on Iran by at least a week, despite Netanyahu pressing for a joint campaign.",
-   "ar": "مسؤولون في الإدارة الأميركية يقولون لـ«يديعوت» إن واشنطن قررت حالياً تأجيل أي ضربة لإيران أسبوعاً على الأقل، رغم ضغط نتنياهو لحملة مشتركة.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/sjz00i2xkmx"
-   }
-  },
-  {
-   "id": "20261122-1909-yashar-pm-term-limit-bill",
-   "time": "2026-11-22T19:09:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's bloc plans a preliminary Knesset vote Wednesday on a bill limiting prime ministers to 8 years and barring indicted politicians from forming a government, per Channel 12.",
-   "ar": "كتلة آيزنكوت تعتزم طرح مشروع قانون يحصر ولاية رئيس الحكومة بـ8 سنوات ويمنع المتّهمين من تشكيل حكومة للتصويت التمهيدي في الكنيست الأربعاء، بحسب القناة 12.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog-november-22-2026/"
    }
   }
  ]
