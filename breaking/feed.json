@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-25T09:09:02Z",
+ "updated": "2026-11-25T10:09:20Z",
  "items": [
+  {
+   "id": "20261125-1004-baharav-miara-court",
+   "time": "2026-11-25T10:04:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Attorney General Gali Baharav-Miara appears at Jerusalem District Court under tight security after judges summoned her to a hearing in Netanyahu's corruption trial, per The Times of Israel.",
+   "ar": "المستشارة القضائية للحكومة غالي بهاراف ميارا تمثل أمام المحكمة المركزية في القدس وسط إجراءات أمنية مشددة بعدما استدعاها القضاة إلى جلسة في محاكمة نتنياهو بتهم الفساد، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/under-tight-security-baharav-miara-arrives-at-court-for-netanyahu-trial-hearing/"
+   }
+  },
   {
    "id": "20261125-0825-qabrikha-drone-car",
    "time": "2026-11-25T08:25:00Z",
@@ -161,11 +173,11 @@
    "time": "2026-11-25T02:45:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "Saudi air defences intercept and destroy four drones over Ras Tanura in the Eastern Province; coalition spokesman Turki al-Maliki says debris fell but no casualties were reported.",
-   "ar": "الدفاعات الجوية السعودية تعترض وتدمّر أربع مسيّرات فوق رأس تنورة في المنطقة الشرقية، والمتحدث باسم التحالف تركي المالكي يقول إن شظايا تساقطت من دون تسجيل إصابات.",
+   "en": "Saudi air defences destroy four drones over Ras Tanura and three more over the Eastern Province; coalition spokesman Turki al-Maliki says debris fell but no casualties were reported.",
+   "ar": "الدفاعات الجوية السعودية تدمّر أربع مسيّرات فوق رأس تنورة وثلاثاً أخرى فوق المنطقة الشرقية، والمتحدث باسم التحالف تركي المالكي يقول إن شظايا تساقطت من دون تسجيل إصابات.",
    "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
    }
   },
   {
@@ -214,6 +226,18 @@
    "source": {
     "name": "Kan via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/report-israel-has-known-for-over-a-decade-about-irans-chemical-weapons-program/"
+   }
+  },
+  {
+   "id": "20261125-0018-shenzhou24-pakistani",
+   "time": "2026-11-25T00:18:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "China launches the Shenzhou-24 mission from Jiuquan to its Tiangong space station with three astronauts aboard, including a Pakistani crew member, per state broadcaster CCTV footage.",
+   "ar": "الصين تطلق مهمة «شنتشو-24» من جيوتشيوان نحو محطة «تيانغونغ» الفضائية وعلى متنها ثلاثة رواد، بينهم رائد فضاء باكستاني، بحسب لقطات التلفزيون الرسمي الصيني.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/video/2026/11/25/moment-china-launches-shenzhou-24-mission-with-pakistani-astronaut-aboard"
    }
   },
   {
@@ -1696,54 +1720,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1760755"
-   }
-  },
-  {
-   "id": "20261122-0959-houthi-drone-riyadh",
-   "time": "2026-11-22T09:59:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted and destroyed a drone launched by Yemen's Houthis toward the Riyadh region.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير مسيّرة أطلقها الحوثيون في اليمن باتجاه منطقة الرياض.",
-   "source": {
-    "name": "Anadolu Agency",
-    "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-drone-targeting-riyadh-region/4133472"
-   }
-  },
-  {
-   "id": "20261122-0926-irgc-claims-mq1-hormuz",
-   "time": "2026-11-22T09:26:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say they shot down a US MQ-1 drone over the eastern Strait of Hormuz, claiming it is the 20th of its type and the fourth in 24 hours.",
-   "ar": "الحرس الثوري الإيراني يقول إنه أسقط مسيّرة أميركية من طراز MQ-1 فوق شرق مضيق هرمز، مدّعياً أنها العشرون من طرازها والرابعة خلال 24 ساعة.",
-   "source": {
-    "name": "IRNA",
-    "url": "https://en.irna.ir/news/86329157/IRGC-shoots-down-20th-US-MQ-1-drone-east-of-Strait-of-Hormuz"
-   }
-  },
-  {
-   "id": "20261122-0924-saudi-warns-iran-bahrain",
-   "time": "2026-11-22T09:24:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Arabia's Foreign Ministry condemns Iran's 'heinous' attack on a civilian industrial facility in Bahrain and says it holds Iran responsible for the consequences of continued attacks.",
-   "ar": "وزارة الخارجية السعودية تدين الاعتداء الإيراني «الآثم» على منشأة صناعية مدنية في البحرين، وتحمّل إيران مسؤولية تبعات استمرار هذه الاعتداءات.",
-   "source": {
-    "name": "Saudi Foreign Ministry via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-qatar-blast-heinous-iranian-attack-on-civilian-bahraini-site/"
-   }
-  },
-  {
-   "id": "20261122-0916-iraq-isis-mass-trials",
-   "time": "2026-11-22T09:16:00Z",
-   "theater": "iraq",
-   "status": "reported",
-   "en": "Iraq opens mass trials of 5,704 ISIS suspects transferred from Syria, starting with six Syrians at Baghdad's Karkh court before adjourning to 7 December, per The National.",
-   "ar": "العراق يفتتح محاكمات جماعية لـ5,704 مشتبهين بالانتماء إلى داعش نُقلوا من سوريا، بدءاً بستة سوريين أمام محكمة الكرخ في بغداد، قبل تأجيلها إلى 7 كانون الأول، بحسب «ذا ناشونال».",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/trials-in-iraq-under-way-for-thousands-of-isis-suspects-transferred-from-syria/"
    }
   }
  ]
