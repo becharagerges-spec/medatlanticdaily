@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T11:08:01Z",
+ "updated": "2026-11-25T12:09:26Z",
  "items": [
+  {
+   "id": "20261125-1109-germany-us-troop-cuts",
+   "time": "2026-11-25T11:09:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Senior German defence officials are preparing a response to possible US troop cuts in Germany as the Pentagon nears a decision, ahead of high-level talks in Washington, per Politico Europe.",
+   "ar": "كبار مسؤولي الدفاع الألمان يعدّون ردّاً على تخفيض محتمل للقوات الأميركية في ألمانيا مع اقتراب البنتاغون من قراره، قبيل محادثات رفيعة في واشنطن، بحسب «بوليتيكو أوروبا».",
+   "source": {
+    "name": "Politico Europe"
+   }
+  },
   {
    "id": "20261125-1035-court-netanyahu-cases",
    "time": "2026-11-25T10:35:00Z",
@@ -46,6 +57,18 @@
    "source": {
     "name": "Elsiyasa",
     "url": "https://elsiyasa.com/article/437720"
+   }
+  },
+  {
+   "id": "20261125-0757-us-rules-out-troops-ukraine",
+   "time": "2026-11-25T07:57:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "The US has ruled out stationing troops or military bases in Ukraine under post-war security guarantees, offering an 'Article 5-like' arrangement instead, US officials tell the Kyiv Independent.",
+   "ar": "الولايات المتحدة تستبعد نشر قوات أو إقامة قواعد عسكرية في أوكرانيا ضمن الضمانات الأمنية لما بعد الحرب، وتعرض بدلاً منها ترتيباً «شبيهاً بالمادة الخامسة»، بحسب مسؤولين أميركيين لـ«كييف إندبندنت».",
+   "source": {
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
    }
   },
   {
@@ -196,8 +219,8 @@
    "time": "2026-11-25T02:45:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "Saudi air defences destroy four drones over Ras Tanura and three more over the Eastern Province; coalition spokesman Turki al-Maliki says debris fell but no casualties were reported.",
-   "ar": "الدفاعات الجوية السعودية تدمّر أربع مسيّرات فوق رأس تنورة وثلاثاً أخرى فوق المنطقة الشرقية، والمتحدث باسم التحالف تركي المالكي يقول إن شظايا تساقطت من دون تسجيل إصابات.",
+   "en": "Saudi air defences destroy four drones over Ras Tanura and three over the Eastern Province with no casualties, the coalition says; the Houthis claim they hit the Ras Tanura refinery, causing fires (Reuters).",
+   "ar": "الدفاعات الجوية السعودية تدمّر أربع مسيّرات فوق رأس تنورة وثلاثاً فوق المنطقة الشرقية من دون إصابات بحسب التحالف، فيما يزعم الحوثيون أنهم أصابوا مصفاة رأس تنورة وأشعلوا فيها حرائق («رويترز»).",
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
