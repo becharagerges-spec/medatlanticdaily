@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-26T19:08:58Z",
+ "updated": "2026-11-26T22:09:56Z",
  "items": [
+  {
+   "id": "20261126-2119-frugals-walk-out-costa",
+   "time": "2026-11-26T21:19:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Leaders of the 'frugal' EU states seeking a smaller budget walk out on European Council President António Costa's summit format and demand a change of approach, Politico reports.",
+   "ar": "قادة الدول الأوروبية «المقتصدة» الساعية إلى موازنة أصغر ينسحبون من صيغة القمة التي اعتمدها رئيس المجلس الأوروبي أنطونيو كوستا ويطالبون بتغيير المقاربة، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe"
+   }
+  },
+  {
+   "id": "20261126-2059-utj-rabbis-official-talks",
+   "time": "2026-11-26T20:59:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "UTJ's senior rabbis approve official coalition talks with Gadi Eisenkot, after Kan reports his Yashar and UTJ agreed draft-law principles that scrap enlistment quotas, per The Times of Israel.",
+   "ar": "كبار حاخامات «يهدوت هتوراه» يوافقون على بدء مفاوضات ائتلافية رسمية مع غادي آيزنكوت، بعدما أفادت «كان» باتفاق «يشار» والحزب على مبادئ قانون تجنيد يلغي حصص التجنيد، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/utj-rabbis-said-to-give-go-ahead-to-launching-official-talks-with-eisenkot/"
+   }
+  },
+  {
+   "id": "20261126-2029-macron-unbalanced-budget",
+   "time": "2026-11-26T20:29:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Macron says France will not sign an 'unbalanced' 2028–2034 EU budget deal, and that without one at December's summit, talks would resume in the second half of 2027.",
+   "ar": "ماكرون يقول إن فرنسا لن توقّع اتفاقاً «غير متوازن» على موازنة الاتحاد الأوروبي 2028–2034، وإنه في غياب اتفاق في قمة كانون الأول ستُستأنف المفاوضات في النصف الثاني من 2027.",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+   }
+  },
+  {
+   "id": "20261126-1938-idf-bekaa-radwan-camp",
+   "time": "2026-11-26T19:38:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Israel's army says it struck dozens of Hezbollah rockets and launchers at a Radwan Force training camp near Ain al-Tina in the Bekaa Valley, and says it remains committed to the ceasefire.",
+   "ar": "الجيش الإسرائيلي يقول إنه استهدف عشرات الصواريخ ومنصات الإطلاق التابعة لحزب الله في معسكر تدريب لقوة الرضوان قرب عين التينة في البقاع، ويؤكد التزامه بوقف إطلاق النار.",
+   "source": {
+    "name": "Israeli army via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-struck-hezbollah-rockets-and-launchers-in-strikes-on-lebanons-beqaa-valley/"
+   }
+  },
   {
    "id": "20261126-1836-eu-summit-cut-short",
    "time": "2026-11-26T18:36:00Z",
@@ -42,11 +89,11 @@
    "time": "2026-11-26T15:44:00Z",
    "theater": "saudi",
    "status": "confirmed",
-   "en": "The Saudi-led coalition says the Houthis attacked Saudi Aramco's Jazan refinery, a day after Ras Tanura, and that it destroyed the ballistic missile launch platform used in Hodeidah.",
-   "ar": "التحالف بقيادة السعودية يعلن أن الحوثيين هاجموا مصفاة أرامكو في جازان، غداة استهداف رأس تنورة، وأنه دمّر منصة إطلاق الصواريخ الباليستية المستخدمة في الحديدة.",
+   "en": "Saudi Arabia's energy ministry says a Houthi attack on Aramco's Jazan refinery killed a Nepalese worker; the Saudi-led coalition says it then hit 50 Houthi targets in Sanaa, Hodeidah and Saada.",
+   "ar": "وزارة الطاقة السعودية تقول إن هجوماً حوثياً على مصفاة أرامكو في جازان قتل عاملاً نيبالياً، والتحالف بقيادة السعودية يقول إنه ضرب بعدها 50 هدفاً حوثياً في صنعاء والحديدة وصعدة.",
    "source": {
-    "name": "Saudi-led coalition via Xinhua",
-    "url": "https://english.news.cn/20261126/028a6cf66e8a4142927a35d87c69d229/c.html"
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen/4139651"
    }
   },
   {
@@ -1744,53 +1791,6 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/business/2026/11/24/a-russian-strike-on-ukraine-kills-2-and-wounds-48-as-kyiv-explains-its-attack-in-libya/"
-   }
-  },
-  {
-   "id": "20261124-0441-poland-russian-drone-dorohusk",
-   "time": "2026-11-24T04:41:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Poland's Operational Command says a Russian reconnaissance drone briefly entered Polish airspace near Dorohusk during an attack on western Ukraine; it was not shot down after turning east.",
-   "ar": "قيادة العمليات البولندية تعلن أن مسيّرة استطلاع روسية دخلت الأجواء البولندية لدقائق قرب دوروهوسك خلال هجوم على غرب أوكرانيا، ولم تُسقط بعد أن عادت شرقاً.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/poland-says-russian-drone-briefly-entered-its-airspace"
-   }
-  },
-  {
-   "id": "20261124-0353-coalition-intercepts-houthi-drone-south",
-   "time": "2026-11-24T03:53:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it intercepted a Houthi drone launched toward southern Saudi Arabia early Tuesday, with no casualties or damage reported, spokesman Turki al-Maliki says.",
-   "ar": "التحالف بقيادة السعودية يعلن اعتراض مسيّرة حوثية أُطلقت باتجاه جنوب المملكة فجر الثلاثاء، من دون تسجيل إصابات أو أضرار، بحسب المتحدث تركي المالكي.",
-   "source": {
-    "name": "Anadolu via A News",
-    "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia"
-   }
-  },
-  {
-   "id": "20261124-0318-liberman-iran-strike-warning",
-   "time": "2026-11-24T03:18:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yisrael Beytenu leader Avigdor Liberman warns Netanyahu against ordering a strike on Iran without US backing, calling it a 'manifestly illegal act', per The Jerusalem Post.",
-   "ar": "زعيم «إسرائيل بيتنا» أفيغدور ليبرمان يحذّر نتنياهو من الأمر بضربة على إيران من دون غطاء أميركي، واصفاً ذلك بـ«عمل غير قانوني بشكل صارخ»، وفق «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post"
-   }
-  },
-  {
-   "id": "20261124-0310-houthis-claim-wing-loong-lahj",
-   "time": "2026-11-24T03:10:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi military spokesman Yahya Saree claims Houthi air defences shot down a Saudi Wing Loong II drone off the coast of Lahj; the Saudi-led coalition has not commented.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يزعم أن الدفاعات الجوية للجماعة أسقطت مسيّرة سعودية من طراز «وينغ لونغ 2» قبالة ساحل لحج، ولم يعلّق التحالف بقيادة السعودية.",
-   "source": {
-    "name": "Khaleej Times",
-    "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026"
    }
   }
  ]
