@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:08:04Z",
+ "updated": "2026-11-26T11:09:57Z",
  "items": [
   {
    "id": "20261126-0900-eisenkot-democrats-resume",
@@ -47,6 +47,18 @@
    "source": {
     "name": "Reuters via Devdiscourse",
     "url": "https://www.devdiscourse.com/article/international/4012466-china-says-it-reserves-right-to-take-measures-over-new-us-tariffs"
+   }
+  },
+  {
+   "id": "20261126-0730-erbil-rally-baghdad-orders",
+   "time": "2026-11-26T07:30:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Thousands rally at Erbil's citadel against Baghdad's orders to take over Kurdistan's border crossings and oil fields, which the Kurdish regional cabinet calls unconstitutional.",
+   "ar": "الآلاف يتظاهرون عند قلعة أربيل رفضاً لأوامر بغداد بالسيطرة على المعابر الحدودية وحقول النفط في إقليم كردستان، والتي وصفتها حكومة الإقليم بأنها غير دستورية.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.yahoo.com/news/world/articles/thousands-protest-irbil-baghdad-moves-105551438.html"
    }
   },
   {
@@ -135,12 +147,12 @@
    "id": "20261126-0428-gaza-hamas-education-official",
    "time": "2026-11-26T04:28:00Z",
    "theater": "mideast",
-   "status": "reported",
-   "en": "An overnight Israeli strike on an apartment in Deir al-Balah kills Khaled Abu Nada, Hamas's deputy education minister, and his wife, per Palestinian media; Israel's army says it targeted a senior Hamas operative.",
-   "ar": "غارة إسرائيلية ليلية على شقة في دير البلح تقتل خالد أبو ندى، وكيل وزارة التربية في حكومة حماس، وزوجته، بحسب وسائل إعلام فلسطينية؛ والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في حماس.",
+   "status": "confirmed",
+   "en": "Israeli overnight strikes and gunfire kill at least 9 Palestinians in Gaza, medics say, including Hamas deputy education minister Khaled Abu Nada and his wife in Deir al-Balah.",
+   "ar": "غارات وإطلاق نار إسرائيلي ليلاً يقتل 9 فلسطينيين على الأقل في غزة بحسب مسعفين، بينهم وكيل وزارة التربية في حكومة حماس خالد أبو ندى وزوجته في دير البلح.",
    "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/overnight-idf-strike-in-gaza-said-to-kill-hamas-education-official/"
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/israel-kills-nine-in-gaza-including-a-hamas-appointed-minister-officials-say/3109802/"
    }
   },
   {
@@ -1780,17 +1792,6 @@
    "source": {
     "name": "MTV Lebanon",
     "url": "https://www.mtv.com.lb/news/1761100"
-   }
-  },
-  {
-   "id": "20261123-1313-dnc-12-debates-2028",
-   "time": "2026-11-23T13:13:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The Democratic National Committee plans 12 debates for the 2028 presidential primary, the first scheduled for June 2027, per The New York Times.",
-   "ar": "اللجنة الوطنية للحزب الديمقراطي تعتزم تنظيم 12 مناظرة للانتخابات التمهيدية الرئاسية لعام 2028، أولاها في حزيران 2027، بحسب «نيويورك تايمز».",
-   "source": {
-    "name": "The New York Times"
    }
   }
  ]
