@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T11:09:57Z",
+ "updated": "2026-11-26T12:09:39Z",
  "items": [
+  {
+   "id": "20261126-1022-irgc-two-tankers-khasab",
+   "time": "2026-11-26T10:22:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say two oil tankers, one a supertanker carrying over 2 million barrels, exploded after hitting sea mines north of Oman's Khasab port, per Reuters.",
+   "ar": "الحرس الثوري الإيراني يقول إن ناقلتي نفط، إحداهما عملاقة تحمل أكثر من مليوني برميل، انفجرتا بعد ارتطامهما بألغام بحرية شمال ميناء خصب العُماني، بحسب رويترز.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111"
+   }
+  },
   {
    "id": "20261126-0900-eisenkot-democrats-resume",
    "time": "2026-11-26T09:00:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "Reuters via Yahoo News",
     "url": "https://www.yahoo.com/news/articles/israels-eisenkot-resumes-meetings-left-090053721.html"
+   }
+  },
+  {
+   "id": "20261126-0849-trump-rutte-russia-warning",
+   "time": "2026-11-26T08:49:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump and NATO chief Mark Rutte, after Mar-a-Lago talks, urge Russia to avoid any actions that 'intentionally, or unintentionally, expand the war' and seek a rapid peaceful resolution.",
+   "ar": "ترامب والأمين العام للناتو مارك روته، بعد محادثات في مارالاغو، يحثّان روسيا على تجنّب أي خطوات «توسّع الحرب عمداً أو عن غير قصد» والسعي إلى حل سلمي سريع.",
+   "source": {
+    "name": "Reuters via The Moscow Times",
+    "url": "https://www.themoscowtimes.com/2026/11/26/trump-and-nato-chief-urge-russia-to-avoid-actions-that-widen-ukraine-war-a812374"
    }
   },
   {
@@ -26,6 +50,18 @@
    }
   },
   {
+   "id": "20261126-0745-bangkok-oil-depot-blast",
+   "time": "2026-11-26T07:45:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "A huge explosion and fire at Bangchak's oil depot in eastern Bangkok injures 7 people, 4 critically; the company shuts all production units and says the cause is under investigation.",
+   "ar": "انفجار ضخم وحريق في مستودع «بانغشاك» النفطي شرق بانكوك يوقعان 7 جرحى، 4 منهم في حال حرجة؛ والشركة توقف كل وحدات الإنتاج وتقول إن السبب قيد التحقيق.",
+   "source": {
+    "name": "AFP via Yahoo News",
+    "url": "https://sg.news.yahoo.com/seven-hurt-huge-explosion-bangkok-094534257.html"
+   }
+  },
+  {
    "id": "20261126-0742-uk-veterans-mobilisation-letters",
    "time": "2026-11-26T07:42:00Z",
    "theater": "europe",
@@ -35,6 +71,18 @@
    "source": {
     "name": "Sky News",
     "url": "https://x.com/haynesdeborah/status/2125857717004718561"
+   }
+  },
+  {
+   "id": "20261126-0738-defrin-iran-without-us",
+   "time": "2026-11-26T07:38:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli army spokesman Effie Defrin says Israel is ready to strike Iran with force 'at any given moment, even independently, without the Americans', per Kan.",
+   "ar": "المتحدث باسم الجيش الإسرائيلي إيفي ديفرين يقول إن إسرائيل مستعدة لضرب إيران بقوة «في أي لحظة، حتى بشكل مستقل، من دون الأميركيين»، بحسب «كان».",
+   "source": {
+    "name": "Kan via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-spokesperson-says-its-ready-attack-iran-force-without-us"
    }
   },
   {
@@ -1744,54 +1792,6 @@
    "source": {
     "name": "National News Agency via Beirut 24",
     "url": "https://www.beirut24.org/2026/11/23/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D8%B7%D8%AD-%D9%85%D9%86%D8%B2%D9%84-%D9%81/"
-   }
-  },
-  {
-   "id": "20261123-1359-macron-aoun-displaced",
-   "time": "2026-11-23T13:59:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "French President Emmanuel Macron tells President Joseph Aoun in an Independence Day message that continued hostilities and destroyed homes are stopping hundreds of thousands of displaced people from returning, per the Lebanese presidency.",
-   "ar": "الرئيس الفرنسي إيمانويل ماكرون يقول للرئيس جوزاف عون في رسالة بمناسبة عيد الاستقلال إن استمرار الأعمال العدائية ودمار المنازل يحولان دون عودة مئات الآلاف من النازحين، بحسب رئاسة الجمهورية.",
-   "source": {
-    "name": "Lebanese Presidency via Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/23/%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D9%84%D8%B9%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9/"
-   }
-  },
-  {
-   "id": "20261123-1324-eisenkot-no-immediate-iran-threat",
-   "time": "2026-11-23T13:24:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Gadi Eisenkot says there is no immediate Iranian threat requiring Israeli military action before a new government forms; Netanyahu replies that rivals are 'minimizing' an immediate danger.",
-   "ar": "غادي آيزنكوت يقول إنه لا يوجد تهديد إيراني فوري يستدعي عملاً عسكرياً إسرائيلياً قبل تشكيل حكومة جديدة، ونتنياهو يردّ بأن خصومه «يقلّلون» من خطر داهم.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-accuses-rivals-of-minimizing-security-threats-for-political-reasons-says-danger-is-immediate/"
-   }
-  },
-  {
-   "id": "20261123-1323-netanyahu-flexibility-no-war",
-   "time": "2026-11-23T13:23:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Netanyahu urges all sides to show flexibility to form a unity government, says the next government will wage no war and rules out one including 'supporters of terrorism'.",
-   "ar": "نتنياهو يدعو جميع الأطراف إلى إبداء المرونة لتشكيل حكومة وحدة، ويقول إن الحكومة المقبلة لن تخوض أي حرب، ويرفض حكومة تضم «مؤيدي الإرهاب».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/en/news/1761099"
-   }
-  },
-  {
-   "id": "20261123-1323-barachit-airstrike",
-   "time": "2026-11-23T13:23:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "An Israeli warplane strikes the outskirts of Barachit in south Lebanon, as Israeli artillery shells Beit Lif and troops carry out a large detonation in Kounine, per MTV Lebanon.",
-   "ar": "طائرة حربية إسرائيلية تغير على أطراف برعشيت في جنوب لبنان، فيما تقصف المدفعية الإسرائيلية بيت ليف وتنفّذ القوات تفجيراً كبيراً في كونين، بحسب «إم تي في».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1761100"
    }
   }
  ]
