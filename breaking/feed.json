@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T06:09:37Z",
+ "updated": "2026-11-26T07:08:38Z",
  "items": [
+  {
+   "id": "20261126-0653-ukraine-113-drones",
+   "time": "2026-11-26T06:53:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's Air Force says Russia attacked overnight with ballistic missiles and 113 drones, 76 of them jet-powered Shaheds; air defences downed or suppressed 87, with hits at 20 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا هاجمت ليلاً بصواريخ باليستية و113 مسيّرة، بينها 76 «شاهد» نفاثة؛ الدفاعات الجوية أسقطت أو عطّلت 87، وسُجّلت إصابات في 20 موقعاً.",
+   "source": {
+    "name": "Ukrainian Air Force via Glavnoe",
+    "url": "https://glavnoe.in.ua/en/news-en/russia-attacks-ukraine-with-missiles-and-113-drones-air-defenses-neutralize-87-uavs"
+   }
+  },
   {
    "id": "20261126-0600-saudi-minerals-forum-delay",
    "time": "2026-11-26T06:00:00Z",
@@ -165,6 +177,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
+   }
+  },
+  {
+   "id": "20261125-2100-saudi-riyadh-missiles",
+   "time": "2026-11-25T21:00:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi air defences destroy two Houthi ballistic missiles fired at Riyadh, where an explosion was heard around midnight, plus a cruise missile and drones; the coalition reports no casualties.",
+   "ar": "الدفاعات الجوية السعودية تدمّر صاروخين باليستيين حوثيين أُطلقا نحو الرياض، حيث سُمع دويّ انفجار قرابة منتصف الليل، إضافة إلى صاروخ كروز ومسيّرات؛ والتحالف لا يبلّغ عن إصابات.",
+   "source": {
+    "name": "AFP via Gulf News",
+    "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-missiles-and-drones-as-trump-keeps-iran-options-open-1.500761343"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Mirror via AOL",
     "url": "https://www.aol.co.uk/articles/russia-warns-painful-consequences-ukraine-113212000.html"
-   }
-  },
-  {
-   "id": "20261123-1019-herzog-settler-violence",
-   "time": "2026-11-23T10:19:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "President Isaac Herzog calls violence by Jewish extremists in the West Bank 'despicable' and says perpetrators will be arrested and prosecuted to the fullest extent of the law.",
-   "ar": "الرئيس الإسرائيلي إسحاق هرتسوغ يصف عنف المتطرفين اليهود في الضفة الغربية بـ«الحقير»، ويؤكد أن مرتكبيه سيُعتقلون ويُحاكمون بأقصى ما يسمح به القانون.",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/article-915810"
-   }
-  },
-  {
-   "id": "20261123-0934-kyiv-region-15-killed",
-   "time": "2026-11-23T09:34:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Russian strikes on the Kyiv region kill at least 15 people, including 11 in a partly collapsed five-storey building in Dymer and 3 at a supermarket in Vyshneve, Ukrainian officials say.",
-   "ar": "ضربات روسية على منطقة كييف تقتل 15 شخصاً على الأقل، بينهم 11 في مبنى من خمس طبقات انهار جزئياً في ديمير و3 في متجر في فيشنيفي، بحسب مسؤولين أوكرانيين.",
-   "source": {
-    "name": "AFP and Reuters via Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
    }
   }
  ]
