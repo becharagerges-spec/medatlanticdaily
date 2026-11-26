@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T15:09:18Z",
+ "updated": "2026-11-26T16:08:41Z",
  "items": [
+  {
+   "id": "20261126-1535-araghchi-mediators-hormuz",
+   "time": "2026-11-26T15:35:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iran's Araghchi says Qatari and Pakistani mediators are still passing ideas between Tehran and Washington, but Iran's demands must be met before the Strait of Hormuz reopens.",
+   "ar": "عراقجي يقول إن الوسيطين القطري والباكستاني ما زالا ينقلان الأفكار بين طهران وواشنطن، لكن مطالب إيران يجب أن تُلبّى قبل إعادة فتح مضيق هرمز.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-qatari-and-pakistani-mediators-still-transmitting-messages-between-iran-and-us"
+   }
+  },
   {
    "id": "20261126-1358-trump-eisenkot-meeting",
    "time": "2026-11-26T13:58:00Z",
@@ -71,6 +83,18 @@
    "source": {
     "name": "The Moscow Times via GSM Global",
     "url": "https://gsmglobalnews.com/article/d20261126-bodyexchange1.html"
+   }
+  },
+  {
+   "id": "20261126-1154-katz-gaza-one-million",
+   "time": "2026-11-26T11:54:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Israeli Defence Minister Israel Katz says Hamas must disarm voluntarily or the army will do it, including 'another evacuation of one million Gaza residents southward'.",
+   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن على «حماس» نزع سلاحها طوعاً وإلا فسيتولى الجيش ذلك، بما يشمل «إخلاءً آخر لمليون من سكان غزة نحو الجنوب».",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://naharnet.com/stories/en/324028-israel-defense-minister-threatens-to-displace-1-million-gazans-if-hamas-won-t-disarm"
    }
   },
   {
@@ -178,6 +202,18 @@
    "source": {
     "name": "Reuters via ThePrint",
     "url": "https://theprint.in/world/pakistan-saudi-turkey-to-hold-mecca-alliance-meeting-in-islamabad-nov-27-28-sources-say/3109599/"
+   }
+  },
+  {
+   "id": "20261126-0803-qassem-five-detained",
+   "time": "2026-11-26T08:03:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Hezbollah chief Naim Qassem demands the immediate release of five members held on charges of forming an armed cell in north Lebanon, warning 'patience in the face of injustice has limits'.",
+   "ar": "الأمين العام لـ«حزب الله» نعيم قاسم يطالب بالإفراج الفوري عن خمسة عناصر موقوفين بتهمة تشكيل خلية مسلحة في شمال لبنان، محذّراً من أن «للصبر على الظلم حدوداً».",
+   "source": {
+    "name": "AFP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324014-hezbollah-chief-demands-release-of-5-detained-members"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "CNN",
     "url": "https://edition.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
-   }
-  },
-  {
-   "id": "20261123-2057-us-qatar-strategic-dialogue",
-   "time": "2026-11-23T20:57:00Z",
-   "theater": "gulf",
-   "status": "confirmed",
-   "en": "The US and Qatar sign a Critical Minerals Framework at their eighth Strategic Dialogue in Washington and reaffirm freedom of navigation through the Strait of Hormuz, per a joint statement.",
-   "ar": "الولايات المتحدة وقطر توقّعان إطاراً للمعادن الحيوية خلال الحوار الاستراتيجي الثامن في واشنطن، وتؤكّدان حرية الملاحة في مضيق هرمز، وفق بيان مشترك.",
-   "source": {
-    "name": "US Department of State",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-eighth-united-states-qatar-strategic-dialogue-an-enduring-strategic-partnership/"
-   }
-  },
-  {
-   "id": "20261123-2006-yashar-likud-third-round",
-   "time": "2026-11-23T20:06:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Yashar and Likud end a third round of unity talks after two hours without a breakthrough; a joint statement says they discussed judicial issues and will meet again.",
-   "ar": "حزبا «ياشار» و«الليكود» ينهيان جولة ثالثة من محادثات حكومة الوحدة بعد ساعتين من دون اختراق، وبيان مشترك يقول إنهما بحثا الملف القضائي وسيلتقيان مجدداً.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-likud-meeting-ends-after-two-hours-teams-to-meet-again"
-   }
-  },
-  {
-   "id": "20261123-1808-us-iran-shadow-banking-sanctions",
-   "time": "2026-11-23T18:08:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "The US Treasury sanctions more than two dozen exchange houses, front companies and individuals in Iran, the UAE, Türkiye and Hong Kong that it says run Iran's shadow banking system.",
-   "ar": "وزارة الخزانة الأميركية تفرض عقوبات على أكثر من عشرين من مكاتب الصرافة والشركات الواجهة والأفراد في إيران والإمارات وتركيا وهونغ كونغ، تقول إنها تدير منظومة الظل المصرفية الإيرانية.",
-   "source": {
-    "name": "US Treasury",
-    "url": "https://home.treasury.gov/news/press-releases/sb0697/"
    }
   }
  ]
