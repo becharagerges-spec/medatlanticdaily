@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-26T05:08:45Z",
+ "updated": "2026-11-26T06:09:37Z",
  "items": [
+  {
+   "id": "20261126-0600-saudi-minerals-forum-delay",
+   "time": "2026-11-26T06:00:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Saudi Arabia is preparing to postpone its flagship Future Minerals Forum, due in January, because of continuing attacks on the kingdom, the Financial Times reports.",
+   "ar": "السعودية تستعد لتأجيل «منتدى مستقبل المعادن»، أبرز مؤتمراتها للتعدين والمقرّر في كانون الثاني، بسبب استمرار الهجمات على المملكة، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261126-0600-nvidia-halts-se-asia-shipments",
+   "time": "2026-11-26T06:00:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Nvidia halts chip server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens export controls on AI computing power, the Financial Times reports.",
+   "ar": "«إنفيديا» توقف شحن خوادم رقائقها إلى ماليزيا وسنغافورة وتايلاند وإندونيسيا مع تشديد واشنطن قيود تصدير قدرات الذكاء الاصطناعي، بحسب «فايننشال تايمز».",
+   "source": {
+    "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261126-0452-south-lebanon-overnight-shelling",
+   "time": "2026-11-26T04:52:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli air strikes, shelling and detonations hit Talousa, Bani Hayyan, al-Qantara, Zawtar al-Sharqiya and Mayfadoun in south Lebanon overnight, with no casualties reported, per Lebanon's National News Agency.",
+   "ar": "غارات وقصف مدفعي وتفجيرات إسرائيلية تطال تلوسة وبني حيان والقنطرة وزوطر الشرقية وميفدون في جنوب لبنان ليلاً، من دون إصابات، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Al-Wakeel",
+    "url": "https://alwakeelnews.com/Section_11/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8_800598"
+   }
+  },
   {
    "id": "20261126-0428-gaza-hamas-education-official",
    "time": "2026-11-26T04:28:00Z",
@@ -11,6 +45,42 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/overnight-idf-strike-in-gaza-said-to-kill-hamas-education-official/"
+   }
+  },
+  {
+   "id": "20261126-0314-nevinnomyssk-drone-attack",
+   "time": "2026-11-26T03:14:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukrainian drones attack the industrial zone of Nevinnomyssk, home to the Azot fertiliser and explosives-feedstock plant, Stavropol Krai governor Vladimir Vladimirov says; no damage is confirmed.",
+   "ar": "مسيّرات أوكرانية تهاجم المنطقة الصناعية في نيفينوميسك حيث مصنع «آزوت» للأسمدة ومواد المتفجرات، بحسب حاكم ستافروبول فلاديمير فلاديميروف، من دون تأكيد أضرار.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/ukrainian-drones-attack-key-russian-fertilizer-plant-linked-to-explosives-production-in-stavropol-krai-local-official-says/"
+   }
+  },
+  {
+   "id": "20261126-0218-opcw-34-countries-chemical",
+   "time": "2026-11-26T02:18:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Thirty-four countries and the EU demand at the OPCW that Russia immediately stop using toxic chemicals in Ukraine, after a Ukrainian report documented 14,000 cases; Moscow denies it.",
+   "ar": "34 دولة والاتحاد الأوروبي يطالبون في منظمة حظر الأسلحة الكيميائية روسيا بوقف فوري لاستخدام المواد السامة في أوكرانيا، بعد تقرير أوكراني وثّق 14 ألف حالة، وموسكو تنفي.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/over-30-countries-demand-russia-stop-using-chemical-agents-as-weapons-of-war-in-ukraine/"
+   }
+  },
+  {
+   "id": "20261126-0106-lukoil-international-deal",
+   "time": "2026-11-26T01:06:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "A US consortium led by Eldridge Industries, with the US Development Finance Corporation, agrees to acquire sanctioned Lukoil's Austria-based global arm via a share swap, pending US Treasury approval.",
+   "ar": "تحالف أميركي بقيادة «إلدريدج إندستريز» ومعه مؤسسة تمويل التنمية الأميركية يتّفق على شراء ذراع «لوك أويل» الدولية الخاضعة للعقوبات عبر مبادلة أسهم، بانتظار موافقة الخزانة الأميركية.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/us-consortium-announces-deal-to-acquire-sanctioned-russian-oil-company-lukoils-global-subsidiary/"
    }
   },
   {
@@ -71,6 +141,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+   }
+  },
+  {
+   "id": "20261125-2142-kyiv-ballistic-shopping-centre",
+   "time": "2026-11-25T21:42:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian ballistic missile attack on Kyiv hits a shopping centre and an industrial building in Desnianskyi district, injuring 3 people, Mayor Vitali Klitschko says.",
+   "ar": "هجوم روسي بصواريخ باليستية على كييف يصيب مركزاً تجارياً ومبنى صناعياً في حي ديسنيانسكي ويجرح 3 أشخاص، بحسب رئيس البلدية فيتالي كليتشكو.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
    }
   },
   {
@@ -1709,90 +1791,6 @@
    "source": {
     "name": "AFP and Reuters via Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
-   }
-  },
-  {
-   "id": "20261123-0900-gold-rebounds-2pct",
-   "time": "2026-11-23T09:00:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Gold rises more than 2% to above $3,630 an ounce, rebounding from a 9% weekly fall as traders pare bets on a December Fed rate hike (Bloomberg).",
-   "ar": "الذهب يرتفع أكثر من 2% إلى ما فوق 3,630 دولاراً للأونصة، متعافياً من تراجع أسبوعي بنسبة 9% مع تقليص المتداولين رهاناتهم على رفع الاحتياطي الفدرالي الفائدة في كانون الأول (بلومبرغ).",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes"
-   }
-  },
-  {
-   "id": "20261123-0834-yashar-likud-knesset-round",
-   "time": "2026-11-23T08:34:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yashar and Likud will hold another round of unity-government talks this evening at the Knesset, per Hebrew media reports cited by Times of Israel.",
-   "ar": "«يشار» والليكود يعقدان جولة جديدة من مفاوضات حكومة الوحدة مساء اليوم في الكنيست، وفق تقارير إعلامية عبرية نقلتها «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-and-likud-to-meet-again-today-for-talks-on-potential-coalition"
-   }
-  },
-  {
-   "id": "20261123-0813-eisenkot-bloc-arab-committees",
-   "time": "2026-11-23T08:13:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's bloc moves to set up four Knesset oversight committees, two chaired by Arab party leaders Mansour Abbas and Yousef Jabareen, with a plenum vote due Monday, per Ynet.",
-   "ar": "كتلة آيزنكوت تتحرك لتشكيل أربع لجان رقابية في الكنيست، يرأس اثنتين منها زعيما حزبين عربيين منصور عباس ويوسف جبارين، على أن تصوّت الهيئة العامة الاثنين، بحسب «واي نت».",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/s1vcq00zyme"
-   }
-  },
-  {
-   "id": "20261123-0811-china-death-sentence-spy",
-   "time": "2026-11-23T08:11:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China sentences an official identified only as Ma to death for spying for an unnamed foreign intelligence service, the state-secrets protection administration's account says.",
-   "ar": "الصين تحكم بالإعدام على مسؤول عُرّف باسم عائلته «ما» بتهمة التجسس لصالح جهاز استخبارات أجنبي لم يُسمَّ، وفق حساب مرتبط بالإدارة الوطنية لحماية أسرار الدولة.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-sentences-official-death-spying-ma-state-secret-protection-espionage"
-   }
-  },
-  {
-   "id": "20261123-0803-baghaei-all-tools-blockade",
-   "time": "2026-11-23T08:03:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's Foreign Ministry spokesman Esmaeil Baghaei says Tehran will use 'all available tools' to confront the US naval blockade on its oil exports, restored since July 14.",
-   "ar": "المتحدث باسم الخارجية الإيرانية إسماعيل بقائي يقول إن طهران ستستخدم «كل الأدوات المتاحة» لمواجهة الحصار البحري الأميركي على صادراتها النفطية، المُعاد فرضه منذ 14 تموز.",
-   "source": {
-    "name": "Reuters",
-    "url": "https://www.yahoo.com/news/articles/iran-says-available-tools-confront-080301439.html"
-   }
-  },
-  {
-   "id": "20261123-0655-ukraine-153-drones",
-   "time": "2026-11-23T06:55:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukraine's Air Force says Russia launched 153 attack drones overnight, 60 of them jet-powered; air defences downed or suppressed 134, with hits recorded at 11 sites.",
-   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 153 مسيّرة هجومية خلال الليل، بينها 60 نفاثة؛ الدفاعات الجوية أسقطت أو عطّلت 134، وسُجّلت إصابات في 11 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4187520-air-defenses-neutralize-134-of-153-russian-drones-launched-at-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261123-0652-kremlin-trilateral-talks-soon",
-   "time": "2026-11-23T06:52:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Kremlin spokesman Dmitry Peskov says the next Russia-US-Ukraine meeting 'will take place soon' but that there is still no clarity on its date, per APA.",
-   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن الاجتماع المقبل بين روسيا والولايات المتحدة وأوكرانيا «سيُعقد قريباً»، لكن لا وضوح بعد بشأن موعده، بحسب وكالة «أبا».",
-   "source": {
-    "name": "APA",
-    "url": "https://en.apa.az/cis-countries/kremlin-announces-russia-us-ukraine-talks-to-resume-soon-537879"
    }
   }
  ]
