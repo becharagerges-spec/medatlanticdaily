@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T22:08:38Z",
+ "updated": "2026-11-26T00:09:04Z",
  "items": [
+  {
+   "id": "20261125-2100-wall-street-close-comeback",
+   "time": "2026-11-25T21:00:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Wall Street ends a volatile day mixed: the Dow closes up 0.3% after erasing a 1,100-point drop, while the Nasdaq falls 0.6% after briefly entering bear-market territory.",
+   "ar": "وول ستريت تُنهي يوماً متقلّباً على تباين: مؤشر داو يُغلق مرتفعاً 0.3% بعدما محا تراجعاً بـ1100 نقطة، فيما يتراجع ناسداك 0.6% بعد دخوله لفترة وجيزة منطقة السوق الهابطة.",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
+   }
+  },
+  {
+   "id": "20261125-2053-sp-nvidia-creditwatch",
+   "time": "2026-11-25T20:53:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "S&P Global places Nvidia's AA credit rating on CreditWatch negative over management and governance risks after Jensen Huang's exit and reinstatement, warning of a possible cut within 90 days.",
+   "ar": "«إس أند بي غلوبال» تضع تصنيف «إنفيديا» الائتماني AA قيد المراقبة السلبية بسبب مخاطر الإدارة والحوكمة بعد خروج جنسن هوانغ وإعادته، محذّرةً من خفض محتمل خلال 90 يوماً.",
+   "source": {
+    "name": "Reuters via Investing.com",
+    "url": "https://za.investing.com/news/stock-market-news/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks-4597377"
+   }
+  },
   {
    "id": "20261125-1821-giza-tanker-fire-21-killed",
    "time": "2026-11-25T18:21:00Z",
@@ -1768,29 +1792,6 @@
    "source": {
     "name": "Cointelegraph",
     "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo"
-   }
-  },
-  {
-   "id": "20261123-0118-novoshakhtinsk-refinery-fire",
-   "time": "2026-11-23T01:18:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Russia's Novoshakhtinsk oil refinery in Rostov region is reportedly burning after a large Ukrainian drone attack, per monitoring channels cited by the Kyiv Independent; damage is unverified.",
-   "ar": "مصفاة نوفوشاختينسك النفطية في مقاطعة روستوف الروسية تشتعل بحسب التقارير إثر هجوم واسع بمسيّرات أوكرانية، وفق قنوات رصد نقلت عنها «كييف إندبندنت»؛ ولم يُتحقق من حجم الأضرار.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
-   }
-  },
-  {
-   "id": "20261123-0028-us-tracked-huang-mss",
-   "time": "2026-11-23T00:28:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "The New York Times reports US intelligence tracked contacts between Alice Huang, the woman at the centre of the Nvidia chip affair, and an officer of China's Ministry of State Security.",
-   "ar": "«نيويورك تايمز» تفيد بأن الاستخبارات الأميركية رصدت اتصالات بين أليس هوانغ، المرأة التي تتوسّط قضية رقائق «إنفيديا»، وضابط في وزارة أمن الدولة الصينية.",
-   "source": {
-    "name": "The New York Times"
    }
   }
  ]
