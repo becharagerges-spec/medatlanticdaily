@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-26T12:09:39Z",
+ "updated": "2026-11-26T13:10:00Z",
  "items": [
+  {
+   "id": "20261126-1231-meloni-budget-mediterranean",
+   "time": "2026-11-26T12:31:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Italy's Meloni says EU leaders are 'light-years away' from a deal on the nearly €1.6 trillion 2028–2034 budget and warns Ukraine the war must not widen to the Mediterranean.",
+   "ar": "ميلوني تقول إن قادة الاتحاد الأوروبي «على بُعد سنوات ضوئية» من اتفاق على موازنة 2028–2034 البالغة نحو 1.6 تريليون يورو، وتحذّر أوكرانيا من توسيع الحرب إلى المتوسط.",
+   "source": {
+    "name": "Reuters via Global Banking & Finance Review",
+    "url": "https://www.globalbankingandfinance.com/italys-meloni-talks-tough-eu-budget-warns-ukraine/"
+   }
+  },
+  {
+   "id": "20261126-1212-russia-ukraine-bodies-exchange",
+   "time": "2026-11-26T12:12:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Russia returns 250 bodies to Ukraine and receives 22 Russian soldiers' bodies in an exchange on the Belarus border, per Russian lawmaker Shamsail Saraliyev.",
+   "ar": "روسيا تسلّم أوكرانيا 250 جثة وتتسلّم جثث 22 جندياً روسياً في عملية تبادل على الحدود مع بيلاروسيا، بحسب النائب الروسي شمس آيل سارالييف.",
+   "source": {
+    "name": "The Moscow Times via GSM Global",
+    "url": "https://gsmglobalnews.com/article/d20261126-bodyexchange1.html"
+   }
+  },
+  {
+   "id": "20261126-1116-army-aley-gunpowder",
+   "time": "2026-11-26T11:16:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanon's army says it seized 16 barrels of military-grade gunpowder, weapons and ammunition at a factory in Bakhshtiyeh, Aley, and arrested three Syrian nationals.",
+   "ar": "الجيش اللبناني يعلن ضبط 16 برميلاً من البارود الحربي وأسلحة وذخائر في معمل في بخشتيه، قضاء عاليه، وتوقيف ثلاثة سوريين.",
+   "source": {
+    "name": "Lebanese Army via MTV Lebanon"
+   }
+  },
+  {
+   "id": "20261126-1110-araghchi-seoul-call",
+   "time": "2026-11-26T11:10:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Araghchi tells South Korea's foreign minister that foreign military involvement will escalate tensions; Cho Hyun says Seoul will not intervene or send forces, per Iran's Foreign Ministry.",
+   "ar": "عراقجي يقول لوزير الخارجية الكوري الجنوبي إن أي تدخل عسكري أجنبي سيصعّد التوتر، وتشو هيون يؤكد أن سيول لن تتدخل ولن ترسل قوات، بحسب الخارجية الإيرانية.",
+   "source": {
+    "name": "Trend",
+    "url": "https://www.trend.az/iran/4250963.html"
+   }
+  },
   {
    "id": "20261126-1022-irgc-two-tankers-khasab",
    "time": "2026-11-26T10:22:00Z",
@@ -1744,54 +1791,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/"
-   }
-  },
-  {
-   "id": "20261123-1436-brent-falls-below-91",
-   "time": "2026-11-23T14:36:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Brent crude falls 3.63% to $89.21 a barrel and WTI 3.45% to $80.53 as rising Middle East supplies and a Libyan pipeline restart outweigh regional attack risks.",
-   "ar": "خام برنت يتراجع 3.63% إلى 89.21 دولاراً للبرميل وخام غرب تكساس 3.45% إلى 80.53 دولاراً، مع تغلّب زيادة الإمدادات من الشرق الأوسط وإعادة تشغيل خط أنابيب ليبي على مخاطر الهجمات في المنطقة.",
-   "source": {
-    "name": "Invezz",
-    "url": "https://invezz.com/news/2026/11/23/oil-price-today-brent-below-90-surplus-fears/"
-   }
-  },
-  {
-   "id": "20261123-1433-trump-huang-no-security-risk",
-   "time": "2026-11-23T14:33:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says the US government has 'no reason to believe' Jensen Huang's return to Nvidia poses any national security risk, and urges the company to continue its export-control investigation.",
-   "ar": "ترامب يقول إن الحكومة الأميركية «لا سبب لديها للاعتقاد» بأن عودة جنسن هوانغ إلى «إنفيديا» تشكّل أي خطر على الأمن القومي، ويدعو الشركة إلى مواصلة تحقيقها في الالتزام بضوابط التصدير.",
-   "source": {
-    "name": "Reuters via Yahoo Finance",
-    "url": "https://sg.finance.yahoo.com/news/trump-says-nvidia-board-made-142832710.html"
-   }
-  },
-  {
-   "id": "20261123-1410-nvidia-reinstates-huang",
-   "time": "2026-11-23T14:10:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Nvidia's board unanimously reinstates Jensen Huang as president and CEO with immediate effect, saying US government officials gave input and his return poses no national security risk.",
-   "ar": "مجلس إدارة «إنفيديا» يعيد بالإجماع جنسن هوانغ رئيساً تنفيذياً بمفعول فوري، ويقول إن مسؤولين في الحكومة الأميركية أبدوا رأيهم وإن عودته لا تشكّل خطراً على الأمن القومي.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
-   }
-  },
-  {
-   "id": "20261123-1410-drones-nabatieh-fawqa",
-   "time": "2026-11-23T14:10:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "An Israeli drone explodes on a house roof in Nabatieh al-Fawqa in south Lebanon, the second drone to blow up in the town within half an hour, the National News Agency says.",
-   "ar": "انفجار مسيّرة إسرائيلية على سطح منزل في النبطية الفوقا جنوب لبنان، وهي الثانية التي تنفجر في البلدة خلال أقل من نصف ساعة، بحسب الوكالة الوطنية للإعلام.",
-   "source": {
-    "name": "National News Agency via Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/23/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D8%B7%D8%AD-%D9%85%D9%86%D8%B2%D9%84-%D9%81/"
    }
   }
  ]
