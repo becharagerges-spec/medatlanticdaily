@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T08:09:46Z",
+ "updated": "2026-11-26T09:09:31Z",
  "items": [
+  {
+   "id": "20261126-0742-uk-veterans-mobilisation-letters",
+   "time": "2026-11-26T07:42:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Britain has written to about 100,000 former military personnel to ready them for possible mobilisation in the event of war, Defence Secretary Wes Streeting tells Sky News.",
+   "ar": "بريطانيا راسلت نحو 100,000 عسكري سابق لتهيئتهم لاحتمال التعبئة في حال اندلاع حرب، بحسب ما قاله وزير الدفاع ويس ستريتينغ لـ«سكاي نيوز».",
+   "source": {
+    "name": "Sky News",
+    "url": "https://x.com/haynesdeborah/status/2125857717004718561"
+   }
+  },
+  {
+   "id": "20261126-0734-china-reserves-measures-tariffs",
+   "time": "2026-11-26T07:34:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's commerce ministry calls the new US overcapacity tariff probe unilateralism, urges Washington to correct it and says Beijing reserves the right to take necessary measures.",
+   "ar": "وزارة التجارة الصينية تصف التحقيق الأميركي الجديد بشأن فائض الطاقة الإنتاجية والرسوم المقترحة بأنه أحادي الجانب، وتطالب واشنطن بتصحيحه، وتؤكد أن بكين تحتفظ بحق اتخاذ «الإجراءات اللازمة».",
+   "source": {
+    "name": "Reuters via Devdiscourse",
+    "url": "https://www.devdiscourse.com/article/international/4012466-china-says-it-reserves-right-to-take-measures-over-new-us-tariffs"
+   }
+  },
   {
    "id": "20261126-0706-coalition-drones-cruise-missile",
    "time": "2026-11-26T07:06:00Z",
@@ -11,6 +35,18 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+   }
+  },
+  {
+   "id": "20261126-0703-iraq-french-is-life",
+   "time": "2026-11-26T07:03:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "An Iraqi court sentences 8 French nationals to life in prison and 2 others to 15 years for joining the Islamic State group, and postpones verdicts for 10 more.",
+   "ar": "محكمة عراقية تقضي بالسجن المؤبد على 8 فرنسيين وبالسجن 15 عاماً على اثنين آخرين بتهمة الانتماء إلى تنظيم «داعش»، وتُرجئ الحكم على 10 آخرين.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iraq-court-sentences-8-french-nationals-to-life-in-prison-for-joining-is-3014089"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "POLITICO Europe",
     "url": "https://www.politico.eu/article/congo-eu-rwanda-deportation-deal-armed-militia/"
-   }
-  },
-  {
-   "id": "20261123-1202-congo-cobalt-export-ban",
-   "time": "2026-11-23T12:02:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "The Democratic Republic of Congo, the world's top cobalt producer, reimposes a full ban on cobalt exports to shore up falling prices, its second supply cut in two years.",
-   "ar": "جمهورية الكونغو الديمقراطية، أكبر منتج للكوبالت في العالم، تعيد فرض حظر كامل على صادرات الكوبالت لدعم الأسعار المتراجعة، في ثاني قطع للإمدادات خلال عامين.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/top-cobalt-producer-congo-will-ban-exports-again-as-prices-slide"
-   }
-  },
-  {
-   "id": "20261123-1152-barnea-war-iran",
-   "time": "2026-11-23T11:52:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Former Mossad chief David Barnea says Israel must go to war against Iran 'as soon as all conditions allow', arguing no agreement with Tehran's government can succeed.",
-   "ar": "الرئيس السابق للموساد ديفيد برنياع يقول إن على إسرائيل خوض الحرب ضد إيران «فور توافر كل الظروف»، معتبراً أن أي اتفاق مع حكومة طهران لن ينجح.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-must-go-to-war-against-iran-as-soon-as-all-conditions-allow-says-ex-mossad-chief"
-   }
-  },
-  {
-   "id": "20261123-1111-ukraine-daily-toll-4-killed",
-   "time": "2026-11-23T11:11:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Ukrainian regional officials say Russian attacks over the past day killed 4 people, including a 15-year-old boy in Sumy region, and injured 19 across six regions.",
-   "ar": "مسؤولون أوكرانيون محليون يقولون إن الهجمات الروسية خلال اليوم الماضي قتلت 4 أشخاص، بينهم فتى في الخامسة عشرة في منطقة سومي، وأصابت 19 في ست مناطق.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-4-including-15-year-old-boy-injure-19-across-ukraine-over-past-day/"
    }
   }
  ]
