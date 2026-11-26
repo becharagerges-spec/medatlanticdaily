@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T14:09:38Z",
+ "updated": "2026-11-26T15:09:18Z",
  "items": [
+  {
+   "id": "20261126-1358-trump-eisenkot-meeting",
+   "time": "2026-11-26T13:58:00Z",
+   "theater": "usa",
+   "status": "reported",
+   "en": "The White House has contacted Gadi Eisenkot to arrange a meeting with Trump if he forms Israel's next government, Saudi channel Al-Hadath reports, citing an Israeli source.",
+   "ar": "البيت الأبيض تواصل مع غادي آيزنكوت لترتيب لقاء مع ترامب إذا شكّل الحكومة الإسرائيلية المقبلة، بحسب قناة «الحدث» السعودية نقلاً عن مصدر إسرائيلي.",
+   "source": {
+    "name": "Al-Hadath via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-in-talks-with-eisenkot-to-arrange-meeting-if-he-forms-government-report"
+   }
+  },
+  {
+   "id": "20261126-1346-kuwait-italians-killed",
+   "time": "2026-11-26T13:46:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Kuwait's Defence Ministry says two Italian nationals died of injuries from an Iranian drone attack on a vital facility; a Kuwaiti and a Pakistani were also wounded.",
+   "ar": "وزارة الدفاع الكويتية تعلن وفاة مواطنَين إيطاليَّين متأثرَين بإصاباتهما جراء هجوم بمسيّرات إيرانية على موقع حيوي، فيما أُصيب كويتي وباكستاني أيضاً.",
+   "source": {
+    "name": "Kuwait Ministry of Defence",
+    "url": "https://x.com/KuwaitArmyGHQ/status/2125955230474949114"
+   }
+  },
+  {
+   "id": "20261126-1344-eisenkot-golan-deal",
+   "time": "2026-11-26T13:44:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Eisenkot's Yashar and Yair Golan's Democrats reach a coalition deal giving the Democrats four ministries, including an expanded internal security portfolio for Golan, labour and welfare, and communications.",
+   "ar": "حزب «يشار» بزعامة آيزنكوت و«الديمقراطيون» بزعامة يائير غولان يتوصلان إلى اتفاق ائتلافي يمنح الديمقراطيين أربع وزارات، بينها الأمن الداخلي الموسّعة لغولان والعمل والرفاه والاتصالات.",
+   "source": {
+    "name": "i24NEWS",
+    "url": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-eisenkot-and-golan-reach-an-understanding-democrats-to-receive-four-ministries-including-internal-security"
+   }
+  },
   {
    "id": "20261126-1342-de-cos-ecb-president",
    "time": "2026-11-26T13:42:00Z",
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "US Treasury",
     "url": "https://home.treasury.gov/news/press-releases/sb0697/"
-   }
-  },
-  {
-   "id": "20261123-1756-nvidia-board-no-consult",
-   "time": "2026-11-23T17:56:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Nvidia's board reinstated Jensen Huang as CEO without consulting the company's senior leadership, Bloomberg reports.",
-   "ar": "مجلس إدارة «إنفيديا» أعاد جنسن هوانغ إلى منصب الرئيس التنفيذي من دون التشاور مع القيادة العليا للشركة، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership"
-   }
-  },
-  {
-   "id": "20261123-1748-burnham-eu-referendum",
-   "time": "2026-11-23T17:48:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "UK Prime Minister Andy Burnham says rejoining the EU without a referendum is 'unthinkable' and accuses critics of being 'stuck in the past' for refusing to reopen the Brexit debate, per POLITICO.",
-   "ar": "رئيس الوزراء البريطاني آندي بيرنهام يقول إن العودة إلى الاتحاد الأوروبي من دون استفتاء «أمر لا يمكن تصوّره»، ويتّهم منتقديه بأنهم «عالقون في الماضي» لرفضهم إعادة فتح نقاش «بريكست»، بحسب «بوليتيكو».",
-   "source": {
-    "name": "POLITICO Europe",
-    "url": "https://www.politico.eu/article/rejoining-eu-without-referendum-unthinkable-andy-burnham/"
-   }
-  },
-  {
-   "id": "20261123-1731-eu-russia-sanctions-swift",
-   "time": "2026-11-23T17:31:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "The European Commission proposes new Russia sanctions cutting 60 Russian banks from SWIFT, listing 70 more shadow-fleet vessels, banning those tankers from EU ports and targeting crypto platforms (AP).",
-   "ar": "المفوضية الأوروبية تقترح عقوبات جديدة على روسيا تقطع 60 مصرفاً روسياً عن نظام «سويفت»، وتدرج 70 سفينة إضافية من «أسطول الظل» وتمنع ناقلاته من الموانئ الأوروبية وتستهدف منصات العملات المشفّرة (أسوشيتد برس).",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/business/2026/11/23/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-crypto-and-sports-events/"
    }
   }
  ]
