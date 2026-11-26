@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T07:08:38Z",
+ "updated": "2026-11-26T08:09:46Z",
  "items": [
+  {
+   "id": "20261126-0706-coalition-drones-cruise-missile",
+   "time": "2026-11-26T07:06:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it destroyed two Houthi drones over the Eastern Province and a cruise missile over the western region, and intercepted a drone near Jeddah port.",
+   "ar": "التحالف بقيادة السعودية يعلن تدمير مسيّرتين حوثيتين فوق المنطقة الشرقية وصاروخ كروز فوق المنطقة الغربية، واعتراض مسيّرة قرب ميناء جدة.",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+   }
+  },
   {
    "id": "20261126-0653-ukraine-113-drones",
    "time": "2026-11-26T06:53:00Z",
@@ -33,6 +45,18 @@
    "ar": "«إنفيديا» توقف شحن خوادم رقائقها إلى ماليزيا وسنغافورة وتايلاند وإندونيسيا مع تشديد واشنطن قيود تصدير قدرات الذكاء الاصطناعي، بحسب «فايننشال تايمز».",
    "source": {
     "name": "Financial Times"
+   }
+  },
+  {
+   "id": "20261126-0501-kim-tactical-nukes-tour",
+   "time": "2026-11-26T05:01:00Z",
+   "theater": "world",
+   "status": "confirmed",
+   "en": "North Korea's Kim Jong Un tours nuclear material and weapons research facilities and calls for wider deployment of tactical nuclear weapons across multiple domains, state agency KCNA says.",
+   "ar": "الزعيم الكوري الشمالي كيم جونغ أون يتفقد منشآت لإنتاج المواد النووية وأبحاث الأسلحة ويدعو إلى توسيع نشر الأسلحة النووية التكتيكية في مجالات متعددة، بحسب وكالة الأنباء المركزية الكورية.",
+   "source": {
+    "name": "Reuters via Daily Maverick",
+    "url": "https://www.dailymaverick.co.za/article/2026-11-26-north-koreas-kim-urges-wider-tactical-nuclear-weapons-deployment-on-facility-tour-kcna-says/"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Kyiv Independent",
     "url": "https://kyivindependent.com/russian-attacks-kill-4-including-15-year-old-boy-injure-19-across-ukraine-over-past-day/"
-   }
-  },
-  {
-   "id": "20261123-1040-salam-debl-school-visit",
-   "time": "2026-11-23T10:40:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Prime Minister Nawaf Salam accuses Israel of dragging students into a propaganda display after the Israeli army's Arabic spokeswoman filmed a video outside a school in Debl, in the occupied south.",
-   "ar": "رئيس الحكومة نواف سلام يتّهم إسرائيل بزجّ التلاميذ في استعراض دعائي بعد تصوير المتحدثة العسكرية الإسرائيلية بالعربية مقطعاً أمام مدرسة في دبل في الجنوب المحتل.",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323948-lebanon-denounces-israeli-military-official-s-visit-to-school-in-south"
-   }
-  },
-  {
-   "id": "20261123-1024-kremlin-painful-consequences",
-   "time": "2026-11-23T10:24:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin spokesman Dmitry Peskov says Ukraine's sinking of the corvette Merkury off Libya will bring 'highly painful consequences for the Kyiv regime'.",
-   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يقول إن إغراق أوكرانيا للطراد «ميركوري» قبالة ليبيا سيجرّ «عواقب مؤلمة للغاية على نظام كييف».",
-   "source": {
-    "name": "Mirror via AOL",
-    "url": "https://www.aol.co.uk/articles/russia-warns-painful-consequences-ukraine-113212000.html"
    }
   }
  ]
