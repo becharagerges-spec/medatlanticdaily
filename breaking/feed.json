@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-26T00:09:04Z",
+ "updated": "2026-11-26T03:08:34Z",
  "items": [
+  {
+   "id": "20261126-0041-hasakah-isil-checkpoint-attack",
+   "time": "2026-11-26T00:41:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Four gunmen blamed on ISIL attack a security checkpoint in Syria's Hasakah, killing 2 security personnel and wounding 5; all four attackers die, two in suicide blasts, local authorities say.",
+   "ar": "أربعة مسلحين يُنسبون إلى تنظيم داعش يهاجمون حاجزاً أمنياً في الحسكة السورية، فيقتلون عنصرَين أمنيَّين ويجرحون 5، ويُقتل المهاجمون الأربعة، اثنان منهم بتفجيرين انتحاريَّين، وفق السلطات المحلية.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack"
+   }
+  },
+  {
+   "id": "20261126-0028-bennett-denies-netanyahu-channel",
+   "time": "2026-11-26T00:28:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Naftali Bennett denies a Haaretz report that his aide runs a secret channel with Netanyahu's envoy, who allegedly offered Eisenkot-bloc defectors 7 slots on Likud's slate, per Times of Israel.",
+   "ar": "نفتالي بينيت ينفي تقريراً لـ«هآرتس» عن قناة سرّية يديرها مساعده مع مبعوث نتنياهو، الذي عرض بحسب التقرير 7 مقاعد على لائحة الليكود لمنشقّين عن كتلة آيزنكوت، وفق «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/bennett-denies-report-that-his-aide-is-holding-secret-talks-with-pm-confidant-on-unity-govt/"
+   }
+  },
+  {
+   "id": "20261125-2321-tanker-projectile-west-dubai",
+   "time": "2026-11-25T23:21:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "An unknown projectile causes an explosion near a tanker about 50 nautical miles west of Dubai, with no damage and all crew safe, the UK Maritime Trade Operations agency says.",
+   "ar": "مقذوف مجهول يتسبّب بانفجار قرب ناقلة على بُعد نحو 50 ميلاً بحرياً غرب دبي، من دون أضرار وجميع أفراد الطاقم بخير، وفق هيئة عمليات التجارة البحرية البريطانية.",
+   "source": {
+    "name": "Reuters via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/projectile-said-to-cause-explosion-near-tanker-west-of-dubai/"
+   }
+  },
+  {
+   "id": "20261125-2249-asia-datacentre-loans-halt",
+   "time": "2026-11-25T22:49:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Lenders halt billions of dollars in Asian data-centre loans tied to ByteDance, Alibaba and Tencent after new US licence rules for advanced AI chips, Bloomberg reports.",
+   "ar": "المقرضون يجمّدون قروضاً بمليارات الدولارات لمراكز بيانات آسيوية مرتبطة بـ«بايت دانس» و«علي بابا» و«تينسنت» بعد قواعد ترخيص أميركية جديدة للرقائق المتقدّمة للذكاء الاصطناعي، وفق «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+   }
+  },
   {
    "id": "20261125-2100-wall-street-close-comeback",
    "time": "2026-11-25T21:00:00Z",
@@ -1744,54 +1792,6 @@
    "source": {
     "name": "Kan via Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-planning-to-declare-coalition-at-surprise-timing-call-knesset-vote-quickly-to-limit-counter-maneuvers"
-   }
-  },
-  {
-   "id": "20261123-0342-saudi-strike-hodeida-4-killed",
-   "time": "2026-11-23T03:42:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Houthi health officials say a strike in Yemen's Hodeida province killed 11 people and injured 19; Saudi-backed forces have not commented, per AP.",
-   "ar": "مسؤولو الصحة لدى الحوثيين يقولون إن غارة في محافظة الحديدة اليمنية أودت بـ11 شخصاً وأصابت 19؛ ولم تعلّق القوات المدعومة سعودياً، بحسب أسوشييتد برس.",
-   "source": {
-    "name": "AP via Gulf News",
-    "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468"
-   }
-  },
-  {
-   "id": "20261123-0318-korea-finmin-stabilise",
-   "time": "2026-11-23T03:18:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "South Korean Finance Minister Lee Hyoung-il says Seoul will decide on activating stock-market stabilisation measures depending on conditions after the Kospi fell about 5%, and rules out easing short-selling rules.",
-   "ar": "وزير المال الكوري الجنوبي لي هيونغ-إيل يقول إن سيول ستقرّر تفعيل إجراءات تثبيت سوق الأسهم وفق الأوضاع بعد تراجع «كوسبي» نحو 5%، ويستبعد تخفيف قواعد البيع على المكشوف.",
-   "source": {
-    "name": "Reuters",
-    "url": "https://www.marketscreener.com/news/south-korea-vows-to-stabilise-stock-market-after-kospi-drops-5-ce785ed3d180f023"
-   }
-  },
-  {
-   "id": "20261123-0309-irgc-claims-78-us-drones",
-   "time": "2026-11-23T03:09:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards claim their air defences have shot down 78 US reconnaissance and combat drones, 58 MQ-9 Reapers and 20 MQ-1 Predators, per Tasnim.",
-   "ar": "الحرس الثوري الإيراني يزعم أن دفاعاته الجوية أسقطت 78 مسيّرة أميركية للاستطلاع والقتال، منها 58 من طراز MQ-9 «ريبر» و20 من طراز MQ-1 «بريداتور»، بحسب «تسنيم».",
-   "source": {
-    "name": "Press TV",
-    "url": "https://www.presstv.co.uk/Detail/2026/11/23/781372/irgc-says-it-has-shot-down-78-us-mq-9-and-mq-1-drones"
-   }
-  },
-  {
-   "id": "20261123-0255-trump-nvidia-rehire-huang",
-   "time": "2026-11-23T02:55:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "Trump says on Truth Social he hopes Nvidia's board rehires Jensen Huang, calling it 'the best thing for the Company, and also, for the U.S.A.', after Nvidia said it would not.",
-   "ar": "ترامب يقول على «تروث سوشال» إنه يأمل أن يعيد مجلس إدارة «إنفيديا» تعيين جنسن هوانغ، معتبراً ذلك «الأفضل للشركة وللولايات المتحدة»، بعدما قالت «إنفيديا» إنها لن تفعل.",
-   "source": {
-    "name": "Cointelegraph",
-    "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo"
    }
   }
  ]
