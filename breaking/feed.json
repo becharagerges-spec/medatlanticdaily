@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T18:09:45Z",
+ "updated": "2026-11-26T19:08:58Z",
  "items": [
+  {
+   "id": "20261126-1836-eu-summit-cut-short",
+   "time": "2026-11-26T18:36:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "EU leaders prepare to abandon the second day of their Brussels summit as a deal on the 2028–2034 budget and new Ukraine funding remains far out of reach, Politico reports.",
+   "ar": "قادة الاتحاد الأوروبي يستعدّون للتخلّي عن اليوم الثاني من قمّتهم في بروكسل، إذ يبقى الاتفاق على موازنة 2028–2034 وتمويل جديد لأوكرانيا بعيد المنال، بحسب «بوليتيكو».",
+   "source": {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/article/the-eus-showdown-over-next-big-budget-live-updates/"
+   }
+  },
   {
    "id": "20261126-1738-iraq-closes-kurdistan-crossings",
    "time": "2026-11-26T17:38:00Z",
@@ -131,6 +143,18 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/de-cos-is-poised-to-take-ecb-presidency-in-era-after-lagarde"
+   }
+  },
+  {
+   "id": "20261126-1240-germany-iraqis-synagogue-plot",
+   "time": "2026-11-26T12:40:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "German prosecutors arrest two Iraqis in Heidelberg and Cologne, accused of belonging to a pro-Iranian network linked to Kataib Hezbollah that targeted Jewish sites, including a Cologne synagogue.",
+   "ar": "النيابة العامة الألمانية توقف عراقيَّين في هايدلبرغ وكولونيا بتهمة الانتماء إلى شبكة موالية لإيران مرتبطة بكتائب حزب الله استهدفت مواقع يهودية، بينها كنيس في كولونيا.",
+   "source": {
+    "name": "German federal prosecutors via The National",
+    "url": "https://www.thenationalnews.com/news/europe/2026/11/26/two-iraqis-arrested-over-iran-backed-plot-to-attack-jewish-targets-in-germany/"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Khaleej Times",
     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026"
-   }
-  },
-  {
-   "id": "20261124-0149-lahj-strike-25-dead-missing",
-   "time": "2026-11-24T01:49:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Two Yemeni officials tell AFP an air strike on buses and trucks in Lahj province killed 26 people, 12 Houthi fighters and 14 civilians; the Houthis blame Saudi Arabia, the government blames the Houthis.",
-   "ar": "مسؤولان يمنيان يقولان لفرانس برس إن غارة على حافلات وشاحنات في محافظة لحج قتلت 26 شخصاً، بينهم 12 مقاتلاً حوثياً و14 مدنياً؛ الحوثيون يتّهمون السعودية والحكومة تتّهم الحوثيين.",
-   "source": {
-    "name": "AFP via Free Malaysia Today",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/24/yemen-officials-say-strike-on-buses-trucks-kills-26"
-   }
-  },
-  {
-   "id": "20261124-0143-iran-ship-cyberattacks",
-   "time": "2026-11-24T01:43:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "US officials are investigating Iran as the prime suspect in dozens of cyberattacks targeting up to 50 ships carrying oil and other cargo, with Russia also suspected, per The Wall Street Journal.",
-   "ar": "مسؤولون أميركيون يحققون في دور إيران كمشتبه رئيسي في عشرات الهجمات السيبرانية التي استهدفت ما يصل إلى 50 سفينة تنقل النفط وحمولات أخرى، مع شبهات بحق روسيا أيضاً، وفق «وول ستريت جورنال».",
-   "source": {
-    "name": "The Wall Street Journal via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/us-said-investigating-iran-as-prime-suspect-in-fresh-cyberattacks-on-ships/"
    }
   }
  ]
