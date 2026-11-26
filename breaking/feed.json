@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T13:10:00Z",
+ "updated": "2026-11-26T14:09:38Z",
  "items": [
+  {
+   "id": "20261126-1342-de-cos-ecb-president",
+   "time": "2026-11-26T13:42:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "EU leaders back Spain's Pablo Hernández de Cos to succeed Christine Lagarde as president of the European Central Bank, Bloomberg and Euronews report.",
+   "ar": "قادة الاتحاد الأوروبي يدعمون الإسباني بابلو هيرنانديز دي كوس لخلافة كريستين لاغارد في رئاسة البنك المركزي الأوروبي، بحسب «بلومبرغ» و«يورونيوز».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/de-cos-is-poised-to-take-ecb-presidency-in-era-after-lagarde"
+   }
+  },
   {
    "id": "20261126-1231-meloni-budget-mediterranean",
    "time": "2026-11-26T12:31:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "The Moscow Times via GSM Global",
     "url": "https://gsmglobalnews.com/article/d20261126-bodyexchange1.html"
+   }
+  },
+  {
+   "id": "20261126-1149-zelensky-new-mass-strike",
+   "time": "2026-11-26T11:49:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelensky says Ukrainian intelligence shows Russia is finishing preparations for a new mass strike on Ukraine's energy and logistics infrastructure.",
+   "ar": "زيلينسكي يقول إن الاستخبارات الأوكرانية تُظهر أن روسيا تُنهي استعداداتها لضربة واسعة جديدة على البنى التحتية للطاقة والنقل في أوكرانيا.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"
    }
   },
   {
@@ -49,6 +73,18 @@
    }
   },
   {
+   "id": "20261126-1107-dahiyeh-van-drivers-clash",
+   "time": "2026-11-26T11:07:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An armed clash between van drivers in Beirut's southern suburbs, in Laylaki and Hay al-Jamaa, wounds several people; the Lebanese army deploys in the area, per the National News Agency.",
+   "ar": "اشتباك مسلّح بين سائقي «فانات» في الضاحية الجنوبية لبيروت، في الليلكي وحي الجامعة، يوقع جرحى، والجيش اللبناني ينتشر في المنطقة، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "NNA via Daily Beirut",
+    "url": "https://dailybeirut.com/%D9%84%D8%A8%D9%86%D8%A7%D9%86/%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D9%83%D9%8A-%D9%88%D8%AD%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%85%D8%B3%D9%84%D8%AD/"
+   }
+  },
+  {
    "id": "20261126-1022-irgc-two-tankers-khasab",
    "time": "2026-11-26T10:22:00Z",
    "theater": "iran",
@@ -58,6 +94,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111"
+   }
+  },
+  {
+   "id": "20261126-1012-odesa-grain-ships-attacked",
+   "time": "2026-11-26T10:12:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's prime minister says Russia attacked two foreign civilian ships carrying more than 100,000 tonnes of grain near Odesa overnight.",
+   "ar": "رئيس الوزراء الأوكراني يقول إن روسيا هاجمت ليلاً سفينتين مدنيتين أجنبيتين تنقلان أكثر من 100 ألف طن من الحبوب قرب أوديسا.",
+   "source": {
+    "name": "Ukrainian Shipping Magazine",
+    "url": "https://en.usm.media/russia-attacked-two-foreign-grain-ships-near-odesa/"
    }
   },
   {
@@ -1743,54 +1791,6 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/business/2026/11/23/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-crypto-and-sports-events/"
-   }
-  },
-  {
-   "id": "20261123-1550-iran-courts-290bn-damages",
-   "time": "2026-11-23T15:50:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Hassan Abdolianpour, head of the Iranian judiciary's centre for lawyers, says Iranian courts have awarded $290 billion in damages against the United States for decades of US actions.",
-   "ar": "حسن عبدليان بور، رئيس مركز المحامين في السلطة القضائية الإيرانية، يقول إن المحاكم الإيرانية حكمت بتعويضات قدرها 290 مليار دولار على الولايات المتحدة عن عقود من الإجراءات الأميركية.",
-   "source": {
-    "name": "AFP via France 24",
-    "url": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages"
-   }
-  },
-  {
-   "id": "20261123-1529-maarab-sovereignty-front",
-   "time": "2026-11-23T15:29:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "The Sovereignty Front for Lebanon, including Samir Geagea, the Kataeb and the National Liberal Party, postpones the extraordinary meeting it had set for Tuesday in Maarab to a later date, per MTV.",
-   "ar": "«الجبهة السيادية من أجل لبنان»، ومن بينها سمير جعجع والكتائب وحزب الوطنيين الأحرار، تُرجئ إلى موعد لاحق اجتماعها الاستثنائي الذي كان مقرراً الثلاثاء في معراب، بحسب «إم تي في».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1761337"
-   }
-  },
-  {
-   "id": "20261123-1500-us-syria-training-mission",
-   "time": "2026-11-23T15:00:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "The US is discussing a multinational training mission for Syrian soldiers, starting with demining, that could return a small number of US troops to Syria next year, per Reuters.",
-   "ar": "الولايات المتحدة تبحث في مهمة تدريب متعددة الجنسيات للجنود السوريين تبدأ بنزع الألغام، وقد تعيد عدداً محدوداً من القوات الأميركية إلى سوريا العام المقبل، بحسب «رويترز».",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/exclusive-us-discussing-military-training-syrian-forces"
-   }
-  },
-  {
-   "id": "20261123-1443-sp500-surges-5pct",
-   "time": "2026-11-23T14:43:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stocks surge at the open after Huang's return to Nvidia: the S&P 500 rises more than 5%, the Nasdaq over 7% and Nvidia shares more than 28%.",
-   "ar": "الأسهم الأميركية تقفز عند الافتتاح بعد عودة هوانغ إلى «إنفيديا»: مؤشر «إس آند بي 500» يرتفع أكثر من 5% و«ناسداك» أكثر من 7% وسهم «إنفيديا» أكثر من 28%.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/"
    }
   }
  ]
