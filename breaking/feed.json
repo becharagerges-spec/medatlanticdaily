@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T09:09:31Z",
+ "updated": "2026-11-26T10:08:04Z",
  "items": [
+  {
+   "id": "20261126-0900-eisenkot-democrats-resume",
+   "time": "2026-11-26T09:00:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot says he resolved a dispute with Yair Golan's Democrats and coalition talks have resumed; his bloc holds 48 seats and has until December 6 to form a government.",
+   "ar": "غادي آيزنكوت يعلن تسوية الخلاف مع حزب «الديمقراطيين» بزعامة يائير غولان واستئناف مفاوضات الائتلاف، فيما تملك كتلته 48 مقعداً ولديه مهلة حتى 6 كانون الأول لتشكيل الحكومة.",
+   "source": {
+    "name": "Reuters via Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/israels-eisenkot-resumes-meetings-left-090053721.html"
+   }
+  },
+  {
+   "id": "20261126-0830-mecca-pact-islamabad",
+   "time": "2026-11-26T08:30:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Pakistan, Saudi Arabia and Turkey will hold a meeting on their Mecca mutual defence pact in Islamabad on November 27-28, with the Saudi and Turkish foreign ministers attending, two Pakistani sources tell Reuters.",
+   "ar": "باكستان والسعودية وتركيا تعقد في إسلام آباد يومَي 27 و28 تشرين الثاني اجتماعاً حول اتفاق الدفاع المشترك الموقّع في مكة، بمشاركة وزيرَي خارجية السعودية وتركيا، وفق مصدرين باكستانيين لـ«رويترز».",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/pakistan-saudi-turkey-to-hold-mecca-alliance-meeting-in-islamabad-nov-27-28-sources-say/3109599/"
+   }
+  },
   {
    "id": "20261126-0742-uk-veterans-mobilisation-letters",
    "time": "2026-11-26T07:42:00Z",
@@ -268,11 +292,11 @@
    "time": "2026-11-25T18:21:00Z",
    "theater": "africa",
    "status": "confirmed",
-   "en": "A fire after a vehicle carrying petroleum products overturned on Cairo's Ring Road in Giza kills at least 30 people and injures 15, Egypt's Health Ministry says.",
-   "ar": "حريق إثر انقلاب سيارة محمّلة بمواد بترولية على الطريق الدائري في الجيزة يودي بحياة 30 شخصاً على الأقل ويصيب 15 آخرين، بحسب وزارة الصحة المصرية.",
+   "en": "Egypt's Public Prosecution says it arrested the driver whose car hit a fuel tanker that overturned and burned on Giza's Ring Road; the Health Ministry's final toll is 31 dead, 21 injured.",
+   "ar": "النيابة العامة المصرية تعلن توقيف السائق الذي صدمت سيارته شاحنة وقود انقلبت واحترقت على الطريق الدائري في الجيزة، والحصيلة النهائية لوزارة الصحة 31 قتيلاً و21 جريحاً.",
    "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
+    "name": "Asharq News",
+    "url": "https://asharq.com/reports/204423/%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D8%A8%D8%A8-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82/"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "ar": "اللجنة الوطنية للحزب الديمقراطي تعتزم تنظيم 12 مناظرة للانتخابات التمهيدية الرئاسية لعام 2028، أولاها في حزيران 2027، بحسب «نيويورك تايمز».",
    "source": {
     "name": "The New York Times"
-   }
-  },
-  {
-   "id": "20261123-1310-zelensky-four-way-talks",
-   "time": "2026-11-23T13:10:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky tells NATO lawmakers in Berlin that Ukraine is ready 'literally tomorrow' for four-way talks with Europe, the US and Russia, and insists full NATO membership is 'the answer'.",
-   "ar": "زيلينسكي يقول لنوّاب من دول الناتو في برلين إن أوكرانيا مستعدة «حرفياً غداً» لمحادثات رباعية مع أوروبا والولايات المتحدة وروسيا، ويؤكد أن العضوية الكاملة في الناتو هي «الجواب».",
-   "source": {
-    "name": "AFP via 24 News HD",
-    "url": "https://www.24newshd.tv/23-Nov-2026/zelensky-calls-four-way-talks-russia-soon-possible"
-   }
-  },
-  {
-   "id": "20261123-1306-congo-eu-rwanda-deal",
-   "time": "2026-11-23T13:06:00Z",
-   "theater": "africa",
-   "status": "reported",
-   "en": "Congo's foreign minister tells POLITICO that EU countries' deportation deal with Rwanda could fund armed militias, accusing them of 'making an informed choice to look the other way'.",
-   "ar": "وزير خارجية الكونغو يقول لـ«بوليتيكو» إن اتفاق ترحيل المهاجرين بين دول أوروبية ورواندا قد يموّل ميليشيات مسلحة، متّهماً هذه الدول بأنها «تختار عن علم غضّ الطرف».",
-   "source": {
-    "name": "POLITICO Europe",
-    "url": "https://www.politico.eu/article/congo-eu-rwanda-deportation-deal-armed-militia/"
    }
   }
  ]
