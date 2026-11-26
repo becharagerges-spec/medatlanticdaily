@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T03:08:34Z",
+ "updated": "2026-11-26T05:08:45Z",
  "items": [
+  {
+   "id": "20261126-0428-gaza-hamas-education-official",
+   "time": "2026-11-26T04:28:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "An overnight Israeli strike on an apartment in Deir al-Balah kills Khaled Abu Nada, Hamas's deputy education minister, and his wife, per Palestinian media; Israel's army says it targeted a senior Hamas operative.",
+   "ar": "غارة إسرائيلية ليلية على شقة في دير البلح تقتل خالد أبو ندى، وكيل وزارة التربية في حكومة حماس، وزوجته، بحسب وسائل إعلام فلسطينية؛ والجيش الإسرائيلي يقول إنه استهدف قيادياً بارزاً في حماس.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/overnight-idf-strike-in-gaza-said-to-kill-hamas-education-official/"
+   }
+  },
+  {
+   "id": "20261126-0052-bank-of-korea-hike-325",
+   "time": "2026-11-26T00:52:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "The Bank of Korea raises its policy rate by a quarter point to 3.25%, its third hike this year, and lifts its 2027 growth forecast to 4.1% from 2.9%.",
+   "ar": "بنك كوريا يرفع سعر الفائدة الرئيسي ربع نقطة إلى 3.25%، في ثالث زيادة هذا العام، ويرفع توقعاته للنمو في 2027 إلى 4.1% من 2.9%.",
+   "source": {
+    "name": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/economy/2026/11/26/bank-of-korea-raises-rate-to-325-percent-lifts-growth"
+   }
+  },
   {
    "id": "20261126-0041-hasakah-isil-checkpoint-attack",
    "time": "2026-11-26T00:41:00Z",
@@ -83,6 +107,18 @@
    "source": {
     "name": "AP via KSAT",
     "url": "https://www.ksat.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
+   }
+  },
+  {
+   "id": "20261125-1812-eisenkot-liberman-defense-justice",
+   "time": "2026-11-25T18:12:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Eisenkot agrees in a coalition deal to give Liberman's Yisrael Beytenu the defence, justice and immigration ministries, per Israel's Channel 13.",
+   "ar": "آيزنكوت يوافق في اتفاق ائتلافي على منح حزب «يسرائيل بيتينو» بزعامة ليبرمان وزارات الدفاع والعدل والهجرة، بحسب القناة 13 الإسرائيلية.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-to-promise-libermans-party-the-justice-and-defense-portfolios/"
    }
   },
   {
@@ -1757,41 +1793,6 @@
    "source": {
     "name": "APA",
     "url": "https://en.apa.az/cis-countries/kremlin-announces-russia-us-ukraine-talks-to-resume-soon-537879"
-   }
-  },
-  {
-   "id": "20261123-0642-us-futures-rebound",
-   "time": "2026-11-23T06:42:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stock futures extend their rebound after last week's AI-led sell-off, with Nasdaq 100 futures up 3.6% and S&P 500 futures up 2.9% by 11:52 GMT (Bloomberg).",
-   "ar": "العقود الآجلة للأسهم الأميركية توسّع ارتدادها بعد موجة البيع التي قادتها أسهم الذكاء الاصطناعي الأسبوع الماضي، إذ ارتفعت عقود ناسداك 100 بنسبة 3.6% وستاندرد آند بورز 500 بنسبة 2.9% حتى الساعة 11:52 بتوقيت غرينتش («بلومبرغ»).",
-   "source": {
-    "name": "Bloomberg"
-   }
-  },
-  {
-   "id": "20261123-0500-iran-power-cuts",
-   "time": "2026-11-23T05:00:00Z",
-   "theater": "iran",
-   "status": "confirmed",
-   "en": "Iran's state power company Tavanir begins scheduled power cuts of up to 2 hours every other day, citing fuel shortages at power plants.",
-   "ar": "شركة الكهرباء الإيرانية الحكومية «توانير» تبدأ تقنيناً مجدولاً للكهرباء يصل إلى ساعتين كل يومين، بسبب نقص الوقود في محطات التوليد.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/23/iran-imposes-power-cuts-as-energy-crisis-worsens/"
-   }
-  },
-  {
-   "id": "20261123-0452-eisenkot-surprise-coalition",
-   "time": "2026-11-23T04:52:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Gadi Eisenkot plans to declare a coalition at a surprise moment in the coming weeks and call a Knesset vote within a day or two, even as a minority government, per Kan.",
-   "ar": "غادي آيزنكوت يعتزم إعلان ائتلافه في توقيت مفاجئ خلال الأسابيع المقبلة والدعوة إلى تصويت في الكنيست خلال يوم أو يومين، ولو بحكومة أقلية، بحسب «كان».",
-   "source": {
-    "name": "Kan via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-planning-to-declare-coalition-at-surprise-timing-call-knesset-vote-quickly-to-limit-counter-maneuvers"
    }
   }
  ]
