@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T17:09:14Z",
+ "updated": "2026-11-26T18:09:45Z",
  "items": [
+  {
+   "id": "20261126-1738-iraq-closes-kurdistan-crossings",
+   "time": "2026-11-26T17:38:00Z",
+   "theater": "iraq",
+   "status": "confirmed",
+   "en": "Iraq's border forces commander says the Al-Waleed crossing with Syria and the Bashta crossing with Iran, both in the Kurdistan Region, have been closed, after Baghdad ordered federal control of Kurdish-run crossings.",
+   "ar": "قائد قوات الحدود العراقية يعلن إغلاق معبر الوليد مع سوريا ومعبر باشته مع إيران في إقليم كردستان، بعد أمر بغداد بفرض السيطرة الاتحادية على المعابر التي يديرها الإقليم.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/iraq-closes-border-crossings-in-kurdistan-region-with-syria-and-iran-3014174"
+   }
+  },
   {
    "id": "20261126-1552-von-der-leyen-iran-pressure",
    "time": "2026-11-26T15:52:00Z",
@@ -14,6 +26,18 @@
    }
   },
   {
+   "id": "20261126-1544-houthis-jazan-refinery",
+   "time": "2026-11-26T15:44:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says the Houthis attacked Saudi Aramco's Jazan refinery, a day after Ras Tanura, and that it destroyed the ballistic missile launch platform used in Hodeidah.",
+   "ar": "التحالف بقيادة السعودية يعلن أن الحوثيين هاجموا مصفاة أرامكو في جازان، غداة استهداف رأس تنورة، وأنه دمّر منصة إطلاق الصواريخ الباليستية المستخدمة في الحديدة.",
+   "source": {
+    "name": "Saudi-led coalition via Xinhua",
+    "url": "https://english.news.cn/20261126/028a6cf66e8a4142927a35d87c69d229/c.html"
+   }
+  },
+  {
    "id": "20261126-1535-araghchi-mediators-hormuz",
    "time": "2026-11-26T15:35:00Z",
    "theater": "iran",
@@ -23,6 +47,42 @@
    "source": {
     "name": "Reuters via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-qatari-and-pakistani-mediators-still-transmitting-messages-between-iran-and-us"
+   }
+  },
+  {
+   "id": "20261126-1521-opec-quota-rollover-january",
+   "time": "2026-11-26T15:21:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "OPEC+ is considering keeping its current oil output quotas unchanged into January because of uncertainty from the Iran war, two delegates tell Bloomberg, ahead of Sunday's online meeting.",
+   "ar": "«أوبك+» تدرس إبقاء حصص إنتاج النفط الحالية دون تغيير حتى كانون الثاني بسبب الغموض الناجم عن حرب إيران، بحسب مندوبَين لـ«بلومبرغ»، قبل اجتماعها الافتراضي الأحد.",
+   "source": {
+    "name": "Bloomberg via Rigzone",
+    "url": "https://www.rigzone.com/news/wire/opec_mulls_sticking_with_current_quotas-26-nov-2026-185177-article/"
+   }
+  },
+  {
+   "id": "20261126-1440-hezbollah-50-percent-capabilities",
+   "time": "2026-11-26T14:40:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Unnamed US sources tell Al-Hadath that Hezbollah has regained 50% of its capabilities and that recent weapons seizures in Lebanon capture only a limited share of its smuggled supply.",
+   "ar": "مصادر أميركية لم تُسمَّ تقول لقناة «الحدث» إن حزب الله استعاد 50% من قدراته، وإن المضبوطات الأخيرة في لبنان لا تطال سوى جزء محدود من إمداداته المهرّبة.",
+   "source": {
+    "name": "Al-Hadath via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324049-hezbollah-has-restored-50-of-its-capabilities"
+   }
+  },
+  {
+   "id": "20261126-1426-eisenkot-lebanon-talks-meeting",
+   "time": "2026-11-26T14:26:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "An Israeli source tells Al-Hadath that PM-designate Eisenkot will keep negotiating with Lebanon and Syria, and that Washington seeks a Lebanese-Israeli political meeting within 2 to 3 weeks.",
+   "ar": "مصدر إسرائيلي يقول لقناة «الحدث» إن رئيس الحكومة المكلّف آيزنكوت سيواصل التفاوض مع لبنان وسوريا، وإن واشنطن تسعى إلى اجتماع سياسي لبناني-إسرائيلي خلال أسبوعين إلى ثلاثة.",
+   "source": {
+    "name": "Al-Hadath via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324048-eisenkot-to-continue-talks-with-lebanon-meeting-to-be-held-within-2-3-weeks"
    }
   },
   {
@@ -1731,66 +1791,6 @@
    "source": {
     "name": "The Wall Street Journal via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/us-said-investigating-iran-as-prime-suspect-in-fresh-cyberattacks-on-ships/"
-   }
-  },
-  {
-   "id": "20261124-0130-asia-stocks-rally",
-   "time": "2026-11-24T01:30:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Asian stocks surge after Jensen Huang's return to Nvidia: South Korea's Kospi jumps 7.5%, Taiwan shares 9.1% and Japan's Nikkei 4.5%, while Brent holds near $89.50 a barrel.",
-   "ar": "الأسهم الآسيوية تقفز بعد عودة جنسن هوانغ إلى «إنفيديا»: مؤشر كوسبي الكوري يرتفع 7.5% وأسهم تايوان 9.1% ونيكاي الياباني 4.5%، فيما يستقر برنت قرب 89.50 دولاراً للبرميل.",
-   "source": {
-    "name": "Reuters",
-    "url": "https://www.aol.com/articles/asian-stocks-rally-huangs-nvidia-012932000.html"
-   }
-  },
-  {
-   "id": "20261124-0020-khan-younis-strike",
-   "time": "2026-11-24T00:20:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "Israeli strikes in Gaza kill at least 6 Palestinians, medics say: 3, including 2 police officers, at a Khan Younis police post and 3 near the Netzarim corridor; Israel's army says it struck militants.",
-   "ar": "غارات إسرائيلية على غزة تقتل 6 فلسطينيين على الأقل بحسب مسعفين: 3 بينهم شرطيان في موقع للشرطة في خان يونس و3 قرب محور نتساريم، والجيش الإسرائيلي يقول إنه استهدف مسلحين.",
-   "source": {
-    "name": "Reuters via Al-Monitor",
-    "url": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say"
-   }
-  },
-  {
-   "id": "20261123-2252-skorea-ulleung-shelter-russian-jets",
-   "time": "2026-11-23T22:52:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "South Korea briefly orders Ulleung Island residents to take shelter and scrambles fighter jets after several Russian military aircraft enter its air defence identification zone, per AP.",
-   "ar": "كوريا الجنوبية تأمر سكان جزيرة أولونغ بالاحتماء لدقائق وترسل مقاتلات بعد دخول عدة طائرات عسكرية روسية منطقة تمييز الدفاع الجوي التابعة لها (أسوشيتد برس).",
-   "source": {
-    "name": "AP via CP24",
-    "url": "https://www.cp24.com/news/world/2026/11/24/south-korea-issues-evacuation-warning-on-island-after-russian-aircraft-enter-air-defence-zone/"
-   }
-  },
-  {
-   "id": "20261123-2223-irgc-three-tankers-mines",
-   "time": "2026-11-23T22:23:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say three oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz while under US military escort; there is no US comment.",
-   "ar": "الحرس الثوري الإيراني يقول إن ثلاث ناقلات نفط انفجرت واشتعلت فيها النيران بعد اصطدامها بألغام بحرية في مضيق هرمز أثناء عبورها بمواكبة عسكرية أميركية، ولا تعليق أميركياً.",
-   "source": {
-    "name": "IRNA via The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
-   }
-  },
-  {
-   "id": "20261123-2210-vance-qatari-mediators",
-   "time": "2026-11-23T22:10:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Vice President JD Vance meets Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani on Doha's push to negotiate an end to the Iran war, per Times of Israel.",
-   "ar": "نائب الرئيس الأميركي جي دي فانس يلتقي رئيس الوزراء القطري محمد بن عبد الرحمن آل ثاني لبحث المسعى القطري للتفاوض على إنهاء الحرب مع إيران، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/vance-meets-with-qatari-mediators-over-a-week-after-trump-said-he-should-shift-focus-off-iran/"
    }
   }
  ]
