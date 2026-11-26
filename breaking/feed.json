@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T16:08:41Z",
+ "updated": "2026-11-26T17:09:14Z",
  "items": [
+  {
+   "id": "20261126-1552-von-der-leyen-iran-pressure",
+   "time": "2026-11-26T15:52:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "European Commission President Ursula von der Leyen says the EU must step up pressure on Iran to end 'these unacceptable attacks' after two Italians were killed in Kuwait.",
+   "ar": "رئيسة المفوضية الأوروبية أورسولا فون دير لاين تقول إن على الاتحاد الأوروبي تصعيد الضغط على إيران لوقف «هذه الهجمات غير المقبولة» بعد مقتل إيطاليَّين في الكويت.",
+   "source": {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202611214578"
+   }
+  },
   {
    "id": "20261126-1535-araghchi-mediators-hormuz",
    "time": "2026-11-26T15:35:00Z",
@@ -30,11 +42,11 @@
    "time": "2026-11-26T13:46:00Z",
    "theater": "gulf",
    "status": "confirmed",
-   "en": "Kuwait's Defence Ministry says two Italian nationals died of injuries from an Iranian drone attack on a vital facility; a Kuwaiti and a Pakistani were also wounded.",
-   "ar": "وزارة الدفاع الكويتية تعلن وفاة مواطنَين إيطاليَّين متأثرَين بإصاباتهما جراء هجوم بمسيّرات إيرانية على موقع حيوي، فيما أُصيب كويتي وباكستاني أيضاً.",
+   "en": "Kuwait says an Iranian drone attack on a vital facility killed two Italians and wounded two, invoking its Article 51 right to self-defence; Iran's military denies any operation in the region.",
+   "ar": "الكويت تعلن أن هجوماً بمسيّرات إيرانية على منشأة حيوية قتل إيطاليَّين وأصاب اثنين، وتتمسّك بحقها في الدفاع عن النفس وفق المادة 51؛ والجيش الإيراني ينفي تنفيذ أي عملية في المنطقة.",
    "source": {
-    "name": "Kuwait Ministry of Defence",
-    "url": "https://x.com/KuwaitArmyGHQ/status/2125955230474949114"
+    "name": "Kuwait Times",
+    "url": "https://kuwaittimes.com/article/54417/kuwait/kuwait-condemns-continued-iranian-aggression-after-drone-attack-kills-2-italians/"
    }
   },
   {
@@ -1779,18 +1791,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/vance-meets-with-qatari-mediators-over-a-week-after-trump-said-he-should-shift-focus-off-iran/"
-   }
-  },
-  {
-   "id": "20261123-2100-nvidia-closes-up-31pct",
-   "time": "2026-11-23T21:00:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nvidia shares close up 31.5%, adding about $952 billion in market value, as the S&P 500 ends 4.7% higher and the Nasdaq 6.5% after Huang's return as CEO.",
-   "ar": "سهم «إنفيديا» يُغلق مرتفعاً 31.5% مضيفاً نحو 952 مليار دولار إلى قيمتها السوقية، فيما يُنهي مؤشر «إس آند بي 500» الجلسة مرتفعاً 4.7% و«ناسداك» 6.5% بعد عودة هوانغ رئيساً تنفيذياً.",
-   "source": {
-    "name": "CNN",
-    "url": "https://edition.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
    }
   }
  ]
