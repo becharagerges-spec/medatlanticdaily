@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:10:27Z",
+ "updated": "2026-11-27T14:08:52Z",
  "items": [
   {
    "id": "20261127-1219-irgc-f16-hengam",
@@ -62,6 +62,18 @@
    }
   },
   {
+   "id": "20261127-1122-zelensky-us-pressure-putin",
+   "time": "2026-11-27T11:22:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelenskyy urges the US to pressure Putin, calls Trump's 'my friend' remark strange, and says the Pentagon is not delivering paid-for Patriot missiles, AP reports.",
+   "ar": "زيلينسكي يدعو الولايات المتحدة إلى الضغط على بوتين، ويصف وصف ترامب له بـ«صديقي» بالغريب، ويقول إن البنتاغون لا يسلّم صواريخ باتريوت مدفوعة الثمن، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP",
+    "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386"
+   }
+  },
+  {
    "id": "20261127-1117-taiz-strike-11-killed",
    "time": "2026-11-27T11:17:00Z",
    "theater": "saudi",
@@ -119,6 +131,18 @@
    "source": {
     "name": "LBCI",
     "url": "https://www.lbcgroup.tv/news/lebanon-news/969910/security-measures-in-bnehrane-internal-security-forces-set-up-checkpoi/en"
+   }
+  },
+  {
+   "id": "20261127-1012-gaza-hayya-son-strike",
+   "time": "2026-11-27T10:12:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "An Israeli strike in Gaza City targeted the last surviving son of Hamas leader Khalil al-Hayya, who reportedly survived; 6 Palestinians were wounded, per Sky News Arabia.",
+   "ar": "غارة إسرائيلية في مدينة غزة استهدفت آخر أبناء رئيس حركة حماس خليل الحية الأحياء، وأفادت تقارير بنجاته، فيما أُصيب 6 فلسطينيين، بحسب «سكاي نيوز عربية».",
+   "source": {
+    "name": "Sky News Arabia via The Jerusalem Post",
+    "url": "https://www.yahoo.com/news/world/articles/israel-strikes-hamas-leader-khalil-122459717.html"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/report-netanyahu-unsuccessful-in-attempts-to-hold-talks-with-utj-lawmakers/"
-   }
-  },
-  {
-   "id": "20261124-1838-likud-yashar-fourth-round",
-   "time": "2026-11-24T18:38:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Likud and Eisenkot's Yashar are set for a fourth round of unity-government talks on Wednesday, covering rotation, coalition partners and an October 7 inquiry, per Times of Israel.",
-   "ar": "الليكود وحزب «يشار» بقيادة آيزنكوت يعقدان الأربعاء جولة رابعة من محادثات حكومة الوحدة تتناول التناوب والشركاء في الائتلاف ولجنة تحقيق في 7 أكتوبر، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/likud-yashar-set-for-fourth-round-of-unity-talks-tomorrow/"
-   }
-  },
-  {
-   "id": "20261124-1813-putin-refinery-retaliation",
-   "time": "2026-11-24T18:13:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Putin tells a Kremlin meeting with oil executives that Ukraine keeps striking Russian refineries despite Trump's direct request to stop, saying Russian 'retaliatory measures are inevitable'.",
-   "ar": "بوتين يقول في اجتماع في الكرملين مع مسؤولي شركات النفط إن أوكرانيا تواصل ضرب المصافي الروسية رغم طلب ترامب المباشر بالتوقف، مؤكداً أن «الرد الروسي حتمي».",
-   "source": {
-    "name": "Reuters via The Moscow Times",
-    "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
    }
   }
  ]
