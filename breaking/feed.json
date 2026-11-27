@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T22:09:56Z",
+ "updated": "2026-11-27T00:08:57Z",
  "items": [
+  {
+   "id": "20261126-2146-ramat-hasharon-suspect",
+   "time": "2026-11-26T21:46:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israeli police arrest a suspect near Ramat Hasharon whom Hebrew media describe as a Palestinian who said he planned a terror attack; no weapons were reportedly found.",
+   "ar": "الشرطة الإسرائيلية توقف مشتبهاً به قرب رمات هشارون تصفه وسائل إعلام عبرية بأنه فلسطيني قال إنه كان يخطّط لهجوم، ولم يُعثر بحسب التقارير على أسلحة.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-26-2026/"
+   }
+  },
   {
    "id": "20261126-2119-frugals-walk-out-costa",
    "time": "2026-11-26T21:19:00Z",
@@ -10,6 +22,18 @@
    "ar": "قادة الدول الأوروبية «المقتصدة» الساعية إلى موازنة أصغر ينسحبون من صيغة القمة التي اعتمدها رئيس المجلس الأوروبي أنطونيو كوستا ويطالبون بتغيير المقاربة، بحسب «بوليتيكو».",
    "source": {
     "name": "Politico Europe"
+   }
+  },
+  {
+   "id": "20261126-2107-board-of-peace-netanyahu",
+   "time": "2026-11-26T21:07:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Gaza's Board of Peace says it is encouraged by talks with Netanyahu's office, after reports he told Jared Kushner he would let more aid into Gaza, per Times of Israel.",
+   "ar": "«مجلس السلام» الخاص بغزة يقول إنه متفائل بالمحادثات مع مكتب نتنياهو، بعد تقارير عن إبلاغه جاريد كوشنر بأنه سيسمح بإدخال مزيد من المساعدات إلى غزة، بحسب «تايمز أوف إسرائيل».",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/gazas-board-of-peace-says-it-is-encouraged-by-recent-conversations-with-netanyahu/"
    }
   },
   {
@@ -52,12 +76,12 @@
    "id": "20261126-1836-eu-summit-cut-short",
    "time": "2026-11-26T18:36:00Z",
    "theater": "europe",
-   "status": "reported",
-   "en": "EU leaders prepare to abandon the second day of their Brussels summit as a deal on the 2028–2034 budget and new Ukraine funding remains far out of reach, Politico reports.",
-   "ar": "قادة الاتحاد الأوروبي يستعدّون للتخلّي عن اليوم الثاني من قمّتهم في بروكسل، إذ يبقى الاتفاق على موازنة 2028–2034 وتمويل جديد لأوكرانيا بعيد المنال، بحسب «بوليتيكو».",
+   "status": "confirmed",
+   "en": "EU leaders leave their Brussels summit without a deal on the 2028–2034 budget or new Ukraine funding, pushing the talks to December's summit.",
+   "ar": "قادة الاتحاد الأوروبي يغادرون قمّتهم في بروكسل من دون اتفاق على موازنة 2028–2034 ولا على تمويل جديد لأوكرانيا، فتُرحَّل المفاوضات إلى قمّة كانون الأول.",
    "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/the-eus-showdown-over-next-big-budget-live-updates/"
+    "name": "EUobserver",
+    "url": "https://euobserver.com/252027/eu-leaders-leave-brussels-with-no-budget-deal-piling-pressure-on-christmas-summit"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Arutz Sheva",
     "url": "https://www.israelnationalnews.com/flashes/698381"
-   }
-  },
-  {
-   "id": "20261124-0650-ghalibaf-seven-conditions",
-   "time": "2026-11-24T06:50:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian parliament speaker and chief negotiator Mohammad Bagher Ghalibaf says Tehran will not negotiate with Washington until its seven conditions are met, warning Iran could widen the war's geography, per Fars.",
-   "ar": "رئيس البرلمان الإيراني وكبير المفاوضين محمد باقر قاليباف يقول إن طهران لن تفاوض واشنطن قبل تلبية شروطها السبعة، محذّراً من أن إيران قد توسّع جغرافيا الحرب، بحسب «فارس».",
-   "source": {
-    "name": "Fars via Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
-   }
-  },
-  {
-   "id": "20261124-0506-zaporizhzhia-2-killed-22",
-   "time": "2026-11-24T05:06:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "A Russian overnight glide-bomb attack on Zaporizhzhia kills 2 civilians and wounds 48, including four children, regional head Mykhailo Semikin says.",
-   "ar": "هجوم روسي ليلي بقنابل موجّهة على زابوريجيا يقتل مدنيَّين اثنين ويصيب 48 بينهم أربعة أطفال، وفق رئيس الإدارة العسكرية في المنطقة ميخايلو سيميكين.",
-   "source": {
-    "name": "AP via KSAT",
-    "url": "https://www.ksat.com/business/2026/11/24/a-russian-strike-on-ukraine-kills-2-and-wounds-48-as-kyiv-explains-its-attack-in-libya/"
    }
   }
  ]
