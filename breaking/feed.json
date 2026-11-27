@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T04:08:53Z",
+ "updated": "2026-11-27T05:09:01Z",
  "items": [
+  {
+   "id": "20261127-0440-australia-sanctions-iran-arson",
+   "time": "2026-11-27T04:40:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Australia imposes counterterrorism financing sanctions on two men it says orchestrated the 2024 arson attacks on a Sydney kosher restaurant and Melbourne's Adass Israel Synagogue on Iran's behalf.",
+   "ar": "أستراليا تفرض عقوبات مالية لمكافحة الإرهاب على رجلين تقول إنهما دبّرا لحساب إيران هجمات الحرق عام 2024 على مطعم كوشير في سيدني وكنيس «عداس إسرائيل» في ملبورن.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215"
+   }
+  },
   {
    "id": "20261127-0403-tula-efremov-drone-blasts",
    "time": "2026-11-27T04:03:00Z",
@@ -71,6 +83,18 @@
    "source": {
     "name": "Israel National News",
     "url": "https://www.israelnationalnews.com/news/437242"
+   }
+  },
+  {
+   "id": "20261126-2246-bennett-ultimatums",
+   "time": "2026-11-26T22:46:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Naftali Bennett demands Netanyahu publicly accept serving second in a rotation with Eisenkot, or he will back an Eisenkot-led minority government, per i24NEWS.",
+   "ar": "نفتالي بينيت يطالب نتنياهو بإعلان قبوله علناً أن يكون رئيس الحكومة الثاني في مداورة مع آيزنكوت، وإلا فسيدعم حكومة أقلية برئاسة آيزنكوت، بحسب «i24NEWS».",
+   "source": {
+    "name": "i24NEWS",
+    "url": "https://www.i24news.tv/en/news/israel/politics/artc-bennett-issues-ultimatums-to-netanyahu-and-eisenkot-over-coalition-talks"
    }
   },
   {
@@ -722,11 +746,11 @@
    "time": "2026-11-25T21:42:00Z",
    "theater": "ukraine",
    "status": "confirmed",
-   "en": "A Russian ballistic missile attack on Kyiv hits a shopping centre and an industrial building in Desnianskyi district, injuring 3 people, Mayor Vitali Klitschko says.",
-   "ar": "هجوم روسي بصواريخ باليستية على كييف يصيب مركزاً تجارياً ومبنى صناعياً في حي ديسنيانسكي ويجرح 3 أشخاص، بحسب رئيس البلدية فيتالي كليتشكو.",
+   "en": "A Russian ballistic missile attack on Kyiv hits a shopping centre and an industrial building in Desnianskyi district, wounding 7 people, Mayor Vitali Klitschko says.",
+   "ar": "هجوم روسي بصواريخ باليستية على كييف يصيب مركزاً تجارياً ومبنى صناعياً في حي ديسنيانسكي ويجرح 7 أشخاص، بحسب رئيس البلدية فيتالي كليتشكو.",
    "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+    "name": "Reuters via US News",
+    "url": "https://www.usnews.com/news/world/articles/2026-11-25/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/huckabee-casts-doubt-on-trumps-claim-that-us-aid-to-israel-will-end-this-year/"
-   }
-  },
-  {
-   "id": "20261124-1003-malaysia-data-centres-blacklist",
-   "time": "2026-11-24T10:03:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "Malaysia will advise data centre operators not to host, lease space to or serve seven companies newly placed on a US trade blacklist, as Singapore's PM says it won't be a route around US chip curbs, Bloomberg reports.",
-   "ar": "ماليزيا ستطلب من مشغّلي مراكز البيانات عدم استضافة سبع شركات أُدرجت حديثاً على القائمة السوداء التجارية الأميركية أو تأجيرها أو خدمتها، ورئيس وزراء سنغافورة يقول إن بلاده لن تكون ممراً للالتفاف على القيود الأميركية على الرقائق («بلومبرغ»).",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-tells-data-centers-to-cut-off-firms-on-us-blacklist"
-   }
-  },
-  {
-   "id": "20261124-1003-china-warns-huang-comeback",
-   "time": "2026-11-24T10:03:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "Chinese state media urge vigilance over Jensen Huang's return as Nvidia CEO, warning it does not end the risk of further US chip controls or 'witch hunts', per Bloomberg.",
-   "ar": "وسائل الإعلام الرسمية الصينية تدعو إلى الحذر من عودة جنسن هوانغ إلى رئاسة إنفيديا، محذّرة من أنها لا تنهي خطر قيود أميركية إضافية على الرقائق أو «حملات مطاردة» («بلومبرغ»).",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us"
    }
   }
  ]
