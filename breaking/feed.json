@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-27T05:09:01Z",
+ "updated": "2026-11-27T06:09:41Z",
  "items": [
+  {
+   "id": "20261127-0554-china-stocks-rebound",
+   "time": "2026-11-27T05:54:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Chinese stocks rebound from one-year lows after Beijing's support pledge, with the CSI 300 up 3.5% and the Shanghai Composite up 3.2%, per Investing.com.",
+   "ar": "الأسهم الصينية ترتدّ من أدنى مستوياتها في عام بعد تعهّد بكين بالدعم، إذ يرتفع مؤشر CSI 300 بنسبة 3.5% ومؤشر شنغهاي المركّب 3.2%، بحسب Investing.com.",
+   "source": {
+    "name": "Investing.com",
+    "url": "https://uk.investing.com/news/stock-market-news/chinese-stocks-rebound-from-1yr-lows-after-beijing-pledges-more-support-5006013"
+   }
+  },
+  {
+   "id": "20261127-0445-china-state-council-market-support",
+   "time": "2026-11-27T04:45:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "China's State Council pledges new capital-market support and a bigger role for state-backed funds in a rare midday statement amid a sustained stock sell-off, per Xinhua.",
+   "ar": "مجلس الدولة الصيني يتعهّد بدعم جديد لأسواق رأس المال ودور أكبر للصناديق الحكومية في بيان نادر عند منتصف النهار وسط موجة بيع متواصلة في الأسهم، بحسب «شينخوا».",
+   "source": {
+    "name": "Xinhua via Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release"
+   }
+  },
+  {
+   "id": "20261127-0445-kosdaq-jumps",
+   "time": "2026-11-27T04:45:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "South Korea's Kosdaq jumps about 6.7% and the Kospi nearly 4% as risk appetite returns in Asia, with Nasdaq 100 futures up about 2.4%, per investingLive.",
+   "ar": "مؤشر كوسداك الكوري الجنوبي يقفز نحو 6.7% ومؤشر كوسبي قرابة 4% مع عودة الإقبال على المخاطرة في آسيا، فيما ترتفع عقود ناسداك 100 الآجلة نحو 2.4%، بحسب investingLive.",
+   "source": {
+    "name": "investingLive",
+    "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/"
+   }
+  },
   {
    "id": "20261127-0440-australia-sanctions-iran-arson",
    "time": "2026-11-27T04:40:00Z",
@@ -65,12 +101,12 @@
    "id": "20261126-2328-araghchi-kuwait-precooked",
    "time": "2026-11-26T23:28:00Z",
    "theater": "iran",
-   "status": "confirmed",
-   "en": "Iranian Foreign Minister Abbas Araghchi calls the Kuwait drone incident that killed two Italians 'suspicious' and a 'pre-cooked recipe for war', denying Iranian involvement.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يصف حادثة المسيّرة في الكويت التي قتلت إيطاليَّين بأنها «مريبة» و«وصفة جاهزة للحرب»، نافياً أي تورط إيراني.",
+   "status": "reported",
+   "en": "Iranian Foreign Minister Abbas Araghchi denies any Iranian role in the Kuwait drone incident that killed two Italians, calls it 'suspicious' and offers a joint investigation with Kuwait and Italy.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي ينفي أي دور لإيران في حادثة المسيّرة في الكويت التي قتلت إيطاليَّين، ويصفها بـ«المشبوهة» ويعرض تحقيقاً مشتركاً مع الكويت وإيطاليا.",
    "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+    "name": "Xinhua via China Daily",
+    "url": "https://global.chinadaily.com.cn/a/202611/27/WS6b08db90e4b03ebf8519ef4b.html"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "Sepah News via Newsquawk",
     "url": "https://www.newsquawk.com/headlines/explosion-of-the-fourth-offending-tanker-in-the-east-of-the-strait-of-hormuz--fars-reports"
-   }
-  },
-  {
-   "id": "20261124-1045-hajj-hassan-patience-limits",
-   "time": "2026-11-24T10:45:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Hezbollah MP Hussein Hajj Hassan says US intervention pushed judges to charge detainees he says were due for release on Monday, warning that 'patience has limits', per MTV.",
-   "ar": "نائب «حزب الله» حسين الحاج حسن يقول إن تدخلاً أميركياً دفع قضاةً إلى الادعاء على موقوفين قال إنهم كانوا سيُطلَقون صباح الاثنين، محذّراً من أن «للصبر حدوداً»، بحسب «إم تي في».",
-   "source": {
-    "name": "MTV Lebanon",
-    "url": "https://www.mtv.com.lb/news/1761429"
-   }
-  },
-  {
-   "id": "20261124-1042-hatami-hormuz-closed-further",
-   "time": "2026-11-24T10:42:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army chief Amir Hatami orders the navy to tighten the Hormuz closure, saying the strait 'must be closed further day by day' until Washington meets Tehran's conditions.",
-   "ar": "قائد الجيش الإيراني أمير حاتمي يأمر البحرية بتشديد إغلاق هرمز، قائلاً إن المضيق «يجب أن يُغلق أكثر يوماً بعد يوم» حتى تلبّي واشنطن شروط طهران.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
-   }
-  },
-  {
-   "id": "20261124-1010-huckabee-doubts-aid-end",
-   "time": "2026-11-24T10:10:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US Ambassador Mike Huckabee casts doubt on Trump's claim that US military aid to Israel ends this year, noting the $3.8 billion-a-year memorandum runs to 2028 and a halt would likely need Congress.",
-   "ar": "السفير الأميركي مايك هاكابي يشكّك في قول ترامب إن المساعدات العسكرية الأميركية لإسرائيل تنتهي هذا العام، مذكّراً بأن مذكرة التفاهم البالغة 3.8 مليارات دولار سنوياً تمتد حتى 2028 وأن وقفها يحتاج على الأرجح إلى الكونغرس.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/huckabee-casts-doubt-on-trumps-claim-that-us-aid-to-israel-will-end-this-year/"
    }
   }
  ]
