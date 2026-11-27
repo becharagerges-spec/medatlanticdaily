@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T11:09:59Z",
+ "updated": "2026-11-27T12:10:46Z",
  "items": [
+  {
+   "id": "20261127-1155-nvidia-blackwell-shanghai",
+   "time": "2026-11-27T11:55:00Z",
+   "theater": "china",
+   "status": "reported",
+   "en": "Two Chinese firms installed Nvidia's Blackwell AI chips, which US export controls bar from China, in a Shanghai data centre linked to Alice Huang, Bloomberg reports.",
+   "ar": "شركتان صينيتان ركّبتا رقائق «بلاكويل» من إنفيديا، التي تحظر الضوابط الأميركية تصديرها إلى الصين، في مركز بيانات في شنغهاي مرتبط بأليس هوانغ، بحسب «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+   }
+  },
+  {
+   "id": "20261127-1145-ammar-hezbollah-silence",
+   "time": "2026-11-27T11:45:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Hezbollah MP Ali Ammar says the group's 'silence' toward some Lebanese parties is not weakness and that no one will drag it or the army into a confrontation Israel wants.",
+   "ar": "النائب في حزب الله علي عمار يقول إن «صمت» الحزب تجاه بعض الأطراف اللبنانية ليس ضعفاً، وإن أحداً لن يجرّه أو الجيش إلى مواجهة تريدها إسرائيل.",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://mobile.naharnet.com/stories/en/324058-ammar-says-hezbollah-s-silence-does-not-reflect-weakness"
+   }
+  },
+  {
+   "id": "20261127-1117-taiz-strike-11-killed",
+   "time": "2026-11-27T11:17:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "The Houthi-run health ministry says a Saudi airstrike on a building in Turbah, Taiz province, killed at least 11 people including children; the Saudi-led coalition has not commented, AP reports.",
+   "ar": "وزارة الصحة التابعة للحوثيين تقول إن غارة سعودية على مبنى في التربة بمحافظة تعز قتلت 11 شخصاً على الأقل بينهم أطفال، والتحالف بقيادة السعودية لم يعلّق، بحسب «أسوشيتد برس».",
+   "source": {
+    "name": "AP via WSLS",
+    "url": "https://www.wsls.com/news/world/2026/11/27/houthis-report-11-killed-including-children-in-an-airstrike-and-other-mideast-news/"
+   }
+  },
+  {
+   "id": "20261127-1055-iran-navy-recovers-tankers",
+   "time": "2026-11-27T10:55:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy commander Shahram Irani says special forces boarded and recovered two Iranian tankers seized by US forces near the Strait of Hormuz, per Fars; there is no US confirmation.",
+   "ar": "قائد البحرية الإيرانية شهرام إيراني يقول إن القوات الخاصة صعدت إلى ناقلتين إيرانيتين احتجزتهما القوات الأميركية قرب مضيق هرمز واستعادتهما، بحسب «فارس»، من دون تأكيد أميركي.",
+   "source": {
+    "name": "Fars via TASS",
+    "url": "https://tass.com/world/2225829"
+   }
+  },
+  {
+   "id": "20261127-1045-bnehrane-isf-checkpoint",
+   "time": "2026-11-27T10:45:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Lebanon's Internal Security Forces set up a checkpoint at the entrance to Bnehrane in Koura, where two Hezbollah officials wanted in a northern cell probe are reportedly hiding, LBCI reports.",
+   "ar": "قوى الأمن الداخلي تقيم حاجزاً عند مدخل بنهران في الكورة، حيث يُفيد أن مسؤولَين في حزب الله مطلوبَين في التحقيق بخلية في الشمال يتواريان، بحسب «إل بي سي آي».",
+   "source": {
+    "name": "LBCI",
+    "url": "https://www.lbcgroup.tv/news/lebanon-news/969910/security-measures-in-bnehrane-internal-security-forces-set-up-checkpoi/en"
+   }
+  },
   {
    "id": "20261127-0912-raam-hamas-terror",
    "time": "2026-11-27T09:12:00Z",
@@ -1731,66 +1791,6 @@
    "source": {
     "name": "The National",
     "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/saudi-crown-prince-vows-to-defend-kingdom-with-strength-and-resolve-from-houthi-attacks/"
-   }
-  },
-  {
-   "id": "20261124-1407-tripoli-denies-ukraine-link",
-   "time": "2026-11-24T14:07:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "Libya's Tripoli-based government says it did not condone Ukraine's attack on Russian ships off Benghazi and calls claims of any understanding with Kyiv 'unfounded'.",
-   "ar": "الحكومة الليبية في طرابلس تقول إنها لم تُجز الهجوم الأوكراني على السفن الروسية قبالة بنغازي، وتصف الحديث عن أي تفاهم مع كييف بأنه «لا أساس له».",
-   "source": {
-    "name": "AFP via 24 News HD",
-    "url": "https://www.24newshd.tv/24-Nov-2026/tripoli-denies-link-ukraine-attack-russian-ships"
-   }
-  },
-  {
-   "id": "20261124-1406-iraq-kurdistan-oil-takeover",
-   "time": "2026-11-24T14:06:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraqi Prime Minister Ali al-Zaidi orders federal control of Kurdistan's border crossings and Kurdish-held oil fields; Kurdistan Region premier Masrour Barzani calls the decisions 'completely unacceptable'.",
-   "ar": "رئيس الوزراء العراقي علي الزيدي يأمر بوضع المعابر الحدودية في إقليم كردستان وحقول النفط التي تسيطر عليها القوات الكردية تحت السلطة الاتحادية، ورئيس حكومة الإقليم مسرور بارزاني يصف القرارات بأنها «غير مقبولة إطلاقاً».",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323980-iraq-pm-orders-federal-control-of-kurdish-border-crossings-oil-fields"
-   }
-  },
-  {
-   "id": "20261124-1340-sybiha-libya-self-defence",
-   "time": "2026-11-24T13:40:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukrainian Foreign Minister Andrii Sybiha calls the drone attack on Russian ships in Libyan waters legitimate self-defence under Article 51 of the UN Charter and says Ukraine respects Libya's sovereignty.",
-   "ar": "وزير الخارجية الأوكراني أندريه سيبيغا يصف الهجوم بالمسيّرات على سفن روسية في المياه الليبية بأنه دفاع مشروع عن النفس وفق المادة 51 من ميثاق الأمم المتحدة، ويؤكد احترام أوكرانيا لسيادة ليبيا.",
-   "source": {
-    "name": "Reuters via gCaptain",
-    "url": "https://gcaptain.com/ukraine-insists-attack-on-russian-ships-in-libya-was-self-defense/"
-   }
-  },
-  {
-   "id": "20261124-1309-us-tariff-hike-china-eu",
-   "time": "2026-11-24T13:09:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US is preparing new tariffs on China, the EU and more than a dozen economies; Bloomberg reports they will be targeted per economy and will not exceed levels set in US trade deals.",
-   "ar": "الولايات المتحدة تستعد لفرض رسوم جمركية جديدة على الصين والاتحاد الأوروبي وأكثر من اثنتي عشرة دولة؛ و«بلومبرغ» تفيد بأنها ستكون موجّهة لكل اقتصاد ولن تتجاوز مستويات الاتفاقات التجارية الأميركية.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted"
-   }
-  },
-  {
-   "id": "20261124-1307-qaa-explosives-detainees",
-   "time": "2026-11-24T13:07:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Six Lebanese nationals are detained over an explosives shipment seized by the Lebanese army in Masharii al-Qaa, per Asharq al-Awsat; a judge orders lab tests on the TNT and C4.",
-   "ar": "توقيف ستة لبنانيين في قضية شحنة المتفجرات التي ضبطها الجيش اللبناني في مشاريع القاع، بحسب «الشرق الأوسط»؛ والقاضي يطلب فحصاً مخبرياً لمادتي «تي إن تي» و«سي 4».",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323971-more-detainees-in-masharii-al-qaa-explosives-case"
    }
   }
  ]
