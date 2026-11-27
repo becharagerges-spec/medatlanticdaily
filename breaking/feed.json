@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T09:08:55Z",
+ "updated": "2026-11-27T10:09:16Z",
  "items": [
+  {
+   "id": "20261127-0912-raam-hamas-terror",
+   "time": "2026-11-27T09:12:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Ra'am leader Mansour Abbas says he 'will address the definition of Hamas' in a Saturday Channel 12 interview, where he is reportedly set to call it a terror group, clearing an Eisenkot coalition condition.",
+   "ar": "رئيس «القائمة الموحدة» منصور عباس يقول إنه «سيتناول تعريف حماس» في مقابلة مع القناة 12 السبت، حيث يُتوقع أن يصنّفها منظمة إرهابية، ما يزيل شرطاً لائتلاف آيزنكوت.",
+   "source": {
+    "name": "Times of Israel via ANI",
+    "url": "https://www.tribuneindia.com/news/arab-led-party/raam-party-chair-mansour-abbas-to-address-definition-of-hamas-on-saturday-ahead-of-eisenkot-coalition-push-report"
+   }
+  },
   {
    "id": "20261127-0853-south-lebanon-qantara-strikes",
    "time": "2026-11-27T08:53:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "National News Agency via Factjo",
     "url": "https://factjo.com/news/153352"
+   }
+  },
+  {
+   "id": "20261127-0824-izium-combined-strike",
+   "time": "2026-11-27T08:24:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A combined Russian strike on Izium in Kharkiv region kills 1 person and injures 6, hitting residential and administrative buildings, the city's military administration says.",
+   "ar": "ضربة روسية مركّبة على مدينة إيزيوم في منطقة خاركيف تقتل شخصاً وتصيب 6 وتطال مبانيَ سكنية وإدارية، بحسب الإدارة العسكرية للمدينة.",
+   "source": {
+    "name": "Izium City Military Administration via LB.ua",
+    "url": "https://en.lb.ua/news/2026/11/27/51684_combined_russian_strike_hits.html"
+   }
+  },
+  {
+   "id": "20261127-0747-brent-weekly-gain",
+   "time": "2026-11-27T07:47:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Brent crude rises to $97.49 a barrel and WTI 2.98% to $86.17, putting Brent on track for a weekly gain of about 7% after attacks on Saudi refineries, per The National.",
+   "ar": "خام برنت يرتفع إلى 97.49 دولاراً للبرميل وغرب تكساس 2.98% إلى 86.17 دولاراً، ليتّجه برنت نحو مكسب أسبوعي بنحو 7% بعد الهجمات على مصافٍ سعودية، بحسب «ذا ناشونال».",
+   "source": {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "Bloomberg via APA",
     "url": "https://en.apa.az/europe/zelenskyy-confirms-ukraine-struck-russian-ship-in-gulf-of-finland-538264"
-   }
-  },
-  {
-   "id": "20261124-1255-uk-sanctions-houthis",
-   "time": "2026-11-24T12:55:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Britain sanctions the Houthi movement and four senior officials, including Houthi interior minister Abdulkarim al-Houthi, with asset freezes and travel bans over attacks and rights abuses.",
-   "ar": "بريطانيا تفرض عقوبات على جماعة الحوثيين وأربعة من كبار مسؤوليها، بينهم وزير الداخلية الحوثي عبد الكريم الحوثي، تشمل تجميد أصول وحظر سفر بسبب هجمات وانتهاكات.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials"
-   }
-  },
-  {
-   "id": "20261124-1253-china-probes-chen-jining",
-   "time": "2026-11-24T12:53:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's Central Commission for Discipline Inspection places Politburo member and Shanghai party chief Chen Jining under investigation for suspected violations of party discipline, state media say.",
-   "ar": "اللجنة المركزية لفحص الانضباط في الصين تُخضع عضو المكتب السياسي وأمين الحزب في شنغهاي تشن جي نينغ للتحقيق بشبهة مخالفة الانضباط الحزبي، وفق وسائل الإعلام الرسمية.",
-   "source": {
-    "name": "AP via WRAL",
-    "url": "https://www.wral.com/news/ap/abdd2-china-investigates-politburo-member-and-shanghai-party-chief-chen-jining/"
-   }
-  },
-  {
-   "id": "20261124-1202-aoun-talks-on-hold",
-   "time": "2026-11-24T12:02:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "President Aoun tells a French parliamentary delegation the tripartite negotiations are on hold due to Israel's elections, and says any UNIFIL replacement must operate under the UN flag and Resolution 1701, per Naharnet.",
-   "ar": "الرئيس عون يبلغ وفداً برلمانياً فرنسياً أن المفاوضات الثلاثية معلّقة بسبب الانتخابات الإسرائيلية، ويؤكد أن أي قوة بديلة لـ«اليونيفيل» يجب أن تعمل تحت علم الأمم المتحدة والقرار 1701، بحسب «نهارنت».",
-   "source": {
-    "name": "Naharnet",
-    "url": "https://www.naharnet.com/stories/en/323967-aoun-says-tripartite-negotiations-currently-on-hold-due-to-israeli-elections"
    }
   }
  ]
