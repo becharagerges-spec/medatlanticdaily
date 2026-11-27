@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T00:08:57Z",
+ "updated": "2026-11-27T03:09:59Z",
  "items": [
+  {
+   "id": "20261127-0141-eu-24-states-ukraine-loan",
+   "time": "2026-11-27T01:41:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "European Council President António Costa says 24 member states back a new €45 billion loan for Ukraine in 2027, but Hungary, Czechia and Slovakia's opposition pushes it to December.",
+   "ar": "رئيس المجلس الأوروبي أنطونيو كوستا يقول إن 24 دولة عضواً تؤيد قرضاً جديداً لأوكرانيا بقيمة 45 مليار يورو لعام 2027، لكن معارضة المجر وتشيكيا وسلوفاكيا ترجئه إلى كانون الأول.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+   }
+  },
+  {
+   "id": "20261127-0140-trump-china-russia-iran",
+   "time": "2026-11-27T01:40:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump says China is 'very little involved' with Iran and Russia does not 'give very much', despite reports they helped target US bases, adding 'we spy on them too'.",
+   "ar": "ترامب يقول إن الصين «متورطة قليلاً جداً» مع إيران وإن روسيا «لا تقدّم الكثير»، رغم تقارير عن مساعدتهما في استهداف قواعد أميركية، مضيفاً «نحن نتجسس عليهم أيضاً».",
+   "source": {
+    "name": "AFP via The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/trump-downplays-china-and-russias-support-to-iran/"
+   }
+  },
+  {
+   "id": "20261127-0008-brent-above-96",
+   "time": "2026-11-27T00:08:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Brent crude rises more than 2% to above $96 a barrel and WTI 1.6% to $85.04 after a Houthi strike on a key Saudi refinery, Bloomberg reports.",
+   "ar": "خام برنت يرتفع أكثر من 2% إلى ما فوق 96 دولاراً للبرميل، وغرب تكساس 1.6% إلى 85.04 دولاراً، بعد ضربة حوثية على مصفاة سعودية رئيسية، وفق «بلومبرغ».",
+   "source": {
+    "name": "Bloomberg via SWI swissinfo.ch",
+    "url": "https://www.swissinfo.ch/eng/asian-stocks-rise-for-second-day,-crude-oil-gains:-markets-wrap/92446051"
+   }
+  },
+  {
+   "id": "20261126-2328-araghchi-kuwait-precooked",
+   "time": "2026-11-26T23:28:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Iranian Foreign Minister Abbas Araghchi calls the Kuwait drone incident that killed two Italians 'suspicious' and a 'pre-cooked recipe for war', denying Iranian involvement.",
+   "ar": "وزير الخارجية الإيراني عباس عراقجي يصف حادثة المسيّرة في الكويت التي قتلت إيطاليَّين بأنها «مريبة» و«وصفة جاهزة للحرب»، نافياً أي تورط إيراني.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+   }
+  },
+  {
+   "id": "20261126-2319-trump-troops-pickaxe",
+   "time": "2026-11-26T23:19:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Trump tells US troops in Thanksgiving calls that 'we have victory at hand' over Iran and says the US would 'absolutely hit Pickaxe Mountain' if it strikes again.",
+   "ar": "ترامب يقول للجنود الأميركيين في اتصالات عيد الشكر إن «النصر في متناول اليد» على إيران، وإن واشنطن «ستضرب حتماً جبل بيكاكس» إذا عاودت الهجوم.",
+   "source": {
+    "name": "Israel National News",
+    "url": "https://www.israelnationalnews.com/news/437242"
+   }
+  },
   {
    "id": "20261126-2146-ramat-hasharon-suspect",
    "time": "2026-11-26T21:46:00Z",
@@ -1731,66 +1791,6 @@
    "source": {
     "name": "Gulf News",
     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
-   }
-  },
-  {
-   "id": "20261124-0906-china-extends-minerals-pause",
-   "time": "2026-11-24T09:06:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "China's Commerce Ministry extends to 27 January 2027 its suspension of a ban on exports of gallium, germanium and antimony to the US, which was due to expire on 27 November.",
-   "ar": "وزارة التجارة الصينية تمدّد حتى 27 كانون الثاني 2027 تعليق حظر تصدير الغاليوم والجرمانيوم والأنتيمون إلى الولايات المتحدة، الذي كان سينتهي في 27 تشرين الثاني.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
-   }
-  },
-  {
-   "id": "20261124-0802-hegseth-delays-patriots-ukraine",
-   "time": "2026-11-24T08:02:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "US Defense Secretary Pete Hegseth has delayed sign-off on 60 Patriot interceptors for Ukraine, including 40 PAC-3s and some from European stocks, per the Financial Times, citing Ukrainian officials.",
-   "ar": "وزير الدفاع الأميركي بيت هيغسيث يؤخّر الموافقة على تسليم 60 صاروخاً اعتراضياً من طراز «باتريوت» لأوكرانيا، بينها 40 من طراز PAC-3 وبعضها من مخزونات أوروبية، وفق «فايننشال تايمز» نقلاً عن مسؤولين أوكرانيين.",
-   "source": {
-    "name": "Financial Times via Interfax-Ukraine",
-    "url": "https://en.interfax.com.ua/news/general/1241316.html"
-   }
-  },
-  {
-   "id": "20261124-0731-strikes-tulin-kfartebnit",
-   "time": "2026-11-24T07:31:00Z",
-   "theater": "lebanon",
-   "status": "confirmed",
-   "en": "Israeli warplanes strike the outskirts of Tulin, Kfar Tebnit, Qabrikha and al-Qantara in south Lebanon, as artillery shells Beit Yahoun, Barachit, Haddatha and Mayfadoun, per NNA.",
-   "ar": "الطيران الحربي الإسرائيلي يغير على أطراف تولين وكفرتبنيت وقبريخا والقنطرة في جنوب لبنان، بالتزامن مع قصف مدفعي على بيت ياحون وبرعشيت وحداثا وميفدون، وفق الوكالة الوطنية للإعلام.",
-   "source": {
-    "name": "National News Agency via Beirut 24",
-    "url": "https://www.beirut24.org/2026/11/24/%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%81%D8%B1%D9%82%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A/"
-   }
-  },
-  {
-   "id": "20261124-0658-ukraine-96-drones",
-   "time": "2026-11-24T06:58:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Ukraine's Air Force says Russia launched 96 attack drones overnight, 64 of them jet-powered; air defences downed or suppressed 73, with hits recorded at 13 locations.",
-   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 96 مسيّرة هجومية خلال الليل، بينها 64 نفاثة؛ أسقطت الدفاعات الجوية أو عطّلت 73 منها، وسُجّلت إصابات في 13 موقعاً.",
-   "source": {
-    "name": "Ukrinform",
-    "url": "https://www.ukrinform.net/rubric-ato/4187924-air-defenses-neutralize-73-of-96-drones-russia-launched-against-ukraine-overnight.html"
-   }
-  },
-  {
-   "id": "20261124-0655-abbas-haredi-arab-government",
-   "time": "2026-11-24T06:55:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Ra'am chairman Mansour Abbas says Israel is heading toward a government built on haredi and Arab parties, telling Radio Al-Shams 'we are inching toward our goals', per Arutz Sheva.",
-   "ar": "رئيس القائمة العربية الموحدة منصور عباس يقول إن إسرائيل تتجه نحو حكومة قائمة على الأحزاب الحريدية والعربية، مؤكداً لإذاعة «الشمس»: «نقترب من أهدافنا»، بحسب «عروتس شيفع».",
-   "source": {
-    "name": "Arutz Sheva",
-    "url": "https://www.israelnationalnews.com/flashes/698381"
    }
   }
  ]
