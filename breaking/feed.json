@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T20:08:32Z",
+ "updated": "2026-11-27T22:09:36Z",
  "items": [
+  {
+   "id": "20261127-2057-netanyahu-rotation-offer",
+   "time": "2026-11-27T20:57:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Netanyahu is preparing to offer Gadi Eisenkot the first turn as prime minister in a rotation government, Channel 13 reports, while Eisenkot readies to swear in his government next week.",
+   "ar": "نتنياهو يستعد لعرض الدور الأول في رئاسة الحكومة على غادي آيزنكوت ضمن حكومة تناوب، بحسب القناة 13، فيما يستعد آيزنكوت لتنصيب حكومته الأسبوع المقبل.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-reportedly-ready-to-serve-as-second-pm-in-rotation-with-eisenkot/"
+   }
+  },
   {
    "id": "20261127-1939-gaza-shifa-drone-strike",
    "time": "2026-11-27T19:39:00Z",
@@ -38,6 +50,18 @@
    }
   },
   {
+   "id": "20261127-1917-raam-backs-eisenkot-security",
+   "time": "2026-11-27T19:17:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Ra'am pledges full coalition discipline to an Eisenkot-led government, including on security decisions, and seeks cabinet posts for Mansour Abbas and Yoav Segalovitz, Channel 12 reports.",
+   "ar": "«القائمة العربية الموحدة» تتعهد بانضباط ائتلافي كامل لحكومة يقودها آيزنكوت، بما في ذلك القرارات الأمنية، وتطلب حقيبتين وزاريتين لمنصور عباس ويوآف سيغالوفيتس، بحسب القناة 12.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/raam-pledges-to-back-eisenkot-governments-security-decisions-seeks-cabinet-posts-report/"
+   }
+  },
+  {
    "id": "20261127-1814-mokhber-hormuz-blockade",
    "time": "2026-11-27T18:14:00Z",
    "theater": "iran",
@@ -47,6 +71,30 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade-3014303"
+   }
+  },
+  {
+   "id": "20261127-1742-guterres-condemns-kuwait-attack",
+   "time": "2026-11-27T17:42:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "UN Secretary-General António Guterres condemns the drone attack in Kuwait that killed two Italian technicians and urges all parties to exercise restraint, his spokesman says.",
+   "ar": "الأمين العام للأمم المتحدة أنطونيو غوتيريش يدين الهجوم بالمسيّرات في الكويت الذي أودى بفنيَّين إيطاليَّين ويدعو جميع الأطراف إلى ضبط النفس، بحسب المتحدث باسمه.",
+   "source": {
+    "name": "AFP via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/un-chief-condemns-deadly-drone-attack-in-kuwait-calls-on-all-parties-to-exercise-restraint/"
+   }
+  },
+  {
+   "id": "20261127-1723-mecca-pact-condemns-houthis",
+   "time": "2026-11-27T17:23:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi, Turkish and Pakistani ministers meeting in Islamabad under the Mecca defence pact reaffirm their condemnation of Houthi attacks on Saudi Arabia, Pakistan's foreign ministry says.",
+   "ar": "وزراء السعودية وتركيا وباكستان المجتمعون في إسلام آباد ضمن ميثاق مكة الدفاعي يجددون إدانتهم لهجمات الحوثيين على السعودية، بحسب الخارجية الباكستانية.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/pakistan-turkey-and-saudi-arabia-condemn-houthi-attacks-in-mecca-alliance-meeting/"
    }
   },
   {
@@ -1744,54 +1792,6 @@
    "source": {
     "name": "Gulf News",
     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
-   }
-  },
-  {
-   "id": "20261125-0108-samara-refineries-hit",
-   "time": "2026-11-25T01:08:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukraine's General Staff says its forces, with a resistance group inside Russia, struck two oil refineries in Russia's Samara region overnight; monitoring channels earlier named Syzran and Kuibyshev.",
-   "ar": "هيئة الأركان العامة الأوكرانية تقول إن قواتها، بالتعاون مع مجموعة مقاومة داخل روسيا، ضربت ليلاً مصفاتين للنفط في منطقة سامارا الروسية؛ وكانت قنوات رصد قد سمّت سيزران وكويبيشيف.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
-   }
-  },
-  {
-   "id": "20261125-0047-kan-iran-chemical-weapons",
-   "time": "2026-11-25T00:47:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Kan reports Israel has known for over a decade about an Iranian chemical weapons programme, from material in the nuclear archive seized in 2018, after Defence Minister Katz said Iran is developing chemical weapons.",
-   "ar": "هيئة البث الإسرائيلية «كان» تفيد بأن إسرائيل تعلم منذ أكثر من عقد ببرنامج إيراني للأسلحة الكيميائية، استناداً إلى مواد من الأرشيف النووي المستولى عليه عام 2018، بعد قول وزير الدفاع كاتس إن إيران تطوّر أسلحة كيميائية.",
-   "source": {
-    "name": "Kan via Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-israel-has-known-for-over-a-decade-about-irans-chemical-weapons-program/"
-   }
-  },
-  {
-   "id": "20261125-0018-shenzhou24-pakistani",
-   "time": "2026-11-25T00:18:00Z",
-   "theater": "china",
-   "status": "reported",
-   "en": "China launches the Shenzhou-24 mission from Jiuquan to its Tiangong space station with three astronauts aboard, including a Pakistani crew member, per state broadcaster CCTV footage.",
-   "ar": "الصين تطلق مهمة «شنتشو-24» من جيوتشيوان نحو محطة «تيانغونغ» الفضائية وعلى متنها ثلاثة رواد، بينهم رائد فضاء باكستاني، بحسب لقطات التلفزيون الرسمي الصيني.",
-   "source": {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/25/moment-china-launches-shenzhou-24-mission-with-pakistani-astronaut-aboard"
-   }
-  },
-  {
-   "id": "20261125-0000-houthis-threaten-jeddah",
-   "time": "2026-11-25T00:00:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Houthi military spokesman Yahya Saree says Jeddah and all other Saudi Red Sea ports will be targeted if the Saudi-led coalition attacks Hodeidah, after the coalition ordered civilians to leave Hodeidah port.",
-   "ar": "المتحدث العسكري باسم الحوثيين يحيى سريع يقول إن ميناء جدة وسائر الموانئ السعودية على البحر الأحمر ستُستهدف إذا هاجم التحالف بقيادة السعودية الحديدة، بعدما أمر التحالف المدنيين بإخلاء ميناء الحديدة.",
-   "source": {
-    "name": "Reuters via Daily Maverick",
-    "url": "https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/"
    }
   }
  ]
