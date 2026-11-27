@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:09:16Z",
+ "updated": "2026-11-27T11:09:59Z",
  "items": [
   {
    "id": "20261127-0912-raam-hamas-terror",
@@ -86,6 +86,18 @@
    }
   },
   {
+   "id": "20261127-0555-mecca-pact-session-opens",
+   "time": "2026-11-27T05:55:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi, Turkish and Pakistani foreign and defence ministers open Mecca defence pact talks in Islamabad; Pakistan's Khawaja Asif says Yemen is on the agenda and any threat to Saudi Arabia threatens all three.",
+   "ar": "وزراء خارجية ودفاع السعودية وتركيا وباكستان يفتتحون في إسلام آباد محادثات اتفاق الدفاع المشترك الموقّع في مكة، وخواجة آصف يقول إن اليمن على جدول الأعمال وإن أي تهديد للسعودية يهدد الدول الثلاث.",
+   "source": {
+    "name": "AFP and AP via Geo News",
+    "url": "https://www.geo.tv/latest/692826-yemen-conflict-on-agenda-as-makkah-defence-alliance-meeting-begins-in-islamabad-today"
+   }
+  },
+  {
    "id": "20261127-0554-china-stocks-rebound",
    "time": "2026-11-27T05:54:00Z",
    "theater": "markets",
@@ -131,6 +143,18 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215"
+   }
+  },
+  {
+   "id": "20261127-0440-estonia-drone-alert-nato-jets",
+   "time": "2026-11-27T04:40:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "Estonia's Defence Forces issue a drone air-threat warning for six southern and south-eastern counties and NATO fighter jets are scrambled, before an all-clear about 45 minutes later, per ERR.",
+   "ar": "قوات الدفاع الإستونية تُصدر إنذاراً جوياً من المسيّرات في ست مقاطعات جنوبية وجنوبية شرقية وتُستنفر مقاتلات الناتو، قبل رفع الإنذار بعد نحو 45 دقيقة، بحسب هيئة الإذاعة الإستونية ERR.",
+   "source": {
+    "name": "ERR via LB.ua",
+    "url": "https://en.lb.ua/news/2026/11/27/51680_nato_fighter_jets_scrambled.html"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Naharnet",
     "url": "https://www.naharnet.com/stories/en/323971-more-detainees-in-masharii-al-qaa-explosives-case"
-   }
-  },
-  {
-   "id": "20261124-1304-riyadh-financial-tower-attack",
-   "time": "2026-11-24T13:04:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi Civil Defence says 11 people were injured in a Houthi attack on Riyadh's tallest financial-district tower, which witnesses tell AFP houses the Public Investment Fund's headquarters.",
-   "ar": "الدفاع المدني السعودي يعلن إصابة 11 شخصاً في هجوم حوثي على أعلى أبراج الحي المالي في الرياض، الذي يضم مقرّ صندوق الاستثمارات العامة بحسب شهود تحدّثوا لوكالة الصحافة الفرنسية.",
-   "source": {
-    "name": "AFP via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-civil-defense-says-11-injured-in-houthi-attack-on-riyadh-financial-district/"
-   }
-  },
-  {
-   "id": "20261124-1302-zelensky-confirms-sparta-ii",
-   "time": "2026-11-24T13:02:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky tells Bloomberg Ukraine carried out the 21 November drone strike that set the Russian cargo ship Sparta II ablaze in the Gulf of Finland.",
-   "ar": "زيلينسكي يقول لـ«بلومبرغ» إن أوكرانيا نفّذت هجوم المسيّرات في 21 تشرين الثاني الذي أشعل النار في سفينة الشحن الروسية «سبارتا 2» في خليج فنلندا.",
-   "source": {
-    "name": "Bloomberg via APA",
-    "url": "https://en.apa.az/europe/zelenskyy-confirms-ukraine-struck-russian-ship-in-gulf-of-finland-538264"
    }
   }
  ]
