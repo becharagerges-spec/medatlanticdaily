@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-27T19:08:47Z",
+ "updated": "2026-11-27T20:08:32Z",
  "items": [
+  {
+   "id": "20261127-1939-gaza-shifa-drone-strike",
+   "time": "2026-11-27T19:39:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Palestinian media say an Israeli drone strike near Gaza City's Shifa Hospital killed 2 people and wounded several, and the toll from an earlier Rafah strike rose to 3; the IDF has not commented.",
+   "ar": "وسائل إعلام فلسطينية تقول إن غارة بمسيّرة إسرائيلية قرب مستشفى الشفاء في مدينة غزة قتلت شخصين وجرحت آخرين، وإن حصيلة غارة سابقة في رفح ارتفعت إلى 3؛ والجيش الإسرائيلي لم يعلّق.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/two-killed-in-israeli-strike-near-gazas-shifa-hospital-report/"
+   }
+  },
+  {
+   "id": "20261127-1921-katz-rejects-zamir-detention",
+   "time": "2026-11-27T19:21:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Defence Minister Israel Katz rejects army chief Eyal Zamir's renewed request to use administrative detention against violent settlers, Hebrew media report; Channel 12 says all 70 recent suspects were freed without indictment.",
+   "ar": "وزير الدفاع يسرائيل كاتس يرفض طلب رئيس الأركان إيال زامير المتجدد استخدام الاعتقال الإداري ضد المستوطنين العنيفين، وفق وسائل إعلام عبرية؛ والقناة 12 تقول إن 70 مشتبهاً أُفرج عنهم جميعاً بلا اتهام.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/report-katz-rejects-zamirs-renewed-call-to-use-administrative-detention-against-violent-settlers/"
+   }
+  },
+  {
+   "id": "20261127-1920-security-cabinet-gaza-plan",
+   "time": "2026-11-27T19:20:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's security cabinet will meet Sunday on an updated draft to advance Trump's Gaza plan, including facilities for an international stabilisation force due in January, Channel 12 reports.",
+   "ar": "المجلس الوزاري الأمني الإسرائيلي يجتمع الأحد لبحث مسودة معدّلة لدفع خطة ترامب لغزة، تشمل منشآت لقوة استقرار دولية يُنتظر انتشارها في كانون الثاني، وفق القناة 12.",
+   "source": {
+    "name": "Channel 12 via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/security-cabinet-said-set-to-discuss-advancing-trumps-gaza-plan-before-hamas-disarms/"
+   }
+  },
   {
    "id": "20261127-1814-mokhber-hormuz-blockade",
    "time": "2026-11-27T18:14:00Z",
@@ -1756,41 +1792,6 @@
    "source": {
     "name": "Reuters via Daily Maverick",
     "url": "https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/"
-   }
-  },
-  {
-   "id": "20261124-2308-odesa-attack-kills-two",
-   "time": "2026-11-24T23:08:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "A late-Tuesday Russian attack in Ukraine's Odesa region kills 2 people, including a teenager, while a strike on a residential courtyard in Kyiv injures 2 others, per the Kyiv Independent.",
-   "ar": "هجوم روسي مساء الثلاثاء على منطقة أوديسا الأوكرانية يقتل شخصين بينهما فتى، فيما تصيب ضربة على باحة سكنية في كييف شخصين آخرين، بحسب «كييف إندبندنت».",
-   "source": {
-    "name": "Kyiv Independent"
-   }
-  },
-  {
-   "id": "20261124-2158-etihad-tel-aviv-turned-back",
-   "time": "2026-11-24T21:58:00Z",
-   "theater": "gulf",
-   "status": "reported",
-   "en": "Etihad flight EY599 from Abu Dhabi to Tel Aviv turns back after two failed attempts; Etihad says it had to change its flight path over Saudi Arabia.",
-   "ar": "رحلة «الاتحاد» EY599 من أبوظبي إلى تل أبيب تعود أدراجها بعد محاولتين فاشلتين، و«الاتحاد» تقول إنها اضطرت إلى تغيير مسارها فوق السعودية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/etihad-flight-from-abu-dhabi-to-tel-aviv-forced-to-turn-back-after-two-attempts"
-   }
-  },
-  {
-   "id": "20261124-2141-turkey-cougar-crash",
-   "time": "2026-11-24T21:41:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "A Turkish Air Force AS-532 Cougar helicopter crashes on a training flight near Eskisehir in western Turkey, killing all 5 crew members, Turkey's Defence Ministry says (AP).",
-   "ar": "تحطّم مروحية من طراز AS-532 كوغار تابعة لسلاح الجو التركي خلال رحلة تدريبية قرب إسكي شهير غربي تركيا، ما أدى إلى مقتل أفراد طاقمها الخمسة، بحسب وزارة الدفاع التركية (أسوشيتد برس).",
-   "source": {
-    "name": "AP",
-    "url": "https://mymotherlode.com/news/east-europe/11337465/turkish-military-helicopter-crashes-during-training-flight-killing-5-crew-members.html"
    }
   }
  ]
