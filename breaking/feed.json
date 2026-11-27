@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T14:08:52Z",
+ "updated": "2026-11-27T15:09:08Z",
  "items": [
+  {
+   "id": "20261127-1443-wall-street-black-friday-rally",
+   "time": "2026-11-27T14:43:00Z",
+   "theater": "markets",
+   "status": "confirmed",
+   "en": "Wall Street rises in shortened post-Thanksgiving trading, with the S&P 500 up 1.2%, the Dow up 501 points (about 1%) and the Nasdaq up 1.5%, AP reports.",
+   "ar": "وول ستريت ترتفع في جلسة مختصرة بعد عيد الشكر، مع صعود مؤشر ستاندرد آند بورز 500 بنسبة 1.2% وداو جونز 501 نقطة (نحو 1%) وناسداك 1.5%، بحسب أسوشيتد برس.",
+   "source": {
+    "name": "AP via BNN Bloomberg",
+    "url": "https://www.bnnbloomberg.ca/markets/2026/11/27/stocks-rise-and-keep-wall-street-on-track-to-close-out-an-erratic-week-with-big-gains/"
+   }
+  },
   {
    "id": "20261127-1219-irgc-f16-hengam",
    "time": "2026-11-27T12:19:00Z",
@@ -131,6 +143,18 @@
    "source": {
     "name": "LBCI",
     "url": "https://www.lbcgroup.tv/news/lebanon-news/969910/security-measures-in-bnehrane-internal-security-forces-set-up-checkpoi/en"
+   }
+  },
+  {
+   "id": "20261127-1022-france-gdp-q3-revised",
+   "time": "2026-11-27T10:22:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "France's statistics office INSEE revises third-quarter GDP to a 0.2% contraction from its first estimate of a 0.1% fall.",
+   "ar": "المعهد الوطني للإحصاء في فرنسا (INSEE) يعدّل الناتج المحلي للربع الثالث إلى انكماش بنسبة 0.2% بدلاً من تقديره الأول بتراجع 0.1%.",
+   "source": {
+    "name": "INSEE via Xinhua",
+    "url": "https://english.news.cn/20261127/000306d319ce4086bc0295444c10b85f/c.html"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Reuters via Arab News",
     "url": "https://www.arabnews.com/middle-east/iran-guards-say-container-ship-hits-mine-in-unauthorized-route-near-strait-of-hormuz-3013915"
-   }
-  },
-  {
-   "id": "20261124-1900-shin-bet-katz-detention",
-   "time": "2026-11-24T19:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "The Shin Bet criticises Defence Minister Israel Katz for refusing to authorise administrative detention against Jewish extremists amid settler violence, Channel 12 reports, per Times of Israel.",
-   "ar": "الشاباك ينتقد وزير الدفاع يسرائيل كاتس لرفضه إجازة الاعتقال الإداري بحق متطرفين يهود في ظل عنف المستوطنين، بحسب القناة 12 كما نقلت «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/shin-bet-said-to-slam-katz-over-refusal-to-use-administrative-detention-against-settler-extremists/"
-   }
-  },
-  {
-   "id": "20261124-1849-netanyahu-utj-rebuffed",
-   "time": "2026-11-24T18:49:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Netanyahu fails to reach UTJ lawmakers Meir Porush and Eliakim Stark as the party weighs formal coalition talks with Eisenkot's bloc, Hebrew media report, per Times of Israel.",
-   "ar": "نتنياهو يفشل في التواصل مع نائبَي «يهدوت هتوراه» مئير بوروش وإلياكيم شتارك فيما يدرس الحزب مفاوضات ائتلافية رسمية مع كتلة آيزنكوت، بحسب الإعلام العبري.",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-netanyahu-unsuccessful-in-attempts-to-hold-talks-with-utj-lawmakers/"
    }
   }
  ]
