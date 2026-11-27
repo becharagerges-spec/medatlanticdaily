@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T12:10:46Z",
+ "updated": "2026-11-27T13:10:27Z",
  "items": [
+  {
+   "id": "20261127-1219-irgc-f16-hengam",
+   "time": "2026-11-27T12:19:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards say warning fire forced a US F-16 escorting vessels southeast of Hengam Island to leave Iran's southern airspace; there is no US confirmation.",
+   "ar": "الحرس الثوري الإيراني يقول إن نيراناً تحذيرية أجبرت مقاتلة أميركية من طراز F-16 كانت ترافق سفناً جنوب شرق جزيرة هنغام على مغادرة الأجواء الإيرانية الجنوبية، من دون تأكيد أميركي.",
+   "source": {
+    "name": "IANS",
+    "url": "https://ommcomnews.com/world-news/iran-says-its-air-defences-forced-us-f-16-to-leave-airspace/"
+   }
+  },
   {
    "id": "20261127-1155-nvidia-blackwell-shanghai",
    "time": "2026-11-27T11:55:00Z",
@@ -14,6 +26,18 @@
    }
   },
   {
+   "id": "20261127-1155-ghavam-tanker-mine",
+   "time": "2026-11-27T11:55:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says an oil tanker exploded after hitting a naval mine north of Ghavam Island on Friday morning and a second tanker turned back, per Fars.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة نفط انفجرت بعد اصطدامها بلغم بحري شمال جزيرة قوام صباح الجمعة وإن ناقلة ثانية أُجبرت على العودة، بحسب «فارس».",
+   "source": {
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4140346"
+   }
+  },
+  {
    "id": "20261127-1145-ammar-hezbollah-silence",
    "time": "2026-11-27T11:45:00Z",
    "theater": "lebanon",
@@ -23,6 +47,18 @@
    "source": {
     "name": "Naharnet",
     "url": "https://mobile.naharnet.com/stories/en/324058-ammar-says-hezbollah-s-silence-does-not-reflect-weakness"
+   }
+  },
+  {
+   "id": "20261127-1122-mansouri-coast-shelling",
+   "time": "2026-11-27T11:22:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli forces heavily shell the Mansouri coast south of Tyre from positions in Bayada and Shamaa, with drones flying over the western sector, MTV reports.",
+   "ar": "القوات الإسرائيلية تقصف بكثافة ساحل المنصوري جنوب صور من مواقعها في البياضة وشمع، مع تحليق للمسيّرات فوق القطاع الغربي، بحسب «إم تي في».",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1762560"
    }
   },
   {
@@ -47,6 +83,30 @@
    "source": {
     "name": "Fars via TASS",
     "url": "https://tass.com/world/2225829"
+   }
+  },
+  {
+   "id": "20261127-1052-aoun-framework-agreement",
+   "time": "2026-11-27T10:52:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "President Joseph Aoun tells a French delegation Lebanon is committed to the framework agreement but Israel has not implemented it, and Beirut awaits Israel's new government's policy.",
+   "ar": "الرئيس جوزاف عون يقول لوفد فرنسي إن لبنان ملتزم باتفاق الإطار لكن إسرائيل لم تنفّذه، وإن بيروت تنتظر سياسة الحكومة الإسرائيلية الجديدة.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1762553"
+   }
+  },
+  {
+   "id": "20261127-1048-idf-hezbollah-fishing-boats",
+   "time": "2026-11-27T10:48:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israel's army accuses Hezbollah of using civilian fishing boats to gather intelligence off south Lebanon; Hezbollah has not responded.",
+   "ar": "الجيش الإسرائيلي يتّهم حزب الله باستخدام قوارب صيد مدنية لجمع المعلومات قبالة جنوب لبنان، من دون ردّ من الحزب.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1762552"
    }
   },
   {
@@ -1731,66 +1791,6 @@
    "source": {
     "name": "Reuters via The Moscow Times",
     "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
-   }
-  },
-  {
-   "id": "20261124-1810-houthis-near-aden",
-   "time": "2026-11-24T18:10:00Z",
-   "theater": "saudi",
-   "status": "reported",
-   "en": "Yemen's army says Houthi fighters are closing in on Aden, the internationally recognised government's stronghold, from about 60 km away, and vows to repel any assault.",
-   "ar": "الجيش اليمني يقول إن مقاتلي الحوثيين يقتربون من عدن، معقل الحكومة المعترف بها دولياً، من مسافة نحو 60 كلم، ويتعهد بصدّ أي هجوم.",
-   "source": {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
-   }
-  },
-  {
-   "id": "20261124-1723-utj-rabbis-approve-talks",
-   "time": "2026-11-24T17:23:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "UTJ's senior rabbis authorise the party to continue coalition talks with Eisenkot's bloc, but not yet to join a government, as Eisenkot weighs a minority government, per The Jerusalem Post.",
-   "ar": "كبار حاخامات «يهدوت هتوراه» يأذنون للحزب بمواصلة مفاوضات الائتلاف مع كتلة آيزنكوت من دون الانضمام إلى الحكومة بعد، فيما يدرس آيزنكوت حكومة أقلية، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-election-2026/2026-11-25/live-updates-916037"
-   }
-  },
-  {
-   "id": "20261124-1631-nvidia-midday-slide",
-   "time": "2026-11-24T16:31:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Nvidia shares fall about 8.6% by midday in New York as the AI rally reverses, with the Nasdaq down 2.2% and the S&P 500 down 1%, per The Motley Fool.",
-   "ar": "أسهم «إنفيديا» تتراجع نحو 8.6% حتى منتصف التداول في نيويورك مع انعكاس موجة صعود الذكاء الاصطناعي، و«ناسداك» يهبط 2.2% و«إس أند بي 500» 1%، بحسب «ذا موتلي فول».",
-   "source": {
-    "name": "The Motley Fool",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
-   }
-  },
-  {
-   "id": "20261124-1629-us-weighs-iran-leader-killings",
-   "time": "2026-11-24T16:29:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "The Trump administration is again weighing targeted killings of Iranian leaders as a way to end the war, a US official and another source tell NBC News.",
-   "ar": "إدارة ترامب تدرس مجدداً عمليات اغتيال محددة لقادة إيرانيين كوسيلة لإنهاء الحرب، بحسب مسؤول أميركي ومصدر آخر لشبكة «إن بي سي نيوز».",
-   "source": {
-    "name": "NBC News via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-administration-said-to-consider-targeted-killings-of-iranian-leaders/"
-   }
-  },
-  {
-   "id": "20261124-1501-mbs-defend-strength-resolve",
-   "time": "2026-11-24T15:01:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Crown Prince Mohammed bin Salman tells a Saudi cabinet meeting the kingdom will defend its security, sovereignty and national assets 'with strength and resolve' after the Houthi attack on Riyadh.",
-   "ar": "ولي العهد الأمير محمد بن سلمان يؤكد في جلسة مجلس الوزراء أن المملكة ستدافع عن أمنها وسيادتها ومقدّراتها الوطنية «بكل قوة وحزم» بعد الهجوم الحوثي على الرياض.",
-   "source": {
-    "name": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/saudi-crown-prince-vows-to-defend-kingdom-with-strength-and-resolve-from-houthi-attacks/"
    }
   }
  ]
