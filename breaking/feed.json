@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T15:09:08Z",
+ "updated": "2026-11-27T16:09:02Z",
  "items": [
+  {
+   "id": "20261127-1510-salam-unifil-stay-on",
+   "time": "2026-11-27T15:10:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Prime Minister Nawaf Salam tells AP a proposal is underway, which he says France will table, to keep UNIFIL doing mine clearance and monitoring during its drawdown after its mandate ends on December 31.",
+   "ar": "رئيس الحكومة نواف سلام يقول لأسوشيتد برس إن اقتراحاً قيد الإعداد، يقول إن فرنسا ستطرحه، لإبقاء اليونيفيل في نزع الألغام والمراقبة خلال انسحابها بعد انتهاء ولايتها في 31 كانون الأول.",
+   "source": {
+    "name": "AP",
+    "url": "https://www.news4jax.com/news/world/2026/11/27/ap-exclusive-lebanons-prime-minister-says-a-proposal-is-underway-to-have-un-peacekeepers-stay-on/"
+   }
+  },
   {
    "id": "20261127-1443-wall-street-black-friday-rally",
    "time": "2026-11-27T14:43:00Z",
@@ -11,6 +23,30 @@
    "source": {
     "name": "AP via BNN Bloomberg",
     "url": "https://www.bnnbloomberg.ca/markets/2026/11/27/stocks-rise-and-keep-wall-street-on-track-to-close-out-an-erratic-week-with-big-gains/"
+   }
+  },
+  {
+   "id": "20261127-1423-air-force-cloud-one-breach",
+   "time": "2026-11-27T14:23:00Z",
+   "theater": "usa",
+   "status": "confirmed",
+   "en": "Hackers breached the US Air Force's flagship Cloud One computing platform during an upgrade and Cyber Command was called in to assess the damage, Reuters reports; the Air Force declined to give details.",
+   "ar": "قراصنة اخترقوا منصة الحوسبة السحابية الرئيسية «كلاود وان» التابعة لسلاح الجو الأميركي خلال تحديثها، واستُدعيت القيادة السيبرانية لتقييم الأضرار، وفق رويترز؛ وسلاح الجو رفض إعطاء تفاصيل.",
+   "source": {
+    "name": "Reuters via Air Force Times",
+    "url": "https://www.airforcetimes.com/news/your-air-force/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/"
+   }
+  },
+  {
+   "id": "20261127-1415-zelensky-kyiv-transport",
+   "time": "2026-11-27T14:15:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Zelenskyy orders Kyiv to prepare for transport disruptions from Russian strikes, including free rides on designated bus routes, after warning Russia is preparing a new mass attack.",
+   "ar": "زيلينسكي يأمر كييف بالاستعداد لتعطّل النقل جرّاء الضربات الروسية، بما في ذلك رحلات مجانية على خطوط حافلات محددة، بعد تحذيره من أن روسيا تحضّر لهجوم واسع جديد.",
+   "source": {
+    "name": "LB.ua",
+    "url": "https://en.lb.ua/news/2026/11/27/51758_zelenskyy_orders_kyiv_prepare.html"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "The Jerusalem Post",
     "url": "https://www.jpost.com/american-politics/article-916016"
-   }
-  },
-  {
-   "id": "20261124-1944-cia-odni-cyber-breach",
-   "time": "2026-11-24T19:44:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The CIA and the Office of the Director of National Intelligence suffered a cyber breach exposing some unclassified information, first reported by The New York Times; ODNI says classified systems were not disrupted.",
-   "ar": "وكالة الاستخبارات المركزية الأميركية ومكتب مدير الاستخبارات الوطنية تعرّضا لاختراق سيبراني كشف معلومات غير سرية، بحسب «نيويورك تايمز»؛ والمكتب يؤكد أن الأنظمة السرية لم تتعطّل.",
-   "source": {
-    "name": "Reuters via MarketScreener",
-    "url": "https://www.marketscreener.com/news/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports-ce7851dbdd8cfe23"
-   }
-  },
-  {
-   "id": "20261124-1933-rubio-faisal-houthis-hormuz",
-   "time": "2026-11-24T19:33:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Secretary of State Rubio, in a call with Saudi Foreign Minister Prince Faisal bin Farhan, condemns Houthi attacks on Saudi civilian and energy sites and stresses Hezbollah's disarmament under the Trilateral Framework.",
-   "ar": "وزير الخارجية الأميركي روبيو يدين، في اتصال مع وزير الخارجية السعودي الأمير فيصل بن فرحان، هجمات الحوثيين على منشآت مدنية وطاقوية سعودية، ويشدد على نزع سلاح حزب الله وفق الإطار الثلاثي.",
-   "source": {
-    "name": "US State Department",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14/"
-   }
-  },
-  {
-   "id": "20261124-1928-irgc-container-ship-mine",
-   "time": "2026-11-24T19:28:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards say a container ship hit a mine near the Strait of Hormuz after taking an 'unauthorised' route and switching off its navigation systems, per IRNA.",
-   "ar": "الحرس الثوري الإيراني يقول إن سفينة حاويات اصطدمت بلغم قرب مضيق هرمز بعدما سلكت مساراً «غير مصرّح به» وأطفأت أنظمة الملاحة، بحسب وكالة «إرنا».",
-   "source": {
-    "name": "Reuters via Arab News",
-    "url": "https://www.arabnews.com/middle-east/iran-guards-say-container-ship-hits-mine-in-unauthorized-route-near-strait-of-hormuz-3013915"
    }
   }
  ]
