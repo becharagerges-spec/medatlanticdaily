@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T17:09:14Z",
+ "updated": "2026-11-27T18:09:03Z",
  "items": [
+  {
+   "id": "20261127-1711-pacific-archer-disabled",
+   "time": "2026-11-27T17:11:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "CENTCOM says a US aircraft disabled the Palau-flagged bulk carrier Pacific Archer in the Gulf of Oman after it left Bandar Abbas and ignored blockade warnings; no crew were hurt.",
+   "ar": "القيادة المركزية الأميركية تعلن أن طائرة أميركية عطّلت سفينة الشحن «باسيفيك آرتشر» التي ترفع علم بالاو في خليج عُمان بعد مغادرتها بندر عباس وتجاهلها تحذيرات الحصار، من دون إصابات بين الطاقم.",
+   "source": {
+    "name": "US Central Command",
+    "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/"
+   }
+  },
   {
    "id": "20261127-1633-eisenkot-likud-stalling",
    "time": "2026-11-27T16:33:00Z",
@@ -1779,18 +1791,6 @@
    "source": {
     "name": "Reuters via MarketScreener",
     "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720"
-   }
-  },
-  {
-   "id": "20261124-2040-yashar-yisrael-beytenu-deal",
-   "time": "2026-11-24T20:40:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's Yashar says it signed a coalition deal with Avigdor Liberman's Yisrael Beytenu, the first coalition agreement signed since Israel's election.",
-   "ar": "حزب «ياشار» بقيادة آيزنكوت يعلن توقيع اتفاق ائتلافي مع حزب «إسرائيل بيتنا» بزعامة أفيغدور ليبرمان، وهو أول اتفاق ائتلافي يُوقَّع منذ الانتخابات الإسرائيلية.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/yashar-says-it-signed-a-coalition-deal-with-yisrael-beytenu/"
    }
   }
  ]
