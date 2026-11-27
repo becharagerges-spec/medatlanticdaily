@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T18:09:03Z",
+ "updated": "2026-11-27T19:08:47Z",
  "items": [
+  {
+   "id": "20261127-1814-mokhber-hormuz-blockade",
+   "time": "2026-11-27T18:14:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Mohammad Mokhber, adviser to Supreme Leader Mojtaba Khamenei, says Iran will neither reopen the Strait of Hormuz nor allow the US blockade to remain, per state media.",
+   "ar": "محمد مخبر، مستشار المرشد مجتبى خامنئي، يقول إن إيران لن تعيد فتح مضيق هرمز ولن تسمح ببقاء الحصار الأميركي، بحسب الإعلام الرسمي.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade-3014303"
+   }
+  },
   {
    "id": "20261127-1711-pacific-archer-disabled",
    "time": "2026-11-27T17:11:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "AFP and Reuters via Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks"
+   }
+  },
+  {
+   "id": "20261127-1622-kuwait-summons-iran-envoy",
+   "time": "2026-11-27T16:22:00Z",
+   "theater": "gulf",
+   "status": "confirmed",
+   "en": "Kuwait summons Iran's ambassador Mohammad Totonji and hands him a protest note over continued attacks, holding Iran fully responsible for the drone strike that killed two Italians.",
+   "ar": "الكويت تستدعي السفير الإيراني محمد توتونجي وتسلّمه مذكرة احتجاج على الاعتداءات المتواصلة، محمّلةً إيران المسؤولية الكاملة عن هجوم المسيّرة الذي قتل إيطاليَّين.",
+   "source": {
+    "name": "Kuwait Times",
+    "url": "https://kuwaittimes.com/article/54482/kuwait/kuwaits-foreign-ministry-summons-iranian-envoy-hands-him-protest-note-over-continued-iranian-attacks/"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "AP",
     "url": "https://mymotherlode.com/news/east-europe/11337465/turkish-military-helicopter-crashes-during-training-flight-killing-5-crew-members.html"
-   }
-  },
-  {
-   "id": "20261124-2103-huawei-convicted-iran-sanctions",
-   "time": "2026-11-24T21:03:00Z",
-   "theater": "china",
-   "status": "confirmed",
-   "en": "A federal jury in Brooklyn convicts Huawei on 10 of 12 counts, including evading Iran sanctions, bank fraud and stealing trade secrets; Huawei says it will fight the verdict.",
-   "ar": "هيئة محلّفين فدرالية في بروكلين تدين «هواوي» بـ10 من أصل 12 تهمة، بينها التهرّب من العقوبات على إيران والاحتيال المصرفي وسرقة أسرار تجارية، و«هواوي» تتعهّد بالطعن.",
-   "source": {
-    "name": "Reuters via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/chinese-tech-giant-huawei-convicted-in-us-for-evading-iran-sanctions-stealing-trade-secrets/"
-   }
-  },
-  {
-   "id": "20261124-2101-wall-street-close-chips",
-   "time": "2026-11-24T21:01:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Wall Street closes mixed as chip stocks slide: the Nasdaq falls 1.45% and the S&P 500 0.48%, while the Dow gains 0.87%; Nvidia drops about 5.9% (Reuters).",
-   "ar": "وول ستريت تُغلق متباينة مع تراجع أسهم الرقائق: ناسداك يهبط 1.45% وستاندرد آند بورز 500 بنسبة 0.48%، فيما يرتفع داو جونز 0.87%، وسهم إنفيديا يتراجع نحو 5.9% (رويترز).",
-   "source": {
-    "name": "Reuters via MarketScreener",
-    "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720"
    }
   }
  ]
