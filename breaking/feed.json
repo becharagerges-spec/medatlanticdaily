@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-27T06:09:41Z",
+ "updated": "2026-11-27T08:09:16Z",
  "items": [
+  {
+   "id": "20261127-0635-kharkiv-strike",
+   "time": "2026-11-27T06:35:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "A Russian morning attack on Kharkiv hits the Kyivskyi and Shevchenkivskyi districts and injures 3 people, regional governor Oleh Syniehubov says.",
+   "ar": "هجوم روسي صباحي على خاركيف يصيب حيَّي كييفسكي وشيفتشينكيفسكي ويجرح 3 أشخاص، بحسب حاكم المنطقة أوليغ سينيهوبوف.",
+   "source": {
+    "name": "LB.ua",
+    "url": "https://en.lb.ua/news/2026/11/27/51664_russians_attack_kharkiv_morning.html"
+   }
+  },
+  {
+   "id": "20261127-0613-ukraine-155-drones",
+   "time": "2026-11-27T06:13:00Z",
+   "theater": "ukraine",
+   "status": "confirmed",
+   "en": "Ukraine's air force says Russia launched 155 strike drones overnight, 83 of them jet-powered; 110 were downed, with hits recorded at 27 locations.",
+   "ar": "سلاح الجو الأوكراني يعلن أن روسيا أطلقت 155 مسيّرة هجومية خلال الليل، بينها 83 نفاثة؛ أُسقطت 110 منها وسُجّلت إصابات في 27 موقعاً.",
+   "source": {
+    "name": "Ukraine's Air Force via LB.ua",
+    "url": "https://en.lb.ua/news/2026/11/27/51660_russia_attacks_ukraine_overnight.html"
+   }
+  },
   {
    "id": "20261127-0554-china-stocks-rebound",
    "time": "2026-11-27T05:54:00Z",
@@ -83,6 +107,18 @@
    "source": {
     "name": "AFP via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/trump-downplays-china-and-russias-support-to-iran/"
+   }
+  },
+  {
+   "id": "20261127-0048-hamas-weighs-response",
+   "time": "2026-11-27T00:48:00Z",
+   "theater": "mideast",
+   "status": "confirmed",
+   "en": "Hamas chief Khalil al-Hayya says the group cannot keep withstanding Israeli attacks and will discuss a response with other factions, after strikes kill at least 10 in Gaza, Reuters reports.",
+   "ar": "رئيس حركة حماس خليل الحية يقول إن الحركة لا تستطيع تحمّل استمرار الهجمات الإسرائيلية وستبحث الرد مع الفصائل الأخرى، بعد غارات قتلت 10 أشخاص على الأقل في غزة، وفق رويترز.",
+   "source": {
+    "name": "Reuters via Dawn",
+    "url": "https://www.dawn.com/news/2047355/hamas-weighs-response-after-israel-kills-10-people-in-gaza"
    }
   },
   {
@@ -1755,42 +1791,6 @@
    "source": {
     "name": "Yahoo Finance",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
-   }
-  },
-  {
-   "id": "20261124-1102-hamas-security-chief-killed",
-   "time": "2026-11-24T11:02:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "An Israeli strike in western Gaza City kills Naim Abu Nahal, director of Hamas's internal security apparatus, Hamas's interior ministry says; Israel's army says it struck 'a senior Hamas member'.",
-   "ar": "غارة إسرائيلية غرب مدينة غزة تقتل نعيم أبو نحل، مدير جهاز الأمن الداخلي في «حماس»، بحسب وزارة الداخلية التابعة للحركة؛ والجيش الإسرائيلي يقول إنه استهدف «قيادياً بارزاً في حماس».",
-   "source": {
-    "name": "AFP via Arab News",
-    "url": "https://www.arabnews.com/middle-east/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say-3013840"
-   }
-  },
-  {
-   "id": "20261124-1059-zelensky-democratic-congress",
-   "time": "2026-11-24T10:59:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "Zelensky tells Bloomberg he plans to work with the new Democrat-controlled US Congress to intensify pressure on Russia if Trump fails to persuade Putin to end the war.",
-   "ar": "زيلينسكي يقول لـ«بلومبرغ» إنه يعتزم العمل مع الكونغرس الأميركي الجديد ذي الغالبية الديمقراطية لتشديد الضغط على روسيا إذا فشل ترامب في إقناع بوتين بإنهاء الحرب.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/zelenskyy-draws-close-work-with-us-congress-if-trump-peace-plan-fails"
-   }
-  },
-  {
-   "id": "20261124-1052-irgc-tanker-mine-east-hormuz",
-   "time": "2026-11-24T10:52:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says another tanker hit a naval mine and caught fire east of the Strait of Hormuz after using an unauthorised route, and two others turned back, per Sepah News.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة أخرى اصطدمت بلغم بحري واشتعلت فيها النيران شرق مضيق هرمز بعد سلوكها مساراً غير مرخّص، وإن ناقلتين أخريين عادتا أدراجهما، بحسب «سپاه نيوز».",
-   "source": {
-    "name": "Sepah News via Newsquawk",
-    "url": "https://www.newsquawk.com/headlines/explosion-of-the-fourth-offending-tanker-in-the-east-of-the-strait-of-hormuz--fars-reports"
    }
   }
  ]
