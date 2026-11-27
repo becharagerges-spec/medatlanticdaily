@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T03:09:59Z",
+ "updated": "2026-11-27T04:08:53Z",
  "items": [
+  {
+   "id": "20261127-0403-tula-efremov-drone-blasts",
+   "time": "2026-11-27T04:03:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Explosions hit a synthetic rubber plant and a thermal power plant in Efremov, Tula region, after an overnight Ukrainian drone attack, per ASTRA; the governor says 4 drones were downed.",
+   "ar": "انفجارات تهزّ مصنعاً للمطاط الصناعي ومحطة كهرباء حرارية في يفريموف بمنطقة تولا الروسية إثر هجوم ليلي بمسيّرات أوكرانية، وفق «أسترا»، والحاكم يقول إن 4 مسيّرات أُسقطت.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/explosions-reported-at-power-plant-synthetic-rubber-factory-in-russias-tula-oblast-following-drone-attack/"
+   }
+  },
   {
    "id": "20261127-0141-eu-24-states-ukraine-loan",
    "time": "2026-11-27T01:41:00Z",
@@ -130,6 +142,18 @@
    "source": {
     "name": "Israeli army via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-struck-hezbollah-rockets-and-launchers-in-strikes-on-lebanons-beqaa-valley/"
+   }
+  },
+  {
+   "id": "20261126-1910-north-korea-pauses-arms-russia",
+   "time": "2026-11-26T19:10:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Ukraine's military intelligence says North Korea has paused KN-23 missile and artillery shell deliveries to Russia and stalled a request to raise its troops there from about 8,500 to 50,000.",
+   "ar": "الاستخبارات العسكرية الأوكرانية تقول إن كوريا الشمالية علّقت تسليم صواريخ KN-23 وقذائف المدفعية إلى روسيا، وجمّدت طلباً برفع عديد قواتها هناك من نحو 8,500 إلى 50 ألفاً.",
+   "source": {
+    "name": "Fox News",
+    "url": "https://www.yahoo.com/news/world/articles/ukrainian-intelligence-says-north-korea-191013408.html"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us"
-   }
-  },
-  {
-   "id": "20261124-0942-amit-settler-violence-ruling",
-   "time": "2026-11-24T09:42:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Israel's Supreme Court President Isaac Amit, ruling on a petition by Palestinian residents of Burqa, calls settler violence 'a desecration of God's name' that serves as 'fuel for antisemitism'.",
-   "ar": "رئيس المحكمة العليا الإسرائيلية يتسحاق عميت، في قرار بشأن التماس من سكان برقة الفلسطينيين، يصف عنف المستوطنين بأنه «تدنيس لاسم الله» و«وقود لمعاداة السامية».",
-   "source": {
-    "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/supreme-court-president-blasts-settler-violence-as-desecration-of-gods-name-a-threat-to-zionist-vision-which-fuels-antisemitism/"
-   }
-  },
-  {
-   "id": "20261124-0910-araghchi-land-blockade",
-   "time": "2026-11-24T09:10:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iranian Foreign Minister Abbas Araghchi says a US land blockade of Iran would be 'virtually impossible', per Gulf News.",
-   "ar": "وزير الخارجية الإيراني عباس عراقجي يقول إن فرض حصار أميركي برّي على إيران «شبه مستحيل»، بحسب «غلف نيوز».",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
    }
   }
  ]
