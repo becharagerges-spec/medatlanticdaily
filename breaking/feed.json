@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T16:09:02Z",
+ "updated": "2026-11-27T17:09:14Z",
  "items": [
+  {
+   "id": "20261127-1633-eisenkot-likud-stalling",
+   "time": "2026-11-27T16:33:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Gadi Eisenkot accuses Likud of putting no concrete proposal on the table in two weeks of talks and trying to run down the clock before his December 6 mandate expires.",
+   "ar": "غادي آيزنكوت يتّهم الليكود بعدم طرح أي اقتراح ملموس خلال أسبوعين من المفاوضات وبمحاولة استنزاف الوقت قبل انتهاء تكليفه في 6 كانون الأول.",
+   "source": {
+    "name": "AFP and Reuters via Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks"
+   }
+  },
   {
    "id": "20261127-1510-salam-unifil-stay-on",
    "time": "2026-11-27T15:10:00Z",
@@ -47,6 +59,18 @@
    "source": {
     "name": "LB.ua",
     "url": "https://en.lb.ua/news/2026/11/27/51758_zelenskyy_orders_kyiv_prepare.html"
+   }
+  },
+  {
+   "id": "20261127-1342-baabda-us-pullout-priority",
+   "time": "2026-11-27T13:42:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Baabda Palace sources say Washington now backs President Aoun's sequencing: Israeli withdrawal, army support and reconstruction before any talk of Hezbollah's disarmament, per Al-Akhbar.",
+   "ar": "مصادر قصر بعبدا تقول إن واشنطن باتت تتبنّى أولويات الرئيس عون: الانسحاب الإسرائيلي ودعم الجيش وإعادة الإعمار قبل البحث في نزع سلاح حزب الله، بحسب «الأخبار».",
+   "source": {
+    "name": "Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324062-baabda-says-us-adopted-aoun-s-stance-on-israeli-pullout-priority"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/yashar-says-it-signed-a-coalition-deal-with-yisrael-beytenu/"
-   }
-  },
-  {
-   "id": "20261124-2026-democrats-halt-yashar-talks",
-   "time": "2026-11-24T20:26:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Yair Golan's Democrats halt coalition talks with Eisenkot's Yashar, citing Yashar's progress toward a unity government with Netanyahu's Likud, per The Times of Israel.",
-   "ar": "حزب «الديمقراطيون» بقيادة يائير غولان يوقف مفاوضات الائتلاف مع حزب «ياشار» بقيادة آيزنكوت، متذرّعاً بتقدّم «ياشار» نحو حكومة وحدة مع «الليكود» بزعامة نتنياهو، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/the-democrats-party-announces-it-is-halting-coalition-talks-with-yashar/"
-   }
-  },
-  {
-   "id": "20261124-2005-trump-iran-little-capacity",
-   "time": "2026-11-24T20:05:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump says at the White House turkey pardon that Iran has 'little capacity to fire missiles' and that no Iranian ship has got through the US naval blockade, per The Jerusalem Post.",
-   "ar": "ترامب يقول خلال مراسم العفو عن الديك الرومي في البيت الأبيض إن إيران لديها «قدرة ضئيلة على إطلاق الصواريخ» وإن أي سفينة إيرانية لم تعبر الحصار البحري الأميركي، بحسب «جيروزاليم بوست».",
-   "source": {
-    "name": "The Jerusalem Post",
-    "url": "https://www.jpost.com/american-politics/article-916016"
    }
   }
  ]
