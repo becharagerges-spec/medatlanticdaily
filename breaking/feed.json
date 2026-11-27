@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T08:09:16Z",
+ "updated": "2026-11-27T09:08:55Z",
  "items": [
+  {
+   "id": "20261127-0853-south-lebanon-qantara-strikes",
+   "time": "2026-11-27T08:53:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli aircraft strike the town of Qantara, the area between Zawtar al-Sharqiya and Mifdoun and the outskirts of Kfar Tebnit in south Lebanon, per Lebanon's National News Agency.",
+   "ar": "الطيران الإسرائيلي يغير على بلدة القنطرة والمنطقة الواقعة بين زوطر الشرقية وميفدون وأطراف كفرتبنيت في جنوب لبنان، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "National News Agency via Factjo",
+    "url": "https://factjo.com/news/153352"
+   }
+  },
   {
    "id": "20261127-0635-kharkiv-strike",
    "time": "2026-11-27T06:35:00Z",
@@ -23,6 +35,18 @@
    "source": {
     "name": "Ukraine's Air Force via LB.ua",
     "url": "https://en.lb.ua/news/2026/11/27/51660_russia_attacks_ukraine_overnight.html"
+   }
+  },
+  {
+   "id": "20261127-0605-us-pushed-venezuela-iraq-opec",
+   "time": "2026-11-27T06:05:00Z",
+   "theater": "markets",
+   "status": "reported",
+   "en": "Reuters, citing sources, reports the US pushed Venezuela and Iraq this year to consider leaving OPEC and blocked Venezuela's roughly €2.8 million in annual dues; the State Department denies high-level involvement.",
+   "ar": "«رويترز» تنقل عن مصادر أن الولايات المتحدة دفعت فنزويلا والعراق هذا العام إلى درس الخروج من «أوبك» ومنعت فنزويلا من دفع اشتراكها السنوي البالغ نحو 2.8 مليون يورو؛ والخارجية الأميركية تنفي تورّط كبار مسؤوليها.",
+   "source": {
+    "name": "Reuters",
+    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/27/exclusive-us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say"
    }
   },
   {
@@ -1767,30 +1791,6 @@
    "source": {
     "name": "Naharnet",
     "url": "https://www.naharnet.com/stories/en/323967-aoun-says-tripartite-negotiations-currently-on-hold-due-to-israeli-elections"
-   }
-  },
-  {
-   "id": "20261124-1137-iran-rial-2-82-million",
-   "time": "2026-11-24T11:37:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's rial weakens about 5% on the black market after new US sanctions, with the dollar trading at about 2.82 million rials, up from 2.68 million, per Gulf News.",
-   "ar": "الريال الإيراني يتراجع نحو 5% في السوق السوداء بعد العقوبات الأميركية الجديدة، والدولار يُتداول بنحو 2.82 مليون ريال مقابل 2.68 مليون سابقاً، بحسب «غلف نيوز».",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
-   }
-  },
-  {
-   "id": "20261124-1123-us-futures-fall-2pct",
-   "time": "2026-11-24T11:23:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "US stocks open lower as the Nvidia-driven rally fades: the Nasdaq falls 1.8% and the S&P 500 1.3% at the open, after Nasdaq 100 futures dropped 2% premarket.",
-   "ar": "الأسهم الأميركية تفتتح على تراجع مع انحسار موجة الصعود التي قادتها «إنفيديا»: «ناسداك» يهبط 1.8% و«إس آند بي 500» 1.3% عند الافتتاح، بعد تراجع عقود «ناسداك 100» الآجلة 2% قبل الجلسة.",
-   "source": {
-    "name": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
    }
   }
  ]
