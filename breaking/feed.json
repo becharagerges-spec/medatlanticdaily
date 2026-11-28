@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T09:08:49Z",
+ "updated": "2026-11-28T10:09:14Z",
  "items": [
+  {
+   "id": "20261128-0935-yemen-govt-726-attacks",
+   "time": "2026-11-28T09:35:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's government military spokesman Majed al-Nuzaili says forces carried out 726 attacks on Houthi positions in 24 hours, killing or wounding 121 fighters, as coalition strikes hit over six governorates.",
+   "ar": "المتحدث العسكري باسم الحكومة اليمنية ماجد النزيلي يقول إن القوات نفّذت 726 هجوماً على مواقع الحوثيين خلال 24 ساعة، فقُتل أو جُرح 121 مقاتلاً، فيما طالت غارات التحالف أكثر من ست محافظات.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis"
+   }
+  },
   {
    "id": "20261128-0901-ukraine-10-killed-nizhyn",
    "time": "2026-11-28T09:01:00Z",
@@ -353,11 +365,11 @@
    "time": "2026-11-27T15:10:00Z",
    "theater": "lebanon",
    "status": "confirmed",
-   "en": "Prime Minister Nawaf Salam tells AP a proposal is underway, which he says France will table, to keep UNIFIL doing mine clearance and monitoring during its drawdown after its mandate ends on December 31.",
-   "ar": "رئيس الحكومة نواف سلام يقول لأسوشيتد برس إن اقتراحاً قيد الإعداد، يقول إن فرنسا ستطرحه، لإبقاء اليونيفيل في نزع الألغام والمراقبة خلال انسحابها بعد انتهاء ولايتها في 31 كانون الأول.",
+   "en": "Prime Minister Nawaf Salam tells AP France will table a plan keeping UNIFIL on mine clearance after December 31, Israel talks are paused not collapsed, and Beirut won't yield to Hezbollah intimidation.",
+   "ar": "رئيس الحكومة نواف سلام يقول لأسوشيتد برس إن فرنسا ستطرح خطة لإبقاء اليونيفيل في نزع الألغام بعد 31 كانون الأول، وإن المفاوضات مع إسرائيل معلّقة لا منهارة، وإن لبنان لن يرضخ لترهيب حزب الله.",
    "source": {
-    "name": "AP",
-    "url": "https://www.news4jax.com/news/world/2026/11/27/ap-exclusive-lebanons-prime-minister-says-a-proposal-is-underway-to-have-un-peacekeepers-stay-on/"
+    "name": "AP via Naharnet",
+    "url": "https://www.naharnet.com/stories/en/324080-salam-not-seeking-confrontation-with-hezbollah-but-won-t-succumb-to-its-intimidation"
    }
   },
   {
@@ -1781,18 +1793,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/"
-   }
-  },
-  {
-   "id": "20261125-1004-baharav-miara-court",
-   "time": "2026-11-25T10:04:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Attorney General Gali Baharav-Miara appears at Jerusalem District Court under tight security after judges summoned her to a hearing in Netanyahu's corruption trial, per The Times of Israel.",
-   "ar": "المستشارة القضائية للحكومة غالي بهاراف ميارا تمثل أمام المحكمة المركزية في القدس وسط إجراءات أمنية مشددة بعدما استدعاها القضاة إلى جلسة في محاكمة نتنياهو بتهم الفساد، بحسب «تايمز أوف إسرائيل».",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/under-tight-security-baharav-miara-arrives-at-court-for-netanyahu-trial-hearing/"
    }
   }
  ]
