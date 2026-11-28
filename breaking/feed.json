@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T13:10:03Z",
+ "updated": "2026-11-28T14:09:32Z",
  "items": [
+  {
+   "id": "20261128-1131-geagea-cabinet-decisions",
+   "time": "2026-11-28T11:31:00Z",
+   "theater": "lebanon",
+   "status": "confirmed",
+   "en": "Lebanese Forces leader Samir Geagea says cabinet decisions are for implementation, not negotiation, and anyone who defies them should be jailed, rejecting Hezbollah's line that its resistance does not operate in secret.",
+   "ar": "رئيس حزب القوات اللبنانية سمير جعجع يقول إنّ قرارات الحكومة للتنفيذ لا للتفاوض ومن لا يلتزمها يجب أن يُزجّ في السجن، رافضاً قول حزب الله إنّ مقاومته لا تعمل في الخفاء.",
+   "source": {
+    "name": "MTV Lebanon",
+    "url": "https://www.mtv.com.lb/news/1762818"
+   }
+  },
   {
    "id": "20261128-1051-mughayyir-settlers-workers",
    "time": "2026-11-28T10:51:00Z",
@@ -1710,54 +1722,6 @@
    "source": {
     "name": "Reuters via Middle East Eye",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-says-oil-tanker-hit-naval-mine-and-caught-fire-strait-hormuz"
-   }
-  },
-  {
-   "id": "20261125-1406-kremlin-700000-deaths",
-   "time": "2026-11-25T14:06:00Z",
-   "theater": "russia",
-   "status": "confirmed",
-   "en": "Kremlin spokesman Dmitry Peskov declines to comment on reports that up to 700,000 Russian soldiers have been killed in Ukraine, saying only the Defence Ministry can release casualty figures.",
-   "ar": "المتحدث باسم الكرملين دميتري بيسكوف يرفض التعليق على تقارير تفيد بمقتل ما يصل إلى 700 ألف جندي روسي في أوكرانيا، قائلاً إن وزارة الدفاع وحدها تعلن أرقام الخسائر.",
-   "source": {
-    "name": "AFP via Naharnet",
-    "url": "https://www.naharnet.com/stories/en/324010-kremlin-brushes-off-reports-of-700-000-russian-war-deaths"
-   }
-  },
-  {
-   "id": "20261125-1354-katz-south-lebanon-gaza",
-   "time": "2026-11-25T13:54:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "Israeli Defence Minister Israel Katz says Israel would treat south Lebanon like Gaza, with permanent military control, if Hezbollah attacks, and reveals another strike on Hezbollah weapons smuggling.",
-   "ar": "وزير الدفاع الإسرائيلي يسرائيل كاتس يقول إن إسرائيل ستتعامل مع جنوب لبنان كما تعاملت مع غزة، بسيطرة عسكرية دائمة، إذا هاجم حزب الله، ويكشف عن ضربة جديدة لتهريب السلاح إلى الحزب.",
-   "source": {
-    "name": "This is Beirut",
-    "url": "https://thisisbeirut.com.lb/news/politics/katz-warns-of-permanent-israeli-military-control-in-southern-lebanon"
-   }
-  },
-  {
-   "id": "20261125-1330-us-pce-october",
-   "time": "2026-11-25T13:30:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "US core PCE inflation rises to 3.3% year on year in October, above the expected 3.2%, while headline PCE holds at 3.8%, the Commerce Department reports.",
-   "ar": "التضخم الأساسي لمؤشر نفقات الاستهلاك الشخصي في الولايات المتحدة يرتفع إلى 3.3% على أساس سنوي في تشرين الأول، فوق التوقعات البالغة 3.2%، فيما يستقر المؤشر العام عند 3.8%، بحسب وزارة التجارة.",
-   "source": {
-    "name": "US Bureau of Economic Analysis via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-   }
-  },
-  {
-   "id": "20261125-1322-us-301-tariffs-14-economies",
-   "time": "2026-11-25T13:22:00Z",
-   "theater": "usa",
-   "status": "confirmed",
-   "en": "The US proposes excess-capacity tariffs on 14 economies, with 20% more on China that could double to 40% if talks fail, a US official says; Beijing calls it 'political maneuvering'.",
-   "ar": "الولايات المتحدة تقترح رسوماً على 14 اقتصاداً بذريعة فائض الإنتاج، مع 20% إضافية على الصين قد تتضاعف إلى 40% إن فشلت المحادثات بحسب مسؤول أميركي، وبكين تصفها بـ«مناورة سياسية».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe"
    }
   }
  ]
