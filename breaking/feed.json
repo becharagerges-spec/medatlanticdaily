@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-28T00:09:43Z",
+ "updated": "2026-11-28T03:09:11Z",
  "items": [
+  {
+   "id": "20261128-0000-taiwan-local-elections-vote",
+   "time": "2026-11-28T00:00:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Taiwan votes in nine-in-one local elections for about 11,000 posts in 22 cities and counties, with Taipei's KMT mayor Chiang Wan-an facing DPP challenger Puma Shen.",
+   "ar": "تايوان تقترع في الانتخابات المحلية «تسعة في واحد» لنحو 11,000 منصب في 22 مدينة ومقاطعة، ورئيس بلدية تايبيه من الكومينتانغ تشيانغ وان آن يواجه مرشح الحزب الديمقراطي التقدمي بوما شين.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders"
+   }
+  },
+  {
+   "id": "20261127-2337-gaza-msf-watchmen-strike",
+   "time": "2026-11-27T23:37:00Z",
+   "theater": "israel",
+   "status": "reported",
+   "en": "Israel's army says a Gaza City strike killed two Hamas members working as watchmen at a Doctors Without Borders clinic; MSF calls it a direct hit and says 17 of its staff have died in Gaza.",
+   "ar": "الجيش الإسرائيلي يقول إن غارة في مدينة غزة قتلت عنصرين من حماس يعملان حارسين في عيادة لأطباء بلا حدود؛ والمنظمة تصفها بإصابة مباشرة وتقول إن 17 من عامليها قُتلوا في غزة.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-gaza-strike-killed-two-terrorists-working-for-doctors-without-borders/"
+   }
+  },
   {
    "id": "20261127-2252-irani-blockade-breaking",
    "time": "2026-11-27T22:52:00Z",
@@ -1768,30 +1792,6 @@
    "source": {
     "name": "Kyiv Post",
     "url": "https://www.kyivpost.com/post/91106"
-   }
-  },
-  {
-   "id": "20261125-0515-us-shelves-russia-business-deals",
-   "time": "2026-11-25T05:15:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "The Trump administration has shelved plans to offer Russia joint energy and aviation ventures as an incentive to end the Ukraine war after Moscow showed little interest, per the Financial Times.",
-   "ar": "إدارة ترامب جمّدت خطط عرض مشاريع مشتركة في الطاقة والطيران على روسيا حافزاً لإنهاء حرب أوكرانيا بعدما أبدت موسكو اهتماماً ضئيلاً، بحسب «فايننشال تايمز».",
-   "source": {
-    "name": "Financial Times via Reuters",
-    "url": "https://uk.finance.yahoo.com/news/us-shelves-proposals-business-deals-051552709.html"
-   }
-  },
-  {
-   "id": "20261125-0413-gaza-shati-strike-four-killed",
-   "time": "2026-11-25T04:13:00Z",
-   "theater": "mideast",
-   "status": "confirmed",
-   "en": "An Israeli airstrike on a residential building in Gaza City's Shati camp kills at least 4 people early Wednesday, Gaza medical officials say.",
-   "ar": "غارة إسرائيلية على مبنى سكني في مخيم الشاطئ بمدينة غزة تقتل 4 أشخاص على الأقل فجر الأربعاء، بحسب مسؤولين طبيين في غزة.",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza"
    }
   }
  ]
