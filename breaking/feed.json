@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T08:08:57Z",
+ "updated": "2026-11-28T09:08:49Z",
  "items": [
+  {
+   "id": "20261128-0901-ukraine-10-killed-nizhyn",
+   "time": "2026-11-28T09:01:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukrainian regional authorities say Russian attacks killed 10 people and injured 55 over the past day, including 7 killed in a strike on a business in Nizhyn, Chernihiv Oblast.",
+   "ar": "السلطات الأوكرانية في المناطق تقول إن الهجمات الروسية قتلت 10 أشخاص وأصابت 55 خلال اليوم الماضي، بينهم 7 قتلى في ضربة على منشأة تجارية في نيجين بمقاطعة تشيرنيهيف.",
+   "source": {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/"
+   }
+  },
   {
    "id": "20261128-0634-russia-1246-drones",
    "time": "2026-11-28T06:34:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "APA",
     "url": "https://en.apa.az/cis-countries/ukraine-launches-one-of-its-largest-drone-attacks-on-russia-overnight-539059"
+   }
+  },
+  {
+   "id": "20261128-0615-lakenheath-drones-iran-suspected",
+   "time": "2026-11-28T06:15:00Z",
+   "theater": "europe",
+   "status": "reported",
+   "en": "US forces used counter-drone systems to repel about six drones over Britain's RAF Lakenheath on 13 November, and Iran is suspected, the Financial Times reports; Britain's Defence Ministry confirms the incident.",
+   "ar": "القوات الأميركية استخدمت أنظمة مضادة للمسيّرات لصدّ نحو ست مسيّرات فوق قاعدة لايكنهيث البريطانية في 13 تشرين الثاني، والشبهات تحوم حول إيران، بحسب «فايننشال تايمز»؛ ووزارة الدفاع البريطانية تؤكد الحادث.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/world/us-military-repelled-drones-at-uk-air-base-this-month-ft-reports-3014346"
    }
   },
   {
@@ -1769,29 +1793,6 @@
    "source": {
     "name": "The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/under-tight-security-baharav-miara-arrives-at-court-for-netanyahu-trial-hearing/"
-   }
-  },
-  {
-   "id": "20261125-0933-gold-falls-2pct",
-   "time": "2026-11-25T09:33:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Spot gold falls about 2% to around $3,560 an ounce on bets of a hawkish US Federal Reserve ahead of US inflation data, Reuters reports.",
-   "ar": "الذهب في المعاملات الفورية يتراجع نحو 2% إلى قرابة 3,560 دولاراً للأونصة مع رهانات على تشدد الاحتياطي الفدرالي الأميركي قبيل صدور بيانات التضخم، بحسب «رويترز».",
-   "source": {
-    "name": "Reuters via LBCI"
-   }
-  },
-  {
-   "id": "20261125-0933-ramaphosa-phala-phala-ruling",
-   "time": "2026-11-25T09:33:00Z",
-   "theater": "africa",
-   "status": "confirmed",
-   "en": "South Africa's Western Cape High Court sets aside the Phala Phala panel report, halting the parliamentary impeachment process against President Cyril Ramaphosa.",
-   "ar": "المحكمة العليا في الكاب الغربي بجنوب أفريقيا تُبطل تقرير لجنة «فالا فالا»، ما يوقف مسار العزل البرلماني بحق الرئيس سيريل رامافوزا.",
-   "source": {
-    "name": "Mail & Guardian",
-    "url": "https://mg.co.za/news/south-africa/2026-11-25-phala-phala-report-set-aside-and-impeachment-process-halted/"
    }
   }
  ]
