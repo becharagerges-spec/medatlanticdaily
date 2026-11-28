@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T22:09:36Z",
+ "updated": "2026-11-28T00:09:43Z",
  "items": [
+  {
+   "id": "20261127-2252-irani-blockade-breaking",
+   "time": "2026-11-27T22:52:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's navy commander Shahram Irani tells state TV that breaking the US blockade is underway and Iranian ports are operating, and claims Iranian strikes damaged the US Fifth Fleet base in Bahrain.",
+   "ar": "قائد البحرية الإيرانية شهرام إيراني يقول للتلفزيون الرسمي إن كسر الحصار الأميركي جارٍ وإن الموانئ الإيرانية تعمل، ويزعم أن ضربات إيرانية ألحقت أضراراً بقاعدة الأسطول الأميركي الخامس في البحرين.",
+   "source": {
+    "name": "IRIB via ANI",
+    "url": "https://www.aninews.in/news/world/middle-east/breaking-through-enemy-blockade-is-underway-iran-navy-chief-dismisses-us-blockade-in-strait-of-hormuz20261128042046/"
+   }
+  },
   {
    "id": "20261127-2057-netanyahu-rotation-offer",
    "time": "2026-11-27T20:57:00Z",
@@ -59,6 +71,18 @@
    "source": {
     "name": "Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/raam-pledges-to-back-eisenkot-governments-security-decisions-seeks-cabinet-posts-report/"
+   }
+  },
+  {
+   "id": "20261127-1906-south-lebanon-evening-strikes",
+   "time": "2026-11-27T19:06:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli aircraft carry out three strikes on Bar'ashit, Bani Hayyan and Kfar Tebnit in south Lebanon, with large blasts in Zawtar al-Sharqiya and Qantara, Lebanon's National News Agency says.",
+   "ar": "الطيران الإسرائيلي يشنّ ثلاث غارات على برعشيت وبني حيان وكفرتبنيت في جنوب لبنان، مع تفجيرات كبيرة في زوطر الشرقية والقنطرة، بحسب الوكالة الوطنية للإعلام.",
+   "source": {
+    "name": "NNA via Shafaq News",
+    "url": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-5-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA"
    }
   },
   {
@@ -134,6 +158,18 @@
    }
   },
   {
+   "id": "20261127-1532-irgc-mousavi-air-sea",
+   "time": "2026-11-27T15:32:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "IRGC Aerospace Force commander Majid Mousavi says 'the enemy must await our actions in the air and at sea' and calls breaking the US blockade 'a firm commitment'.",
+   "ar": "قائد القوة الجوفضائية في الحرس الثوري مجيد موسوي يقول إن «على العدو أن ينتظر تحركاتنا في الجو والبحر»، ويصف كسر الحصار الأميركي بأنه «التزام راسخ».",
+   "source": {
+    "name": "SBS News",
+    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008867463"
+   }
+  },
+  {
    "id": "20261127-1510-salam-unifil-stay-on",
    "time": "2026-11-27T15:10:00Z",
    "theater": "lebanon",
@@ -155,6 +191,18 @@
    "source": {
     "name": "AP via BNN Bloomberg",
     "url": "https://www.bnnbloomberg.ca/markets/2026/11/27/stocks-rise-and-keep-wall-street-on-track-to-close-out-an-erratic-week-with-big-gains/"
+   }
+  },
+  {
+   "id": "20261127-1426-deir-ezzor-security-killed",
+   "time": "2026-11-27T14:26:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Syrian state television says an armed attack in Deir ez-Zor killed 2 members of Syria's Internal Security Forces.",
+   "ar": "التلفزيون السوري يقول إن هجوماً مسلحاً في دير الزور أدى إلى مقتل عنصرين من قوى الأمن الداخلي السورية.",
+   "source": {
+    "name": "Syrian TV via LBCI",
+    "url": "https://www.lbcgroup.tv/news/latest-news/969991/التلفزيون-السوري-مقتل-عنصرين-من-قوى-الأمن-الداخلي-جرّاء-هجوم-مسلّح-بدي/ar"
    }
   },
   {
@@ -1744,54 +1792,6 @@
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza"
-   }
-  },
-  {
-   "id": "20261125-0246-coalition-strikes-hodeidah-port",
-   "time": "2026-11-25T02:46:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "The Saudi-led coalition says it struck Houthi 'operational capabilities' at Yemen's Hodeidah port early Wednesday and destroyed several targets in Saada and Amran governorates, after warning civilians to leave the port.",
-   "ar": "التحالف بقيادة السعودية يعلن أنه استهدف «قدرات عملياتية» للحوثيين في ميناء الحديدة فجر الأربعاء ودمّر أهدافاً عدة في محافظتَي صعدة وعمران، بعد تحذير المدنيين من الاقتراب من الميناء.",
-   "source": {
-    "name": "Arab News",
-    "url": "https://www.arabnews.com/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3013941"
-   }
-  },
-  {
-   "id": "20261125-0245-ras-tanura-four-drones",
-   "time": "2026-11-25T02:45:00Z",
-   "theater": "saudi",
-   "status": "confirmed",
-   "en": "Saudi air defences destroy four drones over Ras Tanura and three over the Eastern Province with no casualties, the coalition says; the Houthis claim they hit the Ras Tanura refinery, causing fires (Reuters).",
-   "ar": "الدفاعات الجوية السعودية تدمّر أربع مسيّرات فوق رأس تنورة وثلاثاً فوق المنطقة الشرقية من دون إصابات بحسب التحالف، فيما يزعم الحوثيون أنهم أصابوا مصفاة رأس تنورة وأشعلوا فيها حرائق («رويترز»).",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
-   }
-  },
-  {
-   "id": "20261125-0220-kospi-chip-slide",
-   "time": "2026-11-25T02:20:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Asian chip stocks slide on AI doubts: Taiwan's Taiex plunges as much as 7.9%, South Korea's Kospi more than 6% and Japan's Nikkei 3.6%, per Al Jazeera.",
-   "ar": "أسهم الرقائق الآسيوية تتهاوى وسط الشكوك حول الذكاء الاصطناعي: مؤشر تايكس التايواني يهبط حتى 7.9% وكوسبي الكوري الجنوبي أكثر من 6% ونيكاي الياباني 3.6% (بحسب الجزيرة).",
-   "source": {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
-   }
-  },
-  {
-   "id": "20261125-0210-trump-iran-war-funded-january",
-   "time": "2026-11-25T02:10:00Z",
-   "theater": "usa",
-   "status": "reported",
-   "en": "Trump says the Iran war is funded through about the end of January and warns congressional Democrats that forcing an early halt could turn a 'total win' into 'a loss', per Gulf News.",
-   "ar": "ترامب يقول إن تمويل الحرب على إيران مؤمّن حتى نهاية كانون الثاني تقريباً، ويحذّر الديمقراطيين في الكونغرس من أن فرض وقفها مبكراً قد يحوّل «النصر الكامل» إلى «خسارة»، بحسب «غلف نيوز».",
-   "source": {
-    "name": "Gulf News",
-    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
    }
   }
  ]
