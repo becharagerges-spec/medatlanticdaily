@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T05:08:33Z",
+ "updated": "2026-11-28T06:08:44Z",
  "items": [
+  {
+   "id": "20261128-0428-houthis-sanaa-strike-13-wounded",
+   "time": "2026-11-28T04:28:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Houthi media say a Saudi strike on Sanaa's Bir Abu Shamlah area damaged 8 homes and 3 shops and wounded 13 people, per Saba and Al-Masirah; the coalition has not commented.",
+   "ar": "إعلام الحوثيين يقول إن غارة سعودية على منطقة بئر أبو شملة في صنعاء ألحقت أضراراً بـ8 منازل و3 محال وأصابت 13 شخصاً، بحسب «سبأ» و«المسيرة»، من دون تعليق من التحالف.",
+   "source": {
+    "name": "AFP via Times of Israel",
+    "url": "https://timesofisrael.com/liveblog-november-28-2026"
+   }
+  },
   {
    "id": "20261128-0406-novoshakhtinsk-refinery-fire",
    "time": "2026-11-28T04:06:00Z",
@@ -82,6 +94,30 @@
    "source": {
     "name": "IRIB via ANI",
     "url": "https://www.aninews.in/news/world/middle-east/breaking-through-enemy-blockade-is-underway-iran-navy-chief-dismisses-us-blockade-in-strait-of-hormuz20261128042046/"
+   }
+  },
+  {
+   "id": "20261127-2203-ukraine-laser-downs-geran",
+   "time": "2026-11-27T22:03:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's state-backed defence cluster Brave1 says a Ukrainian laser weapon, Blysk, shot down a Russian jet-powered Geran drone for the first time, but cautions it is not ready for mass use.",
+   "ar": "تجمّع «Brave1» الدفاعي المدعوم من الدولة الأوكرانية يقول إن سلاحاً ليزرياً أوكرانياً اسمه «بليسك» أسقط للمرة الأولى مسيّرة «غيران» روسية نفاثة، محذّراً من أنه غير جاهز للاستخدام الواسع.",
+   "source": {
+    "name": "AFP via Times of Israel",
+    "url": "https://timesofisrael.com/liveblog-november-28-2026"
+   }
+  },
+  {
+   "id": "20261127-2127-sp-france-outlook-negative",
+   "time": "2026-11-27T21:27:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "S&P affirms France's A+ sovereign rating but cuts its outlook from stable to negative, citing growing budget pressures, weak growth and higher interest costs, Reuters reports.",
+   "ar": "وكالة «ستاندرد آند بورز» تثبّت تصنيف فرنسا السيادي عند A+ لكنها تخفّض النظرة المستقبلية من مستقرة إلى سلبية، بسبب تزايد ضغوط الموازنة وضعف النمو وارتفاع كلفة الفوائد، بحسب «رويترز».",
+   "source": {
+    "name": "Reuters",
+    "url": "https://whbl.com/2026/11/27/sp-revises-france-outlook-to-negative-on-mounting-budget-pressures-weak-growth/"
    }
   },
   {
@@ -1756,41 +1792,6 @@
    "source": {
     "name": "Anadolu",
     "url": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916"
-   }
-  },
-  {
-   "id": "20261125-0732-jordan-death-sentence-salaitah",
-   "time": "2026-11-25T07:32:00Z",
-   "theater": "mideast",
-   "status": "reported",
-   "en": "Jordan's State Security Court sentences to death the man who killed security officer Jawad al-Salaitah in a knife attack in Amman earlier this month, per CNN Arabic.",
-   "ar": "محكمة أمن الدولة في الأردن تصدر حكماً بإعدام قاتل رجل الأمن جواد السلايطة الذي قُتل بهجوم بآلة حادة في عمّان مطلع الشهر الجاري، بحسب «سي إن إن» العربية.",
-   "source": {
-    "name": "CNN Arabic"
-   }
-  },
-  {
-   "id": "20261125-0724-ofgem-cap-rise-26pct",
-   "time": "2026-11-25T07:24:00Z",
-   "theater": "europe",
-   "status": "confirmed",
-   "en": "Britain's energy regulator Ofgem raises the household price cap 26% to £2,166 a year from 1 January 2027, blaming the Middle East conflict for higher gas prices.",
-   "ar": "هيئة تنظيم الطاقة البريطانية «أوفجيم» ترفع سقف أسعار الطاقة المنزلية 26% إلى 2,166 جنيهاً سنوياً اعتباراً من 1 كانون الثاني 2027، وتعزو ذلك إلى ارتفاع أسعار الغاز بفعل النزاع في الشرق الأوسط.",
-   "source": {
-    "name": "Ofgem",
-    "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-rise-26-january-2027"
-   }
-  },
-  {
-   "id": "20261125-0721-aref-blockade-not-worried",
-   "time": "2026-11-25T07:21:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's First Vice President Mohammad Reza Aref says Tehran is not worried about the US naval blockade, citing rising cargo clearance through non-southern borders, per Tasnim.",
-   "ar": "النائب الأول للرئيس الإيراني محمد رضا عارف يقول إن طهران غير قلقة من الحصار البحري الأميركي، مشيراً إلى ارتفاع تخليص البضائع عبر الحدود غير الجنوبية، بحسب «تسنيم».",
-   "source": {
-    "name": "Tasnim via Dawn",
-    "url": "https://www.dawn.com/live/iran-israel-war"
    }
   }
  ]
