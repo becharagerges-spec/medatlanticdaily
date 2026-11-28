@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-28T11:10:25Z",
+ "updated": "2026-11-28T12:09:40Z",
  "items": [
+  {
+   "id": "20261128-1051-mughayyir-settlers-workers",
+   "time": "2026-11-28T10:51:00Z",
+   "theater": "israel",
+   "status": "confirmed",
+   "en": "Israel Police say masked Jewish assailants wielding metal rods wounded 3 Jerusalem District Electric Company workers during maintenance in al-Mughayyir near Ramallah; one is reported in serious condition.",
+   "ar": "الشرطة الإسرائيلية تقول إن مهاجمين يهوداً ملثمين يحملون قضباناً معدنية أصابوا 3 عمال من شركة كهرباء محافظة القدس خلال أعمال صيانة في المغيّر قرب رام الله، وأحدهم بحالة خطرة بحسب التقارير.",
+   "source": {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/masked-settlers-wound-3-arab-electric-workers-in-central-west-bank-attack/"
+   }
+  },
+  {
+   "id": "20261128-1033-south-lebanon-kfar-tebnit-strikes",
+   "time": "2026-11-28T10:33:00Z",
+   "theater": "lebanon",
+   "status": "reported",
+   "en": "Israeli warplanes strike Kfar Tebnit in Nabatieh district in two waves and hit Bar'ashit, while artillery and machine guns target Rashaf and Srebbine in south Lebanon, Egypt's MENA agency reports.",
+   "ar": "الطيران الإسرائيلي يغير على كفرتبنيت في قضاء النبطية على دفعتين ويستهدف برعشيت، فيما يطال القصف المدفعي والرشاشات رشاف وصربين في جنوب لبنان، بحسب وكالة أنباء الشرق الأوسط المصرية.",
+   "source": {
+    "name": "MENA via Maspero",
+    "url": "https://www.maspero.eg/arab-and-world/2026/11/28/1009386/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B9%D8%AF%D8%A9-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+   }
+  },
   {
    "id": "20261128-1000-taiwan-vote-count",
    "time": "2026-11-28T10:00:00Z",
@@ -90,11 +114,11 @@
    "time": "2026-11-28T04:28:00Z",
    "theater": "saudi",
    "status": "reported",
-   "en": "Houthi media say a Saudi strike on Sanaa's Bir Abu Shamlah area damaged 8 homes and 3 shops and wounded 13 people, per Saba and Al-Masirah; the coalition has not commented.",
-   "ar": "إعلام الحوثيين يقول إن غارة سعودية على منطقة بئر أبو شملة في صنعاء ألحقت أضراراً بـ8 منازل و3 محال وأصابت 13 شخصاً، بحسب «سبأ» و«المسيرة»، من دون تعليق من التحالف.",
+   "en": "The Houthi-run health ministry says a strike it blames on Saudi Arabia wounded at least 15 people in Sanaa's Abu Shamla area, and Al-Masirah says strikes set a Mokha power plant ablaze.",
+   "ar": "وزارة الصحة التابعة للحوثيين تقول إن غارة تنسبها إلى السعودية أصابت 15 شخصاً على الأقل في منطقة أبو شملة في صنعاء، و«المسيرة» تقول إن غارات أشعلت حريقاً في محطة كهرباء المخا.",
    "source": {
-    "name": "AFP via Times of Israel",
-    "url": "https://timesofisrael.com/liveblog-november-28-2026"
+    "name": "AP via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog_entry/houthis-report-airstrikes-in-yemens-sanaa-red-sea-port-city-mokha/"
    }
   },
   {
@@ -1746,54 +1770,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
-   }
-  },
-  {
-   "id": "20261125-1159-ukraine-daily-toll-9-killed",
-   "time": "2026-11-25T11:59:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "Russian attacks kill 9 people and injure 59 across Ukraine over the past day and halt power generation at a thermal power plant, Ukrainian authorities say; Russia launched 112 drones overnight.",
-   "ar": "هجمات روسية تقتل 9 أشخاص وتصيب 59 في أنحاء أوكرانيا خلال اليوم الماضي وتوقف إنتاج الكهرباء في محطة حرارية، بحسب السلطات الأوكرانية؛ وروسيا أطلقت 112 مسيّرة ليلاً.",
-   "source": {
-    "name": "Kyiv Independent",
-    "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-59-across-ukraine-over-past-day-halt-power-generation-at-thermal-power-plant/"
-   }
-  },
-  {
-   "id": "20261125-1150-iraq-court-kurdistan-borders",
-   "time": "2026-11-25T11:50:00Z",
-   "theater": "iraq",
-   "status": "confirmed",
-   "en": "Iraq's Federal Supreme Court rules Baghdad may deploy federal forces on all borders, including in the Kurdistan Region, and oversee its border crossings and oil and gas fields.",
-   "ar": "المحكمة الاتحادية العليا في العراق تقضي بأحقية بغداد في نشر قوات اتحادية على جميع الحدود، بما فيها إقليم كردستان، والإشراف على منافذه الحدودية وحقول النفط والغاز فيه.",
-   "source": {
-    "name": "Reuters via WTVB",
-    "url": "https://wtvbam.com/2026/11/25/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports/"
-   }
-  },
-  {
-   "id": "20261125-1147-savasleyka-five-aircraft",
-   "time": "2026-11-25T11:47:00Z",
-   "theater": "russia",
-   "status": "reported",
-   "en": "Ukraine's General Staff says its forces hit 5 Russian aircraft, 3 MiG-31s and 2 Su-34s, at Savasleyka airfield in Russia's Nizhny Novgorod region on 24–25 November.",
-   "ar": "هيئة الأركان العامة الأوكرانية تقول إن قواتها أصابت 5 طائرات روسية، 3 من طراز ميغ-31 و2 سوخوي-34، في مطار سافاسليكا بمنطقة نيجني نوفغورود الروسية يومَي 24 و25 تشرين الثاني.",
-   "source": {
-    "name": "Ukrainska Pravda",
-    "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064590/"
-   }
-  },
-  {
-   "id": "20261125-1116-knesset-term-limits-vote",
-   "time": "2026-11-25T11:16:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "The Knesset passes, 65–48 in preliminary reading, a bill capping prime ministers at 8 years and barring indicted lawmakers from forming a government; an October 7 inquiry bill passes 65–50.",
-   "ar": "الكنيست يقرّ بالقراءة التمهيدية، 65 مقابل 48، مشروع قانون يحصر ولاية رئيس الحكومة بـ8 سنوات ويمنع النواب المتّهمين من تشكيل حكومة، ومشروع لجنة تحقيق في 7 تشرين الأول بـ65 مقابل 50.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/ry11wxreyme"
    }
   }
  ]
