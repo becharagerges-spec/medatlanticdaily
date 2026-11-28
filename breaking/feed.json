@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T10:09:14Z",
+ "updated": "2026-11-28T11:10:25Z",
  "items": [
+  {
+   "id": "20261128-1000-taiwan-vote-count",
+   "time": "2026-11-28T10:00:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Taipei's KMT mayor Chiang Wan-an leads Taiwan's local election count, the DPP is on track to keep Kaohsiung and Tainan, and KMT candidates claim Kinmen and Lienchiang.",
+   "ar": "رئيس بلدية تايبيه شيانغ وان-آن من الكومينتانغ يتصدّر فرز الانتخابات المحلية في تايوان، والحزب الديمقراطي التقدمي في طريقه للاحتفاظ بكاوهسيونغ وتاينان، فيما يعلن مرشحو الكومينتانغ فوزهم في كينمن وليانجيانغ.",
+   "source": {
+    "name": "Reuters via ThePrint",
+    "url": "https://theprint.in/world/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections/3111721/"
+   }
+  },
   {
    "id": "20261128-0935-yemen-govt-726-attacks",
    "time": "2026-11-28T09:35:00Z",
@@ -8,6 +20,18 @@
    "status": "reported",
    "en": "Yemen's government military spokesman Majed al-Nuzaili says forces carried out 726 attacks on Houthi positions in 24 hours, killing or wounding 121 fighters, as coalition strikes hit over six governorates.",
    "ar": "المتحدث العسكري باسم الحكومة اليمنية ماجد النزيلي يقول إن القوات نفّذت 726 هجوماً على مواقع الحوثيين خلال 24 ساعة، فقُتل أو جُرح 121 مقاتلاً، فيما طالت غارات التحالف أكثر من ست محافظات.",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis"
+   }
+  },
+  {
+   "id": "20261128-0935-taiz-houthi-shelling",
+   "time": "2026-11-28T09:35:00Z",
+   "theater": "saudi",
+   "status": "reported",
+   "en": "Yemen's government-run Saba agency says Houthi attacks on government-held areas of Taiz on Saturday killed 3 civilians, including a 10-year-old boy, and wounded 3.",
+   "ar": "وكالة سبأ التابعة للحكومة اليمنية تقول إن هجمات للحوثيين على مناطق خاضعة للحكومة في تعز السبت قتلت 3 مدنيين بينهم طفل في العاشرة وأصابت 3 آخرين.",
    "source": {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis"
@@ -1770,29 +1794,6 @@
    "source": {
     "name": "Ynet",
     "url": "https://www.ynetnews.com/article/ry11wxreyme"
-   }
-  },
-  {
-   "id": "20261125-1109-germany-us-troop-cuts",
-   "time": "2026-11-25T11:09:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "Senior German defence officials are preparing a response to possible US troop cuts in Germany as the Pentagon nears a decision, ahead of high-level talks in Washington, per Politico Europe.",
-   "ar": "كبار مسؤولي الدفاع الألمان يعدّون ردّاً على تخفيض محتمل للقوات الأميركية في ألمانيا مع اقتراب البنتاغون من قراره، قبيل محادثات رفيعة في واشنطن، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe"
-   }
-  },
-  {
-   "id": "20261125-1035-court-netanyahu-cases",
-   "time": "2026-11-25T10:35:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Judges in Netanyahu's corruption trial tell Attorney General Baharav-Miara that Case 4000 has little chance of conviction, urge reconsidering Case 2000 and seeking a deal on Case 1000.",
-   "ar": "قضاة محاكمة نتنياهو بتهم الفساد يبلغون المستشارة القضائية بهاراف-ميارا أن فرص الإدانة في الملف 4000 ضئيلة، ويدعون إلى إعادة النظر في الملف 2000 والسعي إلى تسوية في الملف 1000.",
-   "source": {
-    "name": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/"
    }
   }
  ]
