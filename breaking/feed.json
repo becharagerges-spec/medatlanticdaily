@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-28T14:09:32Z",
+ "updated": "2026-11-28T15:09:19Z",
  "items": [
+  {
+   "id": "20261128-1426-houthi-missile-shuqaiq",
+   "time": "2026-11-28T14:26:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "The Saudi-led coalition says it intercepted and destroyed a Houthi ballistic missile fired at Al Shuqaiq in Jazan, home to desalination and power plants, with debris causing no civilian casualties.",
+   "ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ باليستي أطلقه الحوثيون نحو الشقيق في جازان، حيث محطات تحلية وكهرباء، من دون إصابات بين المدنيين جراء الشظايا.",
+   "source": {
+    "name": "Reuters via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-28-2026/"
+   }
+  },
+  {
+   "id": "20261128-1335-marsa-virgo-somali-pirates",
+   "time": "2026-11-28T13:35:00Z",
+   "theater": "mideast",
+   "status": "reported",
+   "en": "Six Somali gunmen hijacked the UAE-owned cargo ship Marsa Virgo about 120 km southwest of Yemen's Balhaf, with 19 crew in a safe room, Puntland security officials tell AFP.",
+   "ar": "ستة مسلحين صوماليين خطفوا سفينة الشحن «مرسى فيرغو» المملوكة لشركة إماراتية على بُعد نحو 120 كلم جنوب غرب بلحاف اليمنية، وطاقمها الـ19 متحصّن في غرفة آمنة، وفق مسؤولين أمنيين في بونتلاند لوكالة الصحافة الفرنسية.",
+   "source": {
+    "name": "AFP via Arab News",
+    "url": "https://www.arabnews.com/middle-east/somali-pirates-hijack-uae-ship-off-yemen-coast-security-officials-3014353"
+   }
+  },
+  {
+   "id": "20261128-1331-iran-sunni-cleric-killed",
+   "time": "2026-11-28T13:31:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Gunmen shot dead Sunni cleric Bashir Salahzehi in Sarbaz county, Sistan-Baluchistan, Iran's Tasnim agency reports, blaming US and Israeli 'mercenaries'; the attackers' identity is unclear.",
+   "ar": "مسلحون قتلوا رجل الدين السني بشير صلاح زهي في مقاطعة سرباز بمحافظة سيستان وبلوشستان، بحسب وكالة تسنيم الإيرانية التي حمّلت «مرتزقة» أميركا وإسرائيل المسؤولية، فيما هوية المهاجمين غير واضحة.",
+   "source": {
+    "name": "AFP via Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-28-2026/"
+   }
+  },
+  {
+   "id": "20261128-1325-mokhber-warns-iraq",
+   "time": "2026-11-28T13:25:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "Mohammad Mokhber, adviser to Iran's supreme leader, warns Iraq not to become 'a tool of Trump' after reports Baghdad closed several border crossings amid US efforts to blockade Iran's land borders.",
+   "ar": "محمد مخبر، مستشار المرشد الإيراني، يحذّر العراق من أن يصبح «أداة بيد ترامب» بعد تقارير عن إغلاق بغداد عدة معابر حدودية وسط مساعٍ أميركية لحصار حدود إيران البرية.",
+   "source": {
+    "name": "Reuters via Arab News",
+    "url": "https://www.arabnews.com/middle-east/irans-supreme-leader-adviser-warns-iraq-not-to-become-tool-of-trump-3014380"
+   }
+  },
   {
    "id": "20261128-1131-geagea-cabinet-decisions",
    "time": "2026-11-28T11:31:00Z",
@@ -18,11 +66,11 @@
    "time": "2026-11-28T10:51:00Z",
    "theater": "israel",
    "status": "confirmed",
-   "en": "Israel Police say masked Jewish assailants wielding metal rods wounded 3 Jerusalem District Electric Company workers during maintenance in al-Mughayyir near Ramallah; one is reported in serious condition.",
-   "ar": "الشرطة الإسرائيلية تقول إن مهاجمين يهوداً ملثمين يحملون قضباناً معدنية أصابوا 3 عمال من شركة كهرباء محافظة القدس خلال أعمال صيانة في المغيّر قرب رام الله، وأحدهم بحالة خطرة بحسب التقارير.",
+   "en": "Israel's army says masked settlers wounded 4 electric company workers, two Israeli civilians and two Palestinians, near al-Mughayyir by Ramallah, revising the police count of 3, and condemns 'indiscriminate violence'.",
+   "ar": "الجيش الإسرائيلي يقول إن مستوطنين ملثمين أصابوا 4 عمال من شركة الكهرباء، مدنيَّين إسرائيليَّين وفلسطينيَّين، قرب المغيّر في رام الله، معدّلاً حصيلة الشرطة البالغة 3، ويدين «العنف العشوائي».",
    "source": {
     "name": "Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/masked-settlers-wound-3-arab-electric-workers-in-central-west-bank-attack/"
+    "url": "https://www.timesofisrael.com/liveblog-november-28-2026/"
    }
   },
   {
@@ -1686,42 +1734,6 @@
    "source": {
     "name": "Al-Modon",
     "url": "https://www.almodon.com/politics/2026/11/25/%D8%A3%D8%A8%D9%88-%D8%B9%D9%84%D9%88%D8%A7%D9%86-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%88%D8%AC%D8%A7%D9%87%D9%8A%D8%A9-%D8%A8%D8%AD%D9%82-%D8%AE%D9%84%D9%8A%D8%A9-%D8%A8%D8%B4%D8%B1%D9%8A"
-   }
-  },
-  {
-   "id": "20261125-1455-ep-socialists-liberals-halt-epp",
-   "time": "2026-11-25T14:55:00Z",
-   "theater": "europe",
-   "status": "reported",
-   "en": "The European Parliament's socialists and liberals halt talks with the centre-right EPP on a deal that could have given Roberta Metsola a third term as president, per Politico Europe.",
-   "ar": "الاشتراكيون والليبراليون في البرلمان الأوروبي يعلّقون المفاوضات مع حزب الشعب الأوروبي (يمين الوسط) حول اتفاق كان قد يمنح روبرتا ميتسولا ولاية ثالثة في رئاسة البرلمان، بحسب «بوليتيكو أوروبا».",
-   "source": {
-    "name": "Politico Europe",
-    "url": "https://www.politico.eu/article/eu-parliaments-socialists-and-liberals-halt-talks-with-epp/"
-   }
-  },
-  {
-   "id": "20261125-1440-nasdaq-drops-4",
-   "time": "2026-11-25T14:40:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "The Nasdaq 100 drops 4% and the S&P 500 falls 2.5% as the tech rout deepens and investors rush into US Treasuries, Bloomberg reports.",
-   "ar": "مؤشر ناسداك 100 يهبط 4% وستاندرد آند بورز 500 يتراجع 2.5% مع اتساع موجة بيع أسهم التكنولوجيا وتدفّق المستثمرين نحو سندات الخزانة الأميركية، بحسب «بلومبرغ».",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
-   }
-  },
-  {
-   "id": "20261125-1435-iran-army-tanker-mine-restricted-zone",
-   "time": "2026-11-25T14:35:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army says an oil tanker hit a naval mine and caught fire in a 'restricted zone' east of the Strait of Hormuz, per Fars; Reuters could not verify it.",
-   "ar": "الجيش الإيراني يقول إن ناقلة نفط اصطدمت بلغم بحري واشتعلت فيها النيران في «منطقة محظورة» شرق مضيق هرمز، بحسب «فارس»؛ ولم تتمكّن رويترز من التحقق.",
-   "source": {
-    "name": "Reuters via Middle East Eye",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-says-oil-tanker-hit-naval-mine-and-caught-fire-strait-hormuz"
    }
   }
  ]
