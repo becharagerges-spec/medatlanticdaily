@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:08:12Z",
+ "updated": "2026-11-28T08:08:57Z",
  "items": [
   {
    "id": "20261128-0634-russia-1246-drones",
@@ -11,6 +11,18 @@
    "source": {
     "name": "APA",
     "url": "https://en.apa.az/cis-countries/ukraine-launches-one-of-its-largest-drone-attacks-on-russia-overnight-539059"
+   }
+  },
+  {
+   "id": "20261128-0444-taiwan-vote-china-warplanes",
+   "time": "2026-11-28T04:44:00Z",
+   "theater": "china",
+   "status": "confirmed",
+   "en": "Taiwan's defence ministry reports 33 Chinese military aircraft and 8 warships around the island in 24 hours as Taiwan votes, while Chinese state media accuse Taipei DPP candidate Puma Shen of taking US money.",
+   "ar": "وزارة الدفاع التايوانية ترصد 33 طائرة عسكرية صينية و8 سفن حربية حول الجزيرة خلال 24 ساعة بالتزامن مع الاقتراع، فيما يتّهم الإعلام الرسمي الصيني مرشّح الحزب التقدمي في تايبيه بوما شين بتلقّي أموال أميركية.",
+   "source": {
+    "name": "Reuters via The Korea Times",
+    "url": "https://www.koreatimes.co.kr/world/20261128/taiwan-votes-in-local-elections-as-china-sends-warplanes-lambasts-taipei-candidate"
    }
   },
   {
@@ -1780,18 +1792,6 @@
    "source": {
     "name": "Mail & Guardian",
     "url": "https://mg.co.za/news/south-africa/2026-11-25-phala-phala-report-set-aside-and-impeachment-process-halted/"
-   }
-  },
-  {
-   "id": "20261125-0825-qabrikha-drone-car",
-   "time": "2026-11-25T08:25:00Z",
-   "theater": "lebanon",
-   "status": "reported",
-   "en": "An Israeli drone strikes a parked car on the outskirts of Qabrikha in south Lebanon as Israeli artillery shells Beit al-Sayyad, al-Dabsha and Bani Hayyan on Wednesday morning, per Elsiyasa.",
-   "ar": "مسيّرة إسرائيلية تستهدف سيارة مركونة في أطراف قبريخا جنوب لبنان، فيما تقصف المدفعية الإسرائيلية بيوت السياد والدبشة وبني حيان صباح الأربعاء، بحسب «السياسة».",
-   "source": {
-    "name": "Elsiyasa",
-    "url": "https://elsiyasa.com/article/437720"
    }
   }
  ]
