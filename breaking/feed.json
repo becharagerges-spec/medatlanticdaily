@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:09:40Z",
+ "updated": "2026-11-28T13:10:03Z",
  "items": [
   {
    "id": "20261128-1051-mughayyir-settlers-workers",
@@ -30,11 +30,11 @@
    "time": "2026-11-28T10:00:00Z",
    "theater": "china",
    "status": "confirmed",
-   "en": "Taipei's KMT mayor Chiang Wan-an leads Taiwan's local election count, the DPP is on track to keep Kaohsiung and Tainan, and KMT candidates claim Kinmen and Lienchiang.",
-   "ar": "رئيس بلدية تايبيه شيانغ وان-آن من الكومينتانغ يتصدّر فرز الانتخابات المحلية في تايوان، والحزب الديمقراطي التقدمي في طريقه للاحتفاظ بكاوهسيونغ وتاينان، فيما يعلن مرشحو الكومينتانغ فوزهم في كينمن وليانجيانغ.",
+   "en": "Taipei's KMT mayor Chiang Wan-an wins re-election as DPP challenger Puma Shen concedes, while the DPP's Lai Jui-lung claims Kaohsiung after KMT rival Ko Chih-en concedes.",
+   "ar": "رئيس بلدية تايبيه من الكومينتانغ تشيانغ وان-آن يفوز بولاية جديدة بعد إقرار منافسه من الحزب الديمقراطي التقدمي بوما شين بالهزيمة، فيما يعلن لاي جوي-لونغ من الحزب التقدمي فوزه في كاوهسيونغ بعد إقرار منافسه كو تشي-إن.",
    "source": {
-    "name": "Reuters via ThePrint",
-    "url": "https://theprint.in/world/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections/3111721/"
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race"
    }
   },
   {
@@ -1758,18 +1758,6 @@
    "source": {
     "name": "Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe"
-   }
-  },
-  {
-   "id": "20261125-1216-nasdaq-futures-gold-3500",
-   "time": "2026-11-25T12:16:00Z",
-   "theater": "markets",
-   "status": "confirmed",
-   "en": "Nasdaq 100 futures sink 3% as the tech selloff continues, and gold drops below $3,500 an ounce for the first time since September 2025.",
-   "ar": "العقود الآجلة لمؤشر ناسداك 100 تهبط 3% مع استمرار موجة بيع أسهم التكنولوجيا، والذهب ينخفض دون 3,500 دولار للأونصة للمرة الأولى منذ أيلول 2025.",
-   "source": {
-    "name": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
    }
   }
  ]
