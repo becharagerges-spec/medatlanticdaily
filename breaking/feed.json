@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T06:08:44Z",
+ "updated": "2026-11-28T07:08:12Z",
  "items": [
+  {
+   "id": "20261128-0634-russia-1246-drones",
+   "time": "2026-11-28T06:34:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russia's Defence Ministry says its air defences downed 1,246 Ukrainian drones overnight, 462 of them heading for Moscow, the second-largest such attack after 1,441 on November 17.",
+   "ar": "وزارة الدفاع الروسية تقول إن دفاعاتها الجوية أسقطت 1,246 مسيّرة أوكرانية خلال الليل، بينها 462 كانت متّجهة نحو موسكو، في ثاني أكبر هجوم من نوعه بعد 1,441 مسيّرة في 17 تشرين الثاني.",
+   "source": {
+    "name": "APA",
+    "url": "https://en.apa.az/cis-countries/ukraine-launches-one-of-its-largest-drone-attacks-on-russia-overnight-539059"
+   }
+  },
   {
    "id": "20261128-0428-houthis-sanaa-strike-13-wounded",
    "time": "2026-11-28T04:28:00Z",
@@ -11,6 +23,18 @@
    "source": {
     "name": "AFP via Times of Israel",
     "url": "https://timesofisrael.com/liveblog-november-28-2026"
+   }
+  },
+  {
+   "id": "20261128-0419-ukraine-162-drones",
+   "time": "2026-11-28T04:19:00Z",
+   "theater": "ukraine",
+   "status": "reported",
+   "en": "Ukraine's air force says Russia launched 162 drones overnight, 74 of them jet-powered; 141 were downed or suppressed, with hits recorded at 13 locations.",
+   "ar": "سلاح الجو الأوكراني يقول إن روسيا أطلقت 162 مسيّرة خلال الليل، بينها 74 نفاثة؛ أُسقطت أو عُطّلت 141 منها، وسُجّلت إصابات في 13 موقعاً.",
+   "source": {
+    "name": "UNN",
+    "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-162-drones-how-many-were-destroyed"
    }
   },
   {
@@ -1768,30 +1792,6 @@
    "source": {
     "name": "Elsiyasa",
     "url": "https://elsiyasa.com/article/437720"
-   }
-  },
-  {
-   "id": "20261125-0757-us-rules-out-troops-ukraine",
-   "time": "2026-11-25T07:57:00Z",
-   "theater": "ukraine",
-   "status": "reported",
-   "en": "The US has ruled out stationing troops or military bases in Ukraine under post-war security guarantees, offering an 'Article 5-like' arrangement instead, US officials tell the Kyiv Independent.",
-   "ar": "الولايات المتحدة تستبعد نشر قوات أو إقامة قواعد عسكرية في أوكرانيا ضمن الضمانات الأمنية لما بعد الحرب، وتعرض بدلاً منها ترتيباً «شبيهاً بالمادة الخامسة»، بحسب مسؤولين أميركيين لـ«كييف إندبندنت».",
-   "source": {
-    "name": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
-   }
-  },
-  {
-   "id": "20261125-0745-brent-below-90",
-   "time": "2026-11-25T07:45:00Z",
-   "theater": "markets",
-   "status": "reported",
-   "en": "Brent crude falls 1.73% to $89.82 a barrel and WTI 1.77% to $80.60 as Gulf exports recover, while Europe's TTF gas benchmark drops 3.9% to €88.10/MWh, per Anadolu.",
-   "ar": "خام برنت يتراجع 1.73% إلى 89.82 دولاراً للبرميل وغرب تكساس 1.77% إلى 80.60 دولاراً مع تعافي صادرات الخليج، فيما ينخفض مؤشر الغاز الأوروبي TTF بنسبة 3.9% إلى 88.10 يورو للميغاواط ساعة، بحسب «الأناضول».",
-   "source": {
-    "name": "Anadolu",
-    "url": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916"
    }
   }
  ]
