@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T04:10:04Z",
+ "updated": "2026-11-28T05:08:33Z",
  "items": [
+  {
+   "id": "20261128-0406-novoshakhtinsk-refinery-fire",
+   "time": "2026-11-28T04:06:00Z",
+   "theater": "russia",
+   "status": "reported",
+   "en": "Russian monitoring channels report a fire near the Novoshakhtinsk oil refinery in Rostov Oblast after an overnight Ukrainian drone attack, the second on the 7.5-million-ton plant in a week, per the Kyiv Independent.",
+   "ar": "قنوات رصد روسية تفيد بحريق قرب مصفاة نوفوشاختينسك في مقاطعة روستوف إثر هجوم ليلي بمسيّرات أوكرانية، هو الثاني خلال أسبوع على المصفاة البالغة طاقتها 7.5 ملايين طن، بحسب «كييف إندبندنت».",
+   "source": {
+    "name": "Kyiv Independent"
+   }
+  },
   {
    "id": "20261128-0355-coalition-cruise-missile-riyadh",
    "time": "2026-11-28T03:55:00Z",
@@ -1780,18 +1791,6 @@
    "source": {
     "name": "Tasnim via Dawn",
     "url": "https://www.dawn.com/live/iran-israel-war"
-   }
-  },
-  {
-   "id": "20261125-0700-eisenkot-swear-in-next-week",
-   "time": "2026-11-25T07:00:00Z",
-   "theater": "israel",
-   "status": "reported",
-   "en": "Eisenkot's bloc hopes to swear in a government as soon as next Wednesday, with Yisrael Beytenu expected to get the defence and absorption ministries, Channel 12 reports.",
-   "ar": "كتلة آيزنكوت تأمل في أداء حكومتها اليمين الأربعاء المقبل، على أن ينال «إسرائيل بيتنا» حقيبتَي الدفاع والاستيعاب، بحسب القناة 12 الإسرائيلية.",
-   "source": {
-    "name": "Channel 12 via The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/report-eisenkot-led-bloc-hopes-to-swear-in-government-as-soon-as-next-wednesday-yisrael-beytenu-expected-to-get-defense-absorption-ministries/"
    }
   }
  ]
