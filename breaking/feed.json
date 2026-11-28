@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-28T03:09:11Z",
+ "updated": "2026-11-28T04:10:04Z",
  "items": [
+  {
+   "id": "20261128-0355-coalition-cruise-missile-riyadh",
+   "time": "2026-11-28T03:55:00Z",
+   "theater": "saudi",
+   "status": "confirmed",
+   "en": "Saudi air defences intercept and destroy a Houthi cruise missile fired toward Riyadh, coalition spokesman Turki al-Maliki says; Houthi media report Saudi strikes on telecom networks in al-Bayda.",
+   "ar": "الدفاعات الجوية السعودية تعترض وتدمّر صاروخ كروز أطلقه الحوثيون نحو الرياض، بحسب المتحدث باسم التحالف تركي المالكي، فيما يفيد إعلام الحوثيين بغارات سعودية على شبكات اتصالات في البيضاء.",
+   "source": {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-destroy-houthi-cruise-missile-over-riyadh"
+   }
+  },
+  {
+   "id": "20261128-0006-centcom-rejects-iran-claims",
+   "time": "2026-11-28T00:06:00Z",
+   "theater": "iran",
+   "status": "confirmed",
+   "en": "CENTCOM rejects Iranian claims that the IRGC recaptured two seized tankers, that the USS Abraham Lincoln was hit, and that the US charges ships $2.5 million to cross Hormuz.",
+   "ar": "القيادة المركزية الأميركية تنفي مزاعم إيرانية بأن الحرس الثوري استعاد ناقلتين محتجزتين، وبأن حاملة الطائرات «أبراهام لينكولن» أُصيبت، وبأن واشنطن تفرض 2.5 مليون دولار على السفن لعبور هرمز.",
+   "source": {
+    "name": "US Central Command via Gulf News",
+    "url": "https://gulfnews.com/world/mena/us-iran-tensions-centcom-rejects-iranian-military-commanders-claims-over-naval-operations-1.500763812"
+   }
+  },
+  {
+   "id": "20261128-0006-irgc-khasab-port-tankers",
+   "time": "2026-11-28T00:06:00Z",
+   "theater": "iran",
+   "status": "reported",
+   "en": "Iran's Revolutionary Guards navy says one oil tanker hit a mine at the entrance to Oman's Khasab port and a second exploded east of Hormuz, per IRNA; there is no independent confirmation.",
+   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلة نفط اصطدمت بلغم عند مدخل ميناء خصب العُماني وانفجرت ثانية شرق هرمز، بحسب «إرنا»، من دون تأكيد مستقل.",
+   "source": {
+    "name": "IRNA via Middle East Eye",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-catch-fire-after-hitting-naval-mines"
+   }
+  },
   {
    "id": "20261128-0000-taiwan-local-elections-vote",
    "time": "2026-11-28T00:00:00Z",
@@ -179,6 +215,18 @@
    "source": {
     "name": "Kuwait Times",
     "url": "https://kuwaittimes.com/article/54482/kuwait/kuwaits-foreign-ministry-summons-iranian-envoy-hands-him-protest-note-over-continued-iranian-attacks/"
+   }
+  },
+  {
+   "id": "20261127-1619-germany-budget-ukraine-aid",
+   "time": "2026-11-27T16:19:00Z",
+   "theater": "europe",
+   "status": "confirmed",
+   "en": "Germany's Bundestag approves a record €556 billion 2027 budget by 317 votes to 260, with about €210 billion in borrowing, nearly €140 billion for defence and €12 billion for Ukraine.",
+   "ar": "البوندستاغ الألماني يقرّ موازنة 2027 القياسية البالغة 556 مليار يورو بأغلبية 317 صوتاً مقابل 260، مع اقتراض بنحو 210 مليارات وقرابة 140 ملياراً للدفاع و12 ملياراً لأوكرانيا.",
+   "source": {
+    "name": "European Pravda",
+    "url": "https://www.yahoo.com/news/world/articles/germany-adopts-2027-budget-record-161900062.html"
    }
   },
   {
@@ -1744,54 +1792,6 @@
    "source": {
     "name": "Channel 12 via The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/report-eisenkot-led-bloc-hopes-to-swear-in-government-as-soon-as-next-wednesday-yisrael-beytenu-expected-to-get-defense-absorption-ministries/"
-   }
-  },
-  {
-   "id": "20261125-0539-liberman-jewish-majority",
-   "time": "2026-11-25T05:39:00Z",
-   "theater": "israel",
-   "status": "confirmed",
-   "en": "Avigdor Liberman says for the first time he would accept a government backed by United Torah Judaism and possibly Ra'am, and expects Eisenkot to present a 'Jewish majority' coalition by next week.",
-   "ar": "أفيغدور ليبرمان يعلن للمرة الأولى قبوله بحكومة مدعومة من «يهدوت هتوراه» وربما «القائمة الموحّدة»، ويتوقع أن يقدّم آيزنكوت ائتلافاً «بأغلبية يهودية» بحلول الأسبوع المقبل.",
-   "source": {
-    "name": "Ynet",
-    "url": "https://www.ynetnews.com/article/sydmex4kqe"
-   }
-  },
-  {
-   "id": "20261125-0529-irgc-two-tankers-mines",
-   "time": "2026-11-25T05:29:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's Revolutionary Guards navy says two oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz early Wednesday while on an 'unauthorised route', per Reuters.",
-   "ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط انفجرتا واشتعلت فيهما النيران بعد ارتطامهما بألغام بحرية في مضيق هرمز فجر الأربعاء أثناء سلوكهما «مساراً غير مرخّص»، بحسب رويترز.",
-   "source": {
-    "name": "Reuters via The Express Tribune",
-    "url": "https://tribune.com.pk/story/2642226/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media"
-   }
-  },
-  {
-   "id": "20261125-0530-iran-claims-two-us-drones",
-   "time": "2026-11-25T05:29:00Z",
-   "theater": "iran",
-   "status": "reported",
-   "en": "Iran's army claims it shot down two US drones overnight, a Lucas drone over the western Strait of Hormuz and an MQ-9 Reaper over the eastern strait, per Iranian state media.",
-   "ar": "الجيش الإيراني يزعم أنه أسقط ليلاً مسيّرتين أميركيتين، واحدة من طراز «لوكاس» فوق غرب مضيق هرمز وأخرى «إم كيو-9 ريبر» فوق شرقه، بحسب الإعلام الرسمي الإيراني.",
-   "source": {
-    "name": "Reuters via The Express Tribune",
-    "url": "https://tribune.com.pk/story/2642226/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media"
-   }
-  },
-  {
-   "id": "20261125-0521-bila-tserkva-attack-kills-one",
-   "time": "2026-11-25T05:21:00Z",
-   "theater": "ukraine",
-   "status": "confirmed",
-   "en": "An overnight Russian attack on Bila Tserkva in Kyiv region kills 1 man and damages critical infrastructure and commercial sites, acting mayor Volodymyr Vovkotrub says.",
-   "ar": "هجوم روسي ليلي على بيلا تسيركفا في منطقة كييف يقتل رجلاً ويُلحق أضراراً ببنى تحتية حيوية ومنشآت تجارية، بحسب رئيس البلدية بالوكالة فولوديمير فوفكوتروب.",
-   "source": {
-    "name": "Kyiv Post",
-    "url": "https://www.kyivpost.com/post/91106"
    }
   }
  ]
